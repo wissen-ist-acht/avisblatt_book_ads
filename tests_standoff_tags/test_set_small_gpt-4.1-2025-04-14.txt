@@ -1,0 +1,177 @@
+BIBL: Moreri Dictionaire, fol. 6. Tom. gantz neu in Frantzös. schem Band.
+AUTHOR: Moreri
+TITLE: Dictionaire
+FORMAT: fol.
+VOLUME: 6. Tom.
+BIBL: Ein gantz neuer in roht Leder gebundener Atlas von 20. Homännischen Carten
+TITLE: Atlas von 20. Homännischen Carten
+BIBL: Simlers Regiment Löbl. Eydgnoßschafft, in 4tò.
+AUTHOR: Simlers
+TITLE: Regiment Löbl. Eydgnoßschafft
+FORMAT: 4tò.
+BIBL: Menantes Brieffsteller, 2. Tom, 8vò.
+AUTHOR: Menantes
+TITLE: Brieffsteller
+VOLUME: 2. Tom
+FORMAT: 8vò.
+BIBL: Kyburtzens abgekürtzte Kinder-Bibel, in 8vò.
+AUTHOR: Kyburtzens
+TITLE: Kinder-Bibel
+FORMAT: 8vò.
+BIBL: Alt und Nen Testament, mit und ohne Kupfer.
+TITLE: Testament
+BIBL: Der aus dem Reiche der Wissenschafften wohl versuchte Referendarius, oder auserlesene Sammlungen von allerhand vermischten Schrifften und Versuchen aus der Natur- Lehre, Artzney-Wissenschafft, natürlichen Theologie, und Rechts Gelehrsamkeit, Politic, Haushaltungs-Kunst, und uberhaubt was in anderen in fremden Sprachen heraus gekommenen Wochen-Schrifften und neuen Bücheren ꝛc. ꝛ6. gutes und nutzliches vorgekommen. 1ter und ater Theil, 4to. 1750. mit zerschiedenen Kupferstichen, in frantzösischen Band à fl. 3. 24. kr., in Ruck und Ecken aber à fl. 3. und ungebunden à fl. 2. 30. kr.
+FORMAT: 4to.
+YEAR: 1750
+PRIZE: fl. 3. 24. kr.
+PRIZE: fl. 3.
+PRIZE: fl. 2. 30. kr.
+BIBL: Das guldene Bilder-Psalmen-Buch, darinn alle von Luthero verteutschte Weissagungs-Lehr- Buß-Bett-Klag- und Danck-Psalmen des Hoherleuchteten Königs und Propheten Davids nach ihrem fürnehmsten Innhalt in 150. anmühtigen Bilderen, allen und jeden, besonders aber der lieben Jugend, zur heiligen Belustigung und heilsamer Erbauung sinnreich vorgestellt und in Kupfer gestochen, 8vò. Augspurg 1750. gebunden à fl. 1. 12. kr. ungebunden à fl. 1.
+FORMAT: 8vò.
+PLACE: Augspurg
+YEAR: 1750
+PRIZE: fl. 1. 12. kr.
+PRIZE: fl. 1.
+BIBL: Würsteysens grosse Baßler-Chronick, und Breitingers Griechische Bibel in 4tò. 10. Theil, samt anderen
+TITLE: Baßler-Chronick
+TITLE: Griechische Bibel
+FORMAT: 4tò.
+VOLUME: 10. Theil
+BIBL: Ders Eydgenoßischen Topografe XlXte Ausgabe, 4to. à 36. kr.
+TITLE: Eydgenoßischen Topografe
+FORMAT: 4to.
+PRIZE: 36. kr.
+BIBL: Auserlesene Geistliche Lieder, aus den besten Dichteren, mit gans neuen leichten Melodien versehen, 8. Zurich 1769 à 54 kr.
+TITLE: Auserlesene Geistliche Lieder, aus den besten Dichteren, mit gans neuen leichten Melodien versehen
+FORMAT: 8.
+PLACE: Zurich
+YEAR: 1769
+PRIZE: 54 kr.
+BIBL: Ein Buch mit Kupfern: Frauen von Greifenberg Betrachtung von der Geburt, Leben, Lehre, Wundern und Leiden J. C. 4. Theile, 8. Nürnberg 1693. à fl. 3. kr. 30.
+AUTHOR: Frauen von Greifenberg
+TITLE: Betrachtung von der Geburt, Leben, Lehre, Wundern und Leiden J. C.
+FORMAT: 8.
+PLACE: Nürnberg
+YEAR: 1693
+PRIZE: fl. 3. kr. 30.
+BIBL: Schmuckers vermischte chyrugische Schriften, rter Band mit Kpfrn. 8. 1776. fl. 1. kr. 30.
+FORMAT: 8.
+YEAR: 1776
+PRIZE: fl. 1. kr. 30.
+BIBL: Schrebern Beyträge zur Beförderung der Haushaltungskunde und anderer damit verwandten Wissenschaften, mit Kpfrn. 8. 1776. kr. 30.
+FORMAT: 8.
+YEAR: 1776
+PRIZE: kr. 30.
+BIBL: Machiavels Unterhaltungen uber die erste Decade der römischen Geschichte des T. Lipius, 3. Theile, 8. 1776. fl. 3.
+AUTHOR: Machiavels
+TITLE: Unterhaltungen uber die erste Decade der römischen Geschichte des T. Lipius
+VOLUME: 3. Theile
+FORMAT: 8.
+YEAR: 1776
+PRIZE: fl. 3.
+BIBL: Macht der Verführung oder der gebesserte Lasterhafte, 2. Theile, 8. 1776. fl. 2. kr. 30.
+TITLE: Macht der Verführung oder der gebesserte Lasterhafte
+VOLUME: 2. Theile
+FORMAT: 8.
+YEAR: 1776
+PRIZE: fl. 2. kr. 30.
+BIBL: Auf Gellerts geistliche Oden und Lieder, in Musit gesetzt von einem berühmten Componisten, zu einer und mehrern Stimmen, mit dem Accompagnement zweyer Violinen und Baß, wird Pränumeration angenommen und ein Plan davon gratis ausgegeben.
+AUTHOR: Gellerts
+TITLE: geistliche Oden und Lieder
+BIBL: Beschreibung der historischen und naturlichen Merkwürdigkeiten der Landschaft Basel, mit Kupfern, 23. Stücke, in 6 Bäufl. 17. den.
+TITLE: Beschreibung der historischen und naturlichen Merkwürdigkeiten der Landschaft Basel
+BIBL: Joh. Heinrich Rahns eidgenößische Gefl. 1. kr. 40. schichtbeschreibung.
+BIBL: Hafners Solothurner-Chronick, in 4to, fl. 2. kr. 30.
+TITLE: Solothurner-Chronick
+FORMAT: 4to
+PRIZE: fl. 2. kr. 30.
+BIBL: Sprechers Historie von den Unruhen und Kriegen, so in den Rhätischen Landen entfl. 2. standen, ꝛc. 4to.
+TITLE: Historie von den Unruhen und Kriegen, so in den Rhätischen Landen entfl. 2. standen, ꝛc.
+FORMAT: 4to.
+BIBL: Stettlers Chronika Nüchtländischer Gefl. 2. kr. 40. schichten, fol.
+TITLE: Chronika Nüchtländischer Gefl. 2. kr. 40. schichten
+FORMAT: fol.
+BIBL: Delices de la Suisse, Edition de Leide, ornêe de 74. figures, 4. Volrelié en deux. fl. 5.
+TITLE: Delices de la Suisse
+PRIZE: fl. 5.
+BIBL: Betrachtungen und Einfälle über die Bauart der Privatgebäude in Deutschland, mit 6o Kupfertafeln, fol. Augsburg 1779. a fl. 5.
+TITLE: Betrachtungen und Einfälle über die Bauart der Privatgebäude in Deutschland
+FORMAT: fol.
+PLACE: Augsburg
+YEAR: 1779
+PRIZE: fl. 5.
+BIBL: Lettre à Poccasion de la detention de S. E. M. le Cardinal de Rohan à la Bastille, 80. 1785. xr. 12.
+TITLE: Lettre à Poccasion de la detention de S. E. M. le Cardinal de Rohan à la Bastille
+FORMAT: 80.
+YEAR: 1785.
+PRIZE: xr. 12.
+BIBL: Moses Mendelssohn Abhandlung von der Unkörverlichkeit der menschlichen Seele, 8. 1885. kr. 12.
+AUTHOR: Moses Mendelssohn
+TITLE: Abhandlung von der Unkörverlichkeit der menschlichen Seele
+FORMAT: 8.
+YEAR: 1885.
+PRIZE: kr. 12.
+BIBL: die neuen Regimentsbüchlein Löbl. Standes Basel, um gewöhnlichen Preis zu haben.
+TITLE: Regimentsbüchlein Löbl. Standes Basel
+BIBL: eine Folio-Bibel
+FORMAT: Folio
+TITLE: Bibel
+BIBL: Briefwechsel der Familie des Kinderfreundes, 12 Bände mit Kupfern sauber gebunden, à fl. 12. 24 kr.
+TITLE: Briefwechsel der Familie des Kinderfreundes
+PRIZE: fl. 12. 24 kr.
+BIBL: Gellerts Schriften. 10 Bände in alb. fl. 4. gebunden fl. 6. 40 kr
+TITLE: Gellerts Schriften
+VOLUME: 10 Bände
+PRIZE: fl. 4.
+PRIZE: fl. 6. 40 kr
+BIBL: A, B, C-Buch von Professor Moritz mit illuminirten Kupfern; dessen Lesebuch für Kinder, als ein Pendant zum A, B, C- 3 Buch, deutsch und französisch.
+TITLE: A, B, C-Buch
+AUTHOR: Professor Moritz
+TITLE: Lesebuch für Kinder
+BIBL: Lavaters Schweizerlieder für Schulen, gebunden, à 10 Batzen
+AUTHOR: Lavaters
+TITLE: Schweizerlieder für Schulen
+PRIZE: 10 Batzen
+BIBL: Gellerts Oden mit Musik, geb. à 7 1/ Btz.
+AUTHOR: Gellerts
+TITLE: Oden mit Musik
+PRIZE: 7 1/ Btz.
+BIBL: Berner- Kalender, das Dutzend à 22 Btz.
+TITLE: Berner- Kalender
+PRIZE: 22 Btz.
+BIBL: Predigt über die genaue Verbindung der burgerlichen Freyheit mit der Ehrfurcht gegen die Vorschriften der Religion als einzige Grundlage der irdischen Glückseligkeit; vorgetragen in der Kirche zu St. Geter Sonntag Abends den 26ten April 1801. von Jak. Wick, Dinkon allda.
+TITLE: Predigt über die genaue Verbindung der burgerlichen Freyheit mit der Ehrfurcht gegen die Vorschriften der Religion als einzige Grundlage der irdischen Glückseligkeit; vorgetragen in der Kirche zu St. Geter Sonntag Abends den 26ten April 1801.
+AUTHOR: Jak. Wick, Dinkon allda.
+BIBL: J. E. Lavaters freimüthige Briefe über das Beportationswefen u. seine eigene Deportation nach Basel, nebst der Deportations-Geschichte seiner Mitbürger u. einiger andrer Schweitzer, 2r Bd. 8. 1801. fl. 1. 36 kr.
+AUTHOR: J. E. Lavaters
+TITLE: freimüthige Briefe über das Beportationswefen u. seine eigene Deportation nach Basel, nebst der Deportations-Geschichte seiner Mitbürger u. einiger andrer Schweitzer
+VOLUME: 2r Bd.
+FORMAT: 8.
+YEAR: 1801
+PRIZE: fl. 1. 36 kr.
+BIBL: Meisters Leonh. Welt u. Gesellschaft im einsamen Bergthäle. 8. 1801. fl. 1.
+AUTHOR: Meisters Leonh.
+TITLE: Welt u. Gesellschaft im einsamen Bergthäle.
+FORMAT: 8.
+YEAR: 1801
+PRIZE: fl. 1.
+BIBL: verfaßt von Hrn. Dec. Mayer in Währ, Die Reise des Christen nach dem Himmel; ein Gebetbuch für römischkathol. Christen, gr. 8°. à 4 Btz. ungeb. und geb. à 7 Btz.
+AUTHOR: Hrn. Dec. Mayer in Währ
+TITLE: Die Reise des Christen nach dem Himmel; ein Gebetbuch für römischkathol. Christen
+FORMAT: gr. 8°.
+PRIZE: 4 Btz. ungeb. und geb. à 7 Btz.
+BIBL: Creuzer, Fr. Symbolik und Mythologie der alten Völker. Leipz. 1810. 4 Bde.
+AUTHOR: Creuzer, Fr.
+TITLE: Symbolik und Mythologie der alten Völker
+PLACE: Leipz.
+YEAR: 1810
+VOLUME: 4 Bde.
+BIBL: Virgilii, M. Opera. Argent. 1789. gr. 4. Prachtausgabe.
+AUTHOR: Virgilii, M.
+TITLE: Opera
+PLACE: Argent.
+YEAR: 1789
+FORMAT: gr. 4.
+BIBL: Jerrers Weltgeschichte für Kinder, mit vielen Kupf. 2 Thle.
+TITLE: Jerrers Weltgeschichte für Kinder
+VOLUME: 2 Thle.

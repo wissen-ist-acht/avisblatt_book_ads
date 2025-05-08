@@ -1,0 +1,141 @@
+BIBL: Moreri Dictionaire, fol. 6. Tom. gantz neu in Frantzös. schem Band.
+TITLE: Moreri Dictionaire
+FORMAT: fol.
+VOLUME: 6. Tom.
+BIBL: Atlas von 20. Homännischen Carten Simlers Regiment Löbl. Eydgnoßschafft, in 4tò.
+TITLE: Atlas
+FORMAT: 4tò
+BIBL: Menantes Brieffsteller, 2. Tom, 8vò.
+TITLE: Menantes Brieffsteller
+VOLUME: 2. Tom
+FORMAT: 8vò
+BIBL: Kyburtzens abgekürtzte Kinder-Bibel, in 8vò. Alt und Nen Testament, mit und ohne Kupfer.
+TITLE: Kyburtzens abgekürtzte Kinder-Bibel
+FORMAT: 8vò
+TITLE: Alt und Nen Testament
+BIBL: Ders Eydgenoßischen Topografe XlXte Ausgabe, 4to. à 36. kr.
+TITLE: Ders Eydgenoßischen Topografe
+FORMAT: 4to
+PRIZE: 36. kr.
+BIBL: Auserlesene Geistliche Lieder, aus den besten Dichteren, mit gans neuen leichten Melodien versehen, 8. Zurich 1769 à 54 kr. Dieses neue Lieder-Buch ist in der Form des bekannten Bachoffischen Gesangbuchs gedruckt, dasselbe enthält eine Sammlung der verständlichsten, kernhaftesten und gemeinnutzigsten Liedern der heutigen Dichteren; die Melodien sind mit ganz neuen und solchen Roten gedruckt, die denen geschriebenen sehr gleich sind. Alle diese Vorzuge, und dabey noch der geringe Preis dieses Wercks, lassen hoffen , daß dasselbe auch hier von denen Liebhabern der Musie mit geneigtem Beyfall werde aufgenommen werden.
+TITLE: Auserlesene Geistliche Lieder
+FORMAT: 8
+PLACE: Zurich
+YEAR: 1769
+PRIZE: 54 kr.
+BIBL: Frauen von Greifenberg Betrachtung von der Geburt, Leben, Lehre, Wundern und Leiden J. C. 4. Theile, 8. Nürnberg 1693. à fl. 3. kr. 30 im Berichthaus zu erfragen.
+TITLE: Frauen von Greifenberg Betrachtung von der Geburt, Leben, Lehre, Wundern und Leiden J. C.
+FORMAT: 8
+PLACE: Nürnberg
+YEAR: 1693
+PRIZE: fl. 3. kr. 30
+BIBL: Schmuckers vermischte chyrugische Schriften, rter Band mit Kpfrn. 8. 1776. fl. 1. kr. 30.
+AUTHOR: Schmuckers
+TITLE: vermischte chyrugische Schriften
+FORMAT: 8.
+YEAR: 1776
+PRIZE: fl. 1. kr. 30.
+BIBL: Schrebern Beyträge zur Beförderung der Haushaltungskunde und anderer damit verwandten Wissenschaften, mit Kpfrn. 8. 1776. kr. 30..
+AUTHOR: Schrebern
+TITLE: Beyträge zur Beförderung der Haushaltungskunde und anderer damit verwandten Wissenschaften
+FORMAT: 8.
+YEAR: 1776
+PRIZE: kr. 30.
+BIBL: Machiavels Unterhaltungen uber die erste Decade der römischen Geschichte des T. Lipius, 3. Theile, 8. 1776. fl. 3.
+AUTHOR: Machiavels
+TITLE: Unterhaltungen uber die erste Decade der römischen Geschichte
+VOLUME: 3. Theile
+FORMAT: 8.
+YEAR: 1776
+PRIZE: fl. 3.
+BIBL: Macht der Verführung oder der gebesserte Lasterhafte, 2. Theile, 8. 1776. fl. 2. kr. 30.
+TITLE: Macht der Verführung oder der gebesserte Lasterhafte
+VOLUME: 2. Theile
+FORMAT: 8.
+YEAR: 1776
+PRIZE: fl. 2. kr. 30.
+BIBL: Auf Gellerts geistliche Oden und Lieder, in Musit gesetzt von einem berühmten Componisten, zu einer und mehrern Stimmen, mit dem Accompagnement zweyer Violinen und Baß, wird Pränumeration angenommen und ein Plan davon gratis ausgegeben.
+TITLE: Auf Gellerts geistliche Oden und Lieder
+BIBL: Beschreibung der historischen und naturlichen Merkwürdigkeiten der Landschaft Basel, mit Kupfern, 23. Stücke, in 6 Bäufl. 17. den. Joh. Heinrich Rahns eidgenößische Gefl. 1. kr. 40. schichtbeschreibung. Hafners Solothurner-Chronick, in 4to, fl. 2. kr. 30. Sprechers Historie von den Unruhen und Kriegen, so in den Rhätischen Landen entfl. 4to. Stettlers Chronika Nüchtländischer Gefl. 2. kr. 40. schichten, fol.. Delices de la Suisse, Edition de Leide, ornêe de 74. figures, 4. Volrelié en deux. fl. 5. Auch sind von denen beliebten Berner hinckenden Botten angelangt, und bey Ihme zu haben.
+TITLE: Beschreibung der historischen und naturlichen Merkwürdigkeiten der Landschaft Basel
+FORMAT: 6 Bäufl.
+YEAR: 17
+TITLE: Gefl.
+TITLE: schichtbeschreibung
+TITLE: Hafners Solothurner-Chronick
+FORMAT: 4to
+PRIZE: fl. 2
+TITLE: Sprechers Historie von den Unruhen und Kriegen, so in den Rhätischen Landen entfl
+PRIZE: 4to
+TITLE: Stettlers Chronika Nüchtländischer Gefl
+PRIZE: 2. kr. 40. schichten
+FORMAT: fol.
+TITLE: Delices de la Suisse
+VOLUME: 4. Vol
+PRIZE: fl. 5
+BIBL: Betrachtungen und Einfälle über die Bauart der Privatgebäude in Deutschland, mit 6o Kupfertafeln, fol. Augsburg 1779. a fl. 5. Der Einritt Christi in Jerusalem, ein Kupfer von Hrn. Thurneisen, à 3 bz.
+TITLE: Betrachtungen und Einfälle über die Bauart der Privatgebäude in Deutschland
+FORMAT: fol.
+PLACE: Augsburg
+YEAR: 1779
+PRIZE: fl. 5
+TITLE: Einritt Christi in Jerusalem
+PRIZE: 3 bz.
+BIBL: Lettre à Poccasion de la detention de S. E. M. le Cardinal de Rohan à la Bastille, 80. 1785. xr. 12.
+TITLE: Lettre à Poccasion de la detention de S. E. M. le Cardinal de Rohan à la Bastille
+FORMAT: 80
+YEAR: 1785
+BIBL: Magazin für Frauenzimmer, 6tes Stück, 1785, mit einem illum. Titelkupfer, kr. 30.
+TITLE: Magazin für Frauenzimmer
+VOLUME: 6tes Stück
+YEAR: 1785
+BIBL: Moses Mendelssohn Abhandlung von der Unkörverlichkeit der menschlichen Seele, 8. 1885. kr. 12.
+AUTHOR: Moses Mendelssohn
+TITLE: Abhandlung von der Unkörverlichkeit der menschlichen Seele
+FORMAT: 8
+YEAR: 1885
+BIBL: Regimentsbüchlein Löbl. Standes Basel um gewöhnlichen Preis zu haben. Es wird auch allda auf ein berühmtes Kupfer von Chodowiecky Subscription angenommen, wövon die Nachricht gratis zu haben ist.
+TITLE: Regimentsbüchlein Löbl. Standes Basel
+BIBL: Folio-Bibel
+TITLE: Folio-Bibel
+BIBL: Briefwechsel der Familie des Kinderfreundes, 12 Bände mit Kupfern sauber gebunden, à fl. 12. 24 kr. Gellerts Schriften. 10 Bände in alb. fl. 4. gebunden fl. 6. 40 kr A, B, C-Buch von Professor Moritz mit illuminirten Kupfern; dessen Lesebuch für Kinder, als ein Pendant zum A, B, C- 3 Buch, deutsch und französisch. Neujahrswünsche auf Papier und auf Atlas, und verschiedene Sorten Taschenkalender.
+TITLE: Briefwechsel der Familie des Kinderfreundes
+PRIZE: à fl. 12. 24 kr
+VOLUME: 10 Bände
+PRIZE: fl. 4
+PRIZE: fl. 6. 40 kr
+BIBL: Lavaters Schweizerlieder für Schulen, gebunden, à 10 Batzen, Gellerts Oden mit Musik, geb. à 7 1/ Btz., auch Berner- Kalender, das Dutzend à 22 Btz. zu haben.
+TITLE: Lavaters Schweizerlieder für Schulen
+PRIZE: 10 Batzen
+TITLE: Gellerts Oden mit Musik
+PRIZE: 7 1/ Btz.
+TITLE: Berner- Kalender
+PRIZE: 22 Btz.
+BIBL: Predigt über die genaue Verbindung der burgerlichen Freyheit mit der Ehrfurcht gegen die Vorschriften der Religion als einzige Grundlage der irdischen Glückseligkeit; vorgetragen in der Kirche zu St. Geter Sonntag Abends den 26ten April 1801. von Jak. Wick, Dinkon allda.
+TITLE: Predigt über die genaue Verbindung der burgerlichen Freyheit mit der Ehrfurcht gegen die Vorschriften der Religion als einzige Grundlage der irdischen Glückseligkeit
+AUTHOR: Jak. Wick
+BIBL: J. E. Lavaters freimüthige Briefe über das Beportationswefen u. seine eigene Deportation nach Basel, nebst der Deportations-Geschichte seiner Mitbürger u. einiger andrer Schweitzer, 2r Bd. 8. 1801. fl. 1. 36 kr. Meisters Leonh. Welt u. Gesellschaft im einsamen Bergthäle. 8. 1801. fl. 1.
+TITLE: J. E. Lavaters freimüthige Briefe über das Beportationswefen u. seine eigene Deportation nach Basel
+VOLUME: 2r Bd.
+YEAR: 8. 1801
+PRIZE: fl. 1. 36 kr.
+TITLE: Welt u. Gesellschaft im einsamen Bergthäle
+YEAR: 8. 1801
+PRIZE: fl. 1.
+BIBL: Die Reise des Christen nach dem Himmel; ein Gebetbuch für römischkathol. Christen, verfaßt von Hrn. Dec. Mayer in Währ, gr. 8°. à 4 Btz. ungeb. und geb. à 7 Btz. bey Müller, Buchdrucker an der Streitgaß.
+TITLE: Die Reise des Christen nach dem Himmel
+TITLE: Gebetbuch
+AUTHOR: Hrn. Dec. Mayer
+FORMAT: 8°
+PRIZE: 4 Btz.
+PRIZE: 7 Btz.
+BIBL: Creuzer, Fr. Symbolik und Mythologie der alten Völker. Leipz. 1810. 4 Bde. Virgilii, M. Opera. Argent. 1789. gr. 4. Prachtausgabe. Jerrers Weltgeschichte für Kinder, mit vielen Kupf. 2 Thle.
+AUTHOR: Creuzer, Fr.
+TITLE: Symbolik und Mythologie der alten Völker
+YEAR: 1810
+VOLUME: 4 Bde.
+TITLE: Opera
+YEAR: 1789
+FORMAT: gr. 4
+TITLE: Weltgeschichte für Kinder
+VOLUME: 2 Thle.

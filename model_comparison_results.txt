@@ -1,0 +1,55 @@
+results for test_set_small_llama3.1:8b-instruct-q8_0.txt:
+precision: 0.4294
+recall: 0.3889
+f1 score: 0.4082
+
+results for test_set_small_mistral:7b-instruct-v0.2-q8_0.txt:
+precision: 0.3429
+recall: 0.2000
+f1 score: 0.2526
+
+results for test_set_eval_set_small.txt:
+precision: 0.8911
+recall: 1.0000
+f1 score: 0.9424
+
+results for test_set_small_phi4:14b.txt:
+precision: 0.5549
+recall: 0.5611
+f1 score: 0.5580
+
+results for test_set_small_mistral-small3.1:24b-instruct-2503-q4_K_M.txt:
+precision: 0.5367
+recall: 0.6500
+f1 score: 0.5879
+
+results for test_set_small_qwen3:14b.txt:
+precision: 0.3892
+recall: 0.3571
+f1 score: 0.3725
+
+results for test_set_small_o4-mini-2025-04-16.txt:
+precision: 0.5604
+recall: 0.6444
+f1 score: 0.5995
+
+results for test_set_small_deepseek-r1:14b.txt:
+precision: 0.4971
+recall: 0.4722
+f1 score: 0.4843
+
+results for test_set_small_llama3.1:latest.txt:
+precision: 0.3636
+recall: 0.3556
+f1 score: 0.3596
+
+results for test_set_small_gemma3:12b.txt:
+precision: 0.5106
+recall: 0.4000
+f1 score: 0.4486
+
+results for test_set_small_gpt-4.1-2025-04-14.txt:
+precision: 0.5932
+recall: 0.5833
+f1 score: 0.5882
+
