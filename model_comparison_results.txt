@@ -23,6 +23,11 @@ precision: 0.5367
 recall: 0.6500
 f1 score: 0.5879
 
+results for test_set_small_llama3.3_70b.txt:
+precision: 0.5093
+recall: 0.6044
+f1 score: 0.5528
+
 results for test_set_small_qwen3:14b.txt:
 precision: 0.3892
 recall: 0.3571
@@ -33,10 +38,20 @@ precision: 0.5604
 recall: 0.6444
 f1 score: 0.5995
 
+results for test_set_small_deepseek-r1_70b.txt:
+precision: 0.5301
+recall: 0.5389
+f1 score: 0.5344
+
 results for test_set_small_deepseek-r1:14b.txt:
 precision: 0.4971
 recall: 0.4722
 f1 score: 0.4843
+
+results for eval_set_small.txt:
+precision: 0.8911
+recall: 1.0000
+f1 score: 0.9424
 
 results for test_set_small_llama3.1:latest.txt:
 precision: 0.3636
@@ -52,4 +67,9 @@ results for test_set_small_gpt-4.1-2025-04-14.txt:
 precision: 0.5932
 recall: 0.5833
 f1 score: 0.5882
+
+results for test_set_small_deepseek-r1_70b_reason.txt:
+precision: 0.4649
+recall: 0.4778
+f1 score: 0.4712
 
