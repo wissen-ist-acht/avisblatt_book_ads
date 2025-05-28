@@ -70,7 +70,7 @@ def process_directory(input_dir, output_dir):
             print(f"Processed {filename}")
 
 def main():
-    input_dir = 'tests'
+    input_dir = 'tests_llm_requests'
     output_dir = 'tests_standoff_tags'
     process_directory(input_dir, output_dir)
 
