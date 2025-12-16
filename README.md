@@ -25,3 +25,6 @@ Then the comparison is performed in [compare_llms.py](compare_llms.py) by measur
 The results are stored in [model_comparison_results.txt](model_comparison_results.txt).
 
 The prompt used for the LLM requests will soon be uploaded.
+
+After evaluation, we chose Llama3.3:70b as model for the XML annotation of the whole data set. The results of the tagging are stored in results/data/all_bib_items_annotated.tsv.
+We used a script to evaluate the correctness of the XML annotations, and of the ~22 000 ads, around 2000 were recognized as malformed. These entries were again sent to a LLM, using the script correction_of_malformed_xml_with_LLM.py. The results are stored in results/output/content and results/output/raw. The corrected entries were then consolidated with the original data set, which can be found in results/output as csv and json file. 
