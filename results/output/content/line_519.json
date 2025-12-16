@@ -1,0 +1,5 @@
+{
+    "fixed_xml": "<ITEM>Wer folgende B√ºcher zu verkaufen Willens ist, beliebe dieselben nebst √§usserstem Preis zu Hrn. Scholer auf der Rheinbruck zu senden: <BIBL><AUTHOR>J. J. Thurnisii</AUTHOR> <TITLE>Oratio inauguralis qua nimirum probatur, quod jus naturae agat de Corporibus</TITLE></BIBL>. <BIBL><AUTHOR>Ejusdem</AUTHOR> <TITLE>inutilitas experimentorum in rebus physicis methodo mathematicae demonstrata</TITLE></BIBL>. <BIBL><AUTHOR>Zwingers</AUTHOR> <TITLE>sicherer und geschwinder Arzt</TITLE></BIBL></ITEM>",
+    "number_of_fixes": 1,
+    "explanation": "The TITLE tag in the second BIBL tag was missing a closing '>'. This has been added to correctly close the tag."
+}

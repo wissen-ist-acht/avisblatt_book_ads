@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>So eben erschien und ist in der Schweighauser'schen Buchhandlung zu haben: <BIBL><TITLE>Karte des Hafens von Canton mit Macav, Whamppor, der Bocca Tigris und allen umliegenden Inseln.</TITLE> Nach der so eben in London erschienenen Karte des Herrn <AUTHOR>James Wild</AUTHOR>. <PLACE>Wien</PLACE>. Preis <PRIZE>10 Btz</PRIZE>.</BIBL> <BIBL><TITLE>Karte von der K√ºste und den Inseln des chinesischen Reiches.</TITLE> Nach den neuesten englischen Quellen. <PLACE>Wien</PLACE>. Preis <PRIZE>10 Btz</PRIZE>.</BIBL></ITEM>\",\n  \"number_of_fixes\": 1,\n  \"explanation\": \"There was one error in the XML. The closing tag for PRIZE was incorrectly written as PRICE. This has been corrected.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 234,
+        "output_tokens": 227,
+        "total_tokens": 461
+    },
+    "duration": 9.786358833312988,
+    "timestamp": "2025-11-06T10:51:05.442069"
+}

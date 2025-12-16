@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>6. Bey Hrn. Emannel Scholer, Buchbinder bey der Post √ºber, sind folgende B√ºcher zu haben: <BIBL><TITLE>Dictionnaire geographiques portatif des guatre parties du monde</TITLE>, par <AUTHOR>J. Fr. Bastien</AUTHOR>, nouvelle edition, √† <PLACE>Paris</PLACE>. <FORMAT>8r.</FORMAT> <YEAR>795</YEAR>. in Papier broschirt, noch ganz neu.</BIBL> Ferners <BIBL><TITLE>eine franz√∂sische Chronit</TITLE> auf deutsch, mit vielen Kupfern, <FORMAT>fol.</FORMAT> noch wohlconditionirt, in Schweinleder gebunden, mit Schlo√ü.</BIBL> <BIBL>Ein p√§bstisches Inguisitions- <TITLE>Buch</TITLE> in <FORMAT>folio</FORMAT>, in dito Leder gebunden, mit Schlo√ü.</BIBL> <BIBL><TITLE>Neue fr√§nkisch- republikanische Kabinets-Kalender</TITLE>, deutsch und franz√∂sisch, auf Kartendeckel gezogen und ohne dito.</BIBL> <BIBL><TITLE>Fr√§nkische National-Quart- und Sack-Kalender</TITLE>, deutch und franz√∂sisch; wie auch hiesige dito.</BIBL></ITEM>\",\n  \"number_of_fixes\": 1,\n  \"explanation\": \"The xml was missing an opening <TITLE> tag before 'eine franz√∂sische Chronit'. This has been fixed in the 'fixed_xml'.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 394,
+        "output_tokens": 399,
+        "total_tokens": 793
+    },
+    "duration": 16.0735080242157,
+    "timestamp": "2025-11-04T13:37:30.412108"
+}

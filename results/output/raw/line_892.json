@@ -1,0 +1,13 @@
+{
+    "text": "{\n\"fixed_xml\": \"<ITEM>32. Folgende neue Schriften sind bey Sam. Flick an der Schriffl√§nde um beygesetzte Preise zu haben: <BIBL><AUTHOR>Haller, Alb. von</AUTHOR>, <TITLE>Icones plantarum helvetige</TITLE>, edit. denuo emend. et renov complectens <VOLUME>52 tab.</VOLUME> <FORMAT>An. fol.</FORMAT> <YEAR>1813</YEAR>, <PRIZE>5 fl.</PRIZE></BIBL> <BIBL><AUTHOR>Krauses</AUTHOR> <TITLE>kluger, sorgf√§ltiger und verst√§ndiger G√§rtner, oder monatliche Anweisung zur K√ºchen, Blumen, Baum- Íùõc. G√§rtnerey</TITLE>, aufs neue verb. vorgetragen von <AUTHOR>F. G. Leonhard</AUTHOR>, <VOLUME>6te Aufl.</VOLUME> mit <FORMAT>Kpfrn.</FORMAT> <FORMAT>gr. 8.</FORMAT> <PRIZE>2fl.</PRIZE></BIBL> <BIBL><AUTHOR>Hold, E.</AUTHOR> <TITLE>neuer Briefsteller f√ºr Kinder. Nebst einer Briefsammlung f√ºr Knaben und M√§dchen Íùõc.</TITLE>, von <AUTHOR>J. C. Kopf</AUTHOR>, <FORMAT>gr. 8.</FORMAT> <PRIZE>1 fl. 30 kr.</PRIZE></BIBL> <BIBL><TITLE>Neue Karte von Russland, von den T√ºrk. und Oesterr. Kaiserstaaten etc. etc.</TITLE>, <YEAR>1812</YEAR>. <PRIZE>2 fl. 40 kr.</PRIZE></BIBL> <BIBL><TITLE>Conversations-Lexikon, oder Hand-W√∂rterbuch f√ºr die gebildeten St√§nde, √ºber die in der gesellschaftlichen Unterhaltung und bey der Lekt√ºre vorkommenden Gegenst√§nde, Namen Íùõc. Íùõc.</TITLE> <VOLUME>1r Bd.</VOLUME> <VOLUME>2te Aufl.</VOLUME> <FORMAT>8.</FORMAT> <PRIZE>5fl.</PRIZE></BIBL> <BIBL><AUTHOR>Stein C. G. D.</AUTHOR> <TITLE>Handbuch der Naturge schichte f√ºr die gebildeten St√§nde Íùõc. Íùõc.</TITLE> <VOLUME>2 Bde.</VOLUME> mit <VOLUME>13 schwarzen Kupfert.</VOLUME> <FORMAT>gr. 8.</FORMAT> <PRIZE>3fl. 30 kr.</PRIZE></BIBL></ITEM>\",\n\"number_of_fixes\": 3,\n\"explanation\": \"The XML tag for 'TITLE' was missing an opening bracket '<' in the first 'BIBL' entry. The 'PRIZE' tag was incorrectly written as 'PRICE' in the last three 'BIBL' entries. These issues have been fixed in the 'fixed_xml' field.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 727,
+        "output_tokens": 755,
+        "total_tokens": 1482
+    },
+    "duration": 29.945507764816284,
+    "timestamp": "2025-11-05T10:39:31.050716"
+}

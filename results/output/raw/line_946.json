@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>47. Bey Heinrich Haag ist zu haben: <BIBL><TITLE>Einweihungs-Predigt, gehalten den 19. Febr. 1816.</TITLE> von <AUTHOR>David M√ºslin</AUTHOR>. <PRIZE>10 kr.</PRIZE></BIBL> <BIBL><TITLE>Allgemeines Repertorium des Neuesten, Wissensw√ºrdigsten und Anwendbarsten aus allen Wissenschaften Íùõc. Íùõc.</TITLE> von <AUTHOR>Dr. Harl</AUTHOR>, <VOLUME>3 gr.g 8¬∞. B√§nde</VOLUME>, auf Pr√§numeration, <PRIZE>6 fl.</PRIZE></BIBL> Das erste Heft ist zur Einsicht bereit, worin Liebhaber das Ausf√ºhrlichere sehen k√∂nnen. <BIBL><AUTHOR>K√∂rners</AUTHOR> <TITLE>Gedichte</TITLE>. <PRIZE>1fl. 36kr.</PRIZE></BIBL> <BIBL><AUTHOR>Wielands</AUTHOR> <TITLE>Bemerkungen geg. die Schrift des Geheim- Raths Schmalz</TITLE>. <PRIZE>30 kr.</PRIZE></BIBL> <BIBL><TITLE>Ueber die Schmalzische Vertheidigungsschrift</TITLE>. <PRIZE>30 kr.</PRIZE></BIBL> <BIBL><TITLE>Dasle Mayfeld von St. Helena</TITLE>. <PRIZE>40 kr.</PRIZE></BIBL> <BIBL><TITLE>Von der Begeisterung des preu√üischen Volks</TITLE>. <YEAR>1813</YEAR>. <PRIZE>20kr.</PRIZE></BIBL> <BIBL><AUTHOR>Jacebs</AUTHOR> <TITLE>Kriegsthaten und Hochzeit,- Fastnachts-Posse in 3 Akt</TITLE>. <PRIZE>48 kr.</PRIZE></BIBL> <BIBL><AUTHOR>Schmalz</AUTHOR> <TITLE>letztes Wort √ºber politische Vereine</TITLE>. <PRIZE>20 kr</PRIZE></BIBL> <BIBL><TITLE>Sammlung von Schweizer Kuhreihen und alten Volksliedern, nach ihren bekannten Melodien in Musik gesetzt</TITLE>. <PRIZE>2fl.</PRIZE></BIBL></ITEM>\",\n  \"number_of_fixes\": 1,\n  \"explanation\": \"One of the PRIZE xml-tags was incorrectly labeled as PRICE. This has been corrected.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 640,
+        "output_tokens": 626,
+        "total_tokens": 1266
+    },
+    "duration": 19.720776081085205,
+    "timestamp": "2025-11-05T11:05:51.593547"
+}

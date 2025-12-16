@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>In No. 609, zun√§chst dem Spahlenberg, sind zu verkaufen: 3) Leseb√ºcher: <BIBL><TITLE>Hanharts 1stes, 2tes, 3tes u. 4tes latein.</TITLE>, √† <PRIZE>5 Btz.</PRIZE>, 2tes √† <PRIZE>9 Btz.</PRIZE> u. 4tes √† <PRIZE>15 Btz.</PRIZE>, Baslerische.</BIBL> <BIBL><AUTHOR>Jakobs</AUTHOR> griech. <VOLUME>1ster Thl.</VOLUME> <PRIZE>12u. 14 Btz.</PRIZE></BIBL> <BIBL><AUTHOR>Viners</AUTHOR> <TITLE>Chrest.</TITLE> <VOLUME>1 Theil.</VOLUME> <PRIZE>15 Btz.</PRIZE></BIBL> b) Grammatiken: <BIBL><AUTHOR>Zumpts</AUTHOR>, <PRIZE>9 Btz.</PRIZE></BIBL> <BIBL><AUTHOR>Z√ºrchers</AUTHOR> lat., <PRIZE>10 Btz.</PRIZE></BIBL> <BIBL><AUTHOR>Sanguins</AUTHOR>, <PRIZE>9 Btz.</PRIZE></BIBL> <BIBL><AUTHOR>Mozin's</AUTHOR>, <PRIZE>12 Btz.</PRIZE></BIBL> c) Leaica: <BIBL><AUTHOR>Schellers</AUTHOR> lat.-deutsch, <PRIZE>45 Btz.</PRIZE>, u. deutsch-l√§t. <PRIZE>25 Btz.</PRIZE></BIBL> <BIBL><AUTHOR>Schmid's</AUTHOR> griechisch-deutsche, geb. <PRIZE>24 Btz.</PRIZE></BIBL> Ebendaselbst sucht man zu billigem Preise: den <BIBL><TITLE>Passon</TITLE></BIBL> oder eine noch neue Auflage von <BIBL><AUTHOR>Schneider</AUTHOR>.</BIBL></ITEM>\",\n  \"number_of_fixes\": 7,\n  \"explanation\": \"The XML was corrected by closing the <TITLE> tag after 'Hanharts 1stes, 2tes, 3tes u. 4tes latein.' and by replacing the incorrect <PRICE> tags with the correct <PRIZE> tags in seven places.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 551,
+        "output_tokens": 583,
+        "total_tokens": 1134
+    },
+    "duration": 23.60592293739319,
+    "timestamp": "2025-11-05T16:17:31.712530"
+}

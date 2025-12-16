@@ -1,0 +1,5 @@
+{
+    "fixed_xml": "<ITEM>In Vahnmaier's Buchhandlung ist erschienen und wird als passendes Neujahrsgeschenk empfohlen: <BIBL><TITLE>Das Neue Testament</TITLE>. (mit vielen Parallelstellen.) Fein Papier, <PRIZE>10 Btz.</PRIZE> Sauber in Tuch gebunden <PRIZE>16 Btz.</PRIZE> In Halbfranzband <PRIZE>19 Btz.</PRIZE></BIBL> <BIBL><TITLE>Das Nene Testament</TITLE> mit Holzschnitt e n. Fein Papier <PRIZE>12 Btz.</PRIZE> Sauber in Tuch gebunden <PRIZE>18 Btz.</PRIZE> In Halbfranzband. <PRIZE>19 Btz.</PRIZE></BIBL> Eine Ausgabe auf ordin√§rem Papier ist gegenw√§rtig nur ungebunden zu haben und kostet ohne Holzschnitte <PRIZE>8 Btz.</PRIZE> mit Holzschnitten <PRIZE>10 Btz.</PRIZE></ITEM>",
+    "number_of_fixes": 2,
+    "explanation": "There were two errors in the XML. Firstly, the tag <PRICE> was used instead of <PRIZE> in the second <BIBL> section. Secondly, the closing </PRICE> tag was used instead of </PRIZE> in the final sentence."
+}

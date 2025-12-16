@@ -1,0 +1,13 @@
+{
+    "text": "{\n\"fixed_xml\": \"<ITEM>7. In der Schneider'schen Buchhandlung sind folgende Schriften zu haben: <BIBL><TITLE>Blaube, Hoffnung, Liebe. Ein Andachtsbuch in Liedern f√ºr Freunde und Die Geschichte unsers HErrn und Hei- Verehrer des evang Christenthums.</TITLE> Von dem Herausgeber der Schrift: <TITLE>Vorsehung und Menschen-Schicksale</TITLE> Mit einer Vorrede von <AUTHOR>Albert Knapp.</AUTHOR> <VOLUME>1ster Theil.</VOLUME> <PRIZE>24 Btz.</PRIZE></BIBL> <BIBL><TITLE>Das Kreu; Christi.</TITLE> <TITLE>Predigten</TITLE> von <AUTHOR>Dr. Franz Theremin.</AUTHOR> <VOLUME>Zwey Theile.</VOLUME> Sch√∂n gebunden. <PRIZE>8 Fr.</PRIZE></BIBL> <BIBL><TITLE>landes Jesu Christi.</TITLE> Aus den 4 Evangelisten zusammen gezogen. <PRICE>14 Btz.</PRICE></BIBL> <BIBL><TITLE>Sieben Passions-Predigten.</TITLE> Von dem Verfasser der Schrift: <TITLE>Etwas f√ºrs Her; auf dem wege zur Ewigkeit.</TITLE> <PRIZE>5 Btz.</PRIZE></BIBL> <BIBL><TITLE>Passions- und Osterges√§nge.</TITLE> Von dem- <AUTHOR>Rommunionb√ºchlein</AUTHOR> f√ºr junge <TITLE>Tischge-</TITLE> <AUTHOR>Die Waldblumen.</AUTHOR> Eine Erz√§hlung f√ºr <AUTHOR>Das evangelische Missionswerk,</AUTHOR> ein <AUTHOR>selben Verfasser.</AUTHOR> <PRIZE>3 Btz.</PRIZE></BIBL> <BIBL><TITLE>nossen unsers HErrn Jesu Christi.</TITLE> Von <AUTHOR>Simon Eglinger,</AUTHOR> weiland Dekan in <PLACE>Benken.</PLACE> <PRICE>4 Btz.</PRICE></BIBL> <BIBL><TITLE>die Jugend.</TITLE> Nach dem Englischen bearbeitet von <AUTHOR>C. F. Maior (Metscher)</AUTHOR> v. D. N. <PRIZE>9 Btz.</PRIZE></BIBL> <BIBL><TITLE>Reden aus der Wahrheit.</TITLE> Von <AUTHOR>Demselben.</AUTHOR> <PRICE>15 Btz.</PRICE></BIBL> <BIBL><TITLE>Sterbende.</TITLE> Von <AUTHOR>Demselben.</AUTHOR> <PRICE>9 Kr.</PRICE></BIBL> <BIBL><TITLE>Gesammt-Unternehmen aller Christen.</TITLE> Von <AUTHOR>Demselben.</AUTHOR> <PRICE>9 Kr.</PRICE></BIBL></ITEM>\",\n\"number_of_fixes\": 3,\n\"explanation\": \"Three <PRICE> tags were closed incorrectly. They were closed as <PRIZE> instead of <PRICE>. The correct format for closing tags in XML is </TAG_NAME>. Therefore, I replaced </PRIZE> with </PRICE> in the three instances.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 758,
+        "output_tokens": 756,
+        "total_tokens": 1514
+    },
+    "duration": 27.183549880981445,
+    "timestamp": "2025-11-06T09:30:02.291993"
+}

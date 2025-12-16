@@ -1,0 +1,13 @@
+{
+    "text": "{\n\"fixed_xml\": \"<ITEM>1. Bey Hrn. J. J. Flick, Buchh√§ndler auf dem Fischmarckt allhier ist zu haben: <BIBL><TITLE>Neujahrs-Geschenck f√ºr Kinder</TITLE> von einem <AUTHOR>Kinderfre√ºnde</AUTHOR>, f√ºr das Jahr <YEAR>780</YEAR>. <FORMAT>8.</FORMAT> <PRIZE>r. 30.</PRIZE></BIBL> <BIBL><AUTHOR>Weissensteins (M. J. S.)</AUTHOR> <TITLE>Fragmente zur Erziehung und zum Unterricht</TITLE>, Kindern und Kinderfre√ºnden gewiedmet,-<VOLUME>B√§ndchen</VOLUME> <FORMAT>8.</FORMAT> <YEAR>778</YEAR>. <PRIZE>fl. 1. kr. 12.</PRIZE></BIBL> <BIBL><TITLE>Castriotto de grand) dalbanie, histoire</TITLE>, <FORMAT>gr. 8.</FORMAT> <YEAR>177h</YEAR>. <PRIZE>xr. 45.</PRIZE></BIBL> <BIBL><TITLE>Kleinigkeiten keinige theatrische</TITLE>) nebst mehrern Beylagen zur angenehmen Lekture, <FORMAT>8.</FORMAT> <YEAR>1779</YEAR>. <PRIZE>kr. 36.</PRIZE></BIBL> <BIBL><TITLE>Geschichte Sophiens, in Briefen zweyer Frauenzimmer</TITLE>, <VOLUME>2 Theile</VOLUME>, <FORMAT>2.</FORMAT> <YEAR>780</YEAR>. <PRIZE>kr. 45.</PRIZE></BIBL> <BIBL><TITLE>Sophie, einer j√ºngern Reise, aber niet von Memmheh nach Sachsen</TITLE>, <VOLUME>1ten Bandes, erster Theih</VOLUME>, <FORMAT>8.</FORMAT> <YEAR>780</YEAR>. <PRIZE>fr. 40.</PRIZE></BIBL> <BIBL><TITLE>Milit√§risches, politisches und Pripat-Leben des Frauleins N Eon de Beaumont, ehemaligen Ritters d Eon</TITLE>, aus dem Franz√∂sischen des Hrn. de la Fo√ütelle ubersetzt, <FORMAT>8.</FORMAT> <YEAR>779</YEAR>. <PRIZE>kr. 36.</PRIZE></BIBL> <BIBL><TITLE>Gothgischer Hof-Kalender auf.1780</TITLE>. mit sch√∂nen Kupfemn deren Sujet aus Le√üings-Schriften gezogen ist, sch√∂n eingebunden, mit vergoldtem Schnitt, in Futteral, <PRIZE>fl. 1. kr. 20.</PRIZE></BIBL> <BIBL><TITLE>Ebendieser</TITLE>, franz√∂sisch, <PRIZE>fl. 1. kr. 20.</PRIZE></BIBL></ITEM>\",\n\"number_of_fixes\": 2,\n\"explanation\": \"The XML was mostly well-formed, but there were two instances where the closing tag for <PRIZE> was incorrectly written as </PRICE>. These have been corrected.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 765,
+        "output_tokens": 765,
+        "total_tokens": 1530
+    },
+    "duration": 19.815491914749146,
+    "timestamp": "2025-11-02T09:54:50.353890"
+}

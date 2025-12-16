@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>37. Bey Hrn. Bolli, Buchbinder auf dem Kornmarkt ist zu haben: <BIBL><AUTHOR>Richters</AUTHOR> <TITLE>Anfangsgr√ºnde der Wundarzneykunst</TITLE>, <VOLUME>3 Thl.</VOLUME> mit <FORMAT>Kupf.</FORMAT> <PRICE>fl. 4. 30 kr.</PRICE></BIBL> <BIBL><AUTHOR>Richters</AUTHOR> <TITLE>chirurgische Bibliothek</TITLE>, <VOLUME>13ter Thl.</VOLUME> <PRICE>fl. 1. 30 kr.</PRICE></BIBL> <BIBL><AUTHOR>Franks</AUTHOR> <TITLE>System einer vollst√§ndigen medizinischen Bibliothek</TITLE>, <VOLUME>9ter bis 13ter Band</VOLUME>, <PRICE>fl. 2. 24 kr.</PRICE> alle <VOLUME>13 B√§nde</VOLUME> complet <PRICE>fl. 6.</PRICE></BIBL> <BIBL><AUTHOR>Bernsteins</AUTHOR> <TITLE>Handbuch f√ºr Wund√§rzte</TITLE>, <VOLUME>8 Thle.</VOLUME> <PRICE>fl. 4.</PRICE></BIBL> <BIBL><AUTHOR>Bernsteins</AUTHOR> <TITLE>praktisches Handbuch f√ºr Geburtshelfer</TITLE>, <VOLUME>4 Thle.</VOLUME> <PRICE>fl. 2. 30 kr.</PRICE></BIBL> <BIBL><AUTHOR>Grosse</AUTHOR>, dem Verfa√üer des <TITLE>Genius</TITLE>, <TITLE>Der Dolch</TITLE>, <VOLUME>3 Thle.</VOLUME> <YEAR>1796</YEAR>. <PRICE>fl. 1. 12 kr.</PRICE></BIBL> <BIBL><AUTHOR>Freyherrn von Knigge</AUTHOR> <TITLE>Ueber Eigennutz und Undank</TITLE>, <YEAR>1796</YEAR> <PRICE>fl. 1.</PRICE></BIBL> <BIBL><AUTHOR>Veit Weber</AUTHOR> <TITLE>Sagen der Vorzeit</TITLE>, <VOLUME>6ter Thl.</VOLUME> <YEAR>1796</YEAR> <PRICE>50 kr.</PRICE></BIBL> Auch sind von den beliebten Schreib-Kalendern zu haben, wo zwischen jeden Tag kann geschrieben werden.</ITEM>\",\n  \"number_of_fixes\": 4,\n  \"explanation\": \"The XML tag <PRIZE> was incorrectly written as <PRICE> in four instances. These have been corrected.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 655,
+        "output_tokens": 635,
+        "total_tokens": 1290
+    },
+    "duration": 22.298930883407593,
+    "timestamp": "2025-11-04T14:09:33.861502"
+}

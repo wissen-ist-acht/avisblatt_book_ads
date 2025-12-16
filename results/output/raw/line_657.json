@@ -1,0 +1,13 @@
+{
+    "text": "{\n\"fixed_xml\": \"<ITEM>13. Bey B√ºrger Joh. Jac. Flick, Buchh√§ndler auf dem Fischmarkt, ist zu haben: <BIBL><TITLE>Berliner historisch-genealogischer Kalender</TITLE> auf <YEAR>17904</YEAR> mit <FORMAT>4 illum. Trachten, 4 Bildnissen und 8 historischen Kupf.</FORMAT> von <AUTHOR>Chodowieky</AUTHOR>, aus der Geschichte der Pariser Bluthochzeit, gebunden mt <FORMAT>Goldschnitt und Futeral</FORMAT>, <PRICE>fl. 2. 40 kr.</PRICE></BIBL> Derselbe franzosisch, <PRICE>fl. 2. 40 kr.</PRICE> <BIBL><TITLE>Berliner milit√§rischer Kalender</TITLE> auf <YEAR>799</YEAR> mit denen Portraits des K√∂nigs und un ber√ºhmter Gener√§le, geb. mit <FORMAT>Goldschnitt und Futeral</FORMAT>, <PRICE>fl. 2. 40 kr.</PRICE></BIBL> <BIBL><TITLE>Jahrbuch der Freunde</TITLE> f√ºr <YEAR>799</YEAR> mit <FORMAT>Musik</FORMAT>, geb. <PRICE>fl. 1.</PRICE></BIBL> <BIBL><TITLE>Neue Spiele zur Bef√∂rderung der Freude und des geselligen Vergn√ºgens</TITLE>, mit <FORMAT>Musik</FORMAT>, geb. <PRICE>fl. 1. 22 kr.</PRICE></BIBL> <BIBL><TITLE>L'art de tirer les cartes, ou moyen de lire dans l'avenir avec cartes</TITLE>, <PRICE>fl. 3.</PRICE></BIBL> <BIBL><TITLE>Zweyhundert neue R√§thsel</TITLE>, <PRICE>14 kr.</PRICE></BIBL> <BIBL><AUTHOR>Heydenreichs</AUTHOR> <TITLE>drollige Abendtheuer aus der wirklichen Welt</TITLE>, <PRICE>fl. 2.</PRICE></BIBL> <BIBL><AUTHOR>Clery</AUTHOR> <TITLE>Tagebuch √ºber die Begebenheiten im Tempelthurm w√§hrend Ludwigs Kyl. Gefangenschaft</TITLE>, m. <FORMAT>Kupf.</FORMAT> <PRICE>fl. 1. 10 kr.</PRICE></BIBL> <BIBL><AUTHOR>Potts</AUTHOR> <TITLE>historische Gem√§lde aus dem √§ltern, mittlern und neuern Zeitalter der deutschen Geschichte</TITLE>, mit <FORMAT>Chodowiekischen Kupf.</FORMAT> <YEAR>798</YEAR>, <PRICE>fl. 3. 36kr.</PRICE></BIBL></ITEM>\",\n\"number_of_fixes\": 5,\n\"explanation\": \"The tag <PRIZE> was used instead of <PRICE> in five instances. These have been corrected.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 733,
+        "output_tokens": 709,
+        "total_tokens": 1442
+    },
+    "duration": 32.173229932785034,
+    "timestamp": "2025-11-04T14:31:23.058526"
+}

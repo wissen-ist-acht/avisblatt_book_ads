@@ -1,0 +1,13 @@
+{
+    "text": "{\n\"fixed_xml\": \"<ITEM>Bey Hrn. Joh. Jakob Freyler, Buchbinder an der Schneiderga√ü, sind folgende B√ºcher gebunden um beygesetzte Preise zu haben: <BIBL><TITLE>Leben und Thaten des weltber√ºhmten k√∂n. pohln und churf. s√§chs. Feldmarschalls August Christof Grafens v. Wackerbarth</TITLE>, ge mit Kupf. <VOLUME>2 Theile</VOLUME> in einem Band, <PRIZE>40kr.</PRIZE></BIBL> <BIBL><AUTHOR>Vogels</AUTHOR> <TITLE>kurzer Unterricht der Artillerie-Wissenschaft</TITLE>, in <FORMAT>8vo.</FORMAT> <PRIZE>20 kr.</PRIZE></BIBL> <BIBL><TITLE>Haus-Reise- und Kirchenkleinod</TITLE>, in Leder, <PRIZE>36kr</PRIZE></BIBL> <BIBL><AUTHOR>St√§helins</AUTHOR> <TITLE>geistliches Rauchwerk der Heiligen auf Erden, oder vollst√§ndiges Geb√§tibuch</TITLE>, <FORMAT>8.</FORMAT> in Leder und Schlo√ü, <PRIZE>fl. 1. 12 kr.</PRIZE></BIBL> <BIBL><TITLE>Memoires du Comte de Bonneval</TITLE>, <VOLUME>2 Theile</VOLUME> in einem Band, <PRIZE>fl. 2.</PRIZE></BIBL> <BIBL><TITLE>Lettres de Maintenon</TITLE>; <VOLUME>2 Theile</VOLUME> beysammen, <PRIZE>36kr.</PRIZE></BIBL> <BIBL><TITLE>La Fille errante, on Memoires de Mlle. Paisigni</TITLE>, <VOLUME>3 Theile</VOLUME> beysamen, <PRIZE>40 xr.</PRIZE></BIBL> <BIBL><TITLE>Memoires du Duc de Villars</TITLE>, <PRIZE>80 24 xr.</PRIZE></BIBL> <BIBL><TITLE>Voyage au Gailiver</TITLE>, mit Kupf. ; <VOLUME>Theile</VOLUME> in einem Band, <PRIZE>Hfrzb. fl. 1.</PRIZE></BIBL> <BIBL><TITLE>Supplement √† la Collection des Oeuvres de Rousseau</TITLE> <VOLUME>6 Tom.</VOLUME> gr. <FORMAT>8.</FORMAT> Frzb. <PRIZE>fl. 7.</PRIZE></BIBL> <BIBL><TITLE>Aller Sorten Grammaires.</TITLE> <PRIZE>Testament du Beausobre</PRIZE>, deutsch und franz√∂s. gr. <FORMAT>8.</FORMAT> Hfzb. <PRIZE>fl. 1. 12 kr.</PRIZE></BIBL> <BIBL><TITLE>Dictionnaire du Voyageur</TITLE>, deutsch, fran3. und lat. in ganz Pergam. <PRIZE>fl. 1. 20 kr.</PRIZE></BIBL> wie auch aller Sorten Biblen, Predigt- und Geb√§ttb√ºcher: Es sind auch allda zu haben: <BIBL><AUTHOR>Scheuchzers</AUTHOR> <TITLE>geogr. Schweitzerchar</TITLE>, verschnitten und in Fnteralen, das St√ºck <PRIZE>fl. 4.</PRIZE> benebenst einem Register dar- √ºber.</BIBL></ITEM>\",\n\"number_of_fixes\": 0,\n\"explanation\": \"The provided XML is already well-formed. There are no missing or misplaced tags, so no fixes were necessary.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 898,
+        "output_tokens": 888,
+        "total_tokens": 1786
+    },
+    "duration": 22.278764009475708,
+    "timestamp": "2025-11-02T20:34:21.049325"
+}

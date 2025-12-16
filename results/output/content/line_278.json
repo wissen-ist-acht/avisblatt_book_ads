@@ -1,0 +1,5 @@
+{
+    "fixed_xml": "<ITEM>Hr. W. Huber, Apothecker, besinnt sich nicht mehr, wem er von <BIBL><AUTHOR>abbe Raynal</AUTHOR> <TITLE>Histoire philosoph. &amp; politique</TITLE> <VOLUME>3ten Theil</VOLUME></BIBL>; und wem den <BIBL><VOLUME>1ten Theil</VOLUME> von <AUTHOR>Hi√ümanns</AUTHOR> <TITLE>Magazin der Philosophie</TITLE></BIBL> gelehnt hat; beyde B√ºcher gebrauchend, ersucht er den Innhaber um baldige R√ºckgabe.</ITEM>",
+    "number_of_fixes": 2,
+    "explanation": "The XML was missing the closing tag </BIBL> after the '3ten Theil' volume of 'abbe Raynal'. Also, the opening <BIBL> tag was missing before the '1ten Theil' volume of 'Hi√ümanns'."
+}

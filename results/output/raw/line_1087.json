@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>18. Das <BIBL><TITLE>Buch der Geheimnisse</TITLE>. Eine Sammlung von 260 besonders magnetischen und sympathetischen Mitteln wider Krankheiten, k√∂rperliche M√§ngel und Uebel, und zur Bef√∂rderung andrer n√ºtzlicher und wohlth√§tiger Zwecke. Verm√§chtni√ü eines sterbenden Vaters an feine S√∂hne</BIBL>; ist wieder zu haben br. √† <PRIZE>6 Btzn.</PRIZE> bey <PLACE>Neukirch, Buchhelr.</PLACE></ITEM>\",\n  \"number_of_fixes\": 1,\n  \"explanation\": \"The closing TITLE tag was misplaced. It was closed after the whole text inside BIBL tag, but it should have been closed right after the title of the book. The fixed XML now has the TITLE tag correctly placed.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 218,
+        "output_tokens": 228,
+        "total_tokens": 446
+    },
+    "duration": 9.288317918777466,
+    "timestamp": "2025-11-05T14:35:05.783240"
+}

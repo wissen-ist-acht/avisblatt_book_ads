@@ -1,0 +1,5 @@
+{
+    "fixed_xml": "<ITEM>2. Die Herren Pr√§numeranten auf <BIBL><AUTHOR>Johann Bernoullis</AUTHOR> <TITLE>Samlung kurzer Reisebeschreibungen</TITLE></BIBL>, k√∂nnen den <BIBL><VOLUME>10ten Band</VOLUME></BIBL> bey Hrn. Jakob Bernoulli im Engelhof abholen lassen. Weil auch die <BIBL><TITLE>Beschreibung des F√ºrstenthums Welsch-Neuenburg und Vallangin</TITLE></BIBL> zu dieser Samlung geh√∂ret, und sie ohne dieselbe ein defectes Buch haben w√ºrden, so wird ihnen diese Beschreibung nebst der Landcharte, bis jetzt noch um <PRIZE>fl. 1. kr. 48.</PRIZE> uberlassen, da sonst der gew√∂hnliche Preis <PRIZE>fl. 2 kr. 8.</PRIZE> ist. Auf die <BIBL><TITLE>Beschreibung des Indostans</TITLE></BIBL> kann noch bis Mich√§lt pr√§numeriert werden, und ist der Prospectus gratis zu haben.</ITEM>",
+    "number_of_fixes": 0,
+    "explanation": "The provided XML was already well-formed and didn't need any fixes. All the tags were correctly opened and closed."
+}

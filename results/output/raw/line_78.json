@@ -1,0 +1,13 @@
+{
+    "text": "{\n\"fixed_xml\": \"<ITEM>23 Eine anm√ºthige lustige Behausung in dem Dorf Riehen, an der Schmidga√ü, von 3. Stuben 3. Kammern; 2. Oesterig; 2. Kuchin, braven und guten Keller, Bauchhaus, H√∂flein nebst einem anm√ºthigen Garten, und einer starken Be√ºnten ohnweit des Hauses, wie der Augenschein zeigen wird. Ferners <BIBL><TITLE>extra sch√∂ne Bibel</TITLE> in rothem Safian gebunden mit vergultem Schnitt, worin alle Kupfer der S√§chsischen Churf√ºrsten und sehr vielen Biblischen Figuren, nebst denen Christlichen Haupt Symbons und der Augspurgischen Confession</BIBL> <BIBL><VOLUME>2. Tom.</VOLUME> <PLACE>N√ºrnberg</PLACE> <YEAR>1720</YEAR></BIBL>. <BIBL><AUTHOR>Osterwalds</AUTHOR> <TITLE>Summarischer Inhalt und erbauliche Betrachtung √ºber alle und jede B√ºcher und Capitul der ganzen Heiligen Schrift</TITLE> <FORMAT>4to</FORMAT> <PLACE>Basel</PLACE> <YEAR>1722</YEAR></BIBL>. <BIBL><TITLE>Franz√∂sischer und Teutscher Dictionarium</TITLE> und <TITLE>Teutsch und Franz√∂sischer dito</TITLE> <VOLUME>2. Tom.</VOLUME></BIBL>. Eine schone <BIBL><TITLE>Probier-Waag</TITLE>, f√ºr die Herrn Goldschmied in einem saubern Gehaus</BIBL>, alles bey Hrn. Johann F√§sch auf dem Barf√ºsser-Plats sich zu erkundigen.</ITEM>\",\n\"number_of_fixes\": 1,\n\"explanation\": \"The closing <TITLE> tag was misplaced and was closing the <BIBL> tag instead. The closing <TITLE> tag was removed and a closing <BIBL> tag was added after 'Augspurgischen Confession'.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 507,
+        "output_tokens": 526,
+        "total_tokens": 1033
+    },
+    "duration": 13.935295104980469,
+    "timestamp": "2025-10-30T17:51:23.518593"
+}

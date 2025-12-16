@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>Im Verlags-Comptoir in Gotha ist erschienen und in Bahnmaiers Buchhandlung in Basel zu haben: <BIBL><TITLE>Hausmittel-Apotheke</TITLE> Eine Sammlung von Aerzten und Laien erprobter und bew√§hrter Heilmittel gegen die meisten Krankheiten, Gebrechen und Ungl√ºcksf√§lle. Aus medecinischen und gemeinn√ºtzigen B√ºchern und Zeitschriften zusammengetragen und herausgegeben von <AUTHOR>Johann Philipp Heinse</AUTHOR>. - </BIBL><BIBL><TITLE>Medieinisches Noth- und H√ºlfsb√ºchlein</TITLE> f√ºr die √§rmere Volksklasse, f√ºr von Aerzten entfernt wohnende Familien und f√ºr Auswanderer, enthaltend die besten und bew√§hrten Hausmittel. Als Anhang zu <TITLE>Hufelands Haus- und Reise-Apotheke</TITLE>. Herausgegeben von <AUTHOR>Johann Philipp Heinse</AUTHOR>. Zweite sehr vermehrte und verbesserte Auflage.</BIBL> Preis: <PRIZE>30 Batzen</PRIZE>. Dieses anerkannt gute Werk unterscheidet sich wesentlich von andern B√ºchern der Art, da√ü es nur vielfach bew√§hrte und erprobte Hausmittel enth√§lt, die von Menschenfreunden (Aerzten und Nicht√§rzten) √∂ffentlich mitgetheilt wurden. Essind also lauter durch langj√§hrige Erfahrung und vielfache Anwendung bew√§hrte H√§usmittel. Um die <TITLE>Hausmittel-Apotheke</TITLE> so allgemein zu verbreiten, wie sie es verdient - und sie verdient, da√ü sie in jedem Haushalte als ein der h√ºlfsbed√ºrftigen Menschheit n√ºtzliches Buch gebraucht werde haben wir f√ºr 28 Bogen den h√∂chst billigen Preis von <PRIZE>30 Batzen</PRIZE> gesetzt.</ITEM>\",\n  \"number_of_fixes\": 1,\n  \"explanation\": \"The first <BIBL> tag was not closed properly. It was closed after the first <AUTHOR> tag and before the second <BIBL> tag. This was the only fix needed.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 585,
+        "output_tokens": 598,
+        "total_tokens": 1183
+    },
+    "duration": 20.45850396156311,
+    "timestamp": "2025-11-06T11:08:37.605597"
+}

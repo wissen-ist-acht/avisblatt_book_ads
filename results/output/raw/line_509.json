@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>27. In der Serinischen Buchhandlung ist zu haben: <BIBL><TITLE>Melanges helv√™tiques des ann√™es 1791. 1792. 1793.</TITLE> par <AUTHOR>Mr. le Ministre Bridel</AUTHOR>. <YEAR>1793</YEAR>. broch<FORMAT>6.</FORMAT> <PRIZE>f. 1. 20 xr.</PRIZE></BIBL> <BIBL><TITLE>Ueber das Betteln der Kinder in der Schweiz, vorgelefen in der Helvetischen Gesellschaft</TITLE> von <AUTHOR>ebendemselben</AUTHOR>. <PRICE><PRIZE>6 kr.</PRIZE></PRICE></BIBL> <BIBL><TITLE>K√ºnigunde von Rabenswalde, ein Schauspiel in 5 Aufz√ºgen:</TITLE> <FORMAT>8.</FORMAT> br. <PRIZE>20 kr.</PRIZE></BIBL></ITEM>\",\n  \"number_of_fixes\": 1,\n  \"explanation\": \"The second <BIBL> element had an opening <PRICE> tag but no closing </PRICE> tag. This has been added after the <PRIZE>6 kr.</PRIZE> tag.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 285,
+        "output_tokens": 295,
+        "total_tokens": 580
+    },
+    "duration": 9.752654790878296,
+    "timestamp": "2025-11-04T13:19:14.441799"
+}

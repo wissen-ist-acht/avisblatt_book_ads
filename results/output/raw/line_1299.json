@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>Folgende B√ºcher sind um billigen Prs. im Berichthaus zu haben: <BIBL><TITLE>Die sieben letzten Posaunen, oder Wehenl wann sie anfangen und aufh√∂ren; u. von den To Danjelischen Wochen 1. 42 prophetischen Monaten</TITLE>, von <AUTHOR>Christian Armbruster</AUTHOR>. <PRICE>817. br. 12 Btz.</PRICE></BIBL> <BIBL><TITLE>Th. a Rempis de Imitatione Christi. Lib. IV.</TITLE> ex recens. <AUTHOR>J. Merle Horstic</AUTHOR>. <PRICE>82. Colon. 6√†4. Schwarz Saff. 1. Futeral. √† 12 Btz.</PRICE></BIBL> <BIBL><TITLE>Le Vardin anglais, po√∂me en √† chants</TITLE>, par- <AUTHOR>Masson</AUTHOR>. <VOLUME>1 vol.</VOLUME> mit fig. gr. in-<FORMAT>87</FORMAT>. <PLACE>Paris</PLACE> <YEAR>788</YEAR>. <PRICE>Cart. √† 12 Btz.</PRICE></BIBL> <BIBL><TITLE>Missions-Magazin, Rter, 4ter, Ster, 6ter, 7ter u. Ster Jahrgang</TITLE>, mit Kupfern und Karten, <PRICE>br. So Btz.</PRICE></BIBL> <BIBL><TITLE>Geschichte von Genovefa</TITLE>, mit Titelkupfer, <PRICE>br. neu, 7. Btz.</PRICE></BIBL> <BIBL><TITLE>Rosa von Tannenburg</TITLE>, mit Titelkupfer, ind Carton. <PRICE>T74 Btz.</PRICE></BIBL> <BIBL><TITLE>Lavaters Handb√ºchlein</TITLE>, <FORMAT>Halbfrzbd.</FORMAT> <PRICE>s Btz.</PRICE></BIBL> <BIBL><TITLE>Gedichte von N. F√§sch</TITLE>. <YEAR>1828</YEAR>. <PRICE>br. neu. s Btz.</PRICE></BIBL> <BIBL><TITLE>Das Berghaus</TITLE>, von <AUTHOR>J. E. Appenzeller</AUTHOR>. <PLACE>St. Gallen</PLACE> <YEAR>830</YEAR>. <PRICE>br. 6 Btz.</PRICE></BIBL> <BIBL><TITLE>Leben ber√ºhmter Maler, so sich d. ihre Kunststucke bekannt gemacht haben</TITLE>. <PRICE>C. 6 Btz.</PRICE></BIBL> <BIBL><TITLE>Lebensgeschichte v. Magister Ulrich Zwingly</TITLE> mit seinem Portr√§t. <PRICE>C. u. T. 10 Btz.</PRICE></BIBL> <BIBL><TITLE>Reues Pfalter-1. Harfenspiel der Kinder Zions oder zweiter Theil der Sammlungf auserlesener geistl. Lieder</TITLE>. <FORMAT>Cart.</FORMAT> <PRICE>s Btz.</PRICE></BIBL> <BIBL><TITLE>Die gro√üen Natur-Begebenheiten unserer Tage</TITLE>. erkl√§rt aus den Weissagungen der heiligen Schrift; oder die Zeichen der letzten Zeit, verglichen mit den Zeichen unfrer Zeit. Ein Wort an die gesammter Christenheit. <FORMAT>Cart.</FORMAT> <PRICE>12 Btz.</PRICE></BIBL></ITEM>\",\n  \"number_of_fixes\": 8,\n  \"explanation\": \"There were 8 instances where the <PRIZE> tag was used instead of the correct <PRICE> tag. These have been corrected.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 908,
+        "output_tokens": 887,
+        "total_tokens": 1795
+    },
+    "duration": 26.84203314781189,
+    "timestamp": "2025-11-05T16:23:12.318711"
+}

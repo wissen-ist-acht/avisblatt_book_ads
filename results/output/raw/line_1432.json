@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>In der Schweighauser'schen Buchhandlung ist zu haben: <BIBL><TITLE>Neuestes Lehr-, Modellund Ornamentenbuch f√ºr Ebenisten, Bau- und M√∂belschreiner, Holzschneider und andere der bildenden Kunst verwandten Gewerbe.</TITLE> Zur Bef√∂rderung eigner Erfindung und zur Erreichung und Verbreitung des reinen und veredelten Geschmacks bei allen hierbei in Betracht kommenden, der Mode unterworfenen Arbeiten. Nach h√∂hern Gesichtspunkten und den Grunds√§tzen der versch√∂nernden Architektur und der Antike bearbeitet von <AUTHOR>Carl Matth√§y Baumeister</AUTHOR> in <PLACE>Dresden</PLACE>. Mit <FORMAT>60 lithographirten Foliotafeln</FORMAT>. <PLACE>Weimar</PLACE>, <PUBLISHER>Poigt</PUBLISHER>. <FORMAT>Folio</FORMAT>. <PRICE>Preis Fr. 11</PRICE></BIBL></ITEM>\",\n  \"number_of_fixes\": 1,\n  \"explanation\": \"The xml tag for 'PRICE' was wrongly written as 'PRIZE'. This has been corrected.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 321,
+        "output_tokens": 306,
+        "total_tokens": 627
+    },
+    "duration": 10.124107122421265,
+    "timestamp": "2025-11-06T10:51:59.026763"
+}

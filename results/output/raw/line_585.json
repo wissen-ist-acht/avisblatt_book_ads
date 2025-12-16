@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>In der Schweighauserischen Buchhandlung ist zu haben: <BIBL><TITLE>Offenbacher Taschen-Kalender</TITLE> auf das Jahr <YEAR>1795</YEAR>, sauber gebunden, mit Kpf. <PRIZE>36 kr.</PRIZE></BIBL> <BIBL><TITLE>Helvetischer Kalender</TITLE> f√ºr das Jahr <YEAR>1795</YEAR>, mit Kpf. <PRIZE>fl. 1. 4kr.</PRIZE></BIBL> <BIBL><TITLE>Taschenbuch und Almanach zum geselligen Vergn√ºgen</TITLE>, von <AUTHOR>Becker</AUTHOR>, f√ºr <YEAR>1795</YEAR>, mit Kupfern von <AUTHOR>Chodowiecky</AUTHOR>, gebunden <PRIZE>fl. 2. 40 kr.</PRIZE></BIBL> <BIBL><TITLE>Schreibtafel zum t√§glichen Gebrauch f√ºr Damen</TITLE>, f√ºr <YEAR>1795</YEAR>, in Brieftaschen-Format gebunden, <PRIZE>fl. 1. 30 kre</PRIZE></BIBL> <BIBL><TITLE>G√∂ttinger Taschen-Kalender</TITLE> f√ºr <YEAR>1795</YEAR>, mit historischen und auch mit <AUTHOR>Hogarthischen</AUTHOR> Kupfern, gebunden <PRIZE>fl. 1. 20 kr.</PRIZE></BIBL> <BIBL><TITLE>Der wahrfagende Zigenner</TITLE>, mit einem Kalender f√ºr <YEAR>1795</YEAR>, von <AUTHOR>Spie√ü</AUTHOR>, mit Kpf. gebunden <PRIZE>fl. 1. 20 kr.</PRIZE></BIBL> <BIBL><TITLE>Der verrathene Amor, oder W√∂rterbuch f√ºr Liebende</TITLE>, <YEAR>1795</YEAR>, gebunden <PRIZE>fl. 1.</PRIZE></BIBL> <BIBL><TITLE>Taschenbuch f√ºr Freunde des Gesangs</TITLE>, f√ºr <YEAR>1785</YEAR>, <PRIZE>40 kr.</PRIZE></BIBL></ITEM>\",\n  \"number_of_fixes\": 3,\n  \"explanation\": \"The XML tags <PRICE> were incorrect. They were replaced with the correct <PRIZE> tags in three places.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 606,
+        "output_tokens": 601,
+        "total_tokens": 1207
+    },
+    "duration": 26.016728162765503,
+    "timestamp": "2025-11-04T13:52:57.877025"
+}

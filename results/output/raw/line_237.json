@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>63. In Hrn. Emanuel Thurneysens Buchhandlung allhier, ist zu haben ; <BIBL><TITLE>Gothaischer Hof- und Taschen-Calender f√ºr 1782</TITLE>. mit Chodowieckischen Kupf. die Geschichte der Kreutzugen vorstellend, sauber gebunden <PRIZE>fl. 1. kr. 20.</PRIZE></BIBL> Eben dieser franz√∂sisch <PRIZE>fl. 1. kr. 20.</PRIZE><BIBL><TITLE>Abendgedank. eines Frauenzimmers</TITLE>, mit einer Vorrede Hrn. Pastor Sturm, <FORMAT>8.</FORMAT> <YEAR>1781</YEAR>. <PRIZE>kr. 24.</PRIZE></BIBL> <BIBL><TITLE>Etrennes mign. pour Pannde 1782</TITLE>. <PRIZE>br. Rr. 10.</PRIZE></BIBL> <BIBL><AUTHOR>Moore, Joh.</AUTHOR> <TITLE>Abri√ü des gesellschaftlichen Lebens und der Sitten in Italien</TITLE>, in Briefen, <VOLUME>2 Theile</VOLUME>, <FORMAT>8.</FORMAT> <YEAR>1781</YEAR>. <PRIZE>fl. 1. kr. 45.</PRIZE></BIBL> <BIBL><AUTHOR>Campe, J. H.</AUTHOR> <TITLE>Hamburgischer Kinderalmanach</TITLE>, f√ºr das Jahr <YEAR>1782</YEAR>. in lehrreichen Unterhaltungen, <FORMAT>8.</FORMAT> <PRIZE>kr. 45.</PRIZE></BIBL> <BIBL><TITLE>Joseph des Zweyten in den Jahren 1780 und 178nunternommene 1te und 2te Reise</TITLE>, in Briefen an einen Freund nach England, von <AUTHOR>Geisler, dem j√ºngern</AUTHOR>, <FORMAT>8.</FORMAT> <YEAR>1781</YEAR>. <PRIZE>kr. 48.</PRIZE></BIBL> <BIBL><TITLE>Sander von der G√ºte und Weisheit Gottes in der Natur</TITLE>, <FORMAT>8.</FORMAT> <YEAR>1782</YEAR>. <PRIZE>fl. 1</PRIZE></BIBL> <BIBL><TITLE>Geschichte der deutschen Nationalneigung zum Trunke</TITLE>, <FORMAT>8.</FORMAT> <YEAR>1782</YEAR>. <PRIZE>kr. 40.</PRIZE></BIBL> <BIBL><TITLE>Menschenschicksale, eine Geschichte aus dem i8ten Jahrhund.</TITLE>, <FORMAT>8.</FORMAT> <YEAR>782</YEAR>. <PRIZE>fl. 1. kr. 30.</PRIZE></BIBL> <BIBL><AUTHOR>Wiggers (. G.</AUTHOR> <TITLE>die Moral der Clio, ein Versuch uber den Einstu√ü der historischen Lecture in die Besserung des Herzeus</TITLE>, <FORMAT>8.</FORMAT> <YEAR>1782</YEAR>. <PRIZE>kr. 30.</PRIZE></BIBL> <BIBL><TITLE>Geschichte Thalheims und Julianens von Ber</TITLE>, <FORMAT>8.</FORMAT> <YEAR>1781</YEAR>. <PRIZE>kr. 40.</PRIZE></BIBL> <BIBL><AUTHOR>Blairs (Hugo)</AUTHOR> <TITLE>Predigten aus dem Engl.</TITLE> <VOLUME>2 Thl.</VOLUME>, <FORMAT>8.</FORMAT> <YEAR>1780</YEAR>. <PRIZE>fl. 2. kr. 30.</PRIZE></BIBL></ITEM>\",\n  \"number_of_fixes\": 2,\n  \"explanation\": \"There were two issues with the xml. There were two instances where the closing tag for 'PRIZE' was incorrectly written as 'PRICE'. These have been corrected.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 929,
+        "output_tokens": 932,
+        "total_tokens": 1861
+    },
+    "duration": 27.97597312927246,
+    "timestamp": "2025-11-02T10:01:36.446097"
+}

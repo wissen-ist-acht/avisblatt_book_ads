@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>In der Serinischen Buchhandlung ist zu haben: <BIBL><TITLE>G√∂ttinger Taschenkalender f√ºr das Jahr 1794</TITLE>, mit Kpf. von <AUTHOR>Hogarth</AUTHOR>. <PRIZE>fl. 1. 20kr.</PRIZE></BIBL> Der nemliche franz√∂sisch. <PRIZE>fl. 1. 20 kr.</PRIZE> <BIBL><TITLE>G√∂ttinger Musenalmanach f√ºr das Jahr 1794</TITLE>. <FORMAT>bro schirt</FORMAT> <PRIZE>56 kr.</PRIZE></BIBL> <BIBL><TITLE>Neuer Frankfurter Taschenkalender auf das Jahr 1794</TITLE>, mit Kpf. <TITLE>Tilia & Ag√§ttude, ou la volupte & se honheur</TITLE>, <VOLUME>2 vol.</VOLUME> <FORMAT>12. br.</FORMAT> <PRIZE>fl. 1. 28 xr.</PRIZE></BIBL> <BIBL><TITLE>Le Hameau de Ragnielas, fuivi du ruisseau &c.</TITLE>, <FORMAT>18. br.</FORMAT> <YEAR>793</YEAR> <PRIZE>56 xr.</PRIZE></BIBL> <BIBL><TITLE>Bes jardins, our Part dembellir les naysages</TITLE>, par <AUTHOR>Delille</AUTHOR>. <PLACE>Londres</PLACE> <PRIZE>H. 1.</PRIZE></BIBL> <BIBL><TITLE>Modeles decriture pour Pinstruction de la jeunesse</TITLE>, par <AUTHOR>Jumel Vain√™</AUTHOR>, en <VOLUME>16. feuilles</VOLUME> in <FORMAT>fol.</FORMAT> <PRIZE>f. 2. 40 xr.</PRIZE></BIBL> <BIBL><TITLE>La logique, ou les promiers developpemens de Part de penser</TITLE>, par <AUTHOR>Con¬¨ dillac</AUTHOR>. <FORMAT>18.</FORMAT> <YEAR>792</YEAR> <PRIZE>br. 54 xr.</PRIZE></BIBL> <BIBL><TITLE>Elemens de lalangue angloise</TITLE>, var <AUTHOR>M. Siret</AUTHOR>. <FORMAT>gr. 8.</FORMAT> <PLACE>Paris</PLACE> <PRIZE>br. 48 xr.</PRIZE></BIBL> <BIBL><TITLE>Grammaire italienne & francoise</TITLE>, par <AUTHOR>Boldoni</AUTHOR>. <PRIZE>br. 50 xr.</PRIZE></BIBL> <BIBL><TITLE>Grammaire angloise & ital.</TITLE> de <AUTHOR>Barner</AUTHOR>. <FORMAT>12.</FORMAT> <PRIZE>br. fl. 1.</PRIZE></BIBL> <BIBL><TITLE>La Vitae le aventure di Robinsone Crusoe, storiagalante</TITLE>, <VOLUME>2 Vol.</VOLUME> <FORMAT>8. br.</FORMAT> <PRIZE>fl. 1. 30 xr.</PRIZE></BIBL></ITEM>\",\n  \"number_of_fixes\": 5,\n  \"explanation\": \"The PRIZE tags were incorrectly closed as PRICE in five instances. These have been corrected to PRIZE.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 806,
+        "output_tokens": 801,
+        "total_tokens": 1607
+    },
+    "duration": 25.572631120681763,
+    "timestamp": "2025-11-04T13:24:04.346749"
+}

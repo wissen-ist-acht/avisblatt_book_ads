@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>In der Holdenecker'schen Leihbibliothek ist neu zu haben: <BIBL><TITLE>Reise auf den Jungfrau-Gletscher und Ersteigung seines Gipfels</TITLE>, br. <PRIZE>4 Btz.</PRIZE></BIBL> <BIBL><AUTHOR>Baur's</AUTHOR> <TITLE>Gem√§lde der merkw√ºrdigsten Revolutionen Íùõc. Íùõc.</TITLE>, <VOLUME>3r. Bd.</VOLUME> <PRIZE>2 fl.</PRIZE></BIBL> <BIBL><AUTHOR>Schedel's</AUTHOR> <TITLE>Waaren-Lexikon</TITLE>, <VOLUME>4 Bde.</VOLUME>, <FORMAT>4te. verm. und verb. Aufl.</FORMAT>, brosch. <PRIZE>8 fl.</PRIZE></BIBL> <BIBL><TITLE>Merkw√ºrdigkeiten der Welt, oder vorz√ºgliche Erscheinungen der Natur und Kunst</TITLE>, <VOLUME>10 Bde.</VOLUME> mit vielen <FORMAT>Kupfern</FORMAT>, gr. <FORMAT>4.</FORMAT> br. <PRIZE>20 fl.</PRIZE></BIBL> <BIBL><AUTHOR>Kotzebue's</AUTHOR> <TITLE>Theater</TITLE>, <VOLUME>27 Bde.</VOLUME> mit <FORMAT>Kupf.</FORMAT></BIBL> <BIBL><AUTHOR>Shakspeares</AUTHOR> <TITLE>Theater</TITLE>, <VOLUME>12 Bde.</VOLUME> mit <FORMAT>K.</FORMAT></BIBL> <BIBL><AUTHOR>G√∂the's</AUTHOR> <TITLE>s√§mtl. Schriften</TITLE>, <VOLUME>16 Bde.</VOLUME> mit <FORMAT>Kpf.</FORMAT></BIBL> <BIBL><AUTHOR>Schillers</AUTHOR> <TITLE>s√§mtl. Werke</TITLE>, <VOLUME>21 Bde.</VOLUME> mit <FORMAT>Kupf.</FORMAT></BIBL> <BIBL><TITLE>Nachlese zu Schillers Werken</TITLE>, br. <PRIZE>36 kr.</PRIZE></BIBL> <BIBL><AUTHOR>Zimermanns</AUTHOR> <TITLE>Taschenbuch der Reisen</TITLE>, <VOLUME>11 Bde.</VOLUME></BIBL> <BIBL><AUTHOR>Busch's</AUTHOR> <TITLE>Handbuch der Erfindungen</TITLE> <VOLUME>8 Thle.</VOLUME></BIBL> <BIBL><AUTHOR>G√ºtles</AUTHOR> <TITLE>Zaubermechanik</TITLE>, mit <FORMAT>Kupf.</FORMAT></BIBL> <BIBL><AUTHOR>Fe√ülers</AUTHOR> <TITLE>Mark-Aurel</TITLE>, <VOLUME>4 Thle.</VOLUME> mit <FORMAT>Kupf.</FORMAT></BIBL> <BIBL><AUTHOR>Funkes</AUTHOR> <TITLE>Natur-Geschichte, und Technol√∂gie</TITLE></BIBL> <BIBL><AUTHOR>Sch√ºtz,</AUTHOR> <TITLE>allgemeine Weltgeschichte</TITLE>, <VOLUME>8 Thle.</VOLUME></BIBL> <BIBL><AUTHOR>Wieland's</AUTHOR> <TITLE>s√§mtl. Werke</TITLE>, <VOLUME>1r. bis 11r. Bd.</VOLUME></BIBL> <BIBL><AUTHOR>Voltairs</AUTHOR> <TITLE>s√§mtl. Werke</TITLE>, <VOLUME>39 Bde.</VOLUME></BIBL> <BIBL><TITLE>Wenzel Falk und seine Familie, von Lafontaine</TITLE>, <VOLUME>3 Thle.</VOLUME> mit <FORMAT>Kupf.</FORMAT></BIBL> <BIBL><TITLE>Amalie Horst, v. Lafontaine</TITLE>, <VOLUME>2 Thle.</VOLUME></BIBL></ITEM>\",\n  \"number_of_fixes\": 0,\n  \"explanation\": \"The provided XML is well-formed and doesn't need any fixes.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 1018,
+        "output_tokens": 999,
+        "total_tokens": 2017
+    },
+    "duration": 35.98774981498718,
+    "timestamp": "2025-11-05T10:34:36.169956"
+}

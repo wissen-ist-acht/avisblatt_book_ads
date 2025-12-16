@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>Bey B. Peter Scherb, Buchbinder gegen der School √ºber, sind in Commi√üion zu haben: <BIBL><TITLE>26 St√ºck Eydgen√∂√üische Zuj√ºger, wie solche vor der Revolution in Basel zu sehen waren</TITLE>, meisterhaft colorirt, alle zusammen um <PRIZE>8 helvet. Franken</PRIZE></BIBL>. <BIBL><AUTHOR>Merians</AUTHOR> <TITLE>Todtentanz</TITLE>, illum. um <PRIZE>24 Btzn.</PRIZE></BIBL> nebst noch sehr vielen Schweizerkupfern, welche um einen sehr wohlfeilen Preis zu haben sind, <BIBL><TITLE>zwey ber√ºhmte Gener√§le, Bonaparte und Pichegr√º</TITLE>, beyde um <PRIZE>12 Btn.</PRIZE></BIBL>. <BIBL><TITLE>Versuch einer leichten und fa√ülichen Lehrart, den Kindern die sogenannte Decimal-Rechnung beyzubringen</TITLE>, <FORMAT>8. br.</FORMAT> um <PRIZE>8 Btzn.</PRIZE></BIBL>. <BIBL><TITLE>Anfangsgr√ºnde der franz. Sprache</TITLE>, <FORMAT>8.</FORMAT> in Carton geb mit ledernem Rucken, ebenfalls <PRIZE>8 Btzn.</PRIZE></BIBL>. <BIBL><TITLE>Ein Lesebuch f√ºr die Jugend, betitelt: Rolando's und seiner Glucksgef√§hrten Reise um die Welt</TITLE></BIBL>, ferners <BIBL><TITLE>zweyerley Lottospiel</TITLE> um billigen Preis.</BIBL></ITEM>\",\n  \"number_of_fixes\": 1,\n  \"explanation\": \"There was a mismatched tag in the XML. The closing tag for the PRIZE element was incorrectly written as PRICE. This has been corrected to PRIZE.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 480,
+        "output_tokens": 480,
+        "total_tokens": 960
+    },
+    "duration": 18.530452966690063,
+    "timestamp": "2025-11-04T14:44:43.633951"
+}

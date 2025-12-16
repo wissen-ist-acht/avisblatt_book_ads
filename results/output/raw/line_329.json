@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>In der Oeckerischen Buchhandlung allhier, ist zu haben: <BIBL><TITLE>Die Bibel-Uebersetzung, welche unter dem Titel: Die H. Schrift</TITLE>, √ºbersetzt von <AUTHOR>Sion Gryn√§us</AUTHOR>, <PLACE>Berlin</PLACE> bey <PUBLISHER>Georg Jakob Decker</PUBLISHER>, in <VOLUME>3. B√§nden</VOLUME>, jeder <PAGES>39 Bogen</PAGES> stark in <FORMAT>gr. 8e</FORMAT>, auf sch√∂n <MATERIAL>Papier</MATERIAL> gedruckt, erschienen, und im <YEAR>1782</YEAR>. zum zweytenmal aufgelegt worden ist</BIBL>, hat nicht geringen Beyfall vom Publikum erhalten, daher, um dieses Werk noch gemeinn√ºtziger zu machen, werde ich den <PRICE>Preis desselben, der bisher 4 fl. war</PRICE>, von jetzt bis zur L. M. Messe, auf <PRICE>fl. 3</PRICE> heruntersetzen, wof√ºr es bey mir, und in den vornehmsten Buchhandlungen Deutschlands und der Schweitz zu haben seyn wird, nachher aber wird es wieder f√ºr den vorigen <PRICE>Preis</PRICE> verkauft.</ITEM>\",\n  \"number_of_fixes\": 1,\n  \"explanation\": \"The tag <PRIZE> was incorrect and has been replaced with the correct tag <PRICE>.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 391,
+        "output_tokens": 373,
+        "total_tokens": 764
+    },
+    "duration": 10.329418897628784,
+    "timestamp": "2025-11-02T20:19:55.690124"
+}

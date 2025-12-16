@@ -1,0 +1,5 @@
+{
+    "fixed_xml": "<ITEM>4. Bey Em. Thurneisen, Buchh√§nd ler an der Freyenstra√üe, ist zu haben: <BIBL><TITLE>Eugenias Briefe</TITLE>, von <AUTHOR>Heinr. Hirzel</AUTHOR>, <VOLUME>2 Thler</VOLUME> <VOLUME>3te Aufl.</VOLUME> <PLACE>Z√ºrich</PLACE> <YEAR>1819</YEAR>. <PRIZE>br. 3 fl. 45 kr</PRIZE></BIBL> <BIBL><AUTHOR>Gutmann, J. H.</AUTHOR> <TITLE>Katechismus oder Unter richt in der wahren christlichen Religion</TITLE> <FORMAT>8.</FORMAT> <PLACE>Z√ºrich</PLACE> <YEAR>1818</YEAR>. <PRIZE>36kr.</PRIZE></BIBL> <BIBL><TITLE>Die Jesuiten im Verh√§lmi√ü zu Staat und Kirche.</TITLE> <FORMAT>8.</FORMAT> <PLACE>Z√ºrich</PLACE> <YEAR>1819</YEAR>. <PRIZE>br. 36 kr.</PRIZE></BIBL></ITEM>",
+    "number_of_fixes": "1",
+    "explanation": "The xml is well formatted, except for a typo in the last 'PRIZE' tag which was incorrectly spelled as 'PRICE'. This has been fixed."
+}

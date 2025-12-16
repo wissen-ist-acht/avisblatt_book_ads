@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>Seitdeme die Plans und Catalogi von der Baselischen B√ºcher-Lotterie debitirt worden, hatl es zwar an g√ºnstigen Einlagen nicht gefehlet, welches man hier zum Voraus mit Dank erkennet, und fernere Continuntion ausbittet, zugleich wird annoch anerbotten, denjenigen Theilnehmern, welchen nachfolgende Loose zufallen werden , falls solche nicht anst√§ndig seyn m√∂chten, durch andere hier beygef√ºgte zu vertauschen, als: Anstatt Num. 23. bis 30. offerirt man f√ºr jedes Loos <BIBL><TITLE>Zwingers vollst√§ndiges Krauterbuch</TITLE><FORMAT>folio</FORMAT></BIBL>. 1 dito <BIBL><TITLE>Krauterbuch</TITLE></BIBL>. - Num. 36 -- Num. 42 --) 1 <BIBL><TITLE>Ste Bible de Martin</TITLE><FORMAT>fol</FORMAT></BIBL> und 1 <BIBL><TITLE>Zwingers sicherer und geschwinder Arzt</TITLE><FORMAT>8vor</FORMAT></BIBL> f√ºr jedes <BIBL><TITLE>Ster Bible de Martin</TITLE></BIBL> mit Fig. und - Num. 51 und 52 - 1 <BIBL><TITLE>Basel. Gerichts-Ordnung</TITLE><FORMAT>fol</FORMAT></BIBL> 1. <BIBL><TITLE>Schillings Burgunder-Krieg</TITLE></BIBL> und 1<BIBL><TITLE>Zwing. Arzt</TITLE></BIBL>. Nun. --d 1 <BIBL><TITLE>Schilling</TITLE></BIBL> und 1<BIBL><TITLE>Lucii Pfingst-Pred</TITLE><TITLE>Lebenslauf</TITLE></BIBL> --- Num. 90. <BIBL><TITLE>r Schillings</TITLE><FORMAT>fol</FORMAT></BIBL>. - Num. 106 - 1<BIBL><TITLE>Zwing. Arzt</TITLE></BIBL> und <BIBL><TITLE>r Lucii Pfingst-Pred</TITLE></BIBL>. -- Num. 110. -- 1 <BIBL><TITLE>Zwing. Arzt</TITLE><FORMAT>8vo</FORMAT></BIBL>. Num. 178 f√ºr jedes ein dito. - Num. 187 bis 200 - 1. <BIBL><TITLE>Ba√üler-Gerichts-Ordnung</TITLE><FORMAT>fol</FORMAT></BIBL>. -- Num 228. - 1. dito. --- Num. 231 <BIBL><TITLE>r ditoi</TITLE></BIBL>. -- Num. 288 <BIBL><TITLE>MB</TITLE></BIBL>. Obiger Tausch wird deswegen offerirt, weilen man vernommen, da√ü einige Liebhaber gerne solche B√ºcher und besonders <BIBL><TITLE>Zwingers Krauterbuch</TITLE></BIBL> und dito <BIBL><TITLE>Arzt</TITLE></BIBL> im Catalogo gesehen h√§tten.</ITEM>\",\n  \"number_of_fixes\": 4,\n  \"explanation\": \"The XML was missing closing tags for some of the <BIBL> elements. Also, some of the <TITLE> and <FORMAT> tags were placed outside the <BIBL> tags, which was incorrect. These have been moved inside the <BIBL> tags.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 841,
+        "output_tokens": 846,
+        "total_tokens": 1687
+    },
+    "duration": 37.71873903274536,
+    "timestamp": "2025-10-31T11:52:31.844208"
+}

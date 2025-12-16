@@ -1,0 +1,5 @@
+{
+    "fixed_xml": "<ITEM>Die Herren Pr√§numeranten auf die Tiefenthalerische Beschreibung von Indien, k√∂nnen von der franz√∂sischen Ausgabe die 4.e Livr. Von der deutschen aber die f√ºnfte Lieferung bey Hrn. Prof. D. Bernoulli abholen lassen. <BIBL><TITLE>Recherches histor. & g√©ogr. fur P'Inde Bc.</TITLE> par <AUTHOR>M. Anquetil du Perron</AUTHOR>, en <VOLUME>2 Parties</VOLUME>, auf klein Papier √† <PRIZE>L. 24</PRIZE>, auf gro√ü Papier √† <PRIZE>L. 36</PRIZE>.</BIBL> Von dem ganzen <BIBL><TITLE>Tiefenthalerschen Werke</TITLE>, so weit es heraus ist, so wie auch von <BIBL><AUTHOR>J. B.</AUTHOR> <TITLE>Sammlung kurzer Reisebeschreibungen</TITLE></BIBL> sind auch noch vorr√§thige Exemplare zu haben; wie auch <BIBL><AUTHOR>J. Rennels</AUTHOR> <TITLE>Abhandlungen √ºber seine Charte von Hindustan und √ºber die Schiffahrt in Bengalen</TITLE>, mit <VOLUME>2 Chartnn</VOLUME>, √† <PRIZE>fl. 3. 30fr.</PRIZE> mi-</BIBL></ITEM>",
+    "number_of_fixes": 1,
+    "explanation": "The XML was missing a closing BIBL tag for the last bibliographic entry. This was added to correct the XML."
+}

@@ -1,0 +1,13 @@
+{
+    "text": "{\n\"fixed_xml\": \"<ITEM>Marie und Louise 25. oder das Pergament, von <BIBL><AUTHOR>Ch. M√∂hrle</AUTHOR>. <TITLE>Marie und Louise 25. oder das Pergament</TITLE>. <PRIZE>9kr.</PRIZE></BIBL> Lidia oder das M√§dchen aus Griechenland, von <BIBL><AUTHOR>Ch. M√∂hrle</AUTHOR>. <TITLE>Lidia oder das M√§dchen aus Griechenland</TITLE>. <PRIZE>12 kr.</PRIZE></BIBL> Ch. M√∂hrle. <BIBL><AUTHOR>Ch. M√∂hrle</AUTHOR>. <TITLE>Bernhard u. Hermann</TITLE>. <PRIZE>16kr.</PRIZE></BIBL> 16kr. <BIBL><TITLE>Christliches Bilderb√ºchlein</TITLE>. <PRIZE>8 kr.</PRIZE></BIBL> Der Eremit und die Waisen. <BIBL><AUTHOR>Afra von Augsburg</AUTHOR>, von <AUTHOR>Th. Nelk</AUTHOR>. <TITLE>Afra von Augsburg</TITLE>. <PRIZE>10kr.</PRIZE></BIBL> Die irl√§ndische H√ºtte, mit Titelkupf. <BIBL><TITLE>Die irl√§ndische H√ºtte</TITLE>, mit Titelkupf. <PRIZE>36kr.</PRIZE></BIBL> Das Thal von Almeria, mit Titelk. <BIBL><TITLE>Das Thal von Almeria</TITLE>, mit Titelk. <PRIZE>32 kr.</PRIZE></BIBL> 36 kr. <BIBL><TITLE>Die Beatush√∂hle</TITLE>. <PRIZE>Bei J. R. Fretz in der Steinenvorstadt</PRIZE></BIBL></ITEM>\",\n\"number_of_fixes\": 2,\n\"explanation\": \"Two instances of the tag <PRICE> were replaced with the correct tag <PRIZE> to ensure consistency and correct formatting.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 516,
+        "output_tokens": 509,
+        "total_tokens": 1025
+    },
+    "duration": 20.35578989982605,
+    "timestamp": "2025-11-06T10:28:06.366276"
+}

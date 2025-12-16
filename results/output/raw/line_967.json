@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>7. <BIBL><TITLE>Recitatio historico-politica de Hebvetiorum legatorum Singulart specie qui vulgo Representantes dicuntur</TITLE>. <PLACE>Basil</PLACE>. <YEAR>1747</YEAR>. <FORMAT>22 Seiten in 4</FORMAT><PRIZE> nebst √§usserstem Preis ins Berichthaus zu fenden.</PRIZE></BIBL></ITEM>\",\n  \"number_of_fixes\": 2,\n  \"explanation\": \"The XML was fixed by closing the 'FORMAT' tag properly and opening the 'PRIZE' tag before its content.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 157,
+        "output_tokens": 147,
+        "total_tokens": 304
+    },
+    "duration": 4.362493991851807,
+    "timestamp": "2025-11-05T11:17:40.796385"
+}

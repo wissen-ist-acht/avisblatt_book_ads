@@ -1,0 +1,5 @@
+{
+    "fixed_xml": "<ITEM>Literarische Neuigkeiten der Rawschen Buchhandlung in N√ºrnberg. <BIBL><TITLE>Geistliche Lieder und Gedichte</TITLE>. Als Manuseript f√ºr Freunde gedruckt. <PRICE>Preis 6 Btz.</PRICE></BIBL> <BIBL><TITLE>J. Justin Lichter und Schatten aus schottischem Leben</TITLE>. Aus dem Englischen √ºbersetzt von <AUTHOR>August Teschner</AUTHOR>. <PRICE>6 Btz.</PRICE></BIBL> Vorr√§thig bei J. G. Vahnmaier, Freiestra√üe No. 1178.</ITEM>",
+    "number_of_fixes": 1,
+    "explanation": "The tag <PRIZE> was incorrect and has been replaced with the correct tag <PRICE>."
+}

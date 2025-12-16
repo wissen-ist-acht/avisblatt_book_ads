@@ -1,0 +1,5 @@
+{
+    "fixed_xml": "<ITEM>14. Die achte Original-Auflage des <BIBL><TITLE>Brockhausischen Conversations-Lexicon</TITLE> ist so eben im Druck vollender und f√ºr <PRICE>Fr. 43. 2 Btz.</PRICE> zu erhalten</BIBL> in der Schweighauser'schen Buchhandlung.</ITEM>",
+    "number_of_fixes": 1,
+    "explanation": "The 'PRICE' tag was incorrectly closed as 'PRIZE'. This has been corrected to 'PRICE'."
+}

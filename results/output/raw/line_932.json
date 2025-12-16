@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>Iu der Samuel Flicksehen Buchhandlung an der Schiffl√§nde, um beygesetzte Preise zu haben sind. <BIBL><TITLE>Der Sieg √ºber den Welttyrannen, erfochten von den Helden Bl√ºcher und Wellington am 18. Juni 1815.</TITLE> Rhapsodisch und lyrisch gefeiert von <AUTHOR>Buri</AUTHOR>. <PRICE>12 kr.</PRICE></BIBL> <BIBL><AUTHOR>Niederer, J.</AUTHOR>, <TITLE>das Begeisternde des Rufs Gottes an die Vertheidiger des schweizerischen Vaterlandes.</TITLE> Eine Feldpredigt, <PRICE>br. 24n</PRICE></BIBL> <BIBL><TITLE>Leuchtkugeln.</TITLE> Ein Journal in zwanglosen Heften. <VOLUME>10. Bd. 1tes Heft</VOLUME>, <PRICE>br. 1 fl. 30 kr.</PRICE></BIBL> <BIBL><TITLE>geber die Freyheit der Rheinschiffahrt.</TITLE> Ein Sendschreiben. <VOLUME>2 Hefte</VOLUME>, <PRICE>br. 1fl.</PRICE></BIBL> <BIBL><TITLE>Une annee de la vie de I'Empereur Napol√©on, ou pr√©cis historique de tout ce qui s'est pass√© depais le 1. avril 1814 jusqu √† 20. mars. 1815, r√©latif √† 8. M. et au baaves qii Vont wecompagn√©.</TITLE> <PRICE>bv. 2 fl. 45 bra</PRICE></BIBL> <BIBL><TITLE>Kaport Sur l'etat d√© laFrance, fait au Roi dans son Conseil.</TITLE> pa√ü <AUTHOR>Mr. de V. de Chateaubriand</AUTHOR> <PRICE>hr. 24 kr.</PRICE></BIBL> <BIBL><TITLE>Un mot, ur M. le Comte de Blacas, Ministre de la maison du Roi, par un frangais ami de la lihert√©.</TITLE> <PRICE>6 E</PRICE></BIBL> <BIBL><TITLE>Baiern vor Deutschlands Richterstuhle, mit besonderer Beziehung auf dis Schrift: die Centralvermaltung den Verb√ºndeten unger dem Freyherrn von Stein.</TITLE> <PRICE>br. 48 kr.</PRICE></BIBL></ITEM>\",\n  \"number_of_fixes\": 3,\n  \"explanation\": \"The XML tag <PRIZE> was replaced with the correct tag <PRICE> in three places.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 671,
+        "output_tokens": 650,
+        "total_tokens": 1321
+    },
+    "duration": 28.030067920684814,
+    "timestamp": "2025-11-05T11:01:18.933748"
+}

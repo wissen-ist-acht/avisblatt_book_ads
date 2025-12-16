@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>43. Runst-Anzeige. Bey uns ist erschienen von , <BIBL><TITLE>Aus wahl der Werke H. Holbein's, welche sich auf unsrer √∂ffentlichen Bibliothet befinden, nach den Originalen in gleicher Gr√∂√üe auf Stein gezeichnet</TITLE>, Lieferung v. 3 Platten, <TITLE>Passions-Geschichte</TITLE>. wovon das Blatt auf 10 Fr. kommt, indem der Subscriptions-Preis f√ºr alle 8 Abtheilungen dieses Gem√§ldes von hohem Kunstwerth, welches noch nie durch den Stich publizirt wurde, <PRIZE>Fr. 80</PRIZE> ist.</BIBL> Der Prospectus dieses Werks, welches in 3 Theile zerf√§llt, ist zur n√§hern Einsicht zu haben. Wir sind hiemit so frey, unsre werthen Mitb√ºrger einzuladen, durch ihre Theilnahme uns in der Herausgabe dieses sch√∂nen Werks, welches hoffentlich unsrer Stadt zur Ehre gereichen wird, durch zahlreiche Subscriptionen zu unterst√ºtzen, indem sie versichert seyn k√∂nnen, da√ü wir nichts vers√§umen oder sparen werden, was zur Vollk√∂mmenheit desselben beytragen kann. <BIBL><TITLE>Studien-Sammlung von Figuren aus dem gem√∂hnlichen Leben, zur Stafftrung der Landschaft, f√ºr Schulen</TITLE> ze. lithog. 1stes Heft <VOLUME>6 Blt.</VOLUME> <PRICE>20 Btz.</PRICE> Das Werk wird <VOLUME>10 Hft.</VOLUME> enthalten √† <SUBSCRIPTION_PRICE>18 Btz.</SUBSCRIPTION_PRICE> Subscriptions-Preis.</BIBL> - Vom gleichen Verfasser: <BIBL><TITLE>Himmels-Atlas, als Traasparent behandelt</TITLE> <VOLUME>7, 28 Blt.</VOLUME> √† <PRICE>7 u. 4 Fr.</PRICE> √†u- <BIBL><TITLE>St. Evangile trad. p de Sacy</TITLE> orii√© de <VOLUME>5 planches</VOLUME> d'apr. <AUTHOR>Rafael, Versnese Pouosin</AUTHOR> Ke. gr. <FORMAT>4¬∞.</FORMAT> <PLACE>Paris,</PLACE> <PUBLISHER>4819 impr. de Didot.</PUBLISHER> <PRICE>27 Fr.</PRICE></BIBL> <BIBL><TITLE>Die Rheinbr√ºcke vom Rheinsprung gesehen</TITLE>. lith. <PRICE>5 Btz</PRICE></BIBL> Verschiedene Lichtschirme mit landschaftl. u. fig√ºrl. Gegenst√§nden. ‚Äì Ein s.schones Arueisig in Eafenbein, ein id. zu Holz geschnitzt, nebst manchen andern zu Neujahrs-Geschenken dienlichen Artikeln in <BIBL><TITLE>Kupferstichen, Lithogr.</TITLE> Handzeiemungen lebender und alter K√ºnstler, Anleitungen zum Zeichnen, beste ZeichnungsMaterialien, vergoldete wohlfeile Pariser Staabrahmen flach und Holkehl Íùõc.</BIBL> <PUBLISHER>Birmann u. S√∂hne.</PUBLISHER></ITEM>\",\n  \"number_of_fixes\": 0,\n  \"explanation\": \"The XML is already well formed and does not need any fixes.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 910,
+        "output_tokens": 890,
+        "total_tokens": 1800
+    },
+    "duration": 25.750171899795532,
+    "timestamp": "2025-11-05T15:27:48.008447"
+}

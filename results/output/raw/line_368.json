@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>In Emanuel Thurneysens Buchhandlung allhier, ist zu haben : <BIBL><TITLE>Friedrich der Grosse, Versuch eines historischen Gem√§hldes</TITLE>, <VOLUME>3 Heft</VOLUME>, <FORMAT>8o</FORMAT>, <YEAR>1786</YEAR>. <PRIZE>54 kr.</PRIZE></BIBL> <BIBL><AUTHOR>Meyers</AUTHOR> <TITLE>Lehrbuch f√ºr die Land- und Hauswirthe, in der pragmatischen Geschichte der gesamten Land- und Hauswirthschaft</TITLE>, mit <FORMAT>Kupf.</FORMAT>, <FORMAT>8e</FORMAT>, <YEAR>1782</YEAR>. <PRIZE>fl. 2. 15kr.</PRIZE></BIBL> <BIBL><TITLE>Darstellung des F√ºrstenbundes, neu-vermehrte und verbesserte Auflage</TITLE>, <FORMAT>8.</FORMAT>, <YEAR>1788</YEAR>. <PRIZE>54 kr.</PRIZE></BIBL> <BIBL><TITLE>Gedanten √ºber das gegenw√§rtige Schicksal der Pfarrer in B√ºndten, und seinen Einfu√ü auf Religion und Vaterland</TITLE>, mit <TITLE>Approbation des 1788. zu Jennis gehaltenen Hochwurdigen Synodus</TITLE>, dem Druck √ºbergeben von <AUTHOR>Lorenz Alliesch</AUTHOR>, Pfarrer zu <PLACE>Jgis 1. Marschlins</PLACE>, <FORMAT>4.</FORMAT>, <YEAR>1788</YEAR>. <PRIZE>10kr.</PRIZE></BIBL> <BIBL><AUTHOR>Ant. Fr. B√ºschings</AUTHOR> <TITLE>Unterricht in der Naturgeschichte, f√ºr diejenigen, welche noch wenig oder gar nichts von derselben wissen</TITLE>, erl√§utert durch <FORMAT>38 Kupfertafeln</FORMAT>, <FORMAT>gr. 8.</FORMAT>, <YEAR>1788</YEAR>. <PRIZE>fl. 2.</PRIZE></BIBL> <BIBL><TITLE>Das nemliche Buch, mit ausgemahlten Kupfern</TITLE>, <PRIZE>fl. 4. 30 kr.</PRIZE></BIBL> <BIBL><TITLE>Die Feldz√ºge des K√∂niges, nebst Betrachtungen √ºber die Ursachen der vorgefallenen Begebenheiten</TITLE>, <FORMAT>8vo.</FORMAT>, <PRIZE>30 kr.</PRIZE></BIBL> <BIBL><TITLE>Helden-Staats- und Lebensgeschichte Friedrichs ll, K√∂nigs in Preussen</TITLE>, aus √§chten Urkunden unpartheyisch beschrieben, und mit <TITLE>Anmerkungen erl√§utert</TITLE>, <VOLUME>12 Theile</VOLUME>, mit <FORMAT>Kupf.</FORMAT>, <FORMAT>8o</FORMAT>, <PRIZE>fl. 12.</PRIZE></BIBL> <BIBL><TITLE>Lebens- und Regierungsgeschichte K√∂nig Friedrichs il, in Preussen</TITLE>, <VOLUME>3 Theile</VOLUME>, mit <TITLE>Beylagen, enthaltend die Geschichte von 1740 bis zu Ende 1760.</TITLE>, <FORMAT>8vo.</FORMAT>, <PRIZE>fl. 8. 40kr.</PRIZE></BIBL></ITEM>\",\n  \"number_of_fixes\": 3,\n  \"explanation\": \"Three closing tags for <BIBL> were missing, these were added at the end of each respective book description.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 876,
+        "output_tokens": 881,
+        "total_tokens": 1757
+    },
+    "duration": 21.27544403076172,
+    "timestamp": "2025-11-02T20:33:58.765810"
+}

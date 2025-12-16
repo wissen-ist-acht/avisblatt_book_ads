@@ -1,0 +1,5 @@
+{
+    "fixed_xml": "<ITEM>(1512.) In Bahnmaier's Buchhandlung ist in Commission erschienen: <BIBL><TITLE>Die Sonntagsfeier und das Theater.</TITLE> Den Mitgliedern des Gro√üen Raths gewidmet und seinen Mitb√ºrgern vorgelegt. Von einem <AUTHOR>Basler</AUTHOR>. <PRICE>1/2 Btz.</PRICE></BIBL></ITEM>",
+    "number_of_fixes": 1,
+    "explanation": "The xml tag <PRIZE> was incorrect. It was replaced with the correct tag <PRICE>."
+}

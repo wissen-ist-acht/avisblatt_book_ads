@@ -1,0 +1,5 @@
+{
+    "fixed_xml": "<ITEM>6. Bey Hrn. Eucharius Haag, Buchbinder am Spahlenberg, ist zu haben: <BIBL><TITLE>Wein- Rechnungsb√ºchlein</TITLE>, in welchem die Maas nach den verschiedenen Preisen des Saums von H. 5. bis B. 40. und von fl. 4. bis fl. 40. in hiesigem, Margr√§fer- und Elsasserm√§s berechnet ist: ferner, wie ein Quantum von 1 Maas bis 20 Saum nach obigen Geldsorten und M√§√üen zu stehen komme: Sodann eine Vergleichnungs-Tabelle aller in unsern Gegenden bekannten Weinm√§√üen, und andern dahin einschlagenden Erl√§uterungen und Berechnungen mehr, so da√ü dieses B√ºchlein in allen nur m√∂glichen F√§llen jederman sowohl in der Stadt als Landschaft Basel, im Margr√§fischen und Elsa√ü sehr bequem und n√ºtzlich seyn wird</BIBL>, verlegt von <AUTHOR>Hrn. J. J. B√ºechy</AUTHOR>, √† <PRIZE>4 Btz.</PRIZE> das Eremplar, broschirt; wer aber 25 Eremplar zusammen nimmt, hat das gew√∂hnliche Benefice zu geniessen.</ITEM>",
+    "number_of_fixes": 1,
+    "explanation": "The XML was missing a closing </BIBL> tag before the <AUTHOR> tag. This has been added to correct the structure of the XML."
+}

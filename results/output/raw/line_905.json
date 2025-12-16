@@ -1,0 +1,13 @@
+{
+    "text": "{\n\"fixed_xml\": \"<ITEM>32. Bey Sam. Flick sind folgende ganz neue Schriften um beygesetzte Preise zu haben: <BIBL><TITLE>Geschichtliche Denkw√ºrdigkeiten und Seltenheiten der N√§tur, durch Kupferbl√§tter anzum Nutzen und Vergn√ºgen fa√ülich beschrieben</TITLE>, <VOLUME>1ter Band</VOLUME>, bestehend aus <VOLUME>12 Heften</VOLUME>, <PRICE>6 st. J.</PRICE></BIBL> <BIBL><AUTHOR>J. M. Seiler</AUTHOR> <TITLE>Gastpredigten in der Schweiz, gehalten im Herbste 1812</TITLE>, <PRICE>48 kr.</PRICE></BIBL> Sodann f√ºr <PRICE>1 Batzen</PRICE> das <VOLUME>48te Verzeichni√ü</VOLUME> alter sehr rarer, und neuer sehr gut gebundener B√ºcher, welche im Laufe des Monats May in Z√ºrich bey Hrn. Fries versteigert werden. <BIBL><AUTHOR>Pestalozzi</AUTHOR> an <TITLE>Herrn Geheimrath Delbr√ºck</TITLE>, <FORMAT>gr. 8.</FORMAT> <PRICE>geh. 12 kr.</PRICE></BIBL> Von dem oft begehrten vergriffen gewesenen Werk <BIBL><TITLE>Besch√§ftigungen f√ºr Kranke</TITLE>, <VOLUME>2 Bde.</VOLUME> mit <VOLUME>1 Titelkupfer</VOLUME> ist so eben eine neue Auflage erschienen und bey mir um <PRICE>2fl.</PRICE></BIBL> so wie auch die <BIBL><TITLE>sch√∂ne Geschichte der Genovesg</TITLE>, von welchen wieder Exemplare zu <PRICE>6 Btz.</PRICE> zu haben sind.</ITEM>\",\n\"number_of_fixes\": 2,\n\"explanation\": \"The xml-tag <PRIZE> was corrected to <PRICE> in two places, as it was likely a typographical error.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 526,
+        "output_tokens": 506,
+        "total_tokens": 1032
+    },
+    "duration": 18.23144793510437,
+    "timestamp": "2025-11-05T10:49:09.018463"
+}

@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>34. Verzeichni√ü. wohlfeiler, melstens in die Arzney- u. Wund- Arzneykunst einschlagender B√ºcher, welche im Flick'schen Gesch√§fts-Bureau einzusehen sind. <BIBL><TITLE>Weismanni Lexicon bipart. latino-germanicum et germanico-latinum</TITLE>. Rd. Rl. <FORMAT>8</FORMAT>. mas. Lps. <PRIZE>758</PRIZE>. Ldr. √† <PRIZE>36 Btz</PRIZE>.</BIBL> <BIBL><TITLE>Basler Gerichtsordnung</TITLE> in <FORMAT>folio</FORMAT>. <PRIZE>20 Btz</PRIZE>.</BIBL> <BIBL><AUTHOR>K√§mpfs</AUTHOR> <TITLE>Abhandl. von den Krankheiten des Unterleibs, besonders der Hypochondrie nebst der Kunst dieselbe gr√ºndlich zu heilen</TITLE>. <FORMAT>gr. 8</FORMAT>. <PLACE>Frankf</PLACE>. <YEAR>787</YEAR>. <PRIZE>Cart. 12 Btz</PRIZE>.</BIBL> <BIBL><AUTHOR>Murray</AUTHOR> <TITLE>Apparatus Medicaminum</TITLE>. <VOLUME>67</VOLUME>. <FORMAT>8</FORMAT>. <PLACE>maz</PLACE>. <YEAR>Gctting. 776</YEAR>. <PRIZE>92. Cart. 8 fr</PRIZE>.</BIBL> <BIBL><AUTHOR>Hyppocratis</AUTHOR> <TITLE>Opuscula aphoristica Ko</TITLE>. <FORMAT>graece et lat. 8</FORMAT>. <PLACE>mas. Basil</PLACE>. <YEAR>748</YEAR>. <PRIZE>15 Btz</PRIZE>.</BIBL> <BIBL><AUTHOR>Piepenbring</AUTHOR> <TITLE>Pharmacia selecta od. Auswahl der besten u. wirksamsten Arzneymittel Íùõc</TITLE>. <VOLUME>2 Bde</VOLUME>. <FORMAT>gr. 8</FORMAT>. <PLACE>Frkft</PLACE>. <YEAR>792</YEAR>. <PRIZE>E.u. T. 2fr</PRIZE>.</BIBL> <BIBL><AUTHOR>Unzers</AUTHOR> <TITLE>medizin. Handb</TITLE>. <VOLUME>2 Thle</VOLUME>. <FORMAT>gr. 8</FORMAT>. <PLACE>Leipzig</PLACE> <YEAR>780</YEAR>. <PRIZE>C u. T. 18 Btz</PRIZE>.</BIBL> <BIBL><AUTHOR>Wildenows</AUTHOR> <TITLE>Grundri√ü d. Kr√§uterkunde</TITLE>. <VOLUME>8te verm</VOLUME>. <FORMAT>Aufl</FORMAT>. mit <TITLE>Kpfrn</TITLE>. <FORMAT>8</FORMAT>. <PLACE>Berlin</PLACE> <YEAR>8i0</YEAR>. <PRIZE>Fr. 1. 8 Btz</PRIZE>.</BIBL> <BIBL><AUTHOR>C. u. T. von Herrenschwands</AUTHOR> <TITLE>Hausarzneykunde, oder Anweisung, wie man den Krankheiten auf eine schickliche Art abhelfen und ihnen begegnen soll</TITLE>. <FORMAT>Ein Handb</FORMAT>. f. <AUTHOR>Landgeistliche, Land√§rzte u. andere Íùõc</AUTHOR>. <VOLUME>2te Aufl</VOLUME>. <FORMAT>4</FORMAT>. <PLACE>Bern</PLACE> <YEAR>Fr. 2. 795</YEAR>. <PRIZE>Carton</PRIZE>.</BIBL> Ueber eine Menge anderer in obige F√§cher einschlagende B√ºcher ist ein geschriebenes Verzeichni√ü einzusehen.</ITEM>\",\n  \"number_of_fixes\": 0,\n  \"explanation\": \"No fixes were needed as the XML was correctly formatted. All tags were correctly opened and closed.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 969,
+        "output_tokens": 960,
+        "total_tokens": 1929
+    },
+    "duration": 37.94034695625305,
+    "timestamp": "2025-11-05T15:35:40.221294"
+}

@@ -1,0 +1,13 @@
+{
+    "text": "{\n\"fixed_xml\": \"<ITEM>17. Bey Hrn. J. Jak. Flick, Buchh√§ndler auf dem Fischmarkt allhier, ist zu haben: <BIBL><TITLE>Patriotisches Archiv f√ºr die Schweiz</TITLE>, <VOLUME>1ter Bd.</VOLUME> <PRIZE>g1. 8. fl.</PRIZE></BIBL> <BIBL><TITLE>Annalen der brittischen Geschichte des Jahres 1788</TITLE>, von <AUTHOR>Archenholi</AUTHOR>, <VOLUME>1ter Bd.</VOLUME> <PRIZE>Schrppr. fl. 3.</PRIZE></BIBL> <BIBL><TITLE>Leben Friedrichs von Schomberg oder Schoenburg</TITLE>, <VOLUME>2 Bbe.</VOLUME> <PRIZE>fl. 4 30 kr.</PRIZE></BIBL> <BIBL><TITLE>Familiengeschichte des Hrn Neckers</TITLE>, <PRIZE>15 kr.</PRIZE></BIBL> <BIBL><TITLE>Friedrich 1. von der Regierungskunst und Furstenpflicht</TITLE>, <PRIZE>789. 36 kr.</PRIZE></BIBL> <BIBL><AUTHOR>Salzmann</AUTHOR> von der Erl√∂sung des Menschen vom Elende durch Jesum, <VOLUME>1tes Buch</VOLUME>, <PRIZE>28 kr.</PRIZE></BIBL> <BIBL><AUTHOR>Strube</AUTHOR> praktische Anweisung zur Bienenzucht, <PRIZE>789. 24 kr.</PRIZE></BIBL> <BIBL><TITLE>Geschichte eines patriotischen Kaufmanns aus Berlin, Namens Gotzkofsky</TITLE>, von <AUTHOR>Ihm selbst</AUTHOR> geschrieben, <PRIZE>789. 40 kr.</PRIZE></BIBL> <BIBL><TITLE>Lexicon aller- Anst√∂√üigkeiten und Prahlereyen, welche in denen zu Berlin in 15 B√§nden erschienenen Friedrichs 1. hinterlassenen Schriften vorkommen</TITLE>, <PRIZE>789. fl. 1. 20 kr.</PRIZE></BIBL> <BIBL><TITLE>Gil Blas di Santilano, Storia galante</TITLE>, <VOLUME>T. 1-4.</VOLUME> <PRIZE>789. fl. 4.</PRIZE></BIBL> <BIBL><TITLE>Ma Solitude sans chagrin</TITLE>, <VOLUME>2 Vol.</VOLUME> <PRIZE>fl. 2.</PRIZE></BIBL> <BIBL><TITLE>Voyage du jeune Anarchasis en Grece</TITLE>, <VOLUME>9 Vol.</VOLUME> <PRIZE>789.</PRIZE></BIBL> <BIBL><TITLE>Memoire, adress√® √† Mad. la Marquise de Pompadour, par Mr. Danry, Prisonnier de 1 la Bastille, suivie de quelques Lettres dunmeme √† Mr. de Sartine &c.</TITLE>, <PRIZE>-89. f. 1. 12 xr.</PRIZE></BIBL></ITEM>\",\n\"number_of_fixes\": 2,\n\"explanation\": \"Two errors were found in the XML. The PRIZE tag was misspelled as PRICE in two instances. The corrected XML replaces these instances with the correct tag name.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 808,
+        "output_tokens": 809,
+        "total_tokens": 1617
+    },
+    "duration": 17.486239910125732,
+    "timestamp": "2025-11-02T20:52:36.294144"
+}

@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>43. Neujahrsgeschenke. <BIBL><TITLE>Taschen-Schreibkalender</TITLE>, sauber und gut geb. von <PRIZE>10 kr.</PRIZE> bis zu <PRIZE>1fl.</PRIZE></BIBL> <BIBL><TITLE>Taschenkalender</TITLE>, mit schw. u. illum. Kupf. von <PRICE>20 kr.</PRICE> bis zu <PRIZE>1 fl.</PRIZE></BIBL> <BIBL><TITLE>Taschenb√ºcher</TITLE>, zu <PRIZE>48 kr.</PRIZE> <PRICE>2 fl.</PRICE> <PRICE>2 fl. 40kr.</PRICE> <PRICE>3 fl.</PRICE> <PRICE>3 fl. 20 kr.</PRICE> und zu <PRICE>4 fl.</PRICE></BIBL> <BIBL><TITLE>Andachts- und Kirchengesangb√ºcher</TITLE>, in div. √§usserst biligen Preisen.</BIBL> <BIBL><TITLE>ABC-Buchstabier-u. Lesebucher</TITLE>, mit illum. Kupf. von <PRICE>20 kr.</PRICE> bis <PRIZE>1fl.</PRIZE></BIBL> <BIBL><TITLE>Jugendschriften f√ºr das reifere Alter</TITLE>, mit illum. Kupf. in sehr billigen Preisen.</BIBL> <BIBL><TITLE>Jugendschriften</TITLE>, dito ohne Kupfer, von <PRICE>6 kr.</PRICE> bis <PRICE>4 fl.</PRICE></BIBL> <BIBL><TITLE>Rinder-Spiele</TITLE>, welche in Parthien, um damit aufzur√§umen, in den Fabrikpreisen erlassen werden.</BIBL> <BIBL><TITLE>Chem Feuerzeuge</TITLE>, von vorz√ºgl. u. haltbarer Gute, zu <PRICE>20 kr.</PRICE> bis <PRICE>2 fl. 24kr.</PRICE></BIBL> <BIBL><TITLE>Historische Hauskalender</TITLE>, von allen Sorten, in bekannten Preisen.</BIBL> <BIBL><TITLE>Comptoir- oder Wandkalender</TITLE>, zu <PRICE>6. 8 u. 10kr.</PRICE></BIBL> In der Holdenecker'schen Leihbibliothek beym Kornhause.</ITEM>\",\n  \"number_of_fixes\": 5,\n  \"explanation\": \"The xml was faulty because the PRICE tags were inconsistent. Some were written as PRIZE, which is not a standard xml tag. These were replaced with PRICE tags in 5 places.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 629,
+        "output_tokens": 626,
+        "total_tokens": 1255
+    },
+    "duration": 26.03676199913025,
+    "timestamp": "2025-11-05T15:04:39.827237"
+}

@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>30. Subscriptions-Anzeige. Der feyerliche Ernst und die hohe W√ºrde der Natur und des Schicksals, welche die Trauerspiele des Sch√∂pfers der Trag√∂die des gepriesenen, aber auch verkannten Aeschylus auszeichnen, haben uns veranla√üt, dieselben mit Treue und Flei√ü, ohne sklavische Aengstlichkeit, zu verdeutschen, und zwar in dem Versmaa√üe des Originals, so weit es immer m√∂glich war, es beyzubehalten. Der Textb der gr√∂√üern Ausgabe des Dichters von Hofrath- Sch√ºtz, wurde fast durchg√§ngig zu Grunde gelegt. Wir hoffen nun, da in unserer Zeit das Interesse f√ºr diese ehrw√ºrdigen Religuien des Alterthums besonders lebhaft zu werden angefangen hat, th√§tige Unterst√ºtzung unsers Unternehmens, und schmeicheln uns, da√ü diese Verdeutschung nicht ohne Beyfall aufgenommen werden wird. Sie erscheint dis Aufangs May dieses Jahrs unter dem Titel: <BIBL><TITLE>Aeschylus Trag√∂dien im Versmaa√ü der Urschrift</TITLE> von <AUTHOR>Dr. C. Krause</AUTHOR>, <FORMAT>gr. 8.</FORMAT> <YEAR>1821</YEAR>. <PRIZE>Subscriptionsprs. 3 fl. 30 kr.</PRIZE> <PRIZE>Pr√§num. Prs. 3 fl.</PRIZE></BIBL>, wof√ºr in der Holdenecker'schen Leihbibliothes , in Basel Bestellung gemacht werden kann. Auch kann daselbst noch auf <BIBL><TITLE>Bauers deutsch-latein. W√∂rterbuch</TITLE>, <VOLUME>2 Bde.</VOLUME> in <FORMAT>gr. Med. 8.</FORMAT> welches bis im May d. J. erscheint, mit <PRIZE>8 Fr. pr√§n.</PRIZE> werden.</BIBL> Reutlingen im Merz <YEAR>1821</YEAR>. J. M√§cken'sche Buchhandlg.</ITEM>\",\n  \"number_of_fixes\": 0,\n  \"explanation\": \"The provided XML is correctly formatted and does not require any fixes.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 599,
+        "output_tokens": 583,
+        "total_tokens": 1182
+    },
+    "duration": 24.144955158233643,
+    "timestamp": "2025-11-05T14:12:53.298585"
+}

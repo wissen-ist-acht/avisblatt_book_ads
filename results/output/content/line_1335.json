@@ -1,0 +1,5 @@
+{
+    "fixed_xml": "<ITEM>1 Neueste B√ºcher. In der Schweighauser'schen Buchhand- <BIBL><TITLE>Anweisung z. heilsamen Wassergebrauch Mittel wider Magenbeschwerden und f√ºr Menschen und Vieh, in den gangbarsten Krankheiten und Leibesgebrechen</TITLE>, v. <AUTHOR>Oertel, Kolb u. Kirchmayr</AUTHOR>.</BIBL> <BIBL><TITLE>Die Handelsschule. F√ºr J√ºnglinge, welche sich dem Handel und Fabrik- Wesen widmen wollen</TITLE>, von <AUTHOR>A. F. Jocher</AUTHOR>. <VOLUME>Erster Band</VOLUME>.</BIBL> <BIBL><TITLE>Consid√©rations Sur V√©tat militcire de Unterleibs-Krankheiten</TITLE>, v. <AUTHOR>Dr. Metz</AUTHOR>. <TITLE>la Suisse, par un officier de l'arm√©e f√©d√©rale</TITLE>. <PLACE>Lucerne</PLACE>. lung ist zu haben: <PRICE>br. 2 Fr. 65 Rpp.</PRICE> <PRICE>br. 9 Btz.</PRICE> <PRICE>br. 6 Btz.</PRICE> <PRICE>4 Fr.</PRICE></BIBL></ITEM>",
+    "number_of_fixes": 1,
+    "explanation": "The XML was missing the closing tag for 'PRICE'. The tag was written as 'PRIZE' instead of 'PRICE'. This was corrected."
+}

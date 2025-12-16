@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>20. Bey Hrn. Bolli, Buchbinder auf dem Kornmarkt, ist zu haben: <BIBL><AUTHOR>Webers</AUTHOR> <TITLE>Sagen der Vorzeit</TITLE>, <VOLUME>5ter Thl.</VOLUME> <YEAR>795</YEAR>. <PRIZE>fl. 1. 8 kr.</PRIZE> alle <VOLUME>5 Theile</VOLUME> dito <PRIZE>fl. 4. 40 kr.</PRIZE></BIBL> <BIBL><AUTHOR>Heinrich Stilling</AUTHOR> <TITLE>Das Heimweh</TITLE>, <VOLUME>2ter Band</VOLUME>, <YEAR>795</YEAR>. <PRIZE>fl. 1. 12 kr.</PRIZE> beyde <VOLUME>B√§nde</VOLUME> dito <PRIZE>fl. 2. 6kr.</PRIZE></BIBL> <BIBL><AUTHOR>Forsters</AUTHOR> <TITLE>Ansichten vom Niederrhein, von Braband, Flandern, Holland, England und Frankreich</TITLE>, <VOLUME>3ter Thl.</VOLUME> <YEAR>795</YEAR>. <PRIZE>48 kr.</PRIZE> alle <VOLUME>3 Theile</VOLUME> dito <PRICE>fl. 2. 30 kr.</PRICE></BIBL> <BIBL><AUTHOR>Richters</AUTHOR> <TITLE>Anfangsgr√ºnde der Wundarzneykunst</TITLE>, mit <FORMAT>Kpf.</FORMAT> <VOLUME>3 Thle.</VOLUME> <PRICE>fl. 4. 30 kr.</PRICE></BIBL> <BIBL><TITLE>Sophiens Reise von Memel nach Sachsen</TITLE>, <VOLUME>6 Thle.</VOLUME> <YEAR>778</YEAR>. <PRICE>fl. 5. 30 kr.</PRICE></BIBL> <BIBL><TITLE>F√ºr Eltern und Ehelustige;</TITLE> vom <AUTHOR>Verfasser von Sophiens Reise</AUTHOR>, <VOLUME>5 Thle.</VOLUME> <PRICE>fl. 3. 30 kr.</PRICE></BIBL> <BIBL><TITLE>Heinrich der L√∂we</TITLE>, mit <FORMAT>Kpf.</FORMAT> <VOLUME>2Thle.</VOLUME> <PRICE>fl. 1. 40 kr.</PRICE></BIBL> <BIBL><TITLE>Laureita Pisana, Leben einer itali√§nischen B√ºhlerin</TITLE>, <VOLUME>2 Thle.</VOLUME> <YEAR>792</YEAR>. <PRICE>fl. 1. 40 kr.</PRICE></BIBL> <BIBL><TITLE>Die Familie Eboli</TITLE>, dramatisch bearbeitet vom <AUTHOR>Verfasser der Lauretta Pisana</AUTHOR>, <VOLUME>4 Thle.</VOLUME> <PRICE>fl. 3.</PRICE></BIBL></ITEM>\",\n  \"number_of_fixes\": 4,\n  \"explanation\": \"The XML was missing closing tags for the PRICE element in four instances. These were added to fix the XML.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 768,
+        "output_tokens": 750,
+        "total_tokens": 1518
+    },
+    "duration": 30.139636039733887,
+    "timestamp": "2025-11-04T13:47:36.516651"
+}

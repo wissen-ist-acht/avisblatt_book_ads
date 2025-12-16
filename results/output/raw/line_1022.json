@@ -1,0 +1,13 @@
+{
+    "text": "{\n\"fixed_xml\": \"<ITEM>27. Neue B√ºcher bey Neukirch, Buchhdlr. zu bekommen. <BIBL><TITLE>Ausf√ºhrliche Darstellung von K. L. Sands letzten Tagen und Augenblicken</TITLE> Mit dessen wohlgetroffenem Bildni√ü. <FORMAT>8.</FORMAT> <PRICE>br. 45 kr.</PRICE> Dasselbe ohne Bildni√ü <PRICE>18 kr.</PRICE></BIBL> <BIBL><TITLE>Die Schule der Wundarzneykunst.</TITLE> <TITLE>Ein Leitfaden zum zweckm√§√üigen Unterricht der Lehrlinge.</TITLE> <VOLUME>1r Band</VOLUME> <FORMAT>gr. 8.</FORMAT> <PLACE>Erfurt.</PLACE> <PRICE>2fl</PRICE></BIBL> <BIBL><TITLE>S√ºdamerika, wie es war und jetzt ist; oder Ursprung und Fortgang der Revolution daselbst bis 1819.</TITLE> <VOLUME>1 Bd.</VOLUME> <FORMAT>8.</FORMAT> <PRICE>3 fl.</PRICE></BIBL> <BIBL><TITLE>Polytechnisches Journal.</TITLE> <TITLE>Eine Zeitschrift zur Verbreitung gem. Kenntnisse im Gebiete der Manufaktur, K√ºnste, Gewerbe, Haus- u. Landwirthschaft u. s. w.</TITLE> Herausg. von <AUTHOR>Dingler.</AUTHOR> Der Jahrgang von <VOLUME>12 Heften</VOLUME> mit Kufern <PRICE>16 fl.</PRICE></BIBL> <BIBL><TITLE>Organ f√ºr den deutschen Handels- und Gewerbsstand</TITLE> <VOLUME>1. 2. u. 3s Semester.</VOLUME> <PLACE>4. Stuttgardt.</PLACE> Der halbe Jahrgang <PRICE>3 fl.</PRICE></BIBL> <BIBL><TITLE>Christliche Urania, oder Ges√§nge f√ºr Freunde der Religion und eines heitern Ctristenthums.</TITLE> Von <AUTHOR>Ludwig Reuffer.</AUTHOR> <FORMAT>8.</FORMAT> <PLACE>Leinzig bey Gerhard Fleischer</PLACE> <YEAR>1820.</YEAR> <PRICE>2 fl. 20 kr.</PRICE></BIBL></ITEM>\",\n\"number_of_fixes\": 5,\n\"explanation\": \"The XML tags for the price of the items were inconsistent, with some items using the tag 'PRIZE' and others using 'PRICE'. All instances of 'PRIZE' were replaced with 'PRICE' to maintain consistency.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 625,
+        "output_tokens": 624,
+        "total_tokens": 1249
+    },
+    "duration": 21.567105770111084,
+    "timestamp": "2025-11-05T12:04:48.657014"
+}

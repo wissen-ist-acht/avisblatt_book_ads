@@ -1,0 +1,13 @@
+{
+    "text": "{\n\"fixed_xml\": \"<ITEM>In der Serinischen Buchhandlung sind folgende Musikalien zu haben: <BIBL><TITLE>Die Zauderfl√∂te</TITLE>, eine grosse Oper f√ºrs Clavier oder Pianoforte, von <AUTHOR>Mozart</AUTHOR>. <PRIZE>fl. 4. 12kr.</PRIZE></BIBL> <BIBL><TITLE>Ouverture aus der Zauberfl√∂te</TITLE>, zu 4 H√§nden, vom nemlichen, <PRIZE>fl. 1. 8 kr.</PRIZE></BIBL> <BIBL><TITLE>Colma</TITLE>, ein Gesang Osstans von <AUTHOR>G√∂the</AUTHOR> f√ºrs Clavier und Gesang, von <AUTHOR>Zumsteeg</AUTHOR>. <PRIZE>fl. 1. 30 kr.</PRIZE></BIBL> <BIBL><TITLE>Die Entf√ºhrung</TITLE>, eine Ballade von <AUTHOR>B√ºrger</AUTHOR>, in Musie gesetzt von <AUTHOR>Zumsteeg</AUTHOR> <PRIZE>fl. 12 30 kr.</PRIZE></BIBL> <BIBL><TITLE>Der Schauspiel-Direktor</TITLE>, eine komische Operette von <AUTHOR>Mozart</AUTHOR>. <PRIZE>fl. 2. 16 kr.</PRIZE></BIBL> <BIBL><TITLE>Mariechen</TITLE>, eine komische Operette von <AUTHOR>Jester</AUTHOR>, in Musik gesetzt von <AUTHOR>Benda</AUTHOR>. <PRIZE>fl. 4. 48 kr.</PRIZE></BIBL> <BIBL><TITLE>Hieronymus Knicker</TITLE>, eine komische Oper von <AUTHOR>Dittersdorf</AUTHOR>, im Clavierauszuge von <AUTHOR>Schmied</AUTHOR>. <PRIZE>fl. 5. 24 kr.</PRIZE></BIBL> <BIBL><TITLE>Der Schiffspatron, oder der neue Gutsherr</TITLE>, eine komische Oper von <AUTHOR>Dittersdorf</AUTHOR>, Musik von <AUTHOR>Schmied</AUTHOR>. <PRIZE>fl. 5. 24 kr.</PRIZE></BIBL> <BIBL><TITLE>Sammlung von deutschen, franz√∂sischen und itali√§nischen Liedern</TITLE>, beym Clavier zu singen, in Musit gesetzt von <AUTHOR>Naumann</AUTHOR>. <PRIZE>fl. 2. 24 kr.</PRIZE></BIBL> <BIBL><TITLE>Ludmille und Heinrich Posen</TITLE>, eine Ballade von <AUTHOR>Ihle</AUTHOR>, Musik von <AUTHOR>Cullmann</AUTHOR>. <PRIZE>fl. 1. 30 kr.</PRIZE></BIBL> <BIBL><TITLE>Das rothe K√§ppchen</TITLE>, eine komische Oper von <AUTHOR>Dittersdorf</AUTHOR>, im Clavierauszug von <AUTHOR>Schmied</AUTHOR>. <PRIZE>fl. 3. 36 kr.</PRIZE></BIBL></ITEM>\",\n\"number_of_fixes\": 3,\n\"explanation\": \"There were three instances where the closing tag for 'PRIZE' was incorrectly written as 'PRICE'. These have been corrected.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 807,
+        "output_tokens": 800,
+        "total_tokens": 1607
+    },
+    "duration": 27.464293956756592,
+    "timestamp": "2025-11-04T13:34:38.382678"
+}

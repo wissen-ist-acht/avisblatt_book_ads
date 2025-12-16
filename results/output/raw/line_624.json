@@ -1,0 +1,13 @@
+{
+    "text": "{\n\"fixed_xml\": \"<ITEM>27. Bey Hrn. Joh. Jakob Flick, Buchh√§ndler auf dem Fischmarkt, ist zu haben: <BIBL><TITLE>Fabri Magazin f√ºr die Geographie, Staatenkunde und Geschichte</TITLE>, <VOLUME>1ter Bd.</VOLUME> <YEAR>797</YEAR>. <PRIZE>fl. 1. 38 kr.</PRIZE></BIBL> <BIBL><TITLE>Zus√§tze, Verbesserungen und neue Artickel zu dem geographisch-statistischen Lexicon von Schwaben</TITLE> <YEAR>797</YEAR>. <PRIZE>fl. 1.</PRIZE></BIBL> <BIBL><TITLE>Fragmente aus der Geschichte Frankreichs vor und nach der Robespierrischen Regierung</TITLE> <YEAR>797</YEAR>. <PRIZE>fl. 1. 14 kr.</PRIZE></BIBL> <BIBL><TITLE>Romantische Biographien aus dem mittlern Zeitalter</TITLE>, <VOLUME>1ter Bd.</VOLUME> <YEAR>797</YEAR>. <PRIZE>fl. 1. 12 kr.</PRIZE></BIBL> <BIBL><TITLE>Konrad Kiester, oder Anweisung zu einer vern√ºnftigen Erziehung der Kinder</TITLE>, von <AUTHOR>Salzmann</AUTHOR> <YEAR>796</YEAR>. <PRIZE>36 kr.</PRIZE></BIBL> <BIBL><TITLE>Opfergabe auf dem Altar der Freundschaft, in einer Auswahl allgemein beliebter Lieder</TITLE> <PRIZE>56 kr.</PRIZE></BIBL> <BIBL><TITLE>Leichte Reduction des franz√∂sischen Geldes in deutsches und des deutschen in franz√∂sisches</TITLE> <PRIZE>br.; kr.</PRIZE></BIBL> <BIBL><TITLE>Charakteristik Joh. Jakob Steinbr√ºchels, gewesenen Professors in Zurich</TITLE>, von <AUTHOR>H. C. He√ü</AUTHOR> <YEAR>797</YEAR>. <PRIZE>br. 12 kr.</PRIZE></BIBL> <BIBL><TITLE>Charakterz√ºge und Erinnerungen f√ºr Layen und Priester zur Warnung und Verbesserung</TITLE> <YEAR>796</YEAR>. <PRIZE>18 kr.</PRIZE></BIBL> <BIBL><AUTHOR>Spie√ü</AUTHOR> <TITLE>Reisen durch die H√∂len des Ungl√ºcks und Gem√§cher des Jammers</TITLE>, <VOLUME>1ter Bd.</VOLUME> <YEAR>797</YEAR>. <PRIZE>26 kr.</PRIZE></BIBL> <BIBL><TITLE>Di√§tetit f√ºr junge Leute, besonders f√ºr Studierende</TITLE> <YEAR>797</YEAR>. <PRIZE>40 kr.</PRIZE></BIBL></ITEM>\",\n\"number_of_fixes\": 2,\n\"explanation\": \"There were two instances where the <PRICE> tag was used instead of the <PRIZE> tag. These have been corrected.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 769,
+        "output_tokens": 764,
+        "total_tokens": 1533
+    },
+    "duration": 28.2748019695282,
+    "timestamp": "2025-11-04T14:14:47.535800"
+}

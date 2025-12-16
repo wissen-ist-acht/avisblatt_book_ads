@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>61. Bey Hrn. Buchbinder Scholer auf der Rheinbruck, sind wiederum von den alten Baslextrachten angelangt, <BIBL><TITLE>das Eremplar</TITLE> complet in <VOLUME>21 Stucken</VOLUME>, √† <PRIZE>1 Nthlr.</PRIZE> einzele Stuck <PRIZE>6 kr.</PRIZE></BIBL> <BIBL><TITLE>Herrn Pfr. Lavaters Portrait</TITLE>, auf <FORMAT>Realpap.</FORMAT> <PRIZE>12 kr.</PRIZE></BIBL> <BIBL><AUTHOR>Hrn. Joh. Casp. Lavater</AUTHOR>, <TITLE>Lieder f√ºr Leidende</TITLE>, <YEAR>1787</YEAR>. gebunden <PRIZE>8 kr.</PRIZE></BIBL> <BIBL><TITLE>Theatrum Europaeum</TITLE>, die <VOLUME>10 ersten Theile</VOLUME> wol-conditioniert, <PRIZE>zw√∂lf Rthlr.</PRIZE></BIBL> <BIBL><AUTHOR>W√ºrsteisens</AUTHOR> <TITLE>Baslerchronit</TITLE>, mit der <TITLE>Stadt Landeharten</TITLE>, <PRIZE>2 Nthlr.</PRIZE></BIBL> <BIBL><TITLE>Das verwirrte Europa</TITLE>, mit <FORMAT>Merianischen Kupfern</FORMAT>, <PRIZE>fl. 2.</PRIZE></BIBL> <BIBL><AUTHOR>Valentini</AUTHOR> <TITLE>Materialkammer</TITLE>, <PRIZE>fl. 4.</PRIZE></BIBL> <BIBL><TITLE>Allgemeiner Schauplatzmarkt und Zusammenkunft aller Profe√üionen, K√ºnsten, Gesch√§ften, H√§ndeln und Handwerken Íùõc.</TITLE> mit <FORMAT>Kupfern</FORMAT>, <PRIZE>fl. 2.</PRIZE></BIBL> <BIBL><AUTHOR>Carlo Goldoni</AUTHOR>, <TITLE>La Commedie del Dottori</TITLE>, <VOLUME>9 Tom.</VOLUME> <FORMAT>8o</FORMAT> in halb <FORMAT>Franzband</FORMAT> sauber gebund. <PRIZE>fl. 8.</PRIZE></BIBL></ITEM>\",\n  \"number_of_fixes\": 3,\n  \"explanation\": \"Three closing PRIZE tags were incorrectly written as PRICE. These have been fixed to PRIZE.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 616,
+        "output_tokens": 605,
+        "total_tokens": 1221
+    },
+    "duration": 21.67328190803528,
+    "timestamp": "2025-11-02T20:26:27.543752"
+}

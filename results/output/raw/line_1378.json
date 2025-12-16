@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>31. Anze ig e. So eben ist erschienen und in den Buchhandlungen von Fel. Schneider und C. F. Spittler zu haben: <BIBL><TITLE>Die Juden und die Mission unter denselben in Polen.</TITLE> Besonders abgedruckt aus den von dem Vereine von Freunden Israels in Basel herausgegebenen, <TITLE>Nachrichten von der Ausbreitung des Reiches Gottes unter Israel.</TITLE> <FORMAT>68 Seiten.</FORMAT> <PRICE>Preis 3 Batzen.</PRICE></BIBL></ITEM>\",\n  \"number_of_fixes\": 1,\n  \"explanation\": \"The <PRIZE> tag was incorrectly spelled. It has been corrected to <PRICE>.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 191,
+        "output_tokens": 176,
+        "total_tokens": 367
+    },
+    "duration": 7.213907957077026,
+    "timestamp": "2025-11-06T10:31:00.591726"
+}

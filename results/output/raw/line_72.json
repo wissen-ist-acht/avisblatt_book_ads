@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>Die <BIBL><TITLE>Berleburger-Bibel</TITLE></BIBL> und <BIBL><AUTHOR>Zwingers</AUTHOR><TITLE>Kra√ºterbuch</TITLE></BIBL> neueste Edition, wer solche zu verkauffen hat, beliebe sie nebst dem aussersten Preis ins Berichthaus zur Besichtigung zu geben.</ITEM>\",\n  \"number_of_fixes\": 1,\n  \"explanation\": \"In the original XML, the second <BIBL> tag was not properly closed after the <TITLE>Kra√ºterbuch</TITLE>. This was fixed by adding a closing </BIBL> tag after <TITLE>Kra√ºterbuch</TITLE>.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 145,
+        "output_tokens": 173,
+        "total_tokens": 318
+    },
+    "duration": 5.279948949813843,
+    "timestamp": "2025-10-30T17:49:35.961955"
+}

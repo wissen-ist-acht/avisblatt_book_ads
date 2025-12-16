@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>34. Bey J. W√ºrz ist in Commi√üion zu haben: <BIBL><AUTHOR>Wie√üners J.</AUTHOR> deutsche <TITLE>Aufs√§tze zum R√ºck√ºbersetzen in das Italienische</TITLE> <VOLUME>2te</VOLUME> durch aus umgearbeitete <FORMAT>Ausgabe</FORMAT>. <PRIZE>8. 1fl.</PRIZE></BIBL> <BIBL><AUTHOR>F√∂rsters, C. F.</AUTHOR> <TITLE>geistliche Ges√§nge auf die 1 christl. Feste des Jahrs</TITLE>. <FORMAT>8.</FORMAT> <PRIZE>40 kr.</PRIZE></BIBL> <BIBL><AUTHOR>Sch√∂ners, J. G.</AUTHOR> <TITLE>Sammlung einiger Trostlieder, insbesondere an Geburtstagen</TITLE>. <FORMAT>8.</FORMAT> <PRIZE>12 kr.</PRIZE></BIBL> <BIBL><TITLE>Erz√§hlungen aus den Basler-Sawm ungen und andern Schriften f√ºr Liebhaber christ Wahrheit Íùõc.</TITLE>. <FORMAT>8</FORMAT> <PRIZE>br. 10 kr.</PRIZE></BIBL> <BIBL><TITLE>Kleine Spruchbibel mit kurzen Ermunterungen f√ºr aufmerksame Kinder</TITLE>. <PRIZE>geb. √† 10 kr</PRIZE> <PRIZE>mit schw. Kpfrn. √† 15 kr.</PRIZE> <PRIZE>mit illum. dito. √† 24 kr</PRIZE></BIBL></ITEM>\",\n  \"number_of_fixes\": 2,\n  \"explanation\": \"Two closing tags for the 'PRIZE' element were mistyped as 'PRICE', these have been corrected.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 471,
+        "output_tokens": 463,
+        "total_tokens": 934
+    },
+    "duration": 14.089083194732666,
+    "timestamp": "2025-11-04T15:18:03.629259"
+}

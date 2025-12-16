@@ -1,0 +1,13 @@
+{
+    "text": "{\n\"fixed_xml\": \"<ITEM>21. No vi kr√§ ten bey Neukirch, Buchh√§ndler. <BIBL><TITLE>Versuch einer Allgemeinen Missionsgeschichte der Kirche Christi</TITLE> von <AUTHOR>M. C. G. Blumhardt</AUTHOR>, Inspector der evangel. Missions-Schule zu Basel. <VOLUME>1r Band</VOLUME> mit einem K√§rtchen, enthaltend die Missionsgeschichte im Apostolischen Zeitalter von ihrem Stiftungstage an bis zum Tode des Apostels Johannes. <FORMAT>gr. 8.</FORMAT> <PLACE>Basel</PLACE>. <PRIZE>fl 3. 30 kr.</PRIZE></BIBL> Indem dieses Werk eine m√∂glichst vollst√§ndige, mit der allg. Welt- u. Kirchen- Geschichte zusammenh√§ngende, einfache Erj√§hlung der Art und Weise darbietet, wie die Erkenntni√ü des Evange iums sich seit seiner Einf√ºhrung bis auf unfere Tage herab, in der Welt ausbreitete, kann es als eine Einleitung zu dem von dem Herrn Verfasser herausgegebenen Magazin f√ºr die neueste Geschichte der evang. Missionen angesehen werden und wird sich dasselbe, hinsichtlich der Zeitfolge anreihen. <BIBL><TITLE>Tabellarische Uebersicht der Dogmengeschichte</TITLE> . bis auf die Reformation, zum Behufe akadem. Vorlesungen von <AUTHOR>Prof. C. R. Hagenbach</AUTHOR>, in <FORMAT>4¬∞.</FORMAT> <PLACE>Basel</PLACE>. <PRIZE>geheftet 30 kr.</PRIZE></BIBL> <BIBL><TITLE>Plato's Werke</TITLE> von <AUTHOR>F. Schleiermacher, Hl. Thls.</AUTHOR>, <VOLUME>1r Band</VOLUME>. enth. der Staat. <FORMAT>gr. 8¬∞.</FORMAT> <PLACE>Berlin</PLACE>. <PRIZE>fl 5.</PRIZE></BIBL> <BIBL><TITLE>Handbuch f√ºr Holztransport- und Flo√üwesen</TITLE> zum Gebrauche f√ºr Forstm√§nner u. Holzh√§ndler bearbeitet, von <AUTHOR>Oberforstrath J√§gerschmid</AUTHOR>, <VOLUME>1r Band</VOLUME> <FORMAT>gr. 8¬∞.</FORMAT> mit Abbild. auf 15 lithogr. Tafeln, <PLACE>Carlsruhe</PLACE>. <PRIZE>fl 7. 54kr.</PRIZE></BIBL></ITEM>\",\n\"number_of_fixes\": 2,\n\"explanation\": \"Two instances of the tag <PRICE> were corrected to <PRIZE> to match the opening <PRIZE> tags.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 710,
+        "output_tokens": 701,
+        "total_tokens": 1411
+    },
+    "duration": 22.70300793647766,
+    "timestamp": "2025-11-05T15:37:19.043132"
+}

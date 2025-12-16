@@ -1,0 +1,5 @@
+{
+    "fixed_xml": "<ITEM>44. Bey Hrn. C. A. Serini, Buchh√§ndler allhier, ist zu haben: <BIBL><TITLE>Oraison f√ºnebre de Frederic le Grand, Roi de Prusse</TITLE>, par <AUTHOR>Mr. le Pasteur Imer</AUTHOR>, se vend an profit des Pauvres √† <PRIZE>24 Rr.</PRIZE></BIBL> <BIBL><TITLE>Le Medecin philosophe</TITLE> <FORMAT>8r.</FORMAT> <YEAR>1787</YEAR>. <PRIZE>fl. 1. 16xr.</PRIZE></BIBL> <BIBL><AUTHOR>Friedr. Matthisson</AUTHOR>, <TITLE>Gedichte</TITLE>, <FORMAT>8.</FORMAT> <YEAR>1787</YEAR>. <PRIZE>40kr.</PRIZE></BIBL> <BIBL><TITLE>Besch√§ftigungen in der Einsamkeit, oder auserlesene Anekdoten</TITLE>, <VOLUME>4ter Theil</VOLUME>, <FORMAT>8.</FORMAT> <YEAR>1787</YEAR> <PRIZE>40 kr.</PRIZE></BIBL></ITEM>",
+    "number_of_fixes": "0",
+    "explanation": "The provided XML is already valid. All tags are properly opened and closed. Thus, no fixes were needed."
+}

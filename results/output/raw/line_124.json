@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>31. Bey Hrn. J. Rudolf Pistorius, wohnhafft neben E. E. Zunfft zu Schmiden, seynd nebst andern deutsch- und franz√∂sischen Verlags- B√ºchern auch folgende zu haben: <BIBL><AUTHOR>Dr. J. J. Rambach</AUTHOR>'s <TITLE>Pa√üions-Betrachtungen, mit angehengten Betrachtungen √ºber die Sieben lezten Worte unsers Erl√∂sers am Creutz</TITLE>, <FORMAT>4to</FORMAT> zweyte und verbesserte Auflage, √† <PRICE>fl 1. kr. 12.</PRICE></BIBL>. <BIBL><TITLE>Die Pflichten der Tischgenossen des HErrn</TITLE>, <FORMAT>8vo</FORMAT>, von <AUTHOR>J. R. Osterwald</AUTHOR>, Schreibpap. <PRICE>24 kr</PRICE> ordin. Pap <PRICE>18. kr.</PRICE></BIBL>. <BIBL><TITLE>Dieses franz√∂sisch, in nemlichem Preis</TITLE></BIBL>. <BIBL><TITLE>Gespr√§che zwischen einem Reisenden und andern Personen, von vielen in der Religion vorkommenden Wahrheiten</TITLE>, <FORMAT>8vo.</FORMAT> <PRICE>8. kr.</PRICE></BIBL>. <BIBL><TITLE>Die Gestalt einer Seele, die des Todes spotten kan. Ein Evangelium f√ºr die Gottlosen. Der leichte und k√ºrzeste Weg zur Gnade</TITLE>, <FORMAT>12.</FORMAT> von <AUTHOR>J. G. W. Forstmano</AUTHOR>, <PRICE>10. kr.</PRICE></BIBL>. <BIBL><TITLE>Die so betitelte Nachtigall, eine historische Beschreibung der Strafen, mit welchen GOtt der HErr die Stadt Basel heimgesucht. Hingegen was Er derselben seit 500. Jahren f√ºr Gutthaten erzeiget</TITLE>, <PRICE>8. kr.</PRICE> <PRICE>8.</PRICE></BIBL>. <BIBL><TITLE>Timoleon, der B√ºrgerfreund; ein Trauerspiel in Versen</TITLE>, von <AUTHOR>Hrn. G. Behrmann</AUTHOR>. <PRICE>8. kr. 10.</PRICE></BIBL></ITEM>\",\n  \"number_of_fixes\": 4,\n  \"explanation\": \"The tag <PRIZE> was used incorrectly in the original XML. It should have been <PRICE>. This error occurred four times in the original XML and was corrected each time.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 652,
+        "output_tokens": 645,
+        "total_tokens": 1297
+    },
+    "duration": 19.469430923461914,
+    "timestamp": "2025-10-31T11:59:18.822273"
+}

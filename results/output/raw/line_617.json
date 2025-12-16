@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>2. Im Berichthaus ist in Commi√üion zu haben: <BIBL><TITLE>Eine Confirmations- und Einsegnungsrede</TITLE> von <AUTHOR>Hrn. Pfarrer Meyenrock</AUTHOR> gehalten √ºber 3 Br. Joh. v. 4. √† <PRIZE>6 kr.</PRIZE></BIBL>; auch sind noch einige grove <BIBL><TITLE>Bibeln</TITLE> von <AUTHOR>S. Gryn√§us</AUTHOR> √† <PRIZE>50 Batzen</PRIZE></BIBL>, und einige <BIBL><TITLE>Basler-Handbibeln</TITLE> um sehr billigen Preis allda zu haben. Ferner sch√∂ner schwarzer <BIBL><TITLE>Camelot</TITLE>, der Stab √† <PRIZE>19 Batzen</PRIZE></BIBL>; dito <BIBL><TITLE>Voile</TITLE> √† <PRIZE>30 Batzen</PRIZE></BIBL>; <BIBL><TITLE>melirtes holl√§ndisches Tuch</TITLE>, der Stab √† <PRICE>fl. 5. 20 kr.</PRICE></BIBL>. <BIBL><TITLE>Buonapartes Leben im Grundri√ü</TITLE>, samt dessen sehr wohlgetroffenen Portrat. √† <PRIZE>24 kr.</PRIZE></BIBL> <BIBL><TITLE>Der Weltb√ºrger, oder Briefe eines chinesischen Philosophen aus London</TITLE>, von <AUTHOR>Doktor Olivier Goldschmith</AUTHOR>, die in <VOLUME>2 Theilen</VOLUME> bestehen, aber in einem Band eingebunden, √† <PRIZE>16 Btz.</PRIZE></BIBL> Eine <BIBL><TITLE>gesteppte seidene rothe Sommerdecke von Armoisin des Indes</TITLE>, samt wollenem Anzug, √† <PRIZE>5; Louisd'or</PRIZE></BIBL>; eine <BIBL><TITLE>kleine goldne Frauenzimmer-Uhr</TITLE>, stark im Gold, welche gut geht und mit Steinen besetzt ist, √† <PRIZE>61/ Louisd'or</PRIZE></BIBL>; ein <BIBL><TITLE>neuerfundenes erprobtes nicht sch√§dliches Mittel</TITLE>, dienlich aller Arten Flecken und Uns√§uberlichkeiten im Gesicht, H√§nden und andern Theilen des menschlichen K√∂rpers, sowohl bey erwachsenen Personen als auch bey Kindern damit zu vertreiben, nebst Gebrauchzedul.<PRIZE></PRIZE></BIBL></ITEM>\",\n  \"number_of_fixes\": 1,\n  \"explanation\": \"The last <BIBL> tag was missing a <PRIZE> tag. This tag was added with no value as the xml did not provide a corresponding value.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 700,
+        "output_tokens": 707,
+        "total_tokens": 1407
+    },
+    "duration": 25.02327609062195,
+    "timestamp": "2025-11-04T14:09:58.890475"
+}

@@ -1,0 +1,5 @@
+{
+    "fixed_xml": "<ITEM>Man sucht <BIBL><AUTHOR>Iselins</AUTHOR> <TITLE>Lexicon</TITLE> mit eingedruckten Supplementen</BIBL>: Item <BIBL><AUTHOR>Brackels</AUTHOR> <TITLE>vern√ºnftiger Gottesdienst</TITLE></BIBL>, der Liebhaber ist im Berichthaus zu erfragen.</ITEM>",
+    "number_of_fixes": 1,
+    "explanation": "The second <BIBL> tag was not closed. It has been fixed by adding a closing </BIBL> tag after the <TITLE>vern√ºnftiger Gottesdienst</TITLE>."
+}

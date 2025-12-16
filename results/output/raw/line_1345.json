@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>In der Schweighauser'schen Buchhand- <BIBL><TITLE>Die Baseler Theilungssache</TITLE>. Nach den K√∂rners s√§mmtliche Werke in Einem Aeten dargestellt. (Von <AUTHOR>Obmann Keller</AUTHOR>). <VOLUME>1tes Heft</VOLUME>. br. <PRIZE>Preis f√ºr 3 Hefte 5 Fr. 6 Btz</PRIZE></BIBL> <BIBL><TITLE>Verhandlungen √ºber die Theilungs- Frage in Betreff der Universit√§t Basel, vor der eidgen√∂ssischen Theilungs-Commission, als bestelltem Schiedsgerichte</TITLE>. Nach den Aeten herausgegeben und mit Anmerkungen begleitet (von <AUTHOR>J. Fr. von Tscharner</AUTHOR>). <VOLUME>1tes Heft</VOLUME>. br. <PRIZE>12 Btz</PRIZE></BIBL> <BIBL><TITLE>Bande</TITLE>. Herausgegeben von <AUTHOR>R. Streck</AUTHOR>. fu√ü. Mit <AUTHOR>K√∂rners</AUTHOR> Bildni√ü. <PLACE>Berlin</PLACE> <YEAR>1834</YEAR>. <PRIZE>Preis 10 Fr. 5. Btz</PRIZE></BIBL> <BIBL><TITLE>Die Dunder der Kartenzauberey, oder K√ºnstst√ºcke mit Spielkarten</TITLE>. Von <AUTHOR>J. C. Sch√§fer</AUTHOR>. br. <PRIZE>15 Btz</PRIZE></BIBL> <BIBL><TITLE>B√ºcher-Anzeige</TITLE></BIBL></ITEM>\",\n  \"number_of_fixes\": 1,\n  \"explanation\": \"The XML tag <PRICE> was incorrect and it was changed to <PRIZE> to match the opening tag.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 489,
+        "output_tokens": 472,
+        "total_tokens": 961
+    },
+    "duration": 16.060444831848145,
+    "timestamp": "2025-11-06T09:31:49.681909"
+}

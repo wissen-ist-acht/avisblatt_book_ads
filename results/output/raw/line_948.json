@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM><BIBL><TITLE>Kaisers Weltgeschichte</TITLE><VOLUME>3 Bde.</VOLUME><FORMAT>Kupf.</FORMAT><PRIZE>60 Btz.</PRIZE></BIBL><BIBL><TITLE>Geschichte der Griechen</TITLE><VOLUME>4 B√§nde</VOLUME><PRIZE>60 Btz.</PRIZE></BIBL><BIBL><TITLE>Gesch. der R√∂mer</TITLE><VOLUME>2 Bde.</VOLUME><PRIZE>24 Btz.</PRIZE></BIBL><BIBL><TITLE>Sch√§rflein zur Menschenkunde</TITLE><FORMAT>Erz√§hl.</FORMAT><PRIZE>10 Btz.</PRIZE></BIBL><BIBL><TITLE>Ruinen der Vorzeit</TITLE><PRIZE>2 Th.</PRIZE><VOLUME>1Bd.</VOLUME><PRIZE>15 Btz.</PRIZE></BIBL><BIBL><TITLE>Kleine Familiengeschichten</TITLE><PRIZE>7 Btz.</PRIZE></BIBL></ITEM>\",\n  \"number_of_fixes\": 1,\n  \"explanation\": \"The XML was almost correct. There was just one tag that was incorrectly spelled. The <PRICE> tag was used instead of the correct <PRIZE> tag in the second <BIBL> element. This tag was corrected to <PRIZE>.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 352,
+        "output_tokens": 329,
+        "total_tokens": 681
+    },
+    "duration": 11.874454021453857,
+    "timestamp": "2025-11-05T11:06:20.256160"
+}

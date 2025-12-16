@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>13. Bey Hrn. C. A. Serini, Buchh√§ndler allhier, ist zu haben: <BIBL><AUTHOR>Thilenius</AUTHOR> medicinische und ehirurgische <TITLE>Bemerkungen</TITLE>, <FORMAT>8.</FORMAT> <YEAR>789.</YEAR> <PRIZE>fl. 2.</PRIZE></BIBL> <BIBL><AUTHOR>Risbeks</AUTHOR> <TITLE>Geschichte der Deutschen</TITLE>, <VOLUME>4ter und letzter Bd.</VOLUME> mit Register, <FORMAT>8.</FORMAT> <YEAR>790.</YEAR> <PRIZE>fl. 2.</PRIZE></BIBL> <BIBL><TITLE>Trauungsreden, ein Beytrag zur Bef√∂rderung ehelicher Gl√ºckseligkeit</TITLE>, mit <VOLUME>2</VOLUME> Predigten vermischten Inhalts, <FORMAT>8.</FORMAT> <YEAR>790.</YEAR> <PRIZE>48 kr.</PRIZE></BIBL> <BIBL><AUTHOR>Wolf</AUTHOR> <TITLE>allgemeine Geschichte der Jesuiten von dem Ursprung ihres Ordens bis auf gegenw√§rtige Zeiten</TITLE>, <VOLUME>2ter Bd.</VOLUME> <FORMAT>8.</FORMAT> <YEAR>790.</YEAR> <PRIZE>fl. 1. 52 kr.</PRIZE></BIBL> <BIBL><AUTHOR>Meisters</AUTHOR> <TITLE>neue schweizerische Spatzierg√§nge</TITLE>, <FORMAT>8.</FORMAT> <YEAR>790.</YEAR> <PRIZE>fl. 1. 12 kr.</PRIZE></BIBL> <BIBL><AUTHOR>R√∂chlings</AUTHOR> <TITLE>Lustweg ins Latinm, in anmuthigen lateinischen Aufs√§tzen, f√ºr Anf√§nger in der lateinischen Sprache</TITLE>, <FORMAT>8.</FORMAT> <YEAR>789.</YEAR> <PRIZE>40 kr.</PRIZE></BIBL> <BIBL><AUTHOR>M√ºller von Friedberg</AUTHOR> <TITLE>Philosophie der Staatswissenschaft in Grunds√§tzen zur gesellschaftlichen Gl√ºckseligkeit</TITLE>, <FORMAT>8.</FORMAT> <YEAR>790.</YEAR> <PRIZE>l. 1. 36kr.</PRIZE></BIBL></ITEM>\",\n  \"number_of_fixes\": 3,\n  \"explanation\": \"Three XML tags were mislabeled as <PRICE> and were corrected to <PRIZE> to match the other tags in the document.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 642,
+        "output_tokens": 641,
+        "total_tokens": 1283
+    },
+    "duration": 21.852679014205933,
+    "timestamp": "2025-11-03T09:45:57.559242"
+}

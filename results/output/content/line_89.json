@@ -1,0 +1,5 @@
+{
+    "fixed_xml": "<ITEM>14. <BIBL><TITLE>Le vrai Pietisie</TITLE> par <AUTHOR>Msr. Pierre Roques</AUTHOR></BIBL>. <ITEM>Item, <BIBL><TITLE>Essai de morale</TITLE> par <AUTHOR>Msr. de Chanteren</AUTHOR>, in billigem Preis; im Berichthaus zu erfragen.</ITEM></ITEM>",
+    "number_of_fixes": 1,
+    "explanation": "The XML was missing an opening <ITEM> tag before 'Item,'. This was fixed by adding the <ITEM> tag."
+}

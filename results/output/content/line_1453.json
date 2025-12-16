@@ -1,0 +1,5 @@
+{
+    "fixed_xml": "<ITEM>Im Verlag der C. F. M√ºller'schen Hofbuchhandlung in Carlsruhe ist so eben erschienen und in allen Buchhandlungen (in Basel bei A. Holdenecker) zu haben: <BIBL><TITLE>Badenweiler. Gem√§lde f√ºr Freunde der sch√∂nen Nat√ºr und der Geschichte. Zugleich ein F√ºhrer f√ºr Kurg√§ste und Reisende.</TITLE> Von <AUTHOR>Dr. J. J. M√ºller</AUTHOR>, Dompr√§bendar in Freiburg. Mit <FORMAT>7 Abbildungen.</FORMAT> In eleg. <FORMAT>Einbande</FORMAT> <PRICE>Preis 1fl. 45 kr.</PRICE></BIBL></ITEM>",
+    "number_of_fixes": 1,
+    "explanation": "The 'PRIZE' tag was incorrectly spelled and it was fixed to 'PRICE'."
+}

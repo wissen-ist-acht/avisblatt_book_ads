@@ -1,0 +1,5 @@
+{
+    "fixed_xml": "<ITEM>24. Bey Endsbemeldtem sind in Commission zu haben: <BIBL><AUTHOR>Basedos</AUTHOR> <TITLE>Elementarbuch</TITLE>, <VOLUME>10 B√§nde</VOLUME> in <FORMAT>8¬∞.</FORMAT> sehr gut conditionirt, nebst einem Band <TITLE>Kupfer-Sammlung</TITLE> zu obigem Werke in <FORMAT>4.</FORMAT></BIBL> Und <BIBL><AUTHOR>Tiedges</AUTHOR> <TITLE>Abendstunden</TITLE> in <VOLUME>2 Thlen.</VOLUME> Halbfrzbd. Bernhard At1, Buchbinder, auf dem Fischmarkt.</BIBL></ITEM>",
+    "number_of_fixes": 1,
+    "explanation": "The closing 'BIBL' tag was missing at the end of the XML. This tag was added to ensure the XML is well-formed."
+}

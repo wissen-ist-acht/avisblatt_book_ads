@@ -1,0 +1,5 @@
+{
+    "fixed_xml": "<ITEM>16. Bey Hrn. Stupanus, Buchbinder neben der Blume, und Hrn. Scholer auf der Rheinbruck, ist zu haben: <BIBL><TITLE>Zwey Gebete, gewiedmet f√ºr die wackern Truppen in Genf und Basel, die mit Freude hald wiederum in ihrem Vaterlande erwartet werden</TITLE>, von einem <AUTHOR>schweizerischen Gottesgelehrten</AUTHOR>, und f√ºr die gegenw√§rtigen wichtigen Zeitl√§ufte und bald herannahendenl festlichen Tage, f√ºr jeden christlichen Hausvater und Hausmutter t√§glich mit Andacht zu sprechen<FORMAT>8.</FORMAT> <YEAR>792.</YEAR> das Stuck √† <PRIZE>4 kr.</PRIZE></BIBL> Ferner aller Sorten sehr sch√∂ne A-B-Cund Bilberb√ºchlein zum Nutzen und Vergn√ºgen der Jugend; in billigen Preisen Auch sehr sch√∂ne Neujahrsw√ºnsche, nebsts dem sehr commoden <TITLE>Sack- und Haushaltungskalender</TITLE>, wo zwischen jeden Tag geschrieben werden kann, wie auch aller Sorten andere Kalender.</ITEM>",
+    "number_of_fixes": 1,
+    "explanation": "The xml was missing a closing tag for the TITLE element. The TITLE tag that was opened after AUTHOR was never closed. I've added the closing tag where it makes sense in the context of the text."
+}

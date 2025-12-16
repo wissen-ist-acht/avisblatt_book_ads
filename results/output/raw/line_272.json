@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>46. In Hrn. Emanuel Thurneysens Buchhandlung allhier, ist zu haben: <BIBL><TITLE>Taschenbuch f√ºr Kinderfreunde, oder N√ºrnbergischer Kinderalmanach auf das Jahr 1782</TITLE>, mit <FORMAT>Kupf.</FORMAT> <FORMAT>8.</FORMAT> <PRIZE>fl. 1</PRIZE></BIBL> <BIBL><TITLE>Bibliothek der deutschen Schauspiele auf 1781.</TITLE> <VOLUME>7 St√ºcke</VOLUME>, <PRIZE>fl. 1. kr. 45.</PRIZE></BIBL> <BIBL><TITLE>Freudenthal, oder die gluckliche Retirade des Weisen</TITLE>, <VOLUME>2 Theile</VOLUME>, <FORMAT>8.</FORMAT> <PRIZE>fl. 2.</PRIZE></BIBL> <BIBL><TITLE>Briefwechsel zwischen einem √§gyptischen Weisen und einem englischen Gelehrten</TITLE>, <FORMAT>8.</FORMAT> <YEAR>1781.</YEAR> <PRIZE>kr. 40.</PRIZE></BIBL> <BIBL><TITLE>Geschichte der Mi√ü Caroline Stanhope, oder die Liebe auf den ersten Anblick</TITLE>, <FORMAT>8.</FORMAT> <YEAR>1781.</YEAR> <PRIZE>kr. 24.</PRIZE></BIBL> <BIBL><TITLE>Struensee Anfangsgrunde der Artillerie</TITLE>, m. <FORMAT>Kupf.</FORMAT> <FORMAT>8.</FORMAT> <PRIZE>fl. 2.</PRIZE></BIBL> <BIBL><TITLE>Kinderzeitung</TITLE>, <VOLUME>6tes B√§ndchen</VOLUME>, oder <YEAR>1781</YEAR> <VOLUME>4tes Quartal</VOLUME>, <PRIZE>kr. 36.</PRIZE></BIBL> <BIBL><TITLE>Poetische Blumenlese f√ºr 1782</TITLE>, mit <FORMAT>Mustt</FORMAT>, <FORMAT>12.</FORMAT> <PRIZE>kr. 45.</PRIZE></BIBL></ITEM>\",\n  \"number_of_fixes\": 5,\n  \"explanation\": \"The 'PRIZE' tags were incorrectly closed as 'PRICE'. This was fixed in 5 places.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 568,
+        "output_tokens": 562,
+        "total_tokens": 1130
+    },
+    "duration": 14.521310329437256,
+    "timestamp": "2025-11-02T10:12:06.401864"
+}

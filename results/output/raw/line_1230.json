@@ -1,0 +1,13 @@
+{
+    "text": "{\n\"fixed_xml\": \"<ITEM>6. Bey Neukirch, Buchh√§ndler, ist als neu erschienen zu erhalten: <BIBL><TITLE>Christliche Gedichte</TITLE> von <AUTHOR>Alberr Knapp</AUTHOR>. Von seinen Freunden herausgegeben. <VOLUME>2 Thle.</VOLUME> <FORMAT>8¬∞.</FORMAT> auf fein Papier, mit lithogr. Titeln, <FORMAT>4 lithogr. Abbildungen</FORMAT> (die Wurmlinger Capelle; Jesus auf dem Meere; Willkomm der ersten Missionarien; M. Ludw. Hofackers Bildni√ü.), u. <FORMAT>13 Melodien</FORMAT>, in Umschl. br. √† <PRICE>fl 3. 20 kr</PRICE> auf ordin. Druckpapier, roh. <PRICE>fl 2.</PRICE></BIBL> <BIBL><TITLE>Versuch einer allgemeinen Missionsgeschichte der Kirche Christi</TITLE> von <AUTHOR>M. C. G. Blumhardt</AUTHOR>, Inspector der evang. Missions-Sch√ºle zu Basel. Des <VOLUME>2ten Bandes iste Abthlg.</VOLUME> enthaltend: Die Missionsgeschichte vom Schlusse des apostolischen Zeitalters bis auf Constantin den Gro√üen. <FORMAT>gr. Oetavband</FORMAT> auf wei√ü Druckpapier. Preis: <PRICE>fl 2. 30 kr.</PRICE></BIBL></ITEM>\",\n\"number_of_fixes\": 2,\n\"explanation\": \"The XML had two errors. The first error was in the PRIZE tag, which should be PRICE. The second error was a closing PRICE tag was missing after 'fl 2.'.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 419,
+        "output_tokens": 416,
+        "total_tokens": 835
+    },
+    "duration": 25.060410022735596,
+    "timestamp": "2025-11-05T15:48:00.365035"
+}

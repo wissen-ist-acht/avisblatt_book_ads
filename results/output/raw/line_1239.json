@@ -1,0 +1,13 @@
+{
+    "text": "{\n\"fixed_xml\": \"<ITEM>15. An; e ige einer wohlfeilen Original-Ausgabe von <BIBL><AUTHOR>Burgers</AUTHOR> s√§mtlichen Werken, <VOLUME>6 Thle.</VOLUME> in <FORMAT>Taschenformat.</FORMAT> Diese erscheint zur k√ºnftigen Michaelis Messe und ist bis dahin eine Subscription er√∂ffnet zu <PRICE>Fr. 4</PRICE> f√ºr alle <VOLUME>6 Theile</VOLUME> welche nach dem Erscheinen <PRICE>Fr. 6</PRICE> kosten werden.</BIBL> Druck- und Papierprobe ist einzusehen und wird Subscription angenommen bey Neukirch, Buchh√§ndler.</ITEM>\",\n\"number_of_fixes\": 1,\n\"explanation\": \"The tag 'PRIZE' was incorrectly used instead of 'PRICE'. It has been corrected in the fixed_xml.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 236,
+        "output_tokens": 221,
+        "total_tokens": 457
+    },
+    "duration": 8.140562057495117,
+    "timestamp": "2025-11-05T15:52:03.637772"
+}

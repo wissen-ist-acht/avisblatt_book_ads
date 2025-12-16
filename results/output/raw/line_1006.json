@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>4. Bey H. Z√§slin, Buchbinder in kl. Basel, sind folgende wohlfeile und gut conditionirte B√ºcher zu haben: <BIBL><TITLE>Neue Welt- und Menschengeschichte</TITLE>, <VOLUME>13 Bde.</VOLUME> <PRICE>8 Fr.</PRICE></BIBL> <BIBL><TITLE>Unterhalt. aus dem Pflanzenreiche</TITLE>, <VOLUME>4ter Band</VOLUME> mit <FORMAT>62 Kupf.</FORMAT> <PRICE>4 Fr.</PRICE></BIBL> <BIBL><AUTHOR>Girtanners</AUTHOR> <TITLE>historische Nachrichten √ºber die franz. Revolution</TITLE>, <VOLUME>5 B√§nde</VOLUME> <PRICE>2 Fr. 5 Btz.</PRICE></BIBL> <BIBL><TITLE>Levoyageur de la Jeunesse dans les quatre parties du monde</TITLE>, <FORMAT>Ouvrage √©lementaire</FORMAT> orn√© de <FORMAT>64fig.</FORMAT> <VOLUME>6 Bde.</VOLUME> <PRICE>10 Fr.</PRICE></BIBL> <BIBL><TITLE>Instructions d'un p√®re √† ses enfans</TITLE>, <VOLUME>2 Bde.</VOLUME> <PRICE>1 Fr.</PRICE></BIBL> <BIBL><TITLE>Course de Bale √† Bienne</TITLE>, mit <FORMAT>cartes</FORMAT> <PRICE>5 Btz.</PRICE></BIBL> <BIBL><AUTHOR>Heyn√©s</AUTHOR> <TITLE>l'fan- 2en-Calender</TITLE>, √†<PLACE>Thle.</PLACE> in <VOLUME>1 Bd.</VOLUME> <PRICE>2Fr.</PRICE></BIBL> <BIBL><AUTHOR>De la Rochefoucauid's</AUTHOR> <TITLE>Satze aus der Weit- und Menschenkunde</TITLE> <PRICE>1 Fr.</PRICE></BIBL> <BIBL><AUTHOR>De Lue</AUTHOR> <TITLE>Reise durch Savoyen Íùõc.</TITLE> <PRICE>3 Btz.</PRICE></BIBL> <BIBL><TITLE>Beyspiele des Guten</TITLE>, <VOLUME>3 Thl.</VOLUME> in <VOLUME>1 Bd.</VOLUME> <PRICE>25 Btz.</PRICE></BIBL> <BIBL><TITLE>Di√© Gattungen der Fliegen</TITLE>, mit <FORMAT>deutsch und franz. Textb</FORMAT> und <FORMAT>42 Kupfertafeln</FORMAT> von <AUTHOR>Schellenberg</AUTHOR> <PRICE>3 Fr. 5 Btz.</PRICE></BIBL> <BIBL><AUTHOR>Sturms</AUTHOR> <TITLE>Morgenstunden</TITLE>, <VOLUME>2 Bde.</VOLUME> <PRICE>2Fr.</PRICE></BIBL> <BIBL><TITLE>Ein Schweitzer- Blatt</TITLE>, von <AUTHOR>Pestalozzi</AUTHOR>, <VOLUME>2 Bde.</VOLUME> <PRICE>8 Btz.</PRICE></BIBL> <BIBL><TITLE>Meine Freuden und Leiden als Gattin u. Mutter</TITLE> <PRICE>5 Btz.</PRICE></BIBL> <BIBL><TITLE>Herrmann und Dorothea</TITLE> <PRICE>4 Btz.</PRICE></BIBL> <BIBL><TITLE>Engels Lustspiele</TITLE> <PRICE>3 Btz.</PRICE></BIBL> <BIBL><TITLE>Abbildung und Beschreibung von 48 Giftpflanzen</TITLE>, in <FORMAT>4¬∞</FORMAT> von <AUTHOR>Dr. Juch</AUTHOR> <PRICE>10 Fr.</PRICE></BIBL></ITEM>\",\n  \"number_of_fixes\": 3,\n  \"explanation\": \"The xml-tags for the price were incorrect in three places. They were written as 'PRIZE' instead of 'PRICE'.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 982,
+        "output_tokens": 964,
+        "total_tokens": 1946
+    },
+    "duration": 50.02757787704468,
+    "timestamp": "2025-11-05T11:40:24.062378"
+}

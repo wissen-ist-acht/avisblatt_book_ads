@@ -1,0 +1,5 @@
+{
+    "fixed_xml": "<ITEM>12. <BIBL><TITLE>Reglement f√ºr das Postamt</TITLE>, Base<l>... </l>( OCR error, preserving original text ) Diese - jedem Gesch√§ftsmann u. Partikularen so n√∂thig zu wissende Verordnung, ist geh. √† <PRIZE>1 1/2 Batzen</PRIZE> zu haben, bey <AUTHOR>M√ºller, Buchdrucker</AUTHOR>, an der Streitgasse.</BIBL></ITEM>",
+    "number_of_fixes": 1,
+    "explanation": "The <l> tag was not properly closed. Added a closing tag </l> after 'Base'."
+}

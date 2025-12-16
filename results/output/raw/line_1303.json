@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>81. Neueste Schriften. <BIBL><AUTHOR>Schmids</AUTHOR> (erf. der Ostereyer Íùõc.) ausge- , w√§hlte Schriften, <VOLUME>7ter Band</VOLUME> Cf√ºr die Besitzer der erstern 6 Bde.) sch√∂n geb. <PRICE>10 Btz.</PRICE> Enth√†lt: <TITLE>Die Hopfenbl√ºthen.</TITLE> Eine Begebenheit aus dem Leben eines armen Landschullehrers. Mit Kupf. <TITLE>Die kleine Lautenspielerin.</TITLE> Ein Schanspiel f√ºr Kinder Íùõc.</BIBL> Diese Schriften einzeln, br. √† <PRICE>6</PRICE> und geb. √† <PRICE>7Bs.</PRICE> <BIBL><TITLE>Hand- 1. Schul.Atlas</TITLE> in <FORMAT>26 illum. Karten,</FORMAT> Ite verm. <VOLUME>1.</VOLUME> nach den neuesten <VOLUME>1.</VOLUME> besten Quellen berichtigte Aufl. <PRICE>3 Fr.</PRICE></BIBL> <BIBL><TITLE>Der Weg ins Daterland.</TITLE> Ein Gebetbuch f√ºr kathol. Christen, mit Kpf. geb. <PRICE>s Btz.</PRICE></BIBL> <BIBL><TITLE>Der poetische Appenzeller</TITLE> in seiner Landessprache. Von <AUTHOR>J. Mer3.</AUTHOR> <VOLUME>2te Auflage,</VOLUME> br. <PRICE>s Btz.</PRICE></BIBL> <BIBL><TITLE>Appenzeller-Einf√§lle,</TITLE> br. <PRICE>s Btz.</PRICE></BIBL> In der Holdenecker schen Leibbibliothek zu n√§chst dem Kornhause.</ITEM>\",\n  \"number_of_fixes\": 4,\n  \"explanation\": \"The XML tags for the price of the items were incorrectly labeled as 'PRIZE'. These have been corrected to 'PRICE', resulting in a total of 4 fixes.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 525,
+        "output_tokens": 516,
+        "total_tokens": 1041
+    },
+    "duration": 21.394507884979248,
+    "timestamp": "2025-11-05T16:25:30.952464"
+}

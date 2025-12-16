@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>20. <BIBL><TITLE>Falckeisische Bibel</TITLE> noch gantz neu in <FORMAT>Schweins-leder</FORMAT> gebunden, √† <PRIZE>12. Gulden</PRIZE></BIBL> oder gegen einem neuen <BIBL><TITLE>Corpore Juris</TITLE><PLACE>Leipziger Edition</PLACE></BIBL> zu vertauschen.</ITEM>\",\n  \"number_of_fixes\": 1,\n  \"explanation\": \"There was an incorrect closing tag for the first BIBL tag before the phrase 'oder gegen einem neuen'. This was fixed by moving the closing tag to after the phrase '12. Gulden'.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 151,
+        "output_tokens": 162,
+        "total_tokens": 313
+    },
+    "duration": 6.284456968307495,
+    "timestamp": "2025-10-30T16:47:45.209379"
+}

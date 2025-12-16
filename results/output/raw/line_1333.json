@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>8. <BIBL><TITLE>Das Welttheater</TITLE>. Bearb. v. <AUTHOR>C. Strahlheim</AUTHOR>. Mit 240 histor Stahlstichen u. 300 Bildnissen der ber√ºhmtesten Menschen al- <TITLE>Die Wundermappe, oder s√§mtl. Kunst- u. </TITLE><TITLE>Das christliche Seelsorger-Amt</TITLE>. <VOLUME>Zweites Heft</VOLUME>, <FORMAT>gr. 8</FORMAT>. <PLACE>Frankf.</PLACE> <YEAR>1834</YEAR>, <PRIZE>br. 54 kr.</PRIZE></BIBL> <BIBL><TITLE>Natur-Wunder d. ganzen Erdballs</TITLE>. Treu nach der Natur abgebildet u. topogr. u. histor. beschrieben v. <AUTHOR>C. Strablheim</AUTHOR>. <VOLUME>27, 28 u. 29stes Heft</VOLUME>. Enthalten Ansichten v. der Schweiz, Rom, Mailand, Turin u. Florenz. <FORMAT>gr. 8</FORMAT>. <PLACE>Fkft.</PLACE> <YEAR>1834</YEAR>. <PRIZE>br. √† 36kr.</PRIZE></BIBL> <BIBL><TITLE>Hofr. Okens allgem. Naturgeschichte f√ºr alle St√§nde</TITLE>. <VOLUME>6. 7 u. 8tes Heft</VOLUME>, <PRIZE>br. 18 kr.</PRIZE></BIBL> <BIBL><TITLE>Erheiterungen</TITLE>, <FORMAT>gr. 4¬∞</FORMAT>. <VOLUME>5 u. 6tes Heft</VOLUME>.</BIBL> <BIBL><TITLE>Predigt, gehalten in Bubendorf</TITLE> v. <AUTHOR>Joh. Heinr. Weber</AUTHOR>, Pfarrer. <PRIZE>6 kr.</PRIZE></BIBL> F√ºr den Rauracher dieses 2ten Quartals kann man mit 15 Btz. abonn. in der Holdenecker'schen Leihbibliothek. <BIBL><TITLE>Neueste Schriften</TITLE>.</BIBL></ITEM>\",\n  \"number_of_fixes\": 2,\n  \"explanation\": \"Two XML tags were not properly closed. The <PRICE> tag was used instead of the <PRIZE> tag in two instances, which is inconsistent with the rest of the document. These have been corrected to <PRIZE>.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 584,
+        "output_tokens": 600,
+        "total_tokens": 1184
+    },
+    "duration": 25.553364992141724,
+    "timestamp": "2025-11-06T09:26:49.339177"
+}

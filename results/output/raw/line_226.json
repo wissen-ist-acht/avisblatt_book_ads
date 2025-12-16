@@ -1,0 +1,13 @@
+{
+    "text": "{\n\"fixed_xml\": \"<ITEM>39. Bey Hrn. J. Jakob Flick, Buchh√§ndler auf dem Fischmarkt allhier ist zu haben: <BIBL><AUTHOR>Stresows, Conr. Fried.</AUTHOR> <TITLE>biblisches Handbuch; oder fortgesetzte Theodiceen: der g√∂ttlichen Offenbahrung</TITLE>, <VOLUME>6 Theile</VOLUME>, nebst Register √ºber alle, <FORMAT>gr. 8.</FORMAT> <YEAR>177480</YEAR>. <PRICE>Campens (. H.) Robinfl. 13. 30. kr.</PRICE></BIBL> son der j√ºngere, zur angenehmen und nutzlichen Unterhaltung f√ºr Kinder, <BIBL><VOLUME>2 Theile</VOLUME>, mit <TITLE>Chodowiekischen Kupf.</TITLE> <FORMAT>8.</FORMAT> <YEAR>780</YEAR>. <PRICE>fl. 4.</PRICE></BIBL> <BIBL><TITLE>Erbauungen f√ºr Jedermann</TITLE>, <FORMAT>8.</FORMAT> <YEAR>780</YEAR>. <PRICE>fl. 2.</PRICE></BIBL> <BIBL><TITLE>Friederich der Grosse, ein Ori-</TITLE> <PRICE>40kr.</PRICE> ginal des jetzigen Jahrhunderts, mit dem: <PRICE>kr. 244</PRICE> <TITLE>Bildnisse des K√∂nigs</TITLE>, <FORMAT>8.</FORMAT> <YEAR>780</YEAR>. <PRICE>kr. 20.</PRICE></BIBL> <BIBL><AUTHOR>Haller.</AUTHOR> <TITLE>Erster Gesang.</TITLE> <FORMAT>8.</FORMAT> <YEAR>780</YEAR>.</BIBL> <BIBL><TITLE>Jugendbeobachter, (der)</TITLE> <VOLUME>5tes B√§ndchen</VOLUME>, <AUTHOR>Krebels, Gottl. Fr.)</AUTHOR> <FORMAT>8.</FORMAT> <YEAR>780</YEAR>. <PRICE>kr. 45.</PRICE></BIBL> <BIBL><TITLE>Europ√§isches Geneglog-Handbuch</TITLE>, <FORMAT>gr. 8.</FORMAT> <YEAR>780</YEAR>. <PRICE>fl. 3. 20kr.</PRICE></BIBL> <BIBL><TITLE>Oberon, ein Gedicht in 14 Ges√§ngen</TITLE> von <AUTHOR>Wieland</AUTHOR>, <FORMAT>8.</FORMAT> <YEAR>780</YEAR>. <PRICE>fl. 1.</PRICE></BIBL> <BIBL><AUTHOR>Oemlers, (C. We)</AUTHOR> <TITLE>Prediger an:</TITLE> <PRICE>8 kr.</PRICE> <TITLE>dem Krankenbette seiner Zuh√∂rer</TITLE>, <VOLUME>ater Theil</VOLUME>, <FORMAT>8.</FORMAT> <YEAR>780</YEAR>. <PRICE>fl. 1. 54 kr.</PRICE></BIBL> Auch wird in dieser Buchhandlung ein <TITLE>Catalog der neuesten deutschen, franz√∂sischen, und lateinischen B√ºcher von letzterer Leipziger- Me√üe</TITLE> gratis ausgegeben.</ITEM>\",\n\"number_of_fixes\": 6,\n\"explanation\": \"The XML was missing closing tags for the 'PRICE' elements. The 'PRIZE' tags were replaced with the correct 'PRICE' tags.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 851,
+        "output_tokens": 829,
+        "total_tokens": 1680
+    },
+    "duration": 20.419345140457153,
+    "timestamp": "2025-11-02T09:58:25.599593"
+}

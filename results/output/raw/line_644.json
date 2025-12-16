@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>45. Bey B√ºrger Joh. Jac. Flick, Buchh√§ndler auf dem Fischmarkt ist zu haben: <BIBL><TITLE>Magischphysikalisches Taschenbuch, oder nat√ºrliche Zaubereyen, nebst andern K√ºnstst√ºcken zum Zeitvertreib</TITLE>. <YEAR>1798</YEAR>. <PRIZE>46 kr.</PRIZE></BIBL> <BIBL><TITLE>Buonaparte √† ruhmoollen Feldzug in Italien</TITLE> in den Jahren <YEAR>1796</YEAR>. und <YEAR>1797</YEAR>. <VOLUME>2 Thle.</VOLUME> mit <FORMAT>1 Charte und Kupfer</FORMAT>. <PRIZE>fl. 1. 4 kr.</PRIZE></BIBL> <BIBL><TITLE>Leipziger Handlungs- Briefsteller</TITLE>. <YEAR>798</YEAR> <PRIZE>fl. 2. 30 kr.</PRIZE></BIBL> <BIBL><AUTHOR>Thie√ü</AUTHOR> <TITLE>Andachtsduch f√ºr aufgekl√§rte Christen</TITLE>, <VOLUME>2 Thle.</VOLUME>. <YEAR>797</YEAR>. <PRIZE>fl. 4.</PRIZE></BIBL> <BIBL><TITLE>Fluch des Leichtsinnes, ein Familiengem√§lde</TITLE>. <YEAR>798</YEAR>. <PRIZE>fl. 1. 12 kr.</PRIZE></BIBL> <BIBL><TITLE>Magazin der europ√§ischen Staatenverh√§ltnisse</TITLE>, <VOLUME>7tes bis 12tes Stuck</VOLUME>. <YEAR>797</YEAR>. <PRIZE>fl. 6.</PRIZE></BIBL> <BIBL><TITLE>Schauplatz der Natur, eine Reihe der vorz√ºglichsten Gem√§lde von merkw√ºrdigen V√∂lkern, Thieren, Pflanzen und sch√∂nen Gegenden</TITLE>, mit <FORMAT>20. Kpf.</FORMAT>. <YEAR>798</YEAR>. <PRIZE>fl. 4.</PRIZE></BIBL> <BIBL><TITLE>W√∂rterbuch der physischen und moralischen Liebe, f√ºr Liebhaber und Romanenleser</TITLE>, <VOLUME>√† Thle.</VOLUME>. <YEAR>798</YEAR>. <PRIZE>fl. 2. 48 kr.</PRIZE></BIBL> <BIBL><TITLE>Fables de Florian</TITLE>, mit deutschen Noten, <YEAR>797</YEAR>. <PRIZE>40 kr.</PRIZE></BIBL> <BIBL><TITLE>Briefwechsel zwischen Herrn J. C. Lavater und B. J. J. Erlacher</TITLE>. <YEAR>797</YEAR>. <PRIZE>8 kr.</PRIZE></BIBL> <BIBL><TITLE>Projet de Constitution pour la R√©publique helv√©tique, accept√© par l'Assembl√©e Nationale de la R√©publique de Dasle le 15 Mars 798</TITLE>. <PRIZE>12 Fr.</PRIZE></BIBL></ITEM>\",\n  \"number_of_fixes\": 5,\n  \"explanation\": \"The XML tags <PRICE> were replaced with the correct <PRIZE> tags in five places.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 842,
+        "output_tokens": 837,
+        "total_tokens": 1679
+    },
+    "duration": 26.284292936325073,
+    "timestamp": "2025-11-04T14:24:03.176592"
+}

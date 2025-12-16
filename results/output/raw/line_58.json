@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>13. <BIBL><TITLE>Eine T√ºbingische Bibel</TITLE> mit <AUTHOR>Herrn Cantzler Pfaffen</AUTHOR> Anmerckungen und Auslegungen uc. <FORMAT>gro√ü Folio</FORMAT>, vol gebunden.</BIBL></ITEM>\",\n  \"number_of_fixes\": 1,\n  \"explanation\": \"The 'TITLE' tag was missing its opening tag. This was the only fix needed.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 127,
+        "output_tokens": 113,
+        "total_tokens": 240
+    },
+    "duration": 6.0371479988098145,
+    "timestamp": "2025-10-30T17:44:33.488632"
+}

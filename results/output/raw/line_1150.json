@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>Anzeige an die Herren Aerzte, Chirurgen und Studirenden dieser beyden Wissenschaften, wegen wohlfeilen B√ºchern, die im Flickschen Gesch√§fts-Bureau am Postg√§√üchen zu haben sind. <BIBL><AUTHOR>Cullens</AUTHOR> <TITLE>Anfangsgr. der prakt. Arzneywissenschaft</TITLE>. <VOLUME>4 Bde</VOLUME>. <FORMAT>gr. 8</FORMAT>. <FORMAT>Cart. u. Tit</FORMAT>.</BIBL> <BIBL><AUTHOR>Desaults</AUTHOR> <TITLE>chirurg. Wahrnehmungen</TITLE>. <VOLUME>10 Thie</VOLUME>. in <VOLUME>5 Bdn</VOLUME>.</BIBL> <BIBL><AUTHOR>Gesenius</AUTHOR> <TITLE>Heilmittellehre</TITLE>. <FORMAT>gr.s</FORMAT>.</BIBL> <BIBL><AUTHOR>Girtanners</AUTHOR> <TITLE>Abhandlung von venerischen Krankheiten</TITLE>.</BIBL> <BIBL><AUTHOR>Hufelands</AUTHOR> <TITLE>Skrophelkrankheit</TITLE>.</BIBL> <BIBL><AUTHOR>Jahns</AUTHOR> <TITLE>Materia medica</TITLE>. <VOLUME>2 B√§nde</VOLUME>.</BIBL> <BIBL><TITLE>Salzburger medizinisch-chirurg. Zeitung</TITLE> pr. <YEAR>1811, 12 u. 13</YEAR>, nebst <VOLUME>3 Erg√§nzungsb√§nden</VOLUME>, in allem <VOLUME>15 Bde</VOLUME>.</BIBL> <BIBL><TITLE>Allg. medizinische Annalen</TITLE>, die Jahrg√§nge <YEAR>1801 bis u. incl. 1814</YEAR>.</BIBL> <BIBL><AUTHOR>Bernsteins</AUTHOR> <TITLE>Handb. f. Wund√§rzte</TITLE>. <VOLUME>8 B√§nde</VOLUME>.</BIBL> <BIBL><AUTHOR>Arnemans</AUTHOR> <TITLE>Arzueymittellehre</TITLE>.</BIBL> <BIBL><AUTHOR>Bells</AUTHOR> <TITLE>Lehrbearifd. Wundarzneykunst</TITLE>. <VOLUME>6 Bd</VOLUME>.</BIBL> <BIBL><TITLE>Medecimi domestique</TITLE> par <AUTHOR>Buchan</AUTHOR>. <FORMAT>8</FORMAT>. <VOLUME>5 vol</VOLUME>. <FORMAT>Franks medizin. Polizey</FORMAT>. <VOLUME>13 Thle</VOLUME>.</BIBL> <BIBL><AUTHOR>Richters</AUTHOR> <TITLE>chirurg. Bib</TITLE>. <VOLUME>15 Bde</VOLUME>, und viele andere mehr, wor√ºber ein ausf√ºhrliches geschriebenes Verzeichni√ü einzusehen.</BIBL></ITEM>\",\n  \"number_of_fixes\": 0,\n  \"explanation\": \"The XML provided is already well-formed and does not need any fixes. All the tags are properly opened and closed. There are no missing or extra tags.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 784,
+        "output_tokens": 786,
+        "total_tokens": 1570
+    },
+    "duration": 34.365602016448975,
+    "timestamp": "2025-11-05T15:06:31.766839"
+}

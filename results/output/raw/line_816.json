@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>1. Bey J. J. Holdenecker ist zu haben: <BIBL><TITLE>Engels Ideen zu einer Mimik</TITLE>, <VOLUME>2 Thle.</VOLUME> mit <FORMAT>98 Figuren</FORMAT>, <PRIZE>4 fl.</PRIZE></BIBL> <BIBL><TITLE>Betrachtungen √ºber die reitende Artillerie, deren Organtsation, Gebrauch und Tacktit</TITLE>, <VOLUME>2te Aufl.</VOLUME> mit <FORMAT>Kfrn.</FORMAT> <PRIZE>1fl.</PRIZE></BIBL> <BIBL><TITLE>Milit√§rische Pl√§ne</TITLE> in <FORMAT>Kpfrn.</FORMAT> <PRIZE>2 fl.</PRIZE></BIBL> <BIBL><TITLE>Emilie im vierfachen Stande, als Kind, Jungfrau, Gattin und Mutter</TITLE>, <VOLUME>2 Bde.</VOLUME> <VOLUME>2te Aufl.</VOLUME> <PRIZE>1 fl. 36 kr.</PRIZE></BIBL> <BIBL><AUTHOR>Seibts</AUTHOR> <TITLE>kathol. Lehrund Gebethbuch</TITLE>, mit <FORMAT>Kpfrn.</FORMAT> <PRIZE>1 fl.</PRIZE></BIBL> <BIBL><AUTHOR>Sailers</AUTHOR> <TITLE>Buch von der Nachfolgung Christi</TITLE>, <VOLUME>3te Aufl.</VOLUME> <PRIZE>1 fl.</PRIZE></BIBL> <BIBL><AUTHOR>Stillings</AUTHOR> <TITLE>graue Mann</TITLE>, <VOLUME>1stes bis 17tes Heft</VOLUME>, <PRIZE>4 fl.</PRIZE></BIBL> <BIBL><TITLE>Ueber das religi√∂se und sittliche Verderben unsers Zeitalters u. die Mittel ihm abzuhelfen oder es zu vermindern</TITLE>, <PRIZE>1 fl.</PRIZE></BIBL> <BIBL><AUTHOR>Knechts</AUTHOR> <TITLE>musikal. Katechismus oder Inbegriff der allgemeinen Musiklehre</TITLE>, <PRIZE>1 fl.</PRIZE></BIBL> <BIBL><TITLE>Sammlung progressiver Orgelst√ºcke f√ºr Anf√§nger</TITLE>, <PRIZE>1 fl.</PRIZE></BIBL> <BIBL><TITLE>Illum. Landkarten: Preu√üen, Sachsen, England, Schottland und Irrland, Ostindien und China</TITLE>, jede √† <PRIZE>48 kr.</PRIZE></BIBL></ITEM>\",\n  \"number_of_fixes\": 2,\n  \"explanation\": \"Two XML tags were incorrect. The tag <PRICE> was used instead of <PRIZE> in two instances. These have been corrected.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 699,
+        "output_tokens": 697,
+        "total_tokens": 1396
+    },
+    "duration": 25.76819920539856,
+    "timestamp": "2025-11-04T16:01:56.433589"
+}

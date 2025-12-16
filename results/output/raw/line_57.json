@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>In dem Berichthaus ist dermahlen wiederum zu haben: <BIBL><TITLE>Der curiose und in allen n√∂htigen Wissenschafften n√ºtliche Dollmetscher, oder allgemeines Zeitungs-Hand- Buch; in welchem die √ºblichsten und in Lesung Politisch-Historisch- und in der Conversation vorkommenden Philosophischen, Mathematischen-Juristischen-Physicalischen-Medicinischen- und zu anderen Wissenschafft n geh√∂rige Kunst-W√∂rter und √ºbrige Redens- Arten erkl√§ret sind, und das N√∂htige aus fast allen Theilen der Gelehrtheit angef√ºhret, insonderheit die Historische Geographie mit 30. Land Karten ausf√ºhrlich erlautert, und damit allen Gelehrten und Ungelehrten Íùõc. eine n√∂htige und gr√ºndliche Nachricht von allem was in die Erk√§nntni√ü des Staats und der Natur- Kunst einschl√§gt, ertheilet wird</TITLE>, <FORMAT>4t√≤.</FORMAT> <PLACE>Augspurg</PLACE> <YEAR>1748</YEAR>. auf ordinari Papyr √† <PRIZE>fl. 4. 6. kr.</PRIZE> auf gro√ü Papyr aber √† <PRIZE>fl 4. 30. kr.</PRIZE></BIBL> Item: <BIBL><TITLE>Der aus dem Reiche der Dissenschafften wohl versuchte Referendariiu, oder auserlesene Sammlungen von allerhand vermischten Schrifften und Versuchen aus der Natur- Lehre, Artzney-Wissenschafft, nat√ºrlichen Theologie- und Rechts-Gelehrsamkeit, Politic, Haushaltungs-Kunst, und √ºberhaubt was in anderen in fremden Sprachen heraus gekommenen Wochen-Schrifften und neuen B√ºcheren Íùõc. gutes und nutzliches vorgekommen</TITLE> <VOLUME>Erster und zweyter Theil</VOLUME>, <FORMAT>4t√≤.</FORMAT> <YEAR>1750</YEAR>. mit zerschiedenen Kupferen, in Albo <PRIZE>fl. 2. 30. kr.</PRIZE> gebunden in Ruck und Eck <PRIZE>fl. 3.</PRIZE> und in frantz√∂sisch Leder √† <PRIZE>fl. 3. 24. kr.</PRIZE></BIBL></ITEM>\",\n  \"number_of_fixes\": 1,\n  \"explanation\": \"The xml had a typo in the end of the second BIBL tag, where PRIZE was spelled as PRICE. This was fixed by replacing PRICE with PRIZE.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 695,
+        "output_tokens": 697,
+        "total_tokens": 1392
+    },
+    "duration": 24.070185899734497,
+    "timestamp": "2025-10-30T17:44:27.448820"
+}

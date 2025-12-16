@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>6. In allen Buchhandlungen (Basel bei C. F. Spittler und Comp.) ist zu haben und zur Erhaltung der Gesundheit als sehr h√ºlfreich jedem Familienvater zu empfehlen: <BIBL><TITLE>500 der besten Hausarzneimittel gegen alle Krankheiten der Menschen</TITLE>, als: Husten, Schnupfen, Kopfweh, Magenschw√§che, Magens√§ure, Magenkrampf, Diarrh√∂e, H√§morrhoiden, Hypochondrie, tr√§ger Stuhlgang, Gicht und Rheumatismus, Enabr√ºstigkeit, Schwindsucht, Verschleimung, Harnverhaltung, Gries und Stein, W√ºrmer, Hysterie, Kolik, Wechselsieber, Wassersucht, Scrophelkrankheiten, Augenkrantheiten, Ohnmacht, Schwindel, Ohrenbrausen, Taubheit, Herzklopfen, Schlaflosigkeit, Hautausschl√§ge, nebst Anweisung, wie man ein gesundes und langes Leben erh√§lt, wie man einen schwachen Magen st√§rken kann, und ,die Wunderkr√§fte des kalten Wasserse und Hufelands Haus- und Reiseapotheke.<FORMAT>8. br.</FORMAT> <VOLUME>189 Seiten</VOLUME>. <PRIZE>Preis 15 Btz.</PRIZE></BIBL></ITEM>\",\n  \"number_of_fixes\": 1,\n  \"explanation\": \"There was an extra closing </TITLE> tag which was removed to fix the XML. The content after the first </TITLE> tag and before the <FORMAT> tag has been considered as part of the <TITLE> element.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 420,
+        "output_tokens": 429,
+        "total_tokens": 849
+    },
+    "duration": 15.357846975326538,
+    "timestamp": "2025-11-06T10:50:01.472666"
+}

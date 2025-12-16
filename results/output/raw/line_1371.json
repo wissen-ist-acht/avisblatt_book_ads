@@ -1,0 +1,13 @@
+{
+    "text": "{\n\"fixed_xml\": \"<ITEM>26. <BIBL><TITLE>Pfenningers j√ºdische Briefe</TITLE>, roh <PRICE>9 Fr.</PRICE> geb. <PRICE>12 Fr.</PRICE></BIBL> <BIBL><TITLE>Das Reich Gottes</TITLE>, roh <PRICE>15 Btz.</PRICE> geb. <PRICE>20 Btz.</PRICE></BIBL> <BIBL><AUTHOR>Lavaters</AUTHOR> <TITLE>Handbibel f√ºr Leidende</TITLE>, roh <PRICE>18 Btz.</PRICE> geb. <PRICE>25 Btz.</PRICE></BIBL> <BIBL><TITLE>Justin der M√§rtyrer</TITLE>, roh <PRICE>15 Btz.</PRICE> geb. <PRICE>20 Btz.</PRICE></BIBL> <BIBL><TITLE>Die Nachfolge Jesu Christi</TITLE>, √ºbersetzt von <AUTHOR>Go√üner</AUTHOR></BIBL> <BIBL><TITLE>Die Nachfolge Jesu Christi</TITLE>, √ºbersetzt von <AUTHOR>Seiler</AUTHOR>, geb. und ungebunden.</BIBL> <BIBL><TITLE>Boos Lebensgeschichte</TITLE>, <PRICE>12 Btz.</PRICE></BIBL> <BIBL><AUTHOR>Lavaters</AUTHOR> <TITLE>Nachdenken √ºber mich selbst</TITLE>, <PRICE>1 1/2 Btz.</PRICE></BIBL> <BIBL><TITLE>Die Lindwurmh√∂hle am Pilatusberg</TITLE>, <PRICE>4 Btz.</PRICE></BIBL> <BIBL><TITLE>Lydia, oder das Griechenm√§dchen</TITLE>, <PRICE>3 Btz.</PRICE></BIBL> <BIBL><TITLE>Bernhard und Hermann</TITLE>, <PRICE>4 Btz.</PRICE></BIBL> <BIBL><TITLE>Christliches Bilderb√ºchlein</TITLE>, <PRICE>4 Btz.</PRICE></BIBL> <BIBL><AUTHOR>Schuberts</AUTHOR> <TITLE>Meeresstrom</TITLE>, <PRICE>3 1/2 Btz.</PRICE></BIBL> <BIBL><TITLE>Jerry Creed</TITLE>, <PRICE>3 1/2 Btz.</PRICE></BIBL> <BIBL><TITLE>Johannes Fund, od. Barthol. Haage</TITLE>, <PRICE>3 Btz.</PRICE></BIBL> <BIBL><TITLE>Das Herz des Menschen</TITLE>, mit Kpfrn. <PRICE>7 1/2 Btz.</PRICE></BIBL> <BIBL><TITLE>Die gl√ºckselige Regerh√ºtte</TITLE>, <PRICE>1 1/2 Btz.</PRICE></BIBL> Nebst vielen andern Schriften, so wie auch Calwer und Hamburger Traktate. In der M√ºller'schen Buchdruckerei an der Streitga√ü.</ITEM>\",\n\n\"number_of_fixes\": 7,\n\n\"explanation\": \"The XML tags for the price were inconsistently labeled as 'PRIZE' and 'PRICE'. All instances of 'PRIZE' were changed to 'PRICE' to ensure consistency and accuracy.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 797,
+        "output_tokens": 775,
+        "total_tokens": 1572
+    },
+    "duration": 24.070945024490356,
+    "timestamp": "2025-11-06T10:28:36.010567"
+}

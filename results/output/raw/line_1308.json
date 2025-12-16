@@ -1,0 +1,13 @@
+{
+    "text": "{\n\"fixed_xml\": \"<ITEM>In der Schneider schen Buchhandlg. sind folgende Schriften zu haben: <BIBL><TITLE>Geschichte der Ausbreitung des Christenthums unter den Heiden-P√∂ltern S√ºdafrira</TITLE> <VOLUME>6.</VOLUME> <FORMAT>Broschirt.</FORMAT> <PRICE>Rirchliche Lehrstimmen v. F. D. Rrummacher, Pastor in Gemarke. Br. 27 Btz.</PRICE></BIBL> <BIBL><TITLE>Goldene Dorte √ºber die theure Lehre von l der freien Gnade.</TITLE> <AUTHOR>Allen wahren Chrilsten zur ernstlichen Beherzigung gesami, melt und dargeboten, von E. D. Frum- , macher, Pfr. zu Langenberg.</AUTHOR> <PRICE>Br. 14 Btz.</PRICE></BIBL> <BIBL><TITLE>Das Bild in Deinach.</TITLE> <FORMAT>Eine Erz√ºhlung f√ºr Christenkinder.</FORMAT> <AUTHOR>Vom Verfasser des narmen Heinrich s:</AUTHOR> <PRICE>√† Btz</PRICE></BIBL> <BIBL><TITLE>Bunte Bl√§tter.</TITLE> <AUTHOR>Aus dem Hausbuche des Jugendfreundes; v. August Gebauer.</AUTHOR> <FORMAT>Mit Kupfern n. Mustkbeylagen.</FORMAT> <FORMAT>In niedlichem Einband.</FORMAT> <PRICE>30 Btz.</PRICE></BIBL> <BIBL><TITLE>Die D√∂lker Europa 6.</TITLE> <FORMAT>Ein Charakter-1. Sittengem√§lde f√ºr die Jugend;</FORMAT> <AUTHOR>v. G. B. Deppnig.</AUTHOR> <FORMAT>Mit 6 Kupf.</FORMAT> <PRICE>Geb. 22 Btz.</PRICE></BIBL> <BIBL><TITLE>Cechnologische Bildergallerie</TITLE> <AUTHOR>von D. l Doppe, Hofrath u. Professor zu T√ºbingen.</AUTHOR> <FORMAT>Mit 40 Steintafeln.</FORMAT> <FORMAT>In Carton geb.</FORMAT> <PRICE>√ü4 Btz.</PRICE></BIBL> <BIBL><TITLE>Maturhistorische Bildersammlung.</TITLE> <FORMAT>Mit kurzem, erkl√§rendem Textb.</FORMAT> <AUTHOR>R√ºtzliches Geschenk f√ºr die Jugend, auch zu jedem Lehrbuch der Maturgeschichte brauch.</AUTHOR> <PRICE>bar. √ü4 Btz.</PRICE></BIBL> <BIBL><TITLE>318 lithogr. Bilder zu Oydis Picrus, nach Comenius.</TITLE> <PRICE>b√º Btz.</PRICE></BIBL></ITEM>\",\n\"number_of_fixes\": 8,\n\"explanation\": \"All instances of the tag <PRIZE> have been replaced with the correct tag <PRICE>.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 743,
+        "output_tokens": 716,
+        "total_tokens": 1459
+    },
+    "duration": 28.879098892211914,
+    "timestamp": "2025-11-06T09:13:34.633948"
+}

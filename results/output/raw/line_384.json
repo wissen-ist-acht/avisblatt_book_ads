@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>In der Deckerischen Buchhandlung ist zu haben: <BIBL><AUTHOR>Meiners</AUTHOR> <TITLE>Briefe √ºber die Schweitz</TITLE>, neue durchaus vermehrte und verbesserte Auflage, mit sch√∂nen Kupfern, <VOLUME>2 Theile</VOLUME>, <YEAR>1788</YEAR>. <PRICE>fl. 4. 12 kr.</PRICE></BIBL> <BIBL><AUTHOR>Mayers</AUTHOR> <TITLE>anatomische Beschreibung der Blutgef√§sse des menschlichen K√∂rpers</TITLE>; <VOLUME>2te vermehrte und verbesserte Auflage</VOLUME>, mit Kupfern, <FORMAT>gr. 8</FORMAT>. <YEAR>1788</YEAR>. <PRICE>fl. 4. 30 kr.</PRICE></BIBL> <BIBL><TITLE>Entwurf eines allgemeinen Gesetzbuchs f√ºr die k√∂nigl. preuss. Staaten</TITLE>, <VOLUME>3te Abtheilung</VOLUME>, <FORMAT>gr. 8vo</FORMAT>. <YEAR>1788</YEAR>. <PRICE>fl. 1. 48 kr.</PRICE></BIBL> <BIBL><AUTHOR>Gleditsch</AUTHOR>, <TITLE>Einleitung in die Wissenschaft der rohen und einfachen Arzneymittel Íùõc.</TITLE> herausgegeben von <AUTHOR>D. Schr√∂der</AUTHOR>, <VOLUME>3ter Theil</VOLUME>, <FORMAT>gr. 8</FORMAT>. <YEAR>1787</YEAR>. <PRICE>fl. 2. 24 kr.</PRICE></BIBL> <BIBL><AUTHOR>Obereit (O.)</AUTHOR> <TITLE>der wiederkommende Lebensgeist der verzweifelten Metaphysit</TITLE>, <FORMAT>8</FORMAT>. <YEAR>1788</YEAR>. <PRICE>36kr.</PRICE></BIBL> <BIBL><AUTHOR>Desselben</AUTHOR> <TITLE>Aufkl√§rungsversuch der Optik des ewigen Raturliechts, bis auf den ersten Grund aller Gr√ºnde</TITLE>, <FORMAT>8</FORMAT>. <YEAR>1788</YEAR>. <PRICE>36kr.</PRICE></BIBL> <BIBL><AUTHOR>Schr√∂ders</AUTHOR> <TITLE>Beytrag zur deutschen Schanb√ºhne</TITLE>, <VOLUME>ar Theil</VOLUME>, <FORMAT>8</FORMAT>. <YEAR>1786</YEAR>. <PRICE>Schreibpap. fl. 1. 30 kr.</PRICE></BIBL> <BIBL><TITLE>Essal fur la vie & le regne de Frederic 1. &c. pour servir de Preliminaire √† Pedition de ses cuvres posthumes</TITLE>, <VOLUME>2 Parties</VOLUME>, <FORMAT>gr. 8</FORMAT>. <YEAR>1788</YEAR>. <PRICE>pap. tres-fin. fl. 2. 40 xr.</PRICE></BIBL> <BIBL><TITLE>Nouvelle Geographie √† Pusage des lnstituts & des Gouvernantes francoises</TITLE>, <VOLUME>Tome 2d</VOLUME>. <YEAR>1787</YEAR>. <PRICE>fl. 2. 16Er.</PRICE></BIBL></ITEM>\",\n  \"number_of_fixes\": 8,\n  \"explanation\": \"The XML was faulty because the closing tags for the 'PRIZE' elements were misspelled as 'PRICE'. This was corrected in 8 instances.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 885,
+        "output_tokens": 869,
+        "total_tokens": 1754
+    },
+    "duration": 28.61492609977722,
+    "timestamp": "2025-11-02T20:40:11.091780"
+}

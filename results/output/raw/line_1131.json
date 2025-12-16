@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>30. Bey Felix Schneider in No. 1196 am B√§umlein sind zu haben: <BIBL><TITLE>Eine gute Auswahl von Jugendschriften mit Bildern, zu Weihnachts- und Neujahrs- Geschenken</TITLE>; <TITLE>Bildersammlung, zum illuminiren f. Kinder</TITLE>; <TITLE>Souvenir in Stammb√ºcher Íùõc.</TITLE></BIBL> <BIBL><AUTHOR>Mayers</AUTHOR> <TITLE>Bl√§tter f√ºr h√∂here Wahrheit</TITLE>, <VOLUME>8te Sammlung</VOLUME>. <PRIZE>45 Btz.</PRIZE></BIBL> <BIBL><TITLE>Das Portrait des Verfassers derselben</TITLE>, in <FORMAT>fol-</FORMAT> <PRIZE>36 Btz.</PRIZE></BIBL> <BIBL><TITLE>Die H. Schrift</TITLE> in deutsch und franz√∂sischer Sprache, in <FORMAT>12. kl. 8¬∞.</FORMAT> und <FORMAT>gr. 8¬∞.</FORMAT></BIBL> <BIBL><AUTHOR>Dr. H. M√ºllers</AUTHOR> <TITLE>Erquickungsstunden</TITLE>, <PRIZE>30 Btz.</PRIZE></BIBL> <BIBL><AUTHOR>Klopftocks</AUTHOR> <TITLE>s√§mtl. Werke</TITLE> in <VOLUME>12.</VOLUME> <PRIZE>12Fr.</PRIZE></BIBL> <BIBL><AUTHOR>Danns</AUTHOR> <TITLE>Communionbuch</TITLE>, mit einem <FORMAT>Titelkupfer</FORMAT>, <PRIZE>15 Btz.</PRIZE></BIBL> <BIBL><AUTHOR>Jaspis</AUTHOR> <TITLE>Abendmahlsfeyer</TITLE>, ein <TITLE>Erbauungsbuch f√ºr denkende Christen</TITLE>, mit einem <FORMAT>Titelkupf.</FORMAT> <PRIZE>22 Btz.</PRIZE></BIBL> <BIBL><TITLE>Besch√§ftigungen f√ºr Kranke</TITLE>, √† <VOLUME>Thle.</VOLUME> mit einem <FORMAT>Titelkupfer</FORMAT>, <PRIZE>30 Btz.</PRIZE></BIBL> <BIBL><TITLE>Eine Auswahl von Schatzk√§sichen</TITLE>, von <AUTHOR>Bogatsky-Go√üner, Gregor, Luther, Stilling, Sch√∂ner Íùõc.</AUTHOR></BIBL> <BIBL><AUTHOR>Neanders</AUTHOR> <TITLE>Harfenspiel</TITLE>. <PRIZE>20 Btz.</PRIZE></BIBL> <BIBL><AUTHOR>Lavaters</AUTHOR> <TITLE>christliche Gebethe</TITLE>. <PRIZE>15 Btz.</PRIZE></BIBL> <BIBL><AUTHOR>Loskiels</AUTHOR> <TITLE>Missionsgeschichte</TITLE>. <PRIZE>30 Btz.</PRIZE></BIBL> <BIBL><TITLE>Der in der Natur sich erbauende Christ</TITLE>. <PRIZE>15 Btz.</PRIZE></BIBL> <BIBL><TITLE>Weg zur Ruhe</TITLE>. <AUTHOR>Predigten von J. Wichelhaus, Pastor zu Elberfeld</AUTHOR>. <PRIZE>17 Btz.</PRIZE></BIBL> <BIBL><TITLE>Adressen-Buch f√ºr die Stadt Basel</TITLE>, herausgegeben von <AUTHOR>M. Heinrich Wei√ü</AUTHOR>. <VOLUME>Zweyte verbesserte und vermehrte Auflage</VOLUME>, <YEAR>1826</YEAR>, <FORMAT>brosc.</FORMAT> <PRIZE>10 Btz.</PRIZE></BIBL></ITEM>\",\n  \"number_of_fixes\": 0,\n  \"explanation\": \"The provided XML is well-formed and does not require any fixes. Every tag that is opened is properly closed.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 986,
+        "output_tokens": 978,
+        "total_tokens": 1964
+    },
+    "duration": 33.92295002937317,
+    "timestamp": "2025-11-05T14:57:14.075846"
+}

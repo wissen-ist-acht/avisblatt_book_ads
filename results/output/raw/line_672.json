@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>48. In der Schweighauserschen Buchhandlung ist zu haben: <BIBL><TITLE>Helvetischer Revolutions- Almanach auf das Jahr 1799</TITLE>. mit Kupfern, eingeb. <PRIZE>fl. 2. 24 kr.</PRIZE></BIBL> <BIBL><TITLE>Die landwirthschaftliche Bauwissenschaft</TITLE> von <AUTHOR>Prof. Friedr. Meinert</AUTHOR>, <VOLUME>2 Thle.</VOLUME> mit Kupfern, gr. <FORMAT>8.</FORMAT> <YEAR>1797</YEAR>. <PRIZE>fl. 10.</PRIZE></BIBL> <BIBL><TITLE>Justus Arnemaus prakt. Arzueymittellehre</TITLE>, neue Aufl. <FORMAT>gr. 8.</FORMAT> <YEAR>798.</YEAR> <PRIZE>fl. 3. 20 kr.</PRIZE></BIBL> <BIBL><TITLE>Reise eines Vaters mit seinen S√∂hnen durch Deutschland</TITLE>, <VOLUME>1ster Theil</VOLUME>, <FORMAT>8.</FORMAT> <PRIZE>fl. 1. 12 kr.</PRIZE></BIBL> <BIBL><AUTHOR>Prof. Bremi</AUTHOR> <TITLE>Vorlesungen √ºber Materien, mit Hinsicht auf die helvet. Revolution</TITLE>, <VOLUME>3tes Hft.</VOLUME> <PRIZE>br. 16 kr.</PRIZE></BIBL> <BIBL><TITLE>Abhandlung von dem Bau und der guten Verwaltung der Ziegelh√ºtten</TITLE> mit Kpf. <FORMAT>8.</FORMAT> <PRIZE>fl. 1. 12 kr.</PRIZE></BIBL> <BIBL><AUTHOR>John Ball</AUTHOR> √ºber <TITLE>die Natur und Heilung der Wunden</TITLE>, aus dem engl. mit Anmerk von <AUTHOR>Leune</AUTHOR>, <VOLUME>2 Thle.</VOLUME> <FORMAT>gr. 8.</FORMAT> <YEAR>798.</YEAR> <PRIZE>fl. 3.</PRIZE></BIBL> <BIBL><TITLE>Christs Anweisung zu der Bienenzucht</TITLE>, neue stark vermehrte Aufl. mit Kpf. <FORMAT>8.</FORMAT> <YEAR>798.</YEAR> <PRIZE>fl. 1. 48 kr.</PRIZE></BIBL></ITEM>\",\n  \"number_of_fixes\": 2,\n  \"explanation\": \"There were two errors in the given XML. The <PRICE> tag was used instead of <PRIZE> in two places. These have been corrected to <PRIZE>.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 640,
+        "output_tokens": 646,
+        "total_tokens": 1286
+    },
+    "duration": 30.332733154296875,
+    "timestamp": "2025-11-04T14:38:31.343154"
+}

@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>Rhe 2. DR√†RA 7 1 cvoRR 8 wiLfay Saxspxanx, with Notes, Original and Selected, b7 <BIBL><AUTHOR>Samuel Weller Singer F. S.</AUTHOR> <TITLE>Saxspxanx</TITLE>, with Notes, Original and Selected, in <VOLUME>10 Volumes</VOLUME> small <FORMAT>octavo</FORMAT>. Von dieser Ausgabe, welche sich durch Wohlfeilheit und guten sehr gef√§lligen Druck empfiehlt, so wie sie sich durch Erkl√§rungen schwieriger Stellen u. s. w. besonders f√ºr die Studirenden der englischen Sprache eignet, ist nun der erste Band erschienen, und auf ord. Druckpapier, broch. √† <PRICE>fl 1. 30 kr.</PRICE> auf wei√ü Druckpapier mit Titel Kupfer u. Vignette, Cart. √† <PRICE>fl 2. 15 kr.</PRICE> zu erhalten bey Neukirch, Buchh√§ndler.</BIBL></ITEM>\",\n  \"number_of_fixes\": 1,\n  \"explanation\": \"The tag <PRIZE> was incorrect and didn't have a closing tag. It was replaced with the correct tag <PRICE>.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 330,
+        "output_tokens": 321,
+        "total_tokens": 651
+    },
+    "duration": 13.466111183166504,
+    "timestamp": "2025-11-05T15:38:55.720577"
+}

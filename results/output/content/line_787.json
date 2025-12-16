@@ -1,0 +1,5 @@
+{
+    "fixed_xml": "<ITEM>28. Bey Christoph Winkelblech, No. 102 sind folgende St√ºck zu haben: <BIBL><TITLE>Julius Casars Schlachten</TITLE>, von <AUTHOR>M. Merian</AUTHOR>. <PRIZE>10 btz.</PRIZE></BIBL> <BIBL><TITLE>Der Stadt Basel Bahn, mit denen untern Vogteyen</TITLE>, von <AUTHOR>Bruckner</AUTHOR>. <PRIZE>3 btz.</PRIZE></BIBL> <BIBL><TITLE>Angriff der Schanz zu St. Jakob</TITLE> von <AUTHOR>l√∂bl. Frey- Compagnie</AUTHOR>, von <AUTHOR>Chovin</AUTHOR>; sch√∂n illuminirt <PRIZE>6 btz.</PRIZE></BIBL> <BIBL><TITLE>Grundri√ü der Stadt Bern</TITLE>, von <AUTHOR>Sinner</AUTHOR>. <FORMAT>fol.</FORMAT> <PRIZE>e btz.</PRIZE></BIBL> <BIBL><TITLE>Tabula Theodosiana Segmentum quousque historiarum helvetig sub romano imperio illustrat</TITLE>. <PRIZE>10 btz.</PRIZE></BIBL> <BIBL><TITLE>Die alte gro√üe Merianische Karte von der Stadt Basel</TITLE>. <PRIZE>6 btz.</PRIZE></BIBL> <BIBL><TITLE>Plan der ganzen Gegend von Karlsruh und Durlach</TITLE> <PRIZE>3 btz.</PRIZE></BIBL></ITEM>",
+    "number_of_fixes": 1,
+    "explanation": "There was a typo in one of the PRIZE tags, it was written as PRICE. This has been corrected."
+}

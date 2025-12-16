@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>Bei herannahender Festzeit empfehlen wir unser wohl assortirtes Lager von <BIBL><TITLE>Jugendschriften</TITLE>, <TITLE>ABC- und Bilderb√ºcher</TITLE>, in allen m√∂glichen Formaten und Ausstattungen.</BIBL> <BIBL><TITLE>Gesangb√ºcher</TITLE> in verschiedenen Einb√§nden.</BIBL> <BIBL><TITLE>Gebet- und Erbauungsb√ºcher</TITLE>, evangelische und katholische.</BIBL> <BIBL><TITLE>Taschenb√ºcher</TITLE>, feine, f√ºr <YEAR>1843</YEAR>, in bedeutender Auswahl.</BIBL> <BIBL><TITLE>Klassiker</TITLE> und <TITLE>Velletristen</TITLE>, deutsch und franz√∂sisch, brochirt und in eleganten Einb√§nden.</BIBL> <BIBL><TITLE>Schreib- und Etuis-Kalender</TITLE>, in verschiedenen Ausgaben und Einb√§nden.</BIBL> <BIBL><TITLE>Brieftaschen</TITLE> aller Arten.</BIBL> <BIBL><TITLE>Stammb√ºcher</TITLE>, wobei besonders sch√∂ne in Sammet.</BIBL> <BIBL><TITLE>Mappen</TITLE> f√ºr auf Pult und zum Schulgebrauch.</BIBL> <BIBL><TITLE>Stammbuchkupfer</TITLE>, von <PRICE>2 Btz.</PRICE> bis <PRICE>12 Btz.</PRICE> das Blatt.</BIBL> <BIBL><TITLE>Bilderbogen</TITLE>, feine und ordin√§re, colorirte und schwarze.</BIBL> <BIBL><TITLE>Schreib- und Zeichnungsvorlagen</TITLE>.</BIBL> <BIBL><TITLE>K√ºnstgegenst√§nde</TITLE>, sowohl heilige Bilder, als Genre-St√ºcke.</BIBL> <BIBL><TITLE>Musikalien</TITLE>.</BIBL> <BIBL><TITLE>Bureau-Gegenst√§nde</TITLE> und <TITLE>Schreibmaterialien</TITLE>.</BIBL> <BIBL><TITLE>Papiere</TITLE>, verzierte, zu Einladungen und sonstigen Anl√§ssen.</BIBL> <BIBL><TITLE>Spiele</TITLE> zur Unterhaltung der Jugend, Íùõc. Íùõc. Da es zu weitl√§ufig w√§re, jegliches besonders aufzuf√ºhren, so laden wir ein verehrliches Publikum zu zahlreichem Besuche ein, um gef√§lligst Einsicht davon zu nehmen. Hinsichtlich der Waaren und der Preise hoffen wir das uns geschenke Zu- Tschopp und Comp. trauen zu rechtfertigen.</ITEM>\",\n  \"number_of_fixes\": 1,\n  \"explanation\": \"There was a typo in one of the xml tags. The word 'PRIZE' was used instead of 'PRICE'. This has been fixed.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 765,
+        "output_tokens": 759,
+        "total_tokens": 1524
+    },
+    "duration": 22.85668110847473,
+    "timestamp": "2025-11-06T11:06:35.567746"
+}

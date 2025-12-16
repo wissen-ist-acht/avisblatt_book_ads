@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>32. Es wird zum Verkauf angeboten, zu sehr billigem Preis: <BIBL><TITLE>Stainer Violin</TITLE> mit einem <TITLE>Violin-Bogen</TITLE> und einem <TITLE>Futeral</TITLE></BIBL>. Ferner noch <BIBL><TITLE>zwey geringere Violinen</TITLE></BIBL>, und ein <BIBL><TITLE>kleines Violoncell</TITLE></BIBL>, dienlich f√ºr einen jungen Anf√§nger; wie auch ein <BIBL><TITLE>schoener Fl√ºgel</TITLE> mit <TITLE>zwey Claviaturen</TITLE></BIBL>. Diese Instrumente sind zur beliebigen Einsicht im Berichthaus.</ITEM>\",\n  \"number_of_fixes\": 4,\n  \"explanation\": \"The XML was faulty because it used semicolons instead of closing and opening tags for the 'TITLE' tag. Four corrections were made to fix these issues.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 235,
+        "output_tokens": 236,
+        "total_tokens": 471
+    },
+    "duration": 6.593358039855957,
+    "timestamp": "2025-11-05T11:39:34.031733"
+}

@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>33. Novit√§ten bey Neukirch, Buchh√§ndler. <BIBL><TITLE>Tablieau des rapports r√©els des charges de toutes les places √©onsid√©rables de l'Europe et autres, tels quils se trouvent a pr√©sent, Suivi d'unetable des monnaies √©trang√©res avec leurs poids, leurs titres, leurs valeurs intrinsiqu√©s</TITLE>; r√©dig√© en <YEAR>1822</YEAR>, par <AUTHOR>F. Hebler</AUTHOR>. <FORMAT>8.</FORMAT> <PRIZE>br. 12B2.</PRIZE></BIBL> <BIBL><TITLE>Frauentaschenbuch f√ºr 1823</TITLE>. <PRIZE>54 Btz.</PRIZE></BIBL> <BIBL><TITLE>Gothaer Kalender 1823</TITLE>. <PRIZE>30 Btz.</PRIZE></BIBL> <BIBL><TITLE>Derselbe franz√∂sisch</TITLE>. <PRIZE>30 Btz.</PRIZE></BIBL></ITEM>\",\n  \"number_of_fixes\": 1,\n  \"explanation\": \"The last <BIBL> tag had a closing tag <PRICE> instead of the correct <PRIZE>. This was fixed.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 336,
+        "output_tokens": 331,
+        "total_tokens": 667
+    },
+    "duration": 11.873698949813843,
+    "timestamp": "2025-11-05T14:26:56.351524"
+}

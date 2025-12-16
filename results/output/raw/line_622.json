@@ -1,0 +1,13 @@
+{
+    "text": "{\n\"fixed_xml\": \"<ITEM>In der Schweighauserischen Buchhandlung allhier ist zu haben: <BIBL><AUTHOR>Kant</AUTHOR> <TITLE>metaphysische Anfangsgrunde der Rechtslehre</TITLE>. <FORMAT>gr. 8.</FORMAT> <YEAR>797</YEAR>. <PRICE>fl. 1. 30 kr.</PRICE></BIBL> <BIBL><AUTHOR>Haller</AUTHOR> <TITLE>Milit√§rischer Charakter und Kriegsthaten Friedrichs des Einzigen</TITLE>, <FORMAT>gr. 8.</FORMAT> <YEAR>796</YEAR>. <PRICE>fl. 2.</PRICE></BIBL> <BIBL><TITLE>Kennzeichen der Jakobiner</TITLE>. <FORMAT>12.</FORMAT> <PRICE>30 kr.</PRICE></BIBL> <BIBL><AUTHOR>Kl√§be</AUTHOR> <TITLE>gelehrtes Dresden, oder Nachrichten von Gelehrten, K√ºnstlern und Kunstsammlern</TITLE>. <FORMAT>gr. 8.</FORMAT> <YEAR>795</YEAR>. <PRICE>fl. 1. 30 kr.</PRICE></BIBL> <BIBL><AUTHOR>K√ºttner</AUTHOR> <TITLE>√ºber den √∂konomischen und politischen Zustand von Gro√übrittannien</TITLE>. <FORMAT>gr. 8.</FORMAT> <YEAR>796</YEAR>. <PRICE>fl. 1.</PRICE></BIBL> <BIBL><AUTHOR>Germershausen</AUTHOR> <TITLE>√∂konomisches Real-Lexicon, worinn alles nach den erprobten Erfahrungen der bew√§hrtesten Oekonomen zusammengetragen und berichtigt ist</TITLE>, <VOLUME>2 Thle.</VOLUME> <FORMAT>gr. 4.</FORMAT> <YEAR>796</YEAR>. <PRICE>fl. 12.</PRICE></BIBL> <BIBL><AUTHOR>Pfeil</AUTHOR> <TITLE>Beytr√§ge zum vern√ºnftigen Denken √ºber das Leiden und den Tod Jesu</TITLE>. <FORMAT>gr. 8.</FORMAT> <YEAR>796</YEAR>. <PRICE>fl. 3.</PRICE></BIBL> <BIBL><AUTHOR>Drysdales</AUTHOR> <TITLE>Predigten, aus dem Englischen</TITLE>, <VOLUME>2 Thle.</VOLUME> <FORMAT>gr. 8.</FORMAT> <YEAR>796</YEAR>. <PRICE>fl. 3. 16kr.</PRICE></BIBL></ITEM>\",\n\"number_of_fixes\": 7,\n\"explanation\": \"The XML tag for the price of the items was incorrectly written as 'PRIZE' instead of 'PRICE'. This was fixed for all 7 instances.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 689,
+        "output_tokens": 671,
+        "total_tokens": 1360
+    },
+    "duration": 26.960642099380493,
+    "timestamp": "2025-11-04T14:13:59.318834"
+}

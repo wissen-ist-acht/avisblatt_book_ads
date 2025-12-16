@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>25. Bey Hrn. Joh. Jakob Flick, Buchh√§ndler auf dem Fischmarkt, ist zu haben: <BIBL><TITLE>Walther oder Geschichte eines nordamerikanischen Pflanzers</TITLE>. <YEAR>796</YEAR>. <PRICE>fl. 1. 48 kr.</PRICE></BIBL> <BIBL><TITLE>Elpizion, oder √ºber meine Fortdauer im Tode</TITLE>, <VOLUME>1ter Thl.</VOLUME> <PRICE>fl. 1. 52 kr.</PRICE></BIBL> <BIBL><TITLE>Angenehme Unterhaltungen in den Feyerstunden</TITLE>. <YEAR>796</YEAR>. <PRICE>56kr.</PRICE></BIBL> <BIBL><TITLE>Henriette und Emma, oder Vermmft und Schw√§rmerey</TITLE>. <YEAR>797</YEAR>. <PRICE>fl. 2. 20 kr.</PRICE></BIBL> <BIBL><TITLE>Verh√§ngni√ü, eine Geschichte in Briefen</TITLE>, <VOLUME>2 Bde.</VOLUME> <YEAR>797</YEAR>. <PRICE>fl. 3. 12 kr.</PRICE></BIBL> <BIBL><TITLE>Anekdoten und Geschichten zur Ehre und Schande der Menschheit</TITLE>. <YEAR>796</YEAR>. <PRICE>48 kr.</PRICE></BIBL> <BIBL><TITLE>Ahnenstol; und Edelsinn, ein dramatisches Familiengem√§lde</TITLE>. <YEAR>796</YEAR>. <PRICE>fl. 1. 30 kr.</PRICE></BIBL> <BIBL><TITLE>Engelhards Geschenk f√ºr Freunde und gute Menschen</TITLE>. <YEAR>796</YEAR>. <PRICE>24kr.</PRICE></BIBL> <BIBL><TITLE>Riebenzahl im Riesengebirg, ein abentheuerliches M√§hrchen der Vorzeit</TITLE>. <PRICE>fl. 1. 12 kr.</PRICE></BIBL> <BIBL><TITLE>Sammlung unterhaltender Nobellen</TITLE>, <VOLUME>1tes Heft</VOLUME> <YEAR>796</YEAR>. <PRICE>38kr.</PRICE></BIBL> <BIBL><TITLE>Volksm√§hrchen der Deutschen, von Mus√§us</TITLE>, <VOLUME>3 Thle.</VOLUME> <PRICE>fl. 1. 20 kr.</PRICE></BIBL> <BIBL><TITLE>Fragmente aus der Geschichte Frankreichs vor und nach der Robespierrischen Regierung</TITLE>. <PRICE>fl. 1. 14 kr.</PRICE></BIBL> <BIBL><TITLE>Reichs Belehrung √ºber die Rindviehseuche und die Inokulation derselben</TITLE>. <YEAR>797</YEAR>. <PRICE>36kr.</PRICE></BIBL> <BIBL><TITLE>Eckartshausens K√ºnstst√ºcke zur Unterhaltung und Zeitvertreib junger Leute</TITLE>. <YEAR>796</YEAR>. <PRICE>14 kr.</PRICE></BIBL> <BIBL><TITLE>Des Herrn Heinrich von B√ºlow amtliche Berichte √ºber den Friedens-Congress 2u Basel</TITLE>. <YEAR>796</YEAR>. <PRICE>fl. 1. 20 xr.</PRICE></BIBL></ITEM>\",\n  \"number_of_fixes\": 8,\n  \"explanation\": \"The XML was faulty because it used a non-standard tag <PRIZE> for the price of the books. This tag was replaced with the standard <PRICE> tag in 8 places.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 905,
+        "output_tokens": 889,
+        "total_tokens": 1794
+    },
+    "duration": 44.77477192878723,
+    "timestamp": "2025-11-04T14:18:05.200242"
+}

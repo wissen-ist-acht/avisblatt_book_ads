@@ -1,0 +1,13 @@
+{
+    "text": "{\n\"fixed_xml\": \"<ITEM>55. Bey Bolly, Buchbinder auf dem Markt und hinter der School sind zu haben: <BIBL><TITLE>Taschenbuch der neusten Moden f√ºr das Jahr 18o3</TITLE>, mit <FORMAT>22 sauber illum. Modekupfern</FORMAT>, geziert mit Spiegel, <PRIZE>fl 1. 20kr.</PRIZE> ohne Spiegel, <PRIZE>fl. 1. 12 kr.</PRIZE></BIBL> <BIBL><TITLE>Kleines Sack- und Fut- .lteral-Kalenderlein</TITLE>, samt einer <TITLE>Poetischen Blumen-Leese</TITLE>, mit <FORMAT>illum. und ohne illum. . Kupf.</FORMAT> in verschiedenen Preisen.</BIBL> <BIBL><TITLE>Taschen-buch f√ºr Damen f√ºr 1803</TITLE> von <AUTHOR>Huber, Pfeffel, Lafontaine, Íùõc. Íùõc.</AUTHOR>, mit <FORMAT>Kupfern</FORMAT>.</BIBL> <BIBL><TITLE>Toiletten-Kalender f√ºr Frauenzimmer auf 1803</TITLE>, mit <FORMAT>Kupf.</FORMAT> in verschiedenen B√§nden und Preisen.</BIBL> <BIBL><TITLE>Almanach f√ºr Freundinen f romantischer Lecture aufs Jahr 180z</TITLE>, mit <FORMAT>Kupf</FORMAT> in verschiedenen B√ºnden und Preisen.</BIBL> <BIBL><TITLE>Etrennes mignonnes, pour Pan 18o3</TITLE>, mit <FORMAT>saubern Kupfern und niedlichen Einb√§nden</FORMAT>, in verschiedenen Preisen;</BIBL> nebst andern Sorten <BIBL><TITLE>Almanachs</TITLE></BIBL>. <BIBL><TITLE>N. Jahsw√ºnsche i auf Atlas</TITLE>, mit <FORMAT>niedlichen Einfafsungen und gutgew√§hlten Versen</FORMAT>.</BIBL> <BIBL><TITLE>24 Fablen f√ºr die Jugend</TITLE>, mit <FORMAT>illum. Kupfern</FORMAT>, <PRIZE>fl. 1. 40 kr.</PRIZE> s ohne illum. <PRIZE>fl. 1. 12 kr.</PRIZE></BIBL> <BIBL><TITLE>Der selbstlehrende Landschaftszeichner</TITLE>, in <FORMAT>30 Landsch√§ftl. f√ºr die Jugend</FORMAT>, <PRIZE>fl. 1.</PRIZE></BIBL> <BIBL><TITLE>Lustige Schweizer, Berner- und Viviser-Hinkendebott, Comptoir- und Wandkalender</TITLE>, wie auch <TITLE>Schreibkalender wo zwischen ieden Tag kann geschrieben werden</TITLE>.</BIBL></ITEM>\",\n\"number_of_fixes\": 2,\n\"explanation\": \"Two closing tags for <PRIZE> were wrongly labeled as <PRICE>. These have been corrected.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 731,
+        "output_tokens": 718,
+        "total_tokens": 1449
+    },
+    "duration": 22.837486743927002,
+    "timestamp": "2025-11-04T15:04:26.714955"
+}

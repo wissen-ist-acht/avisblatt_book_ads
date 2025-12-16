@@ -1,0 +1,5 @@
+{
+    "fixed_xml": "<ITEM>In Emanuel Thurneysens Buchhandlung allhier ist zu haben: <BIBL><TITLE>Die Geschichte des Leidens und Todes, der Auferstehung und Himmelfahrt unsers HErrn JEsu Christi; aus der Erz√§hlung aller Vier Evangelisten in Eines zusammengezogen, und mit Anmerkungen erl√§utert, nebst dem Pa√üionsgesange zum Gebrauch der Kirchen zu Basel</TITLE>, <FORMAT>8vo</FORMAT>, ordinari Papier. das neml. auf Schreibpapier. <PRICE>kr. 12.</PRICE> bzw. <PRICE>kr. 16.</PRICE></BIBL></ITEM>",
+    "number_of_fixes": 2,
+    "explanation": "Fixed two instances of incorrect xml-tag. Replaced <PRIZE> with <PRICE>."
+}

@@ -1,0 +1,5 @@
+{
+    "fixed_xml": "<ITEM>Allgemeines 25. Schweizer-Liederbuch. Eine Sammlung von 532 der beliebtesten Lieder, K√ºhreihen u. Volkslieder. <BIBL><TITLE>Schweizer-Liederbuch</TITLE>. Eine Sammlung von 532 der beliebtesten Lieder, K√ºhreihen u. Volkslieder<FORMAT>, Dritte vielvermehrte Auflage, broch.</FORMAT> <PRIZE>12 Btz.</PRIZE> geb. <PRIZE>14 Btz.</PRIZE> so wie auch eine artige Auswahl Jugendschriften zu verschiedenen Preisen, bey J. R. Pest, Buchbinder, am B√§umlein.</BIBL></ITEM>",
+    "number_of_fixes": 1,
+    "explanation": "There was an extra closing TITLE tag after 'Volkslieder' which was not required as the TITLE tag was already closed before. Removed that extra closing tag."
+}

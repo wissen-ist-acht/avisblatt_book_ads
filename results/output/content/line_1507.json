@@ -1,0 +1,5 @@
+{
+    "fixed_xml": "<ITEM>In Bahnmanero Buchhandung (5. Denoss is so eben eingenoffen7) <BIBL><TITLE>Aus den letzten drei Tagen der Verbrecherin Christina Beckenbach aus Wilhelmsdorf.</TITLE> Mittheilungen von <AUTHOR>Dr. Kleinschmidt</AUTHOR> und <AUTHOR>Dekan Sabel, evangel. Pfarrer zu Heidelberg.</AUTHOR> <PRICE>Preis 6 kr</PRICE> Zum Besten der Beckenbach'schen Kinder.</BIBL></ITEM>",
+    "number_of_fixes": 1,
+    "explanation": "The XML tag <PRIZE> was incorrect and has been changed to <PRICE> to match the closing tag."
+}

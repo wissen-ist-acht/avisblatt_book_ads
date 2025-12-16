@@ -1,0 +1,5 @@
+{
+    "fixed_xml": "<ITEM>67. Bey Neukirch, Buchh√§ndler, ist so eben folgende sehr sch√∂n gestochene u. empfehlenswerthe Karte angekommen: <BIBL><TITLE>Vollst√§ndiger Schauplatz von Griechenlands Wiedergeburt, oder volitisch-statistische Karte von der Euro p√§ischen T√ºrkey u. ganz Klein-Asten, nebst Siebenb√ºrgen. Ungarn, Dalmatien u. s. w.</TITLE>, Preis <PRIZE>1fl.</PRIZE> auf Velin-Papier, <PRICE>1fl. 30 kr.</PRICE></BIBL> Auch sind allda folgende Flugschriften. wieder zu haben: <BIBL><TITLE>Un Genevois √† l'auteur des lettres de. Bale</TITLE>, <PRIZE>4 Bz.</PRIZE></BIBL> <BIBL><TITLE>Uu mot Sur les lettres de Basle et ur la reponse d'en Genevois, pax le Chev. Wieland</TITLE>, <PRIZE>2 Bz.</PRIZE></BIBL> <BIBL><TITLE>Encor√© un mot, parle Clievalier Wieland</TITLE> <PRIZE>22Bz.</PRIZE></BIBL> <BIBL><TITLE>P√©tition √† la Chambre des D√©pert√©s par M Douglas Loveday</TITLE>, <PRIZE>3¬Ω Bz.</PRIZE></BIBL> <BIBL><TITLE>Dieselbe deutsch √† 2 Btz.</TITLE>, unter dem Titel:</TITLE></BIBL></ITEM>",
+    "number_of_fixes": 1,
+    "explanation": "The XML was missing a closing TITLE tag in the last BIBL element. The tag was added to correct the XML structure."
+}

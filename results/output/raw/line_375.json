@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>39. Ben Hrn. Joh. Jakob Flick, auf dem Fischmarkt allhier, ist zu haben: <BIBL><TITLE>Beschreibung und Geschichte der M√ºnsterkirche zu Basel, samt einem Grundritz von derselben</TITLE>, <FORMAT>8o</FORMAT> <YEAR>1788</YEAR>. gebunden √† <PRICE>32 kr.</PRICE></BIBL> <BIBL><AUTHOR>Lucianus von Sancosancta</AUTHOR> s√§mtliche Werke, aus dem Griechischen √ºbersetzt, und mit Anmerkungen und Erlauterungen versehen von <AUTHOR>C. M. Wieland</AUTHOR>, <VOLUME>3 Theile</VOLUME>, <FORMAT>gr 8vo.</FORMAT> <YEAR>1788</YEAR>. <PRICE>fl. 7. 30 kr.</PRICE></BIBL> <BIBL><AUTHOR>Fabers (J. H.)</AUTHOR> <TITLE>topographische, politische und historische Beschreibung der Reichsstadt Frankfurt</TITLE>, <FORMAT>8.</FORMAT> <YEAR>1788</YEAR>. <PRICE>fl. 1. 30 kr.</PRICE></BIBL> <BIBL><TITLE>Der zweyte Treuk, oder Geschichte meiner Entweichung aus dem Staattgef√§ngnisse zu Venedig</TITLE>, <FORMAT>8.</FORMAT> <YEAR>1788</YEAR>. <PRICE>40 kr.</PRICE></BIBL> <BIBL><TITLE>Widerlegung der Schrift des Ritters von Zimmermann, √ºber Friedrich den Grossen</TITLE>, von einem <AUTHOR>Wahrheitsfreunde</AUTHOR>, <FORMAT>8.</FORMAT> <YEAR>1788</YEAR>. <PRICE>br. 30 kr.</PRICE></BIBL> <BIBL><TITLE>Anekdoten von K√∂nig Friedrich dem Zweyten, und von einigen Persohnen, die um Ihn waren</TITLE>, herausgegeben von <AUTHOR>F. Nikolai</AUTHOR>, <VOLUME>1tes Heft</VOLUME>, <YEAR>1788</YEAR>. <PRICE>36kr.</PRICE></BIBL> <BIBL><TITLE>Wochentliche Beytr√§ge zur Bef√∂rderung der √§chten Gottseligkeit</TITLE>, <VOLUME>17tes B√§ndchen</VOLUME>, <FORMAT>8.</FORMAT> <YEAR>1788</YEAR>. <PRICE>30 kr.</PRICE></BIBL> <BIBL><TITLE>Friedrich mit der gebissenen Wangen</TITLE>, <VOLUME>4ter Theil</VOLUME>, <FORMAT>8.</FORMAT> <YEAR>1788</YEAR>. <PRICE>fl. 2. 40 kr.</PRICE></BIBL> <BIBL><TITLE>Das Leben eines Liederlichen, ein moralisch-satyrisches Gem√§hlde</TITLE>, <VOLUME>3ter Theil</VOLUME>, <FORMAT>8.</FORMAT> <YEAR>1788</YEAR>. <PRICE>fl. 2. 20kr.</PRICE></BIBL> <BIBL><TITLE>Alexis, oder von dem goldenen Weltalter</TITLE>, <FORMAT>8.</FORMAT> <YEAR>1787</YEAR>. <PRICE>54 kr.</PRICE></BIBL></ITEM>\",\n  \"number_of_fixes\": 7,\n  \"explanation\": \"The 'PRIZE' tags were misspelled. They have been corrected to 'PRICE'.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 857,
+        "output_tokens": 829,
+        "total_tokens": 1686
+    },
+    "duration": 28.880785942077637,
+    "timestamp": "2025-11-02T20:36:40.972470"
+}

@@ -1,0 +1,5 @@
+{
+    "fixed_xml": "<ITEM><BIBL><TITLE>Die Nachfolge Christi</TITLE>, verfa√üt von <AUTHOR>Thom as von Kemp i s</AUTHOR>. Neu √ºbersetzt und mit einer Einleitung und kurzen Anmerkungen f√ºr nachdenkende Christen. Herausgegeben von <AUTHOR>J. M. Sailer</AUTHOR> mit einem Titelkupfer <TITLE>Fr. Nachdenken √ºber mich selbst</TITLE>, von <AUTHOR>J. C. Lavater</AUTHOR>. Mebst einem Anhange kurzer Spr√ºche von <AUTHOR>Thomas √† Kempis</AUTHOR></BIBL> <PRICE>6 kr.</PRICE> In der M√ºllerschen Buchdruckerei.</ITEM>",
+    "number_of_fixes": 1,
+    "explanation": "The tag <PRIZE> was incorrect and has been replaced with the correct tag <PRICE>."
+}

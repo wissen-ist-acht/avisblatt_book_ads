@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>In der Flickischen Buchhandlung findet man: <BIBL><TITLE>Taschenbuch f√ºr Damen, auf das Jahr 1800.</TITLE> herausgegeben von <AUTHOR>Huber, Lafontaine, Pfeffel und andern</AUTHOR> mit Kpf. geb. in Futeral, <PRICE>fl. 2. 24 kr.</PRICE></BIBL> <BIBL><TITLE>Histor geneal. Calender, oder Jahrbuch der merkw√ºrdigsten neuen Weltbegebenheiten f√ºr das Jahr 1800.</TITLE> <VOLUME>12.</VOLUME> geb. in Futteral, <PRICE>fl. 1.</PRICE></BIBL> <BIBL><TITLE>T√§gliches Taschenbuch f√ºr alle St√§nde, a. d. J. 1800.</TITLE> <FORMAT>8.</FORMAT> <PLACE>Gotha</PLACE> geb. in Leder, <PRICE>fl. 1. 40 kr.</PRICE></BIBL> <BIBL><TITLE>Merkw√ºrdige Beschichte der martervollen Deportations-Reise Barthelemys, Pichegrus und anderer franz√∂s. Gesetzgeber nach Cayenne nebst der Schilderung ihres Aufenthaltes Sinamary und ihrer endlichen wunderbaren Rettung</TITLE>, von <AUTHOR>Ramel</AUTHOR>, einem der Deportirten, aus dem Franz√∂sischen, <FORMAT>gr. 8.</FORMAT> <PLACE>Lpz.</PLACE> <YEAR>799</YEAR> <PRICE>fl. 1. 24 kr.</PRICE></BIBL> <BIBL><TITLE>Die Tugendkunst, oder Universal- Catechismus f√ºr alle Volker der Erde</TITLE>, aus dem franz des <AUTHOR>Herrn von St. Lambert</AUTHOR>, <VOLUME>2ter Thl.</VOLUME> <FORMAT>gr. 8.</FORMAT> <YEAR>799</YEAR> <PRICE>fl. 2.</PRICE></BIBL> <BIBL><TITLE>Kants Leben, eine Skizze, in einem Briefe eines Freundes an seinen Freund</TITLE>, aus dem engl. <FORMAT>8.</FORMAT> <YEAR>799</YEAR> <PRICE>16kr.</PRICE></BIBL> <BIBL><TITLE>J A. Weppen, Briefe eines Beamteten √ºber das Justizwesen auf dem Lande</TITLE>, <FORMAT>8.</FORMAT> <YEAR>1800</YEAR> <PRICE>40 kr.</PRICE></BIBL> <BIBL><TITLE>Unentbehrliches Allerley f√ºr das sch√∂ne Geschlecht, sowohl in der Haushaltung als an der Toilette</TITLE>, <FORMAT>8.</FORMAT> <YEAR>799</YEAR> <PRICE>fl. 1. 15 kr.</PRICE></BIBL> <BIBL><TITLE>Europ√§isch genealog. Handbuch auf das J. 1800.</TITLE> ausgefertigt von <AUTHOR>M. C. F. Jakobi</AUTHOR>, <FORMAT>gr. 8.</FORMAT> <YEAR>1800</YEAR> <PRICE>fl. 5.</PRICE></BIBL> <BIBL><TITLE>Geschichte der Schweiz</TITLE>, <VOLUME>istes Bdch.</VOLUME> <FORMAT>12.</FORMAT> <PLACE>Lpz.</PLACE> <YEAR>1800</YEAR> <PRICE>45 kr.</PRICE></BIBL></ITEM>\",\n  \"number_of_fixes\": 4,\n  \"explanation\": \"The xml was missing closing tags for <PRICE> in four instances. The closing tags were wrongly written as <PRIZE> instead of <PRICE>. These have been corrected.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 897,
+        "output_tokens": 894,
+        "total_tokens": 1791
+    },
+    "duration": 26.898685932159424,
+    "timestamp": "2025-11-04T14:41:30.073247"
+}

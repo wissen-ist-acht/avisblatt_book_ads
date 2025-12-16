@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>In der Serinischen Buchhandlung ist zu haben: <BIBL><TITLE>Etrennes Helv√©tiennes & patriotiques pour l'ann√©e 1795</TITLE>, reli√© mit √©tuis dor√© fur tranche √† <PRIZE>48 xr.</PRIZE>; le m√™me broche mit √©tuis <PRIZE>32 xr.</PRIZE>; le m√™me broche fans √©tuis <PRIZE>24 xr.</PRIZE></BIBL> <BIBL><AUTHOR>Kant</AUTHOR>, <TITLE>die Religion innerhalb der Grenzen der blo√üen Beynunft</TITLE>, <VOLUME>2te Aufl.</VOLUME> <FORMAT>8.</FORMAT> <YEAR>794.</YEAR> √† <PRIZE>fl. 1. 48 kr.</PRIZE></BIBL> <BIBL><AUTHOR>Vo√ü</AUTHOR>, <TITLE>mythologische Briefe</TITLE>, <FORMAT>8.</FORMAT> <YEAR>794.</YEAR> √† <PRIZE>fl. 3. 18 kr.</PRIZE></BIBL> <BIBL><TITLE>Inele und Jariko, ein Schauspiel</TITLE> von <AUTHOR>Colmann</AUTHOR> √† <PRIZE>16 kr.</PRIZE></BIBL> <BIBL><TITLE>Das Landm√§dchen, oder Weiberlist geht √ºber Alles, ein Lustspiel</TITLE> von <AUTHOR>d'Arien</AUTHOR> <YEAR>794.</YEAR> √† <PRIZE>30 kr.</PRIZE></BIBL> <BIBL><TITLE>Die sch√∂ne S√ºnderin, ein Schauspiel</TITLE> <FORMAT>704.</FORMAT> √† <PRIZE>36 kr.</PRIZE></BIBL> <BIBL><TITLE>Der Berner hinkende Bott; auf das Jahr 1795</TITLE> √† <PRIZE>8 kr.</PRIZE></BIBL></ITEM>\",\n  \"number_of_fixes\": 1,\n  \"explanation\": \"There was a typo in the last but one BIBL tag where PRIZE was misspelled as PRICE. This has been corrected.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 545,
+        "output_tokens": 541,
+        "total_tokens": 1086
+    },
+    "duration": 19.6593759059906,
+    "timestamp": "2025-11-04T13:34:58.045631"
+}

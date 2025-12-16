@@ -1,0 +1,5 @@
+{
+    "fixed_xml": "<ITEM>So eben ist bey Grell, F√º√üli u. Comp. in Z√ºrich erschienen und in allen Buchhandlungen zu haben: <BIBL><TITLE>Blicke auf das Leben und wesen des verewigten Joh. Jak. He√ü, Antistes der Kirche Z√ºrich.</TITLE> Von seinem Amts- Nachfolger <AUTHOR>G. Ge√üner.</AUTHOR> <FORMAT>8.</FORMAT> <PRICE>brosch. 45 kr.</PRICE></BIBL></ITEM>",
+    "number_of_fixes": 1,
+    "explanation": "The tag <PRIZE> was incorrect and has been changed to <PRICE>."
+}

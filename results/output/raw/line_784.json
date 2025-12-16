@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>Bey Heinrich Halder, Buchbinder an der Schiffl√§nde sind nachstehende wohlfeile und gutconditionnirte B√ºcher zu haben: <BIBL><TITLE>Histoire politique du fi√®cle</TITLE>, <VOLUME>2 Vol.</VOLUME> gr. in <FORMAT>4</FORMAT> <PLACE>Londres</PLACE>. <YEAR>1757</YEAR>. anstatt <PRICE>4 fl.</PRICE> <PRICE>2 fl.</PRICE></BIBL> <BIBL><TITLE>Arithmethique enseign√©e par r√©gles</TITLE> avec des tabley pour faire la multiplication par addirion la division par soustraction, & uno suite de comptes fait en tous genres, <VOLUME>1 Vol.</VOLUME> gr. in <FORMAT>4</FORMAT> <PLACE>Avignon</PLACE>. <YEAR>1754</YEAR>. anstatt <PRICE>4 fl.</PRICE> <PRICE>2 fl.</PRICE></BIBL> <BIBL><TITLE>Trait√© fur le commerce de Luric</TITLE>, <VOLUME>2 parties</VOLUME>, gr. in <FORMAT>4</FORMAT>. <YEAR>1754</YEAR>. <PRICE>40 kr.</PRICE></BIBL> <BIBL><TITLE>La logique ou refiexions fur les forces de l'entendement humain &c.</TITLE> par <AUTHOR>Mr. Chr. Wolf</AUTHOR>, <VOLUME>1 Fol.</VOLUME> gr. <FORMAT>8</FORMAT>. <PLACE>Lausanne</PLACE>. <YEAR>1744</YEAR>. <PRICE>24 kr.</PRICE></BIBL> <BIBL><TITLE>Larithm√©tique par tarif</TITLE>, divis√©e en <VOLUME>2 Volumes</VOLUME>, ouvrage utile √† toute forte de personnes, particuli√®rement aux banquiers, aux marchands et n√©gotians, aux gens d'affaires, aux teneurs de livtes, ing√©nieurs et architectes; par <AUTHOR>J. Mirabau de Nantes</AUTHOR>, gr. in <FORMAT>4</FORMAT>. anstatt <PRICE>9 fl.</PRICE> <PRICE>4 fl.</PRICE></BIBL> <BIBL><TITLE>Middletons Brief von Rom</TITLE>, darin eine genaue Gleichf√∂rmigkeit zwischen dem Pabstthum und Heidenthum gezeigt wird, gr. <FORMAT>8</FORMAT>. <YEAR>1756</YEAR>. <PRICE>20 kr.</PRICE></BIBL> <BIBL><TITLE>Le-Proit des gens, ou principes de la loi naturelle &c.</TITLE> par <AUTHOR>Mr. de Vattel</AUTHOR>, <VOLUME>2 Toms</VOLUME>. gr. in <FORMAT>4</FORMAT> <PLACE>Londres</PLACE>. <YEAR>1758</YEAR>. anstatt zu <PRICE>4 fl.</PRICE> zu <PRICE>1fl. 20 kr.</PRICE></BIBL></ITEM>\",\n  \"number_of_fixes\": 3,\n  \"explanation\": \"There were three instances where the tag <PRIZE> was used instead of the correct <PRICE> tag. These were corrected to ensure the XML was valid.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 776,
+        "output_tokens": 768,
+        "total_tokens": 1544
+    },
+    "duration": 22.238275289535522,
+    "timestamp": "2025-11-04T15:42:33.771205"
+}

@@ -1,0 +1,5 @@
+{
+    "fixed_xml": "<ITEM>Empfehlungswerthe Festgeschenke f√ºr die Jugend. Im Verlage der Schweighauser'schen Buchhandlung erschien so eben: <BIBL><TITLE>Ma r ie un dF lo ra oder heiter und ernft</TITLE> von <AUTHOR>Auna Fer aser Tyt le r</AUTHOR>. Nach der f√ºnften Auflage aus dem Englischen √ºbersetzt. Mit vier Bildern. Preis: gebunden <PRICE>Fr. 2. 50</PRICE>.</BIBL> Die Uebersetzerin, eine Dame, deren Rame stets mit Achtung und Liebe in Basel genannt wird, begleitet vorstehendes Buch mit folgenden Worten:, Zun√§chst f√ºr die Kinder Basels wurde die Uebersetzung dieses Werkchens unternommen. Dasie und ihre Eltern meinem Herzen oft gegenw√§rtig sind, war es beim Lesen dieses Buches mein erster Wunsch, da√ü auch sie an dem Nutzen und Vergn√ºgen, welche dasselbe gew√§hrt, Theil haben m√∂chten. -- Ist mir dieses nur so weit gelungen, da√ü Eltern das Buch gern in den H√§nden ihrer Kinder sehen m√∂gen, so will ich recht dankbar seyn, denn ich bin √ºberzeugt, da√ü es mit Gottes H√ºlfe Gutes stiften kann.</ITEM>",
+    "number_of_fixes": 1,
+    "explanation": "The tag <PRIZE> was incorrectly spelled. It has been corrected to <PRICE>."
+}

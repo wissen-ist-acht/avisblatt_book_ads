@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>Novit√§ten bey Neukirch, Buchh√§ndler. Goerrers in Sachen der Rheinprovinzen, und in eigener Angelegenheit, <BIBL><TITLE>Goerrers in Sachen der Rheinprovinzen</TITLE>, gr. <FORMAT>8.</FORMAT> br. <PRIZE>2fl. 12 kr.</PRIZE></BIBL> <BIBL><TITLE>Welt und Zeit</TITLE>, <VOLUME>5ter Thl.</VOLUME>, oder kalte Aufschl√§ge f√ºr die herrschenden Kopfkrankheiten, v. <AUTHOR>Jonathan Kurzrock</AUTHOR>. gr. <FORMAT>8.</FORMAT> <PRIZE>3 fl. 12.</PRIZE></BIBL> <BIBL><TITLE>Nouvelles observations Sur les Conventicules et Suir les Missions en pays chr√™tiens</TITLE>, par <AUTHOR>Curtat</AUTHOR>, gr. <FORMAT>8.</FORMAT> br. <PRIZE>1 fl.</PRIZE></BIBL> <BIBL><TITLE>Briefwechsel zwischen Hrn. von Bonald und Herrn Fischer, Rathshr. von Bern, √ºber die Religions√§nderung des Hrn. von Haller</TITLE>, gr. <FORMAT>8.</FORMAT> <PRIZE>12kr.</PRIZE></BIBL> <BIBL><TITLE>Die Vorzeit. Eine Romanze in Musik gesetzt nach Art und Weise, wie die jetzigen Griechen singen, nebst dazu passenden Vorund Zwischenspielen</TITLE>, von <AUTHOR>Bernhard Romberg</AUTHOR>, <PRIZE>40kr.</PRIZE></BIBL></ITEM>\",\n  \"number_of_fixes\": 1,\n  \"explanation\": \"The XML was missing a closing tag for the last PRIZE element. It was written as PRICE but should have been PRIZE to match the opening tag.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 464,
+        "output_tokens": 463,
+        "total_tokens": 927
+    },
+    "duration": 17.3180730342865,
+    "timestamp": "2025-11-05T14:20:48.350251"
+}

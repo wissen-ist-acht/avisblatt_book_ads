@@ -1,0 +1,5 @@
+{
+    "fixed_xml": "<ITEM>2. Wo extra guter wohlged√∂rrter Speck, Kinnbacken und Hammen, √† 6 1/2 Batzen zu haben, ist bey Hrn. Stupanus auf der Rheinbruck zu erfragen. Ferner ist bey mir in Commi√üion zu haben: <BIBL><TITLE>Eine Parthey gute chirurgische, medieinische und andere B√ºcher</TITLE></BIBL>, wovon ein Catalogus einzusehen; wann etwas zusammen genommen w√ºrde, th√§te man sehr biligen Preis machen. <BIBL><TITLE>Erlachs Tod</TITLE></BIBL>, ein Trauerspiel in 5 Aufz√ºgen. <BIBL><TITLE>Rubolf von Habsburg</TITLE></BIBL>, ein Trauerspiel. <BIBL><TITLE>Das Buch vom Aberglauben</TITLE></BIBL> <BIBL><TITLE>Ein Wort an Europa</TITLE></BIBL> <BIBL><TITLE>Die Aristokraten</TITLE></BIBL>, ein Lustspiel. <BIBL><TITLE>Critit der neuen Constitution</TITLE></BIBL> <BIBL><TITLE>Marats Leben und Tod</TITLE></BIBL> <BIBL><TITLE>Der Krieg in der Vendee</TITLE></BIBL> <BIBL><TITLE>Leben und Regierung Ludwigs Tvl</TITLE></BIBL></ITEM>",
+    "number_of_fixes": 1,
+    "explanation": "There was only one XML tag that was not properly closed. The <BIBL> tag before 'Der Krieg in der Vendee' was missing its closing tag. This was the only correction made."
+}

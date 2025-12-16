@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>32. Bey Christ. Winkelblech zu St. Johann No. 102 sind folgende gebundene B√ºcher in Commission zu haben: <BIBL><TITLE>Eine Bibel</TITLE> in <FORMAT>Fol.</FORMAT> mit Landkarten von der gansen Welt, dem Paradies, Reise der Apostel Íùõc.</BIBL> <BIBL><AUTHOR>Rambachs</AUTHOR> <TITLE>Betrachtungen, √ºber das ganze Leiden Christi</TITLE>. <PRICE>4. 6 Btz.</PRICE></BIBL> <BIBL><TITLE>Gerichts Concurs und Tarordnung f√ºr die Oesterreichischen Lande</TITLE>. <FORMAT>8.</FORMAT> <PRICE>4 Btz.</PRICE></BIBL> <BIBL><TITLE>Anekdoten von der Reise Josephs der 1. und aus seinem Leben</TITLE>. <FORMAT>8.</FORMAT> <PRICE>2 Btz.</PRICE></BIBL> <BIBL><AUTHOR>Thomas Kempis</AUTHOR> <TITLE>Nachfolgung Christi</TITLE> <PRICE>6 Btz.</PRICE></BIBL> <BIBL><AUTHOR>Osterwalds</AUTHOR> <TITLE>Anfangsgr√ºnde der Erdbeschreibung</TITLE>. <FORMAT>8.</FORMAT> <PRICE>2 Batzen.</PRICE></BIBL> <BIBL><AUTHOR>Montecuculi</AUTHOR>, <TITLE>Kriegs-Nachrichten</TITLE> mit sch√∂nen Pl√§nen und Kupferstichen. <FORMAT>4.</FORMAT> <PRICE>6 Btz.</PRICE></BIBL> <BIBL><AUTHOR>Drollingers</AUTHOR> <TITLE>Gedichte</TITLE> samt Gel√§chtnu√ü-Rede auf denselben von Spreng. <FORMAT>8.</FORMAT> <PRICE>6 Batz.</PRICE></BIBL> <BIBL><TITLE>Abbildung der mehrsten Gold- und Silber-M√ºnzen der Welt</TITLE>. 59 Kupferbl√§tter. <PRICE>6 Btz.</PRICE></BIBL> <BIBL><TITLE>Lehrbuch der Geographie</TITLE>. <FORMAT>8.</FORMAT> <PRICE>2 Btz.</PRICE></BIBL> <BIBL><AUTHOR>Wirtzens</AUTHOR> <TITLE>Kriegskunst</TITLE>. <FORMAT>8.</FORMAT> <VOLUME>3 Bd.</VOLUME> mit vielen Kupfern. <PRICE>12 Btz.</PRICE></BIBL> <BIBL><TITLE>Die Lehre der Wahrheit zur Gottseeligkeit</TITLE> ein sehr sch√∂nes Predigtbuch in <FORMAT>4.</FORMAT> <PRICE>3 Batz.</PRICE></BIBL> <BIBL><AUTHOR>Arndts</AUTHOR> <TITLE>Paradies-G√§rtlein</TITLE>. <FORMAT>8.</FORMAT> <PRICE>3 Batzen.</PRICE></BIBL> <BIBL><AUTHOR>Geistliche Oden und Lieder von Gellert</AUTHOR> <PRICE>2 Btz.</PRICE></BIBL> <BIBL><TITLE>Die sogenannte Bilder-Bibel</TITLE>. <FORMAT>8.</FORMAT> 126 pag. durchaus mit Holzstichen. <PRICE>3 Btz.</PRICE></BIBL> <BIBL><TITLE>Lieder und Psalmenb√ºcher</TITLE> mit grobem und reinem Druck, franz√∂sisch oder deutsch, das Stuck √† <PRICE>2 Btz.</PRICE></BIBL></ITEM>\",\n  \"number_of_fixes\": 8,\n  \"explanation\": \"The xml tag <PRIZE> was incorrectly used in several places. It was replaced with the correct tag <PRICE>.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 939,
+        "output_tokens": 910,
+        "total_tokens": 1849
+    },
+    "duration": 39.54071807861328,
+    "timestamp": "2025-11-04T15:20:26.737658"
+}

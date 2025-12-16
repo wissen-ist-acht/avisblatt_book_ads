@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>21. Bey Neukirch, Buchh√§ndler ist so eben folgende sehr sch√∂n gestochene u. empfehlenswerthe Karte angekommen: <BIBL><TITLE>Vollst√§ndiger Schauplatz von Griechenlands Wiedergeburt, oder volitischestatistische Karte von der Europ√§ischen T√ºrkey u. ganz Klein-Asien, nebst Siebenb√ºrgen, Ungarn, Dalmatien u. s. w.</TITLE>, Preis <PRIZE>1fl.</PRIZE> auf Velin-Papier, <PRICE>1fl. 30 kr.</PRICE></BIBL> Auch sind allda folgende Flugschriften wieder zu haben: <BIBL><TITLE>Un Genevois √† l'auteur des lettres de B√§le</TITLE>, <PRIZE>4 Bz.</PRIZE></BIBL> <BIBL><TITLE>Un mot Sur les lettres de Basle et urla reponse d'un Genevois, par le Chev. Wieland</TITLE>, <PRIZE>2 Bz.</PRIZE></BIBL> <BIBL><TITLE>Encore un mot, par le Chevalier Wielan d.</TITLE>, <PRICE>2 Bz.</PRICE></BIBL> <BIBL><TITLE>P√©tition √† la Chambre des D√©putes par M. Douglas Loveday</TITLE>, <PRIZE>3¬Ω2 Bz.</PRIZE></BIBL> <BIBL><TITLE>Bittschrift an die Deputirten-Kammer vou Herrn Douglas Loveday, Engl√§nder und Protest√§nt, Klage f√ºhrend √ºber einen durch Verf√ºhrung geschehenen Kinderraub an seinen beyden T√∂chtern und seiner Nichte, vollzogen in einem Erziehungshause zu Paris, dem er sie anpextraute, und wo man von der Leichtglaubigkeit dieser jungen Personen Mi√übrauch machte, um sie in Abwesenheit ihrer Eltern, ohne deren Wissen u. Willen, durch aberglaubischen Schrecken, Zudringlichkeit und falsche Wunder, in Eile zum Catholicismus zu bekehren.</TITLE>, <PRIZE>2 Btz.</PRIZE></BIBL> Von dieser Bittschrift sind auch Exemplare bey Korn, Buchbinder am B√§umlein, zu erhalten.</ITEM>\",\n  \"number_of_fixes\": 1,\n  \"explanation\": \"The XML was mostly well-formed, but there was one instance where the closing tag <PRICE> was incorrectly written as <PRIZE>. This was corrected to ensure the XML is valid.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 650,
+        "output_tokens": 653,
+        "total_tokens": 1303
+    },
+    "duration": 22.834051847457886,
+    "timestamp": "2025-11-05T14:23:15.167928"
+}

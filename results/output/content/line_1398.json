@@ -1,0 +1,5 @@
+{
+    "fixed_xml": "<ITEM>Man w√ºnscht zu den beiden Werken: <BIBL><TITLE>Oeuvres du comte de Tressan</TITLE></BIBL> und <BIBL><TITLE>Archenholz brittischen Annalen</TITLE></BIBL>; den ersten Band um billigen Preis zu haben.</ITEM>",
+    "number_of_fixes": 0,
+    "explanation": "The given XML is already well-formed. It contains no syntax errors, and all tags are properly opened and closed. Thus, no fixes were needed."
+}

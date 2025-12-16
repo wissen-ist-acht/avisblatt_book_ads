@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>Im Berichth. ist in Komission zu haben: <BIBL><TITLE>Die H. Schrift A. und N. Testaments</TITLE>, <PLACE>Basel</PLACE>, <YEAR>1788</YEAR>, <PRIZE>Frzb. 23 Bzn.</PRIZE></BIBL> <BIBL><AUTHOR>Arndts</AUTHOR>, <TITLE>wahre Christenthum</TITLE>, <PRIZE>10 Bzu.</PRIZE></BIBL> <BIBL><TITLE>Betrachtungen √ºber festliche Zeiten</TITLE>, <PLACE>St. Gallen</PLACE>, <YEAR>87 - 88</YEAR>, <PRIZE>2Th. Frzb. 25 Bzu.</PRIZE></BIBL> <BIBL><AUTHOR>Less.</AUTHOR>, <TITLE>Dogmatik</TITLE>, <YEAR>79</YEAR>, <PRIZE>Frzb. 14 Bzn.</PRIZE></BIBL> <BIBL><AUTHOR>Sacks</AUTHOR>, <TITLE>Predigten</TITLE>, <PRIZE>Th. 69</PRIZE>, <PRIZE>Frzb. 9 Bzu.</PRIZE></BIBL> <BIBL><AUTHOR>Mosches</AUTHOR>, <TITLE>Predigten √ºber d. Natur</TITLE>, <YEAR>74</YEAR>, <PRIZE>Frzb. 9 Bzn.</PRIZE></BIBL> <BIBL><AUTHOR>Jochims</AUTHOR>, <TITLE>Predigten f√ºr Landleute</TITLE>, <YEAR>74</YEAR>, <PRIZE>6 Bzn.</PRIZE></BIBL> <BIBL><AUTHOR>Mosheims</AUTHOR>, <TITLE>Anweisung zur Gottesgelahrtheit</TITLE>, <PRIZE>4 Bzn.</PRIZE></BIBL> <BIBL><AUTHOR>Junckers</AUTHOR>, <TITLE>Volcksarzneykunde</TITLE>, <YEAR>87</YEAR>, <PRIZE>Frzb. 18 Bzn.</PRIZE></BIBL> <BIBL><TITLE>Lexicon quatuor linguarum</TITLE>, <PRIZE>6 Bzn.</PRIZE></BIBL> <BIBL><AUTHOR>Lausdem</AUTHOR>, <TITLE>Compendium V. Test. Hebrao-Chaldaicum</TITLE>, <PRIZE>4 Bzn.</PRIZE></BIBL> <BIBL><AUTHOR>Cornelius N√©pos</AUTHOR>, <PRIZE>2 Bzn.</PRIZE></BIBL> wie auch Postpapier der Bogen <PRIZE>6 Rpn.</PRIZE></ITEM>\",\n  \"number_of_fixes\": 4,\n  \"explanation\": \"The XML was mostly correct, but there were some places where commas were missing after the AUTHOR tag, which might cause problems for some parsers. Also, there was a PRICE tag used instead of PRIZE in one place.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 680,
+        "output_tokens": 692,
+        "total_tokens": 1372
+    },
+    "duration": 31.060530185699463,
+    "timestamp": "2025-11-04T16:01:30.663444"
+}

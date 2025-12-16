@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>18. Bey Hrn. Johannes Pullich zum Solothurn sind folgende B√ºcher in billigem Preis zu verkaufen: <BIBL><AUTHOR>Pierre Rondeau</AUTHOR> teutsch und franz√∂sisch <TITLE>Dictionnaire</TITLE> durch <AUTHOR>Herrn Pfarrer Burdorf</AUTHOR> corrigirt.</BIBL> <BIBL><TITLE>Oeconomia ruralis & domestica</TITLE> von <AUTHOR>M. Joh. Colero</AUTHOR> beschrieben, <FORMAT>fol.</FORMAT> <VOLUME>2. Theil</VOLUME> mit sch√∂nen Kupfern gezieret.</BIBL> <BIBL><TITLE>Causes celebres & interressantes</TITLE> avec les <TITLE>Jugements</TITLE>, gu les ont decidees, recueillies par <AUTHOR>Mr. Gayot de Pitaval</AUTHOR>. <TITLE>Avocat au Parlement de Paris</TITLE>. <VOLUME>Tom. 1.. 6.</VOLUME></BIBL> <BIBL><TITLE>Les epitres & les Evangiles</TITLE> pour les <TITLE>Dimanches & les Fetes principales de Pann√©e</TITLE> 2vec plusieurs <TITLE>Passeges de EEcriture Sainte & Phistoire de la Passion</TITLE> selon les <TITLE>4. Evangelistes</TITLE>.</BIBL> <BIBL><TITLE>Eine Handbibel</TITLE>, <AUTHOR>B√ºdinger-Druck</AUTHOR>.</BIBL> Ferner 2. noch brauchbare Coffres.</ITEM>\",\n  \"number_of_fixes\": 0,\n  \"explanation\": \"The provided XML seems to be correctly formatted. No fixes were needed.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 436,
+        "output_tokens": 418,
+        "total_tokens": 854
+    },
+    "duration": 20.149408102035522,
+    "timestamp": "2025-10-30T17:52:17.669526"
+}

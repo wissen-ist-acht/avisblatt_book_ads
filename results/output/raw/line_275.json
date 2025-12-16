@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>1. Bey Hrn. C. A. Serini, Buchh√§ndler allhier, ist zu haben: <BIBL><TITLE>Geschenk f√ºr die Jugend</TITLE> auf <YEAR>1783</YEAR>. <PRIZE>12. kr.</PRIZE></BIBL> <BIBL><AUTHOR>Francesco Manconi</AUTHOR> neuverbessertes <TITLE>Traumb√ºchlein</TITLE>, in welchem man auf verschiedene Art sein Gl√ºck finden kan, mit <FORMAT>360 Kupf.</FORMAT> <YEAR>1783</YEAR>. <PRIZE>xr. 16</PRIZE></BIBL> <BIBL><AUTHOR>Schubart</AUTHOR> <TITLE>Klaggesang auf die Nachricht von Minettens Tod</TITLE>, mit <FORMAT>Music</FORMAT>, <YEAR>1783</YEAR>. <PRIZE>kr. 16.</PRIZE></BIBL> <BIBL><TITLE>Historisches, physicalisches und moralisches Magazin f√ºr-Kinder beyderley Geschlechts</TITLE>, <VOLUME>2ter Theil</VOLUME>, <YEAR>1782</YEAR>. <PRIZE>kr. 54.</PRIZE></BIBL> <BIBL><AUTHOR>Balthasars</AUTHOR> <TITLE>Gedanken und Fragmente zur Geschichte des gemeineidsgen√∂√üischen Rechtes</TITLE>, -- und <VOLUME>5tes St√ºck</VOLUME>, <YEAR>1783</YEAR>. <PRIZE>kr. 52.</PRIZE></BIBL> <BIBL><TITLE>Friedlieb Grumbach oder meine Geschichte</TITLE>, mit <FORMAT>Silhouetten</FORMAT>, <YEAR>1783</YEAR>. <PRIZE>fl. 1.</PRIZE></BIBL> <BIBL><TITLE>Verordnung des K√∂niglich-Franz√∂s. Staatsraths, die protestantischen Gemeinden im Elsa√ü betreffend</TITLE>, <YEAR>1783</YEAR>. <PRIZE>kr. 12.</PRIZE></BIBL> Ferner ist zu haben: <BIBL><AUTHOR>Lavaters</AUTHOR> <TITLE>Pontius Pilatus, oder die Bibel im Kleinen, und der Mensch im Grossen</TITLE>, <VOLUME>2ter Band</VOLUME>, <YEAR>1783</YEAR>. auf <FORMAT>Schreibpap.</FORMAT> <PRIZE>fl. 1 kr. 30.</PRIZE> <FORMAT>Druckpap.</FORMAT> <PRIZE>kr. 50.</PRIZE></BIBL></ITEM>\",\n  \"number_of_fixes\": 1,\n  \"explanation\": \"The closing tag for the last PRIZE element was incorrectly written as PRICE. It has been corrected to PRIZE.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 681,
+        "output_tokens": 674,
+        "total_tokens": 1355
+    },
+    "duration": 17.313038110733032,
+    "timestamp": "2025-11-02T10:12:51.088241"
+}

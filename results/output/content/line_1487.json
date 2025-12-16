@@ -1,0 +1,5 @@
+{
+    "fixed_xml": "<ITEM>2076. Im Verlag von Joh. C. M√§cken jun in Reutlingen ist so eben erschienen und durch Bahnmaier's Buchhandlung (C. Detloff) zu beziehen: <BIBL><AUTHOR>Philipp Friedrich Hillers</AUTHOR> s√§mmtliche Geistliche Tieder zum ersten Mal vollst√§ndig gesammelt und mit einem Abri√ü seines Lebens, mit Zustimmung der Enkel-S√∂hne des Dichters unver√§ndert herausgegeben von <AUTHOR>Karl Chr. Eberh. Ehman n.</AUTHOR>, <FORMAT>gr. 8. br.</FORMAT> <PRICE>Preis: 34 Btz.</PRICE></BIBL></ITEM>",
+    "number_of_fixes": 1,
+    "explanation": "The opening tag <PRICE> was spelled incorrectly as <PRIZE>. This has been corrected."
+}

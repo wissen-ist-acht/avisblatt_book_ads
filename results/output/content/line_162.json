@@ -1,0 +1,5 @@
+{
+    "fixed_xml": "<ITEM>11. Folgende B√ºcher werden begehrt: <BIBL><TITLE>Militaris Ordinis Johonnitarum &c. &c. Historia nova</TITLE>, Authore <AUTHOR>Henrico Pantaleone</AUTHOR>, <FORMAT>fol.</FORMAT> <PLACE>Basileae</PLACE> <YEAR>1581</YEAR></BIBL>. Ferner <BIBL><AUTHOR>Oppianus, poeta graecus</AUTHOR></BIBL>. Item <BIBL><AUTHOR>Petronus</AUTHOR> cum Not. var. <FORMAT>8.</FORMAT></BIBL>. Ferner <BIBL><AUTHOR>Catulus Tib. & Propertius</AUTHOR>, cum Not var. <FORMAT>8vo</FORMAT></BIBL>, der Liebhaber kan bey Hrn. Daniel Schmidt auf dem Fischmarckt erfragt werden.</ITEM>",
+    "number_of_fixes": 0,
+    "explanation": "The provided XML is well-formed and does not require any fixes. All tags are properly opened and closed, and there are no missing or extra tags."
+}

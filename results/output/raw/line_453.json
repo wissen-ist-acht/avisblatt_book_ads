@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>28. Beh Hrn. Bolli, Buchbinder, ist zu haben: <BIBL><AUTHOR>Thucydides</AUTHOR>, graece & lat.- Stu- 4 diis Sociec. <TITLE>Bipontinae</TITLE>, <VOLUME>6. Vol.</VOLUME> complet. <YEAR>790</YEAR>. <PRIZE>fl. 16. 30 xr.</PRIZE></BIBL> <BIBL><AUTHOR>Luciani</AUTHOR> <TITLE>Opera</TITLE>, gr. & lat. Studiis Societatis Bipont. <VOLUME>Tom. 1 3 & 2.</VOLUME> <YEAR>790</YEAR>. <PRIZE>fl. 4.</PRIZE></BIBL> <BIBL><AUTHOR>Petronii</AUTHOR> <TITLE>Satiricon cum 5 Supplementis Nodotianis</TITLE>, <YEAR>790</YEAR>. <PRIZE>40 xr.</PRIZE></BIBL> <BIBL><TITLE>Six Sonates pour le Clavecin ou Forte- Piano avec PAccompagnement dun Violon</TITLE>, composees par <AUTHOR>A. Riegel</AUTHOR>, <PRIZE>fl. 2. 24 xr.</PRIZE></BIBL> <BIBL><TITLE>Hinterlassene Werke Friedrichs 1. K√∂nigs in Preussen</TITLE>, <VOLUME>15 Thle.</VOLUME> <YEAR>789</YEAR>. <PRIZE>fl. 7. 30 kr.</PRIZE></BIBL> <BIBL><TITLE>Leben Friedrichs des Zweyten, K√∂nigs in Preussen</TITLE>, skigzirt von einem freym√ºthigen Manne, <VOLUME>4 Thle.</VOLUME> <YEAR>789</YEAR>. <PRIZE>fl. 1.</PRIZE></BIBL> <BIBL><TITLE>K√∂nigs harmonischer Lieberschatz, oder allgemeines evangelisches Choralbuch</TITLE>, welches die Melodten deren sowohl alten als neuen Ges√§nge samt den hundert und f√ºnfzig Psalmen Davibs in sich h√§lt, in lang <VOLUME>4.</VOLUME> <YEAR>738</YEAR>. <PRIZE>fl. 2.</PRIZE></BIBL> <BIBL><AUTHOR>Gerhards</AUTHOR> <TITLE>Beykr√§ge zur Chymie und Geschichte des Mineralreichs</TITLE>, m. Kpf. <VOLUME>2 Thle.</VOLUME> <YEAR>776</YEAR>. <PRIZE>fl. 2.</PRIZE></BIBL> <BIBL><AUTHOR>Tersteegens</AUTHOR> <TITLE>geistliche und erbauliche Briefe uber das inwendige Leben und wahre Wesen des Christenthums</TITLE>, <VOLUME>4 Thle.</VOLUME> <PRIZE>fl. 2. 24 kr.</PRIZE></BIBL></ITEM>\",\n  \"number_of_fixes\": 3,\n  \"explanation\": \"The XML had 3 incorrect closing tags. The tags <PRICE> were replaced with the correct <PRIZE> tags.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 759,
+        "output_tokens": 756,
+        "total_tokens": 1515
+    },
+    "duration": 25.70687508583069,
+    "timestamp": "2025-11-03T09:45:35.692192"
+}

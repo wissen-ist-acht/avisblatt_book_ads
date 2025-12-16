@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>Bey Joh. Georg Bolly, Buchbinder aufm Markt, ist zu haben: <BIBL><AUTHOR>Poppe</AUTHOR>, der <TITLE>physikalische Jugendfreund</TITLE>, <VOLUME>4 Thle.</VOLUME> mit <FORMAT>Kupf.</FORMAT> <YEAR>1815</YEAR>. <PRIZE>4 fl.</PRIZE></BIBL> <BIBL><AUTHOR>Campes</AUTHOR> <TITLE>Kinderbibliothel</TITLE>, <VOLUME>6 Bde.</VOLUME> <PRIZE>3 fl. 36kr.</PRIZE></BIBL> <BIBL><AUTHOR>Glatz</AUTHOR>, die <TITLE>guten Kinder</TITLE>, <PRIZE>1fl.</PRIZE></BIBL> <BIBL><TITLE>Unterhaltungen eines Vaters mit seinen Kindern √ºber g√∂ttliche Dinge</TITLE> von <AUTHOR>Ebend.</AUTHOR> <PRIZE>1fl.</PRIZE></BIBL> <BIBL><TITLE>Theone</TITLE>, <VOLUME>2 Bde.</VOLUME> v. <AUTHOR>Ebend.</AUTHOR> <PRIZE>1fl. 36 kr.</PRIZE></BIBL> <BIBL><TITLE>Minona</TITLE>, von <AUTHOR>Ebend.</AUTHOR> <PRIZE>40 kr.</PRIZE></BIBL> <BIBL><TITLE>Iduna</TITLE>, <VOLUME>2 Bde.</VOLUME> von <AUTHOR>Ebend.</AUTHOR> <PRIZE>1fl. 36 kr.</PRIZE></BIBL> <BIBL><AUTHOR>Blasche</AUTHOR>, d. <TITLE>Papparbeiter</TITLE>, m. K. <PRIZE>1fl. 36kr.</PRIZE></BIBL> <BIBL><TITLE>Haus- und Taschenkalender aller Art</TITLE>, <TITLE>Jugendschriften mit illum. Kupf.</TITLE>, <TITLE>Mechanische Neujahrsw√ºnsche</TITLE>, <TITLE>Farben zum illuminiren</TITLE> und <TITLE>Illuminir√ºbungen</TITLE> Íùõc.</BIBL></ITEM>\",\n  \"number_of_fixes\": 2,\n  \"explanation\": \"The XML was mostly correct, but there were two instances where the tag <PRICE> was used instead of the correct tag <PRIZE>. These have been corrected.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 575,
+        "output_tokens": 578,
+        "total_tokens": 1153
+    },
+    "duration": 16.894363164901733,
+    "timestamp": "2025-11-05T11:03:45.427019"
+}

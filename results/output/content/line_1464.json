@@ -1,0 +1,5 @@
+{
+    "fixed_xml": "<ITEM>Bei Levraut in Stra√üburg ist erschienen und in Bahnmaier's Buchhandlung, Freiestra√üe No. 1178, vorr√§thig: <BIBL><TITLE>DerguteBote f√ºr das Jahr 1843</TITLE><PRICE>Preis 2 1/2 Btz. oder 10 kr.</PRICE></BIBL></ITEM>",
+    "number_of_fixes": 1,
+    "explanation": "The closing tag for <PRICE> was incorrectly written as </PRIZE>. It has been corrected to </PRICE>."
+}

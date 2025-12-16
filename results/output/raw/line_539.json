@@ -1,0 +1,13 @@
+{
+    "text": "{\n\"fixed_xml\": \"<ITEM>29. In Emanuel Th√ºrneysens Buchhandlung allhier ist zu haben: <BIBL><TITLE>Der Tempel des Vorurtheils und des Aberglaubens, oder Erholungsstunden eines Illummnaten</TITLE>, <FORMAT>8.</FORMAT> <YEAR>794.</YEAR> <PRIZE>40 kr.</PRIZE></BIBL> <BIBL><AUTHOR>Spie√ü (C. H.)</AUTHOR> <TITLE>der alte Ueberall und Nirgends; Geistergeschichte</TITLE>, mit <FORMAT>Kpf.</FORMAT> <VOLUME>2ter Thl.</VOLUME> <FORMAT>8.</FORMAT> <YEAR>793.</YEAR> <PRIZE>fl. 2. 30 kr.</PRIZE></BIBL> <BIBL><TITLE>Catalogue raisonn√© des dessins originaux des pius grands maitres, anciens & modernes qui faisoient partie du cabinet de feu le Prince Charles de Ligne</TITLE>, par <AUTHOR>Barth</AUTHOR>, √© qui seront vend√º le ge <YEAR>Novembre prochain.</YEAR> <PRIZE>fl. 1. 20 Kr.</PRIZE></BIBL> <BIBL><AUTHOR>Joh. Ge√üners</AUTHOR> <TITLE>phytographischen Tafeln</TITLE>, wovon Proben illuminirt und schwarz einzusehen.</BIBL></ITEM>\",\n\"number_of_fixes\": \"0\",\n\"explanation\": \"The provided XML is already well-formed and does not require any fixes.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 396,
+        "output_tokens": 375,
+        "total_tokens": 771
+    },
+    "duration": 11.798573017120361,
+    "timestamp": "2025-11-04T13:31:42.964483"
+}

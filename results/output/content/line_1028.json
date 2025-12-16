@@ -1,0 +1,5 @@
+{
+    "fixed_xml": "<ITEM>Man vermi√üt den <BIBL><VOLUME>1ten Band</VOLUME> von <AUTHOR>Gellerts</AUTHOR> <TITLE>Schriften</TITLE>, <PLACE>Carlsruher</PLACE> Ausgabe, </BIBL> und den <BIBL><TITLE>Jahrgang 1818 der Sammlungen christlicher Wahrheiten</TITLE></BIBL>; sollte jemand eins oder das andere entbehren wollen; so ist solches nebst√§ussersten Preis zu Buchbinder Korn, beym Eschenschwibbogen zu senden.</ITEM>",
+    "number_of_fixes": 1,
+    "explanation": "There was a missing closing BIBL tag after the title 'Jahrgang 1818 der Sammlungen christlicher Wahrheiten'. This was the only fix required."
+}

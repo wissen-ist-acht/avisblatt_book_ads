@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>14. <BIBL><TITLE>Eine Bibel</TITLE> in <FORMAT>fol.</FORMAT>, von <AUTHOR>Luther</AUTHOR> √ºbersetzt, mit Auslegungen, sehr sch√∂n in Leder gebunden, wie neu.</BIBL> <BIBL><AUTHOR>Kunokki's</AUTHOR> <TITLE>Predigten</TITLE>, <VOLUME>3 Thl.</VOLUME> <PLACE>Augsburg</PLACE>. <YEAR>1513</YEAR>.</BIBL> <BIBL><AUTHOR>Pfr. M√§der</AUTHOR> <TITLE>Religions-Vortr√§ge</TITLE>. <YEAR>1803</YEAR></BIBL> <BIBL><AUTHOR>Bauers</AUTHOR> <TITLE>Repertorium f√ºr alle Amts-Verrichtungen eines Predig.</TITLE>, <VOLUME>14 Bde.</VOLUME> <PLACE>Halle</PLACE>. <YEAR>1811</YEAR>.</BIBL> <BIBL><AUTHOR>Wilhelms</AUTHOR> <TITLE>Predigten</TITLE> √† <VOLUME>Th.</VOLUME> <YEAR>1813</YEAR>.</BIBL> <BIBL><AUTHOR>Sturms</AUTHOR> <TITLE>Morgenstunden</TITLE>, <VOLUME>2 Th.</VOLUME>, und <AUTHOR>Thiedes</AUTHOR> <TITLE>Abendstunden</TITLE>, <VOLUME>2 Th.</VOLUME>, sehr sch√∂n in Leder gebunden.</BIBL> <BIBL><AUTHOR>Steinkopfs</AUTHOR> <TITLE>Predigten</TITLE>.</BIBL> <BIBL><AUTHOR>Pfr. Schweizers</AUTHOR> <TITLE>√∂ffentl-Catechisationen</TITLE>, item <TITLE>Christenlehrer</TITLE>, item <TITLE>Magazin f√ºr Wochenund Leichenpredigten</TITLE>.</BIBL> <BIBL><AUTHOR>Ewald</AUTHOR> √ºber <TITLE>Prediger-Besch√§ftigung und Prebiger-Betragen</TITLE>. Gr√∂√ütentheils jedes um die H√§lfte des gew√∂hnlichen Ladenpreises.</BIBL></ITEM>\",\n  \"number_of_fixes\": 0,\n  \"explanation\": \"The provided XML is already well-formed and does not require any fixes.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 601,
+        "output_tokens": 586,
+        "total_tokens": 1187
+    },
+    "duration": 22.316837787628174,
+    "timestamp": "2025-11-05T11:35:27.411721"
+}

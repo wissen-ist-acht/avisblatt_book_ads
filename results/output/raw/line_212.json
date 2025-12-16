@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>30. In Emannel Thurneysens Buchhandlung an der untern Freyenstra√ü ist zu haben: <BIBL><AUTHOR>Sulzers (J. G.)</AUTHOR> <TITLE>Beobachtungen und Anmerkungen auf einer im Jahr 1775 und 76 gethanen Reise aus Deutschland nach der Schweiz, Ober-Italien und √ºber den St. Gothard zur√ºck nach Deutschland</TITLE>, <FORMAT>8.</FORMAT> <YEAR>1780</YEAR>. √† <PRIZE>kr. 54.</PRIZE></BIBL> Ferner: <BIBL><TITLE>Helvetischer Kalender f√ºrs Jahr 1780.</TITLE> mit angenehmen Erzehlungen und Kupfern, wie auch einem Regierungs-Kirchen-Kriegs- und Litterar- Etat der ganzen Eydgeno√üschafft. √† <PRIZE>kr. 48.</PRIZE> <PRIZE>kr. 56.</PRIZE> dito geb. mit Futeral. dito sch√∂n geb. mit vergoldtem Schnitt <PRIZE>fl. 1. kr. 8.</PRIZE> und Futeral.</BIBL></ITEM>\",\n  \"number_of_fixes\": 1,\n  \"explanation\": \"The PRIZE tag at the end was incorrectly closed as PRICE. It has been corrected to PRIZE.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 350,
+        "output_tokens": 339,
+        "total_tokens": 689
+    },
+    "duration": 9.516493797302246,
+    "timestamp": "2025-11-02T09:54:04.991490"
+}

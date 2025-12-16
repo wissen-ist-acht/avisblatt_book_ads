@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>36. Bey Em. Thurneisen, Buchh√§ndler anf der Freyenstra√ü, ist um beygesetzte Prei√üe zu haben: <BIBL><TITLE>La Nourriture de l'ame</TITLE>, p. <AUTHOR>Oster- Vald</AUTHOR>, <FORMAT>8.</FORMAT> <PRIZE>1fl. 6 kr.</PRIZE></BIBL> <BIBL><AUTHOR>Vend, G. E.</AUTHOR>, <TITLE>die elliptische Blutbahn</TITLE>, <FORMAT>gr. 8.</FORMAT> <PRIZE>1fl. 30 kr.</PRIZE></BIBL> <BIBL><AUTHOR>Ebenderselbe</AUTHOR>, <TITLE>√ºber das nat√ºrliche und g√∂ttliche Prinzip des Organismus</TITLE>, <FORMAT>gr. 8.</FORMAT> <PRICE>24kr.</PRICE></BIBL> <BIBL><AUTHOR>Meyer</AUTHOR>, <TITLE>Forstdirektionslehre</TITLE>, mit <FORMAT>2 Planzeichnungen und Tabellen</FORMAT>, <FORMAT>4.</FORMAT> <PRIZE>12fl.</PRIZE></BIBL> <BIBL><AUTHOR>bislein</AUTHOR>, <TITLE>kurzer Unterricht in der Naturwissenschaft f. die Jugend</TITLE>, m. <FORMAT>K.</FORMAT> <FORMAT>gr. 8.</FORMAT> <PRIZE>48 kr.</PRIZE></BIBL> <BIBL><AUTHOR>Ewalds, F. L.</AUTHOR>, <TITLE>christl. Communionbuch</TITLE>, <FORMAT>8.</FORMAT></BIBL></ITEM>\",\n  \"number_of_fixes\": 0,\n  \"explanation\": \"The provided XML is correctly formatted and does not require any fixes. All tags are properly opened and closed.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 458,
+        "output_tokens": 446,
+        "total_tokens": 904
+    },
+    "duration": 15.4859619140625,
+    "timestamp": "2025-11-05T10:19:00.407117"
+}

@@ -1,0 +1,5 @@
+{
+    "fixed_xml": "<ITEM>In J. Scheibles Buchhandlung in Stuttgart erschien so eben und kann durch alle Buchhandlungen bezogen werden, <BIBL><TITLE>Schw√§nkte des Hebel'schen Rheinl√§ndisehen Hausfreundes</TITLE> (18o81831) mit allen spa√ühaften Geschichten vom Zundeltrieder, rothen Dieter und Heiner. In <VOLUME>zwei Theilen</VOLUME>. S. Mit <FORMAT>120 Abbildungen</FORMAT>. <FORMAT>Broschirt</FORMAT>. Preis eines Theiles <PRICE>1 fl. 12 kr. rhein.</PRICE> oder <PRICE>18 ggr. s√§chs.</PRICE></BIBL></ITEM>",
+    "number_of_fixes": 1,
+    "explanation": "The tag <PRIZE> was incorrect and has been replaced with the correct tag <PRICE>."
+}

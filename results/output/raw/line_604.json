@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>In der Serinischen Buchhandlung ist zu haben: <BIBL><AUTHOR>Friedrich Karl Freyhrn. von Moser</AUTHOR> <TITLE>Politische Wahrheiten</TITLE>, <VOLUME>1tes B√§ndchen</VOLUME>. <FORMAT>8.</FORMAT> <YEAR>796.</YEAR> <PRICE>fl. 2. 48 kr.</PRICE></BIBL> <BIBL><TITLE>Chronologischer Hand-Kalender f√ºr die Vorzeit, Gegenwart und Zukunft</TITLE>, herausgegeben von <AUTHOR>E. G. Weinbrok</AUTHOR>. <FORMAT>fol.</FORMAT> <PRICE>fl. 1. 48 kr.</PRICE></BIBL> <BIBL><TITLE>Auserlesene Gespr√§che des Platon</TITLE>, √ºbersetzt von <AUTHOR>F. L. Graf zu Stolberg</AUTHOR>, <VOLUME>1ter Thl.</VOLUME> mit einem <FORMAT>Kupfer.</FORMAT> <FORMAT>gr. 8.</FORMAT> <YEAR>796.</YEAR> <PRICE>fl. 2. 24 kr.</PRICE></BIBL> <BIBL><AUTHOR>Christ. Heinr. Spie√ü</AUTHOR> <TITLE>Biographien der Wahnfinnigen</TITLE>, <VOLUME>1tes und 2tes B√§ndchen</VOLUME>, mit <FORMAT>Kpf.</FORMAT> <FORMAT>8.</FORMAT> <YEAR>795.</YEAR> <PRICE>fl. 4. 30 kr.</PRICE></BIBL> <BIBL><TITLE>Tableau pour reduire les nouvelles m√©sures en anciennes</TITLE>. <FORMAT>4-</FORMAT> <PRICE>24 Kr.</PRICE></BIBL> <BIBL><TITLE>Instruction fur le Caleul de nouvelles Mesures r√©publicaines, appliqu√© princip.</TITLE> aux <AUTHOR>Monnoies & aux Mesures de longueur</AUTHOR>. <FORMAT>8.</FORMAT> <PRICE>20 Kr.</PRICE></BIBL> <BIBL><TITLE>Lart d'√©crire aussi Vite qu'on parle</TITLE> par <AUTHOR>Thevenot</AUTHOR>, avec <FORMAT>fig.</FORMAT> <FORMAT>8.</FORMAT> <YEAR>795.</YEAR> <PRICE>f. 1.</PRICE></BIBL> <BIBL><TITLE>Die Stadt Biel nach ihrer Ur-Anlage und √§chten urspr√ºnglichen Verfassung bis zu ihrer gewaltsamen Umwandlung und Verunstaltung im Eingang des 17ten Jahrhunderts, ein Beytrag zur Geschichte der Schweiz</TITLE>. <FORMAT>8.</FORMAT> <YEAR>795.</YEAR> <PRICE>40 kr.</PRICE></BIBL></ITEM>\",\n  \"number_of_fixes\": 8,\n  \"explanation\": \"The 'PRIZE' tag was consistently misspelled as 'PRICE'. This was corrected in 8 places.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 720,
+        "output_tokens": 701,
+        "total_tokens": 1421
+    },
+    "duration": 24.91875696182251,
+    "timestamp": "2025-11-04T14:02:32.364140"
+}

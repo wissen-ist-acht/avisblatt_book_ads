@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>3. <BIBL><TITLE>Berechnung der PFr. St√ºcke, franz√∂s. Rthaler und Brbthaler. in hiesiges Capital-Geld, und den Brbthaler in Reichsgeld</TITLE> in fortlaufender Zahl von 1 bis 1000. Um den Gebrauch dieser Reductionen zu erleichtern und √ºberall anwendbar zu machen, wurden solche auf <FORMAT>40 Seitchen</FORMAT> und in <FORMAT>Taschenformat</FORMAT> gebracht; dieses H√ºlfsb√ºchlein wird daher Jedermann willkommen seyn, welcher im Fall ist Gelder zu verwechseln; die Richtigkeit desselben wurde erprobt. ‚Äì <PRIZE>Preis eines steif broschirten Exemplars Btz. 15.</PRIZE></BIBL> <BIBL><TITLE>Die sechs Bezirke des Kant. Basel, zum Gebrauche f. Schulen u. Reisende.</TITLE> Am Schlusse vom verflossnen Jahre wurde diese Karte auf Stein gezeichnet. <PRIZE>1 Exemplar auf sch√∂n Papier und colorirt Btz. 6.</PRIZE></BIBL> <BIBL><TITLE>Diese Karte</TITLE> auf <FORMAT>Druckpapier</FORMAT>, nebst <TITLE>Kurzer Beschreibung u. Geschichte des Kantons Basel</TITLE>, steif broschirt <PRIZE>Btz. 7 1/2.</PRIZE></BIBL> Zu finden bey den Herren Neukirch, Holdenecker und in der Schweighauser'schen Buchhandlg.</ITEM>\",\n  \"number_of_fixes\": 1,\n  \"explanation\": \"The tag <PRIZE> was incorrectly closed with </PRICE>. This was fixed by changing </PRICE> to </PRIZE>.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 446,
+        "output_tokens": 441,
+        "total_tokens": 887
+    },
+    "duration": 14.712357759475708,
+    "timestamp": "2025-11-05T15:56:22.235509"
+}

@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>6. Bey Hrn. Joh. Jakob Freyler, Buchbinder an der Schneiderga√ü, ist zu haben: <BIBL><TITLE>Seltsame Geschichte des wunderbaren Ritters Don Quichotte de la Manche</TITLE>, <VOLUME>2 Thle.</VOLUME> beysammen, <PLACE>Coppenhagen</PLACE> <YEAR>707</YEAR>. <PRIZE>20 kr.</PRIZE></BIBL> <BIBL><TITLE>Die ungemein sch√∂ne und gelehrte Finnlanderin Salome</TITLE>, <PLACE>Frfrt. und Lpz.</PLACE> <YEAR>748</YEAR>. <PRIZE>20kr.</PRIZE></BIBL> <BIBL><TITLE>Beschreibung des K√∂nigreichs Krinkeke√ümes, nebst dem holl√§ndischen Robinson</TITLE>, <PLACE>Delitzsch</PLACE> <YEAR>748</YEAR>. <PRIZE>20 kr.</PRIZE></BIBL> <BIBL><AUTHOR>M√ºllers</AUTHOR> <TITLE>Weisheit des Redners</TITLE>, <YEAR>748</YEAR>. <PRIZE>20 kr.</PRIZE></BIBL> <BIBL><AUTHOR>M√ºllers</AUTHOR> <TITLE>Entwurf eines Lehrgeb√§udes der nat√ºrlichen Philosophie und Arzueykunst</TITLE>, <YEAR>752</YEAR>. <PRIZE>20 kr.</PRIZE></BIBL> <BIBL><TITLE>Lebensbeschreibung Telemachs</TITLE>, <VOLUME>2 Thle.</VOLUME> beysammen, <PRIZE>215. 20 kr.</PRIZE></BIBL> <BIBL><TITLE>Geschichte des Prinzen Celindo, oder Tugend und Klugheit, als die treuesten F√ºhrer der Unschuld und Redlichkeit</TITLE>, <PLACE>Lpz.</PLACE> <YEAR>755</YEAR>. <PRIZE>20 kr.</PRIZE></BIBL> <BIBL><TITLE>Die sch√∂ne Wolsianerin</TITLE>, <VOLUME>; Thle.</VOLUME> beysammen, <PLACE>Lpz.</PLACE> <YEAR>741</YEAR>. <PRIZE>20 kr.</PRIZE></BIBL> <BIBL><TITLE>Einleitung zur Historie des Ch√ºrf√ºrstenthums Sachsen</TITLE>, <VOLUME>2 Bde.</VOLUME> <YEAR>714</YEAR>. <PRIZE>20 kr.</PRIZE></BIBL> <BIBL><TITLE>Der neue Eidgenosse</TITLE>, <YEAR>750</YEAR>. <PRIZE>20 kr.</PRIZE></BIBL> <BIBL><AUTHOR>Simlers</AUTHOR> <TITLE>Schweizerchronit</TITLE>, <YEAR>645</YEAR>. <PRIZE>20 kr.</PRIZE></BIBL> <BIBL><TITLE>Ragoszy Leben und Thaten</TITLE>, <PLACE>Lpz.</PLACE> <YEAR>739</YEAR>. <PRIZE>20 kr.</PRIZE></BIBL> <BIBL><AUTHOR>Gottliebs</AUTHOR> <TITLE>zuf√§lliger Andachten zweyhundert</TITLE>, <YEAR>723</YEAR>. <PRIZE>20 kr.</PRIZE></BIBL> <BIBL><TITLE>Der Tod der Gerechten, oder die Weise wohl zu ferben</TITLE>, durch Hrn. de la Placete, <YEAR>728</YEAR>. sauber in Pergament, <PRIZE>20 kr.</PRIZE></BIBL> <BIBL><TITLE>Haus-Reisund Kirchenkleinod</TITLE>, <PLACE>Basel</PLACE> <YEAR>730</YEAR>. in Frzbd. <PRIZE>20 kr.</PRIZE></BIBL></ITEM>\",\n  \"number_of_fixes\": 7,\n  \"explanation\": \"The XML tags <PRICE> were incorrect and were replaced with the correct <PRIZE> tags in 7 instances.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 946,
+        "output_tokens": 954,
+        "total_tokens": 1900
+    },
+    "duration": 26.88310980796814,
+    "timestamp": "2025-11-03T09:50:41.705802"
+}

@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>Hand fibel 2. 1ste Abthlg. <BIBL><TITLE>Laut- und Wortb√ºchlein</TITLE>, geb. <PRIZE>2 Btz.</PRIZE></BIBL> 2te Abthlg. <BIBL><TITLE>Satzb√ºchlein</TITLE>, geb. <PRIZE>2 Btz.</PRIZE></BIBL>, sind so eben wieder erschienen und vorr√§thig in Wahnmaier's Buchhandlung, Freiestra√üe No. 1178. 3. Bei Steinkopf in Stuttgart ist erschienen und in Bahnmaiers's Buchhandlung vorr√§thig: <BIBL><AUTHOR>Burk</AUTHOR>, <TITLE>Spiegel edler Pfarrfrauen</TITLE>. <PRIZE>Batzen 33</PRIZE>. Ein Buch, dessen Eigenth√ºmlichkeit es f√ºr jedes christliche Haus nicht weniger willk√∂mmen macht als die immer allgemeiner gesch√§tzte,<BIBL><TITLE>Pastoraltheologie in Beispielene</TITLE> des gleichen Verfassers, die sich allenthalben einer so guten Aufnahme erfreut</BIBL> 4. Extra feine Brockel-Amlung zu <PRIZE>10 kr.</PRIZE>, fein gest√§ngelte zu <PRIZE>9 kr.</PRIZE>, gelber Javg- Kaffee √† <PRIZE>5 1/2 Btz.</PRIZE>, gr√ºner √† <PRIZE>5 Btz.</PRIZE> das lb; zum Frieden hinter dem Schwarzenpfahl. 6. Bedeutend unter dem Fabrikpreis: Gedruckte Jaconets & Mousselines zu Umh√§ngen und Kleidern, √† <PRIZE>8 bis 10 Btz.</PRIZE> der Stab, √§chtfarbige schmale Indiennes, zu <PRIZE>Btz. 4 bis 5</PRIZE> der Stab, Indiennen-T√ºcher zu <PRIZE>Btz. 6</PRIZE>, Borduren und Ecken an Shawls. Aechte Wachslichter No. 6 zu <PRIZE>Btz. 16</PRIZE> das lb. Louise Walz, geb. H√§nel, Eiseng√§sse No. 1542.</ITEM>\",\n  \"number_of_fixes\": 0,\n  \"explanation\": \"The provided XML does not have any missing or incorrect tags. Therefore, no fixes were required.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 619,
+        "output_tokens": 607,
+        "total_tokens": 1226
+    },
+    "duration": 16.116204023361206,
+    "timestamp": "2025-11-06T11:05:44.233958"
+}

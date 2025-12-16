@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>In der Schweighauserschen Buchhandlung ist zu haben: <BIBL><AUTHOR>Leuchs</AUTHOR> <TITLE>allgemeine Darstellung der Handlungswissenschaft</TITLE>, <PRICE>791. 30 kr.</PRICE></BIBL> <BIBL><TITLE>Fortgesetzte Litteratur des katholischen Deutschlands</TITLE>, <VOLUME>1ter Bd. 1tes und 2tes St√ºck</VOLUME>, <PRICE>791. fl. 1.</PRICE></BIBL> <BIBL><AUTHOR>Wekhrlins</AUTHOR> <TITLE>Paragraphen</TITLE>, <VOLUME>2 Bandchen</VOLUME>, <PRICE>fl. 2. 24 kr.</PRICE></BIBL> <BIBL><AUTHOR>Plutarchi</AUTHOR> <TITLE>Opera, cum Adnotationibus variorum</TITLE>, cura <AUTHOR>Jo. Geo. Hutten</AUTHOR>, <PRICE>791. fl. 2. 12 xr.</PRICE></BIBL> <BIBL><TITLE>Chrestomathia graeca</TITLE>; √† <AUTHOR>J. M. Gessner</AUTHOR>, latine vertit ac Notis illustrat <AUTHOR>C. J. Beregin√©</AUTHOR>, <PRICE>791. fl. 1. 30 xr.</PRICE></BIBL> <BIBL><TITLE>Leben und Geschichte Pabst Innocen;</TITLE> <AUTHOR>Rl</AUTHOR>, von <AUTHOR>P. Bonamici</AUTHOR>, <PRICE>791. 36 kr.</PRICE></BIBL> <BIBL><AUTHOR>Sprengers</AUTHOR> <TITLE>Landwirthschaftskalender auf 1792</TITLE>, <PRICE>12 kr.</PRICE></BIBL> <BIBL><TITLE>Auswahl kleiner Gedichte und prosaischer Aufs√§tze zur sittlichen Bildung des sch√∂nen Geschlechts</TITLE>, <PRICE>791. fl. 1. 48 kr.</PRICE></BIBL> <BIBL><TITLE>Almeria Belmore, a novel in aseries of Letters</TITLE>, written by a <AUTHOR>Lach</AUTHOR>, <PLACE>London</PLACE> <YEAR>791</YEAR>. <PRICE>fl. 1.</PRICE></BIBL></ITEM>\",\n\n  \"number_of_fixes\": 5,\n\n  \"explanation\": \"The XML tags for the price of the books were incorrectly labeled as <PRIZE> instead of <PRICE>. These tags were corrected in 5 places. Additionally, the word 'written' was misspelled as 'vritten' and has been corrected.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 624,
+        "output_tokens": 630,
+        "total_tokens": 1254
+    },
+    "duration": 24.101723194122314,
+    "timestamp": "2025-11-03T09:55:26.451702"
+}

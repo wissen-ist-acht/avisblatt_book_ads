@@ -1,0 +1,13 @@
+{
+    "text": "{\n\"fixed_xml\": \"<ITEM>4. Bey Hrn. Joh. Jakob Freyler, Buchbinder an der Schneiderga√ü, ist zu haben: <BIBL><AUTHOR>Georgii Pritii</AUTHOR> <TITLE>geistliche T√ºgend- und Sittenlehre</TITLE>, <PLACE>Leipzig</PLACE> <YEAR>1721</YEAR>. 2 <VOLUME>Theile</VOLUME> in einem Band, <PRIZE>20 kr.</PRIZE></BIBL> <BIBL><AUTHOR>Gottliebs</AUTHOR> <TITLE>zuf√§lliger Andachten zweyhundert</TITLE>, <PLACE>Stuttgard</PLACE> <YEAR>1723</YEAR>. <PRIZE>24 kr.</PRIZE></BIBL> <BIBL><AUTHOR>Quirsfelds</AUTHOR> <TITLE>geistlicher Myrrhengarten</TITLE>, mit vielen Kupfern, <YEAR>1708</YEAR> <PRIZE>24 kr.</PRIZE></BIBL> <BIBL><AUTHOR>Cobers</AUTHOR> <TITLE>herzerquickende Blumen und gem√ºthssabende Aepfel</TITLE>, mit vielen Kupfern, <PLACE>N√ºrnberg</PLACE> <YEAR>1738</YEAR>. <PRIZE>24 kr.</PRIZE></BIBL> <BIBL><AUTHOR>Cobers</AUTHOR> <TITLE>Moral- und Sittenprediger im Cabinet</TITLE>, <PLACE>Gotha</PLACE> <YEAR>1722</YEAR>. <PRIZE>20 kr.</PRIZE></BIBL> <BIBL><AUTHOR>Wedrians</AUTHOR> <TITLE>Kreuzschule</TITLE>, <PLACE>Frkfrt.</PLACE> <YEAR>1719</YEAR>. <PRIZE>20 kr.</PRIZE></BIBL> <BIBL><TITLE>S√§mmlung geistlicher Lieder und Ges√§nge</TITLE>, ganz neu, <PLACE>Basel</PLACE> <YEAR>1782</YEAR>. <PRIZE>24 kr.</PRIZE></BIBL> <BIBL><AUTHOR>Bayli</AUTHOR> <TITLE>Uebung der Gottseligkeit</TITLE>, <PLACE>Basel</PLACE> <YEAR>1700</YEAR>. <PRIZE>16 kr.</PRIZE></BIBL> Nebst aller Sorten Bibeln und andern B√ºchern.</ITEM>\",\n\"number_of_fixes\": 1,\n\"explanation\": \"There was one error in the XML. The closing tag for 'PRIZE' was written as 'PRICE'. It was corrected to 'PRIZE'.\" \n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 619,
+        "output_tokens": 616,
+        "total_tokens": 1235
+    },
+    "duration": 16.038209199905396,
+    "timestamp": "2025-11-02T20:57:25.370689"
+}

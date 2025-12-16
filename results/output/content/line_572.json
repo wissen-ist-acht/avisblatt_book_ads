@@ -1,0 +1,5 @@
+{
+    "fixed_xml": "<ITEM>14. Bey Hrn. Joh. Jak. Flick, Buchh√§ndler auf dem Fischmarkt, ist zu haben: <BIBL><AUTHOR>B√∂kmanns</AUTHOR> <TITLE>Versuch √ºber Telegraphie und Telegraphen</TITLE>, mit <FORMAT>Kpf.</FORMAT> <PRIZE>794 fl. 1.</PRIZE></BIBL> <BIBL><TITLE>G√ºtle Kunst in Kupfer zu stechen, zu radiren und zu √§zen</TITLE>, mit <FORMAT>Kpf.</FORMAT> <PRIZE>795. fl. 3. 20 kr.</PRIZE></BIBL> <BIBL><AUTHOR>Mannerts</AUTHOR> <TITLE>Geographie der Griechen und R√∂mer</TITLE>, <VOLUME>4 Thle.</VOLUME> <PRIZE>795. fl. 3.</PRIZE></BIBL> <BIBL><AUTHOR>Burgdorfs</AUTHOR> <TITLE>Forst- Handbuch</TITLE>, mit einer illuminirten <FORMAT>Karte</FORMAT>, <PRIZE>795. fl. 3. 20 kr.</PRIZE></BIBL> Auch sind wieder von den bekannten <BIBL><TITLE>G√∂ttinger- und Gothaer-Taschen-Kalendern</TITLE> mit <FORMAT>Kupfery</FORMAT> f√ºr das Jahr <YEAR>1795</YEAR>, so wie auch der <BIBL><TITLE>G√∂ttinger Revolutions-Almanach</TITLE></BIBL> angelangt, und in bekannten Preisen zu haben.</ITEM>",
+    "number_of_fixes": 0,
+    "explanation": "The XML is well-formed and doesn't need any fixes. All the tags are properly opened and closed."
+}

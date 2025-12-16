@@ -1,0 +1,13 @@
+{
+    "text": "{\n\"fixed_xml\": \"<ITEM>An Freunde des elassischen Alterthums. Von dem, in meinem Verlage herauskommenden <BIBL><TITLE>Atlas des alten Erdkreises</TITLE> von <AUTHOR>C. G. Reichard</AUTHOR> ist so eben <TITLE>Thracia und Hliricum</TITLE>, nebst erl√§uterndem Textb, fertig geworden.</BIBL> Dieses, in mehr als einer Hinsicht, klassische Unternehmen, geht festen - und so viel die gro√üen Schwierigkeiten, die dabey zu √ºberwinden sind, erlauben ‚Äì raschen Schrittes vorw√§rts. In wenigen Jahrenwird hoffentlich ein ehrenhaftes deutsches Nazionalwerk vollender da stehen, das die T√ºchtigkeit unserer Zeit beurkunden und von Engl√§ndern oder Franzosen nicht. √ºbertroffen werden soll. Die bis-jetzt erschionenen Bl√§ttes sind: <BIBL><TITLE>F. Aegyptus u. Arabia petraea</TITLE> (5√†kr. 1L.)</BIBL> <BIBL><TITLE>Palestina</TITLE> (<PRIZE>1 fl. 12</PRIZE>)</BIBL> <BIBL><TITLE>Graecia Borealis</TITLE> (<PRIZE>6 fl. 12.</PRIZE>)</BIBL> <BIBL><TITLE>Graecia Meridionalis</TITLE>(<PRIZE>1fl. 12.</PRIZE>)</BIBL> <BIBL><TITLE>Asia Minor, Syria Armenia, Mesopotamia, Assyria</TITLE> (<PRIZE>2fl. 24.</PRIZE>)</BIBL> <BIBL><TITLE>Thracia</TITLE> (<PRIZE>Ci fl l- 9H.</PRIZE>)</BIBL> <BIBL><TITLE>Britannia</TITLE> (<PRIZE>1fl. 12.</PRIZE>)</BIBL> <BIBL><TITLE>Hispania</TITLE> (<PRIZE>54kr.</PRIZE>)</BIBL> zusammen <PRIZE>10 fl. 12 kr.</PRIZE> - In Arbeit ist <BIBL><TITLE>Gallia</TITLE></BIBL>; ihm folgt <BIBL><TITLE>Germania</TITLE>, <TITLE>Noricum</TITLE>, <TITLE>Pannoma</TITLE></BIBL> So- N√ºrnberg im August <YEAR>1819.</YEAR> Friedrich Campe- 5 In Basel sind von obigem √§usserst sch√∂nen Werke vorr√§thige Exemplare, welche den Liebhabern zur Einsicht zu Hiensie stehen bey Neukirch, Buchh√§ndl.</ITEM>\",\n\"number_of_fixes\": 1,\n\"explanation\": \"The tag <PRICE> was corrected to <PRIZE> to match the opening tag.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 714,
+        "output_tokens": 698,
+        "total_tokens": 1412
+    },
+    "duration": 26.547664165496826,
+    "timestamp": "2025-11-05T11:38:43.200107"
+}

@@ -1,0 +1,13 @@
+{
+    "text": "{\n\"fixed_xml\": \"<ITEM>In der Schweighauserschen Buchhandlung allhier ist zu haben: <BIBL><TITLE>Gothaer Taschenkalender aufs Jahr 1791</TITLE>, mit Kpf. in Pergament geb. <PRIZE>fl. 1. 20 kr.</PRIZE></BIBL> Derselbe franz√∂sisch, geb. <PRIZE>fl. 1. 20 kr.</PRIZE> <BIBL><TITLE>Wahre und allein hinreichende Reformationsart des katholischen gesamten Priesterstandes nach der urspr√ºnglichen Idee seines g√∂ttlichen Stifters</TITLE>, <FORMAT>8.</FORMAT> <YEAR>791.</YEAR> <PRIZE>40 kr.</PRIZE></BIBL> <BIBL><TITLE>Das Schlo√ü zu Mindheim; ein Gem√§lde nach der Natur gezeichnet</TITLE>, <FORMAT>8.</FORMAT> <YEAR>791.</YEAR> <PRIZE>fl. 1.</PRIZE></BIBL> <BIBL><AUTHOR>Pauers</AUTHOR> <TITLE>Grundlinien einer systematischen Eneyelop√§die der zeichnenden K√ºnste</TITLE>, <FORMAT>8.</FORMAT> <YEAR>790.</YEAR> <PRIZE>30kr.</PRIZE></BIBL> <BIBL><TITLE>T√§gliche Unterhaltung f√ºr alle vier Jahrszeiten, oder Auswahl der be√üten interessanten k√ºrzern Erz√§hlungen und Romane</TITLE>, <FORMAT>8.</FORMAT> <YEAR>790.</YEAR> <PRIZE>fl. 2. 16 kr.</PRIZE></BIBL> <BIBL><AUTHOR>Aret√§us des Kappadociers</AUTHOR>, <TITLE>von den Ursachen und Kennzeichen rascher und langwieriger Krankheiten</TITLE>, aus dem Griechischen √ºbersetzt von <AUTHOR>Dewez</AUTHOR>, <FORMAT>gr. 8.</FORMAT> <YEAR>790.</YEAR> <PRIZE>fl. 1. 48 kr.</PRIZE></BIBL> <BIBL><AUTHOR>Von Sebernthal</AUTHOR>, <TITLE>√ºber die Verdienste √∂sterreichischer Regenten um das deutsche Reich</TITLE>, <FORMAT>gr. 8.</FORMAT> <YEAR>790.</YEAR> <PRIZE>fl. 3. 36 kr.</PRIZE></BIBL> <BIBL><AUTHOR>Riedels</AUTHOR> <TITLE>Wienerischer Secret√§r auf allt√§gliche F√§lle f√ºr das gemeine Leben</TITLE>, <FORMAT>gr. 8.</FORMAT> <YEAR>790.</YEAR> <PRIZE>fl. 2.</PRIZE></BIBL> <BIBL><TITLE>Onomatologia chymica practica, oder vollst√§ndig prakriches Handbuch der Chemie in alphabetischer Ordnung, zum Nutzen f√ºr Aerzte Apotheker: Fabrikanten; K√ºnstler und andere Personen</TITLE>, <FORMAT>gr. 8.</FORMAT> <YEAR>791.</YEAR> <PRIZE>fl. 2. 16 kr.</PRIZE></BIBL> <BIBL><TITLE>Der Eremit auf Formentera; ein Schauspiel</TITLE>, <FORMAT>gr. 8.</FORMAT> <YEAR>790.</YEAR> <PRIZE>16 kr.</PRIZE></BIBL></ITEM>\",\n\"number_of_fixes\": 5,\n\"explanation\": \"The closing PRIZE tags were written as PRICE. This was fixed in 5 places.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 896,
+        "output_tokens": 883,
+        "total_tokens": 1779
+    },
+    "duration": 33.76794910430908,
+    "timestamp": "2025-11-03T09:50:14.818016"
+}

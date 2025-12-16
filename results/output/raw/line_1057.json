@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>Anzeig e f√ºr die Pr√§numeranten auf die wohlfeile Stuttgarter Ausgabe von <BIBL><AUTHOR>Schillers</AUTHOR> <TITLE>Werken</TITLE></BIBL> in <VOLUME>18 B√§nden</VOLUME>. Zu dieser Ausgabe wird <AUTHOR>Gerhard Fleischer</AUTHOR> in <PLACE>Leipzig</PLACE> eine Sammlung von <VOLUME>18 Kupfern</VOLUME>, von guten K√ºnstlern bearbeitet, herausgeben, derer jedes einem Band derselben angeh√∂rt. Der sehr billige Preis f√ºr s√§mtliche <VOLUME>18 Kupfer</VOLUME> ist <PRIZE>vier Schweizerfranken</PRIZE>, welche bey der Bestellung (gleichwie bey dem Werke selbst) baar voraus zu zahlen sind. Durch bereits vorhandene √§hnliche, dem j√§hrlichen Taschenbuch , die <BIBL><TITLE>Minerva'</TITLE></BIBL> beygef√ºgte Kupfer, ist der Herausgeber schon viel zu vortheilhaft bekannt, auch sonst ein viel zu reeller Mann, als da√ü sich nicht abermals etwas Gutes von ihm erwarten lie√üe. Die Kupfer sollen Lieferungsweise ausgegeben werden, so wie das Werk selbst nach und nach in der Verlagshandlung die Presse verl√§√üt. Pr√§numeration wird angenommen bey <AUTHOR>Neukirch</AUTHOR>, <TITLE>Buchh√§ndler</TITLE>.</ITEM>\",\n  \"number_of_fixes\": 2,\n  \"explanation\": \"There were two missing closing BIBL tags after the TITLE tags 'Werken' and 'Minerva'. These have been added in the corrected XML.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 434,
+        "output_tokens": 444,
+        "total_tokens": 878
+    },
+    "duration": 14.098258018493652,
+    "timestamp": "2025-11-05T14:23:29.268342"
+}

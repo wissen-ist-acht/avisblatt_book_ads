@@ -1,0 +1,5 @@
+{
+    "fixed_xml": "<ITEM>Die <BIBL><TITLE>Berleburger-Bibel</TITLE></BIBL> und <BIBL><AUTHOR>Zwingers</AUTHOR><TITLE>Kra√ºterbuch</TITLE></BIBL> neueste Edition, wer solche zu verkauffen hat, beliebe sie nebst dem aussersten Preis ins Berichthaus zur Besichtigung zu geben.</ITEM>",
+    "number_of_fixes": 1,
+    "explanation": "In the original XML, the second <BIBL> tag was not properly closed after the <TITLE>Kra√ºterbuch</TITLE>. This was fixed by adding a closing </BIBL> tag after <TITLE>Kra√ºterbuch</TITLE>."
+}

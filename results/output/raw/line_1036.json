@@ -1,0 +1,13 @@
+{
+    "text": "{\n\"fixed_xml\": \"<ITEM>21. <BIBL><TITLE>Converfations-Lexikon oder encyelop√§disches Handw√∂rterbuch f√ºr gebildete St√§nde</TITLE> <VOLUME>7 B√§nde</VOLUME>, nebst <VOLUME>4 Abtheilungen Supplemente</VOLUME>, auf ordin. und auf weissem Pp. in bekannten √§usserst bill. Prsen. Mit der so eben erschienenen <VOLUME>3ten u. 4ten Abtheil.</VOLUME> der Supplemente ist dieses anerkannt n√ºtzliche Werk nun vollst√§ndig beendigt. Die Supplement-Sammlung hat dasselbe beyl√§ufig um einen Drittel seiner urspr√ºnglichen Bogenzahl vermehrt und liefert eine Menge gehaltvoller und wichtiger Artikel, welche als eine wahre Bereicherung des Ganzen angesehen werden d√ºrfen. </BIBL> <BIBL><AUTHOR>Rohlwes</AUTHOR> <TITLE>Allgem. Vieharzneybuch</TITLE>, <VOLUME>10te verm. u. verb. Aufl.</VOLUME> <YEAR>1821</YEAR> <PRIZE>1fl.</PRIZE></BIBL> <BIBL><AUTHOR>Witschels</AUTHOR> <TITLE>Morgen- und Abendopfer</TITLE> in <FORMAT>Halbfrzbd.</FORMAT> <PRIZE>1fl.</PRIZE></BIBL> Zu haben in der Holdenecker'schen Leihbiblioth. beym Kornhause.</ITEM>\",\n\"number_of_fixes\": 1,\n\"explanation\": \"The TITLE tag in the second BIBL tag was not properly closed. It was '<TITLE=allgem. Vieharzneybuch' but has been corrected to '<TITLE>Allgem. Vieharzneybuch</TITLE>'.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 443,
+        "output_tokens": 455,
+        "total_tokens": 898
+    },
+    "duration": 15.426072835922241,
+    "timestamp": "2025-11-05T14:14:28.019956"
+}

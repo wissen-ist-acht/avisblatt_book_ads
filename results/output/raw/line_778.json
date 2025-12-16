@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>32. Bey Herrn Bolly auf dem Markt und hinter der School sind nebst den schon angezeigten Taschenb√ºchern zu haben: <BIBL><TITLE>Posselts Taschenbuch</TITLE> auf <YEAR>1805</YEAR>, mit Karten u. Kupf. <PRIZE>4 fl. Krates</PRIZE></BIBL> und <BIBL><TITLE>Hipparchia</TITLE> von <AUTHOR>Wieland</AUTHOR> <PRIZE>2fl. 36kr.</PRIZE></BIBL> <BIBL><TITLE>Taschenbuch der neusten Moden</TITLE> auf <YEAR>1805</YEAR>, <PRIZE>1fl. 20 kr.</PRIZE></BIBL> <BIBL><TITLE>Kleines compendienses Sack Kalenderlein</TITLE> auf <YEAR>1805</YEAR>, mit Blus menlese und Kupfern, <PRIZE>24 et 16 kr. Sack.</PRIZE></BIBL> <BIBL><TITLE>Kalender</TITLE>, wo zwischen jeden Tag kann ge schrieben werden.</BIBL> Zu Neujahrs-Geschenken f√ºr die Jugend sind folgende B√ºcher sauber . gebunden zu haben: <BIBL><TITLE>Kampes Kinder-Bibliothek</TITLE>, <VOLUME>5 Bde.</VOLUME> <PRIZE>3 fl. 30 kr.</PRIZE></BIBL> <BIBL><TITLE>Kampes Columbus oder die Entdeckung von West-Indien</TITLE>, <VOLUME>3 Bde.</VOLUME> <PRIZE>2 fl. 30 kr.</PRIZE></BIBL> <BIBL><TITLE>Kampes Robinson der j√ºngere</TITLE>, <VOLUME>1 Bd</VOLUME> <PRIZE>1fl. 4 kr.</PRIZE></BIBL> <BIBL><TITLE>Kampes Theophron</TITLE>, <PRIZE>1 fl.</PRIZE></BIBL> <BIBL><TITLE>Kampes Seelenlehre</TITLE>, <PRIZE>1 fl. 20 kr.</PRIZE></BIBL> <BIBL><TITLE>Rafs Naturgeschichte f√ºr Kinder</TITLE>, mit Kupf <PRIZE>1fl. 40 kr.</PRIZE></BIBL> <BIBL><TITLE>Die Weibliche Puppe</TITLE>, <PRIZE>1fl. 20 kr.</PRIZE></BIBL> <BIBL><TITLE>die Milit√§r Puppe</TITLE>, <PRIZE>1fl. 20 kr.</PRIZE></BIBL> <BIBL><TITLE>die M√§nnliche Puppe</TITLE>, <PRIZE>1fl. 20 kr.</PRIZE></BIBL> <BIBL><TITLE>Studien im zeichnen und illuminieren der Thiere</TITLE>, <VOLUME>3 Hefte</VOLUME>, <PRIZE>3 fl. 36kr.</PRIZE></BIBL> <BIBL><TITLE>Illuminer-Uebungen in Etui</TITLE>, <PRIZE>30 kr.</PRIZE></BIBL> Auch sind artige Jugendschriften, mit illuminier- ten Figuren, unterhaltende Spiele f√ºr Kinder, und ein Assortiment Neujahrs- W√ºnsche zu haben.</ITEM>\",\n  \"number_of_fixes\": 3,\n  \"explanation\": \"The XML was faulty at three places. The tag <PRICE> was used instead of <PRIZE>. This was corrected in three instances.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 838,
+        "output_tokens": 839,
+        "total_tokens": 1677
+    },
+    "duration": 28.508044719696045,
+    "timestamp": "2025-11-04T15:38:10.282702"
+}

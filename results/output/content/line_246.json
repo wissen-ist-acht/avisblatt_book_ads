@@ -1,0 +1,5 @@
+{
+    "fixed_xml": "<ITEM>In der Schweighauserischen Buchhandlung ist zu haben: <BIBL><TITLE>Pfenningers christliches Magazin</TITLE>, des <VOLUME>4ten Bandes 2tes Stuck</VOLUME>, nebst Register √ºber alle 4 B√§nde, <PRICE>8. kr. 54.</PRICE> complet kostet es <PRICE>fl. 6. kr. 20.</PRICE></BIBL> <BIBL><TITLE>Lehrs√§tze aus der practischen Weltweisheit</TITLE>, samt deren Beurteilungen der theologischen Facult√§ten zu Heidelberg und Stra√üburg, <FORMAT>8.</FORMAT> <YEAR>1781</YEAR>. <PRICE>kr. 12.</PRICE></BIBL> <BIBL><TITLE>Schauplatz von Afrika und Ostindien, oder Beschreibung der wichtigsten holl√§ndisch- und ostindischen Compagmie geh√∂rigen L√§ndern, Jusuln und K√ºsten</TITLE>, mit <FORMAT>115 Kupfern</FORMAT>, <FORMAT>fol.</FORMAT> <YEAR>1767</YEAR>. <PRICE>fl. 12.</PRICE></BIBL> <BIBL><AUTHOR>Junker</AUTHOR> <TITLE>Zwo Predigten</TITLE>, f√ºr Gera gehalten, <FORMAT>8.</FORMAT> <YEAR>1781</YEAR>. <PRICE>kr. 12.</PRICE></BIBL></ITEM>",
+    "number_of_fixes": 3,
+    "explanation": "The XML tags for 'PRIZE' were misspelled as 'PRIZE' in three instances. These have been corrected to 'PRICE'."
+}

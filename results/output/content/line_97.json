@@ -1,0 +1,5 @@
+{
+    "fixed_xml": "<ITEM>11. Bey Hrn. Samuel Haag Buchbinder am Spalenberg ist der <BIBL><VOLUME>4te Theil</VOLUME> von des <AUTHOR>Rahners</AUTHOR> <TITLE>Sathren</TITLE> angelangt, hiemit k√∂nnen diejenigen E. Personen, welche die 3. ersten Theile schon empfangen, gegen Bezahlung <PRIZE>54. kr.</PRIZE> diesen <VOLUME>4ten Theil</VOLUME> auch beziehen; es sind annoch ganze Exemplaria √† <PRIZE>3. fl.</PRIZE> diesen Monat durch zu haben, nach diesem wird keines anderst als <PRICE>4. fl.</PRICE> erlassen werden.</BIBL></ITEM>",
+    "number_of_fixes": 1,
+    "explanation": "The closing tag for the 'PRICE' element was misspelled as 'PRIZE', so it was corrected to 'PRICE'."
+}

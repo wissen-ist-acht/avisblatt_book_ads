@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>2076. Im Verlag von Joh. C. M√§cken jun in Reutlingen ist so eben erschienen und durch Bahnmaier's Buchhandlung (C. Detloff) zu beziehen: <BIBL><AUTHOR>Philipp Friedrich Hillers</AUTHOR> s√§mmtliche Geistliche Tieder zum ersten Mal vollst√§ndig gesammelt und mit einem Abri√ü seines Lebens, mit Zustimmung der Enkel-S√∂hne des Dichters unver√§ndert herausgegeben von <AUTHOR>Karl Chr. Eberh. Ehman n.</AUTHOR>, <FORMAT>gr. 8. br.</FORMAT> <PRICE>Preis: 34 Btz.</PRICE></BIBL></ITEM>\",\n  \"number_of_fixes\": 1,\n  \"explanation\": \"The opening tag <PRICE> was spelled incorrectly as <PRIZE>. This has been corrected.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 240,
+        "output_tokens": 225,
+        "total_tokens": 465
+    },
+    "duration": 9.525234937667847,
+    "timestamp": "2025-11-06T11:10:07.844112"
+}

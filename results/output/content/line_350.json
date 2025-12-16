@@ -1,0 +1,5 @@
+{
+    "fixed_xml": "<ITEM>53. Bey Hrn. C. A. Serini, Buchh√§ndler allhier, ist zu haben: <BIBL><TITLE>Confessions du Comte de C.</TITLE> <SUBTITLE>aver l'histoire de ses voyages en Russie, Turquie, ltalie & duns les Pyramides mides d'Egypte</SUBTITLE>, <YEAR>1787</YEAR>. <PRIZE>Ko. 12.</PRIZE></BIBL> <BIBL><TITLE>Predigten nach den Bed√ºrfnissen des gemeinen Mannes, Predigern zum Kanzelvortrag, und Familien zur Erbauung</TITLE>, <VOLUME>3ter Band</VOLUME>, <FORMAT>8vo.</FORMAT> <YEAR>178</YEAR>. <PRIZE>fl. 1 50 kr.</PRIZE></BIBL> <BIBL><AUTHOR>Moses Mendelsohn</AUTHOR>, <TITLE>fur la r√©forme politique des Juifs, & en particulier f√ºr la r√©volution tent√©e en leur faveur en 1753. dans la grande Br√©tagne</TITLE>, par <AUTHOR>le Comte de Mirabeau</AUTHOR>, <FORMAT>gr. 8.</FORMAT> <YEAR>1787</YEAR>. <PRIZE>fl. 1.</PRIZE></BIBL></ITEM>",
+    "number_of_fixes": 1,
+    "explanation": "There was an extra closing TITLE tag in the first BIBL item. This was removed and replaced with a SUBTITLE opening and closing tag to correctly encapsulate the subtitle of the book."
+}

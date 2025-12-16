@@ -1,0 +1,5 @@
+{
+    "fixed_xml": "<ITEM>29. Bey J. Georg Bolly, Buchbinder auf'm Markt, ist zu haben: <BIBL><TITLE>Aller Sorten Haus-Sack- und Wandkalender, Almanachs und Taschenb√ºcher</TITLE></BIBL>, <BIBL><TITLE>Gesell. schaftsspiele</TITLE></BIBL>; <BIBL><TITLE>eine artige Auswahl von Jugendschriften</TITLE><SUBTITLE> mit illum. Kupf., naturgeschichtlichen, moralischen und geographischen Inhalts</SUBTITLE></BIBL>; <BIBL><TITLE>Zeichnungs-Vorschriften</TITLE></BIBL>, <BIBL><TITLE>Illuminir-Uebungen</TITLE><SUBTITLE> nebst Farben</SUBTITLE></BIBL>; <BIBL><TITLE>Andachts-Gesang- u. Stammb√ºcher</TITLE></BIBL>: <BIBL><TITLE>Oberrheinisches Kochbuch</TITLE><SUBTITLE> neueste Auflage</SUBTITLE></BIBL>; <BIBL><TITLE>Schreibmaterialien</TITLE></BIBL>, nebst <BIBL><TITLE>Zeichnungs- und Musit-Papieren</TITLE></BIBL>.</ITEM>",
+    "number_of_fixes": 3,
+    "explanation": "Three instances were found where text was not enclosed within XML tags, these were treated as subtitles and enclosed within <SUBTITLE> tags."
+}

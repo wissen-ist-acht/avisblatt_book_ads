@@ -1,0 +1,13 @@
+{
+    "text": "{\n\"fixed_xml\": \"<ITEM>In No. 413 auf dem Heuberg sind folgende B√ºcher zu haben: <BIBL><TITLE>Conversations Lexikon</TITLE><VOLUME>7 Bde.</VOLUME> und <VOLUME>4 Bde. Suppl.</VOLUME> zus. <VOLUME>11 Bde.</VOLUME> <PLACE>Stuttg.</PLACE> <YEAR>1818-20</YEAR>. Halbfrzbd.</BIBL> <BIBL><AUTHOR>Ewald, J. L.</AUTHOR> <TITLE>christliches Hand- und Hausbuch, oder Betrachtungen auf alle Tage im Jahre</TITLE>. <VOLUME>2 Bde.</VOLUME> <FORMAT>gr. 8.</FORMAT> <PLACE>Hannov.</PLACE> <YEAR>806</YEAR>. <PRICE>H. F. 26 Btz.</PRICE></BIBL> <BIBL><AUTHOR>Stolz. J. J</AUTHOR> <TITLE>die Pfalmen √ºbers. u. in K√ºrze erl√§utert</TITLE>. <FORMAT>8.</FORMAT> <PLACE>Z√ºrich</PLACE> <YEAR>814</YEAR>. <PRICE>C. 17 Btz.</PRICE></BIBL> <BIBL><AUTHOR>Spittler. L.</AUTHOR> <TITLE>Grundri√ü der Gesch. d. christlichen Kirche</TITLE>. <FORMAT>8.</FORMAT> <PLACE>Reutl.</PLACE> <PRICE>18 Btz.</PRICE></BIBL> <BIBL><AUTHOR>Eberhurds. J. A.</AUTHOR> <TITLE>synonimisches Handw√∂rterbuch d. teutschen Sprache</TITLE>. <FORMAT>gr. 8.</FORMAT> <PLACE>Halle</PLACE> <YEAR>802</YEAR>. <PRICE>H. F. 16 Btz.</PRICE></BIBL> <BIBL><AUTHOR>Stalder, F. J.</AUTHOR> <TITLE>die Landessprachen der Schweiz mit kritischen Sprachbemerk</TITLE>. <FORMAT>8.</FORMAT> <PLACE>Aarau</PLACE> <YEAR>819</YEAR>. <PRICE>C. 17 Btz.</PRICE></BIBL> <BIBL><TITLE>Wallenstein, dramat. Gedicht u. Schiller</TITLE>. <FORMAT>12.</FORMAT> <PLACE>Aachen</PLACE> <YEAR>817</YEAR>. <PRICE>C. T. 7 Btz.</PRICE></BIBL> <BIBL><TITLE>Arnold v. Winckelried, vaterl√§nd. Schauspiel v. J. Hottinger</TITLE>. <FORMAT>12.</FORMAT> <PLACE>Winterthur</PLACE> <YEAR>810</YEAR>. <PRICE>C. T. 5 Btz.</PRICE></BIBL> <BIBL><AUTHOR>Salis, J. G.</AUTHOR> <TITLE>Gedichte</TITLE>. <FORMAT>8.</FORMAT> <PLACE>Stuttg.</PLACE> <YEAR>821</YEAR>. <PRICE>C. 8 Btz.</PRICE></BIBL> <BIBL><TITLE>Neschinis oratoris opera</TITLE>. <FORMAT>8.</FORMAT> <PLACE>Lips.</PLACE> <YEAR>817</YEAR>. <PRICE>br. 8 Btz.</PRICE></BIBL></ITEM>\",\n\"number_of_fixes\": 5,\n\"explanation\": \"The 'PRICE' tag was misspelled as 'PRIZE' in five instances. These were corrected.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 836,
+        "output_tokens": 816,
+        "total_tokens": 1652
+    },
+    "duration": 32.63277268409729,
+    "timestamp": "2025-11-05T15:33:20.939493"
+}

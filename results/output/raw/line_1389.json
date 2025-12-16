@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>13. Neue Unterhaltungs- und Bildungs-Schriften, welche bei J. Doldenecker zu haben sind: <BIBL><TITLE>Bildungsbl√§tter f√ºr die Jugend und ihre Freunde</TITLE>, in Monatl. Heften mit 4 Kupfern. das Heft <PRIZE>18 kr.</PRIZE></BIBL> <BIBL><TITLE>Bibliothek des Frohsinns</TITLE>. <VOLUME>6te Serie</VOLUME>. <TITLE>Humoristische Perlenschnur</TITLE>, d. Bdchn. <PRIZE>24 kr.</PRIZE></BIBL> <BIBL><AUTHOR>Bkumenhagen, W.</AUTHOR> <TITLE>S√§mmtliche erz√§hlende Schriften</TITLE>. Neueste Orig Ausg <PRIZE>24kr.</PRIZE></BIBL> <BIBL><TITLE>Carlsruher Unterhaltungsblatt</TITLE>, Jahrg <YEAR>183s</YEAR>, mit 78 Lithogr pr. <VOLUME>12 Jahr.</VOLUME> <PRIZE>3 fl. 48 kr.</PRIZE></BIBL> <BIBL><TITLE>EErheiterungen</TITLE>. Jahrg. <YEAR>1838</YEAR> in 24 Heften, Pr√§n. Preis f√ºr 12 Hefte <PRIZE>3 fl. 12 kr.</PRIZE></BIBL> <BIBL><TITLE>Europa, Chronik der gebildeten Welt</TITLE>, mit vielen artistischen Beilagen, die Lieferung <PRIZE>24 kr.</PRIZE></BIBL> <BIBL><AUTHOR>Kennedy's</AUTHOR> <TITLE>christliche Erz√§hlungen</TITLE>, in 12 B√§ndchen, das B√§ndchen <PRIZE>27 kr.</PRIZE></BIBL> <BIBL><AUTHOR>Meyers</AUTHOR> <TITLE>Universum</TITLE>, Vr Band in 12 Lief. mit sch√∂nen Stahlstichen, d. Lief. <PRIZE>24 kr.</PRIZE></BIBL> <BIBL><TITLE>Oonau-Ansichten</TITLE>, Ir Bd. Pendant zum Universum, die Lieferung <PRIZE>24 kr.</PRIZE></BIBL> <BIBL><TITLE>Robinson Crusoe</TITLE>, in 10 Lief. mit 50 sch√∂nen Kupfern, in eleg. Einband. <PRIZE>4 fl. 48 kr.</PRIZE></BIBL> <BIBL><AUTHOR>Schiller, Fr. v.</AUTHOR>, s√§mmtliche Werke, neueste Original-Pracht-Ausg. in 12 Bdn. mit des Verfassers Portr√§t in Stahlstich, <PRIZE>5 fl. 24 kr.</PRIZE> oder pr. Band <PRIZE>27 kr.</PRIZE></BIBL> <BIBL><TITLE>Schweizerisches Unterhaltungsblatt</TITLE>, enthaltend interessante Erz√§hlungen mit vielen Holzschnitten, die Lieferung <PRIZE>12 kr.</PRIZE></BIBL> <BIBL><TITLE>Schweizerischer Jugendfreund</TITLE>. Eine Vierteljahrsschrift, die Lieferung <PRIZE>32 kr.</PRIZE></BIBL></ITEM>\",\n  \"number_of_fixes\": 4,\n  \"explanation\": \"The XML tags <PRICE> were changed to <PRIZE> in four places to ensure consistency throughout the XML document.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 848,
+        "output_tokens": 852,
+        "total_tokens": 1700
+    },
+    "duration": 25.628655910491943,
+    "timestamp": "2025-11-06T10:36:39.415724"
+}

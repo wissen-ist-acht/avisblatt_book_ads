@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>In Emanuel Thurneysens Buchhandlung allhier ist zu haben: <BIBL><TITLE>Ueber den Patriotismus</TITLE>, eine vor dem √§ussern Stand in Bern am 13ten Merz 1794 gehaltene Rede von <AUTHOR>Carl Ludwig Haller</AUTHOR>, Commi√üions-Secret√§r, gebunden <PRIZE>20 kr.</PRIZE></BIBL> <BIBL><TITLE>Discours patriotique</TITLE>, pr√©c√©d√© d'une pri√®re & prononc√© le jour de la solennit√© extraordinaire dur√© Mars 1794, par <AUTHOR>Jag. Wartmann</AUTHOR>, <FORMAT>gr. 8.</FORMAT> <PRIZE>10 xr.</PRIZE></BIBL> <BIBL><TITLE>M√©moire pour fervir √† l'histoire de la vie & des ouprages de Mr. Charl. Bonnet</TITLE>, <FORMAT>8.</FORMAT> <YEAR>794.</YEAR> <PRIZE>br. 36xr.</PRIZE></BIBL> <BIBL><TITLE>Die Sittenlehre der Braminen, oder die Religion der Indianer</TITLE>, √ºbersetzt von <AUTHOR>Hrn. Prof. J. Ith</AUTHOR>, <VOLUME>2 Thle.</VOLUME> <FORMAT>8.</FORMAT> <YEAR>794.</YEAR> <PRICE>fl. 1. 48 kr.</PRICE></BIBL> <BIBL><TITLE>Eine kleine Opfergabe auf den Altar des Vaterlandes gelegt</TITLE>, zur Bef√∂rderung der Erb√§uung und Andacht, am Bettage den <YEAR>16ten Merz 1794</YEAR> <FORMAT>8.</FORMAT> <PRICE>8 kr.</PRICE></BIBL></ITEM>\",\n  \"number_of_fixes\": 2,\n  \"explanation\": \"The tags <PRIZE> were changed to <PRICE> in two places to match the opening and closing tags.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 506,
+        "output_tokens": 494,
+        "total_tokens": 1000
+    },
+    "duration": 16.711676120758057,
+    "timestamp": "2025-11-04T13:31:31.161227"
+}

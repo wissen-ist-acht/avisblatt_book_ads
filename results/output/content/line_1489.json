@@ -1,0 +1,5 @@
+{
+    "fixed_xml": "<ITEM>(339.) In Bahnmaier's Buchhandlung ist seit Samstag eingetroffen: <BIBL><TITLE>dem A 1 tenTe st amen</TITLE> mit <AUTHOR>Otto von Gerlach</AUTHOR> Einleitungen und erkl√§renden Anmerkungen. (Das Ganze wird aus <VOLUME>12 Lieferungen</VOLUME> √† <PRIZE>9 Btz.</PRIZE> bestehen.)</BIBL> Diese Ausgabe sowohl, als auch die zu gleicher Zeit eingetroffene <BIBL><AUTHOR>Lisco's</AUTHOR> <TITLE>Altem Testament</TITLE></BIBL>, √ºber welches auf Pag. 29 und 30 des Avis-Blattes ein vollst√§ndiger Prospect sich befindet) sind in meiner Buchhandlung zur gef√§lligen Einsicht und Vergleichung vorr√§thig.</ITEM>",
+    "number_of_fixes": 1,
+    "explanation": "The second <BIBL> tag was not properly closed. I added a closing </BIBL> tag after <TITLE>Altem Testament</TITLE>."
+}

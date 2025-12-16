@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>11. Neueste Schriften. <BIBL><TITLE>Die Schweiz, Bl√§tter f√ºr das In- und Ausland.</TITLE> Herausgeg. von einem Vereine der ausgezeichnetsten M√§nner. <VOLUME>1stes Heft</VOLUME>, <FORMAT>gr. 8.</FORMAT> <PLACE>Bern</PLACE>, <YEAR>1834</YEAR>. Subs. Preis broch. <PRIZE>50 kr.</PRIZE> Wird mit Prospektus zur Einsicht versandt.</BIBL> <BIBL><TITLE>Schweizers Fremdw√∂rterbuch</TITLE>, <VOLUME>4te</VOLUME>, um mehrere tausend Artikel bereicherte Aufl. v. <AUTHOR>C. v. Grell</AUTHOR>, Prof. in <PLACE>Z√ºrich</PLACE>, <VOLUME>1ster Thl.</VOLUME> broch <PRIZE>1 fl.</PRIZE></BIBL> <BIBL><TITLE>F. v. Rougemonts Handbuch der vergleichenden Erdbeschreibung</TITLE>. Broch. <PRIZE>1 fl. 48 kr.</PRIZE></BIBL> <BIBL><AUTHOR>Benj. Constants</AUTHOR> s√§mmtl. politische Werke. Uebersetzt u. mit Anmerkungen begleitet v. <AUTHOR>Dr. Bu√ü</AUTHOR>, Prof. der polit. Wissenschaften. <VOLUME>Erstes Heft</VOLUME>, broch. <PRIZE>24 kr.</PRIZE></BIBL> <BIBL><TITLE>Der preu√üische Mauthverein u. sein Einflu√ü auf die Handelsverh√§ltnisse der Nachbar- L√§nder, mit besonderer Beziehung auf Frankreich und die Schweiz</TITLE>. Von <AUTHOR>Dr. Strohmeyer</AUTHOR>, broch. <PRIZE>12 kr.</PRIZE></BIBL> <BIBL><TITLE>Beschreibung des Kantons Basel</TITLE>. Mit einer Spez. Karte dieses Landes, geb. <PRIZE>36 kr.</PRIZE></BIBL> <BIBL><AUTHOR>Pet. Weltis</AUTHOR> <TITLE>Lebensgeschichte</TITLE>, gewesenen Pfarrer in Wohlenschwil. <VOLUME>2te</VOLUME>, mit dessen Bildni√ü u. dem obergerichtlichen Urtheil vermehrte wohlfeile Ausgabe. br. <PRIZE>12 kr.</PRIZE></BIBL> <BIBL><AUTHOR>Pet. Weltis</AUTHOR> <TITLE>Abendbetrachtung im Gef√§ngnisse</TITLE>. <PRIZE>2 kr.</PRIZE></BIBL> <BIBL><AUTHOR>Pet. Weltis</AUTHOR> <TITLE>Standrede, welche er, im Gef√§ngnisse verfa√üt, auf dem Richtplatze selbst halten wollte</TITLE>. <PRIZE>2 kr.</PRIZE></BIBL> In der Holdenecker'schen Leihbibliothek.</ITEM>\",\n  \"number_of_fixes\": 5,\n  \"explanation\": \"There were 5 instances where the closing tag for <PRIZE> was incorrectly written as </PRICE>. All of these were corrected to </PRIZE>.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 791,
+        "output_tokens": 797,
+        "total_tokens": 1588
+    },
+    "duration": 30.188939094543457,
+    "timestamp": "2025-11-06T09:30:32.485483"
+}

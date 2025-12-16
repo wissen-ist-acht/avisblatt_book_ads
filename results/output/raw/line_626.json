@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>In der Serinischen Buchhandlung ist zu haben: <BIBL><AUTHOR>Becker</AUTHOR> <TITLE>Taschenbuch f√ºr Gartenfreunde</TITLE>, auf das Jahr <YEAR>1797</YEAR> mit <FORMAT>Kupf.</FORMAT> <PRICE>fl. 2. 24 kr.</PRICE></BIBL> <BIBL><AUTHOR>Becker</AUTHOR> <TITLE>Taschenbuch und Almanach zum geselligen Vergn√ºgen</TITLE>, f√ºr <YEAR>o7</YEAR>, mit <FORMAT>Kupf.</FORMAT> <PRICE>fl. 2. 40 kr.</PRICE></BIBL> <BIBL><TITLE>Berlinischer Almanach zum Vergn√ºgen und zur Verbreityng nutzlicher Kenntni√üe</TITLE>, f√ºr <YEAR>1797</YEAR>, mit <FORMAT>Kupf.</FORMAT> <PRICE>fl. 2. 28 kr.</PRICE></BIBL> <BIBL><TITLE>Taschenbuch f√ºr Liebhaber des Privattheaters</TITLE> <PRICE>fl. 1.</PRICE></BIBL> <BIBL><TITLE>Taschenbuch f√ºr Reisende, welche gr√ºndliche Menschenkenntni√üe erlangen, und sich und ihrem Vaterlande nutzlich werden wollen</TITLE>, mit <FORMAT>illum. Kupf.</FORMAT> <PRICE>fl. 1. 20 kr.</PRICE></BIBL> <BIBL><AUTHOR>F√§lk</AUTHOR> <TITLE>Taschenbuch f√ºr Freunde des Scherzes und der Satyren</TITLE>, nebst einem saubern Conterfet auf die kantische Philosophie, <PRICE>fl. 1. 48 kr.</PRICE></BIBL> <BIBL><TITLE>Anm√ºth und Sch√∂nheit, aus den Misterien der Natnr und Kunst, f√ºr ledige und verheyrathete Frauenzimer</TITLE>, mit <FORMAT>Kpf.</FORMAT> <PRICE>fl. 2. 42 kr.</PRICE></BIBL> <BIBL><AUTHOR>Rudigess</AUTHOR> <TITLE>Taschenbuch, die Haus-Land-und Staatswirthschaft</TITLE>, mit <FORMAT>Kupf.</FORMAT> <PRICE>fl. 1. 40 kr.</PRICE></BIBL> <BIBL><TITLE>Taschenbuch f√ºr Kinderw√§rterinnen</TITLE> f√ºr <YEAR>797</YEAR>, <PRICE>32 kr.</PRICE></BIBL> <BIBL><TITLE>T√§gliches Taschenbuch f√ºr alle St√§nde</TITLE>, f√ºr <YEAR>1797</YEAR>, <PRICE>fl. 1. 20 kr.</PRICE></BIBL> <BIBL><AUTHOR>E. G. Gruner</AUTHOR> <TITLE>Neues Taschenbuch f√ºr Aerzte und Nicht√§rzte</TITLE> <PRICE>fl. 2. 28 kr.</PRICE></BIBL> <BIBL><TITLE>Weihnachthgeschenk f√ºr gute Kinder, in ihren F√§higkeiten angemessene Erz√§hlungen</TITLE> <PRICE>54 kr.</PRICE></BIBL> <BIBL><TITLE>Veilekenbl√§tter, ein moral Exempelbuch f√ºr gute Kinder</TITLE> <PRICE>46 kr.</PRICE></BIBL></ITEM>\",\n  \"number_of_fixes\": 7,\n  \"explanation\": \"The tag <PRIZE> was consistently misspelled and has been replaced with the correct tag <PRICE> in seven instances.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 920,
+        "output_tokens": 902,
+        "total_tokens": 1822
+    },
+    "duration": 32.06020188331604,
+    "timestamp": "2025-11-04T14:15:39.997036"
+}

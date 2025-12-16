@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>3. Die nun verbesserte Uebersetzung der Psalmen Davids samt einem doppelten Anhange von Fest-Nachtmahls-Katechismus- und andern Liedern von Hrn. J. J. Sprengen, der Dichtkunst und griechischen Sprache hiesigem Professore, ist bey Herrn Notario und Gerichtsherrn von Mechel in folgendem Preise zu haben, nemlich: <BIBL><TITLE>Die nun verbesserte Uebersetzung der Psalmen Davids samt einem doppelten Anhange von Fest-Nachtmahls-Katechismus- und andern Liedern</TITLE> von <AUTHOR>Hrn. J. J. Sprengen</AUTHOR>, der Dichtkunst und griechischen Sprache hiesigem Professore</BIBL>, ist bey Herrn Notario und Gerichtsherrn von Mechel in folgendem Preise zu haben, nemlich: <BIBL><TITLE>Ein zweystimmiges Psalm- und Gesangbuch</TITLE> auf <FORMAT>Postpapier</FORMAT> um <PRIZE>25 gute Batzen</PRIZE>; desgleichen auf <FORMAT>gemein wei√ü Papier</FORMAT>, um <PRIZE>14 Batzen</PRIZE>; desgleichen auf <FORMAT>Druckpapier</FORMAT>, um <PRIZE>12 Batzen</PRIZE></BIBL>. <BIBL><TITLE>Ein einstimmiges Psalm- und Gesangbuch f√ºr das Frauenzimmer, mit kleiner Schrift</TITLE>, auf <FORMAT>Posspapier</FORMAT> um <PRIZE>20 gute Batzen</PRIZE>. Desgl. auf <FORMAT>gemein wei√ü Papier</FORMAT> um <PRIZE>12 Btz.</PRIZE> Auf <FORMAT>Druckpapier</FORMAT>, um <PRIZE>10 Batzen</PRIZE></BIBL>. Und <BIBL><TITLE>das zu diesem Psalmenwerk geh√∂rige Kupferstuck</TITLE> um <PRIZE>0 Kreuzer</PRIZE>. Die Herren Liebhaber und G√∂nner, die solche bestellt, belieben dieselben ablangen zu lassen.</ITEM>\",\n  \"number_of_fixes\": 1,\n  \"explanation\": \"The XML tag <PRICE> was incorrect and has been changed to <PRIZE> to match the other tags in the document.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 581,
+        "output_tokens": 576,
+        "total_tokens": 1157
+    },
+    "duration": 14.921337127685547,
+    "timestamp": "2025-10-31T11:57:22.560809"
+}

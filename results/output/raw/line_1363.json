@@ -1,0 +1,13 @@
+{
+    "text": "{\n\"fixed_xml\": \"<ITEM><DESCRIPTION>Taschenbuch der Liebe und Freundschaft, 4 Fr. Pergi√ümeinnicht.</DESCRIPTION> <BIBL><TITLE>Taschenbuch der Liebe und Freundschaft</TITLE>, <PRIZE>4 Fr.</PRIZE> <AUTHOR>Pergi√ümeinnicht</AUTHOR></BIBL>. Taschenbuch u. <BIBL><TITLE>Spindler</TITLE>, <PRIZE>6 Fr. 7 Btz.</PRIZE></BIBL> sen versehen zu seyn, so wie auch mit Jugendschriften, mit schwarzen u. illum. Kupfern. AB <BIBL><TITLE>C-B√ºcher</TITLE>, mit illum. Kupfern</BIBL>. Taschenkalenderchen, <BIBL><TITLE>Taschenkalenderchen</TITLE>, mit schwarzen und illum. Kupfern in ord. und feinen Einb√§nden, von <PRIZE>6 bis 14 Btz.</PRIZE></BIBL>. Taschen-Schreibkalenderchen, <BIBL><TITLE>Taschen-Schreibkalenderchen</TITLE>, mit eini- Extra gutem Hypocras zu <PRIZE>12 Btz.</PRIZE></BIBL>. die alte gen Gedichten Íùõc. von <AUTHOR>Saphir u. Schiller</AUTHOR>, <PRIZE>2 1/2 Btz.</PRIZE> Selbst angesetztem Nu√üwasser zu <PRICE>12 Btz.</PRICE>. die Gro√üe hist. <BIBL><TITLE>Hauskalender</TITLE>, √† <PRIZE>6 bis 12Kr.</PRIZE></BIBL>. Contor-Kalender, <BIBL><TITLE>Contor-Kalender</TITLE>, <PRICE>6, 8 und 10 Kr.</PRICE></BIBL>. Schreibkalender in Octav, <BIBL><TITLE>Schreibkalender in Octav</TITLE>, in welche man zwischen jeden Tag schreiben kann</BIBL>. Chem. Feuerzeuge in Blechgef√§ssen, <BIBL><TITLE>Chem. Feuerzeuge in Blechgef√§ssen</TITLE>, jedes mit 100 Z√ºndh√∂lzchen, √† <PRICE>4 Btz.</PRICE></BIBL>. Chem. Z√ºndh√∂lzchen, <BIBL><TITLE>Chem. Z√ºndh√∂lzchen</TITLE>, welche beim Andupfen ohne die geringste Gefahr, schnell, gr√§fer Weine zu <PRICE>3, 4. 5 und 6 Btz.</PRICE></BIBL>. die sicher und sanft brennen. In Paquetern von 1000 St. <PRICE>6 Btz.</PRICE> u. pr. 100 St √† <PRICE>3 Kr.</PRICE> Sehr gutem eingesottenem Alpenbutter √† <BIBL><TITLE>Chem Friktions- oder Streif-Feuerzeuge</TITLE>, in Etuis zu <PRICE>4 und 6 Kreuzer</PRICE> und in blechnen Dosen <PRICE>4 Btz.</PRICE></BIBL>. und gelben Kaffe, <BIBL><TITLE>gelben Kaffe</TITLE>, zu <PRICE>5, 5 1/2, 6, 7 u. 8</PRICE></BIBL> Stammbuchgem√§lde, Gl√ºckw√ºnsche, Vi- In der <BIBL><TITLE>Holdenecker'schen Leihbibliothek</TITLE></BIBL>.</ITEM>\",\n\"number_of_fixes\": 4,\n\"explanation\": \"Four fixes were made. The PRIZE tag was used inconsistently and was replaced with PRICE in some instances. The DESCRIPTION tag was added at the beginning to encapsulate the initial text. The rest of the XML tags were correctly used.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 908,
+        "output_tokens": 920,
+        "total_tokens": 1828
+    },
+    "duration": 45.918009996414185,
+    "timestamp": "2025-11-06T09:48:01.245007"
+}

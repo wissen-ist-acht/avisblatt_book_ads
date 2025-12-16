@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>26. Bey Hrn. C. A. Serini, Buchh√§ndler allhier, ist zu haben: <BIBL><TITLE>Modele des jeunes gens, premi√©re Lecture √† Busage de la Classe frangoise</TITLE>, <FORMAT>8.</FORMAT> <YEAR>791.</YEAR> <PRIZE>fl. 1. fa xr.</PRIZE></BIBL> <BIBL><AUTHOR>Reid</AUTHOR> √ºber die Natur und Heilung der Lungensucht, nebst einem Anhang von dem Nutzen und den Wirkungen der Brechmittel, <FORMAT>8.</FORMAT> <PRIZE>fl. 1. 16kr.</PRIZE></BIBL> <BIBL><TITLE>Gebetbuch des K√∂nigs von Preussen</TITLE>, <FORMAT>8.</FORMAT> <YEAR>790.</YEAR> <PRIZE>48 kr.</PRIZE></BIBL> <BIBL><TITLE>Blicke √ºber das Grab</TITLE>, <FORMAT>8.</FORMAT> <YEAR>790.</YEAR> <PRIZE>48 kr.</PRIZE></BIBL> <BIBL><AUTHOR>Gatterer</AUTHOR> <TITLE>Naturbistorisches A, B. C-Buch, oder Abbildung und Beschreibung merkw√ºrdiger Thiere, nach Schreber und Bussan</TITLE>, mit illuminirten Kupfern, <PRIZE>48 kr.</PRIZE> und mit schwarzen Kpf. <PRIZE>24 kr.</PRIZE></BIBL> <BIBL><TITLE>Ueber Determinismus und moralische Freyheit</TITLE>, <FORMAT>8.</FORMAT> <YEAR>789.</YEAR> <PRIZE>16 kr.</PRIZE></BIBL> <BIBL><TITLE>Roth Wahlkapitulation des R√∂m. Kaisers Leopold des Zweyten, nach dem Churmainzischen Original abgedruckt</TITLE>, <FORMAT>4.</FORMAT> <YEAR>790.</YEAR> <PRIZE>40 kr.</PRIZE></BIBL> <BIBL><AUTHOR>Schedels</AUTHOR> <TITLE>neues und vollst√§ndiges Waaren-Lexicon Íùõc.</TITLE> <VOLUME>1ter Thl.</VOLUME>, <FORMAT>gr. 8.</FORMAT> <YEAR>790.</YEAR> <PRIZE>fl. 2. 48 kr.</PRIZE></BIBL> <BIBL><TITLE>Zween litterarische M√§rtyrer und deren Frauen, vom Verfasser von Sophiens Reise</TITLE>, <VOLUME>a Thle.</VOLUME>, <FORMAT>8.</FORMAT> <YEAR>791.</YEAR> <PRIZE>fl. 1. 48 kr.</PRIZE></BIBL> <BIBL><TITLE>Geschichte Karls XIl. K√∂nigs von Schweden, nach Voltatre, von E. 8. Posselt</TITLE>, <FORMAT>8.</FORMAT> <YEAR>791.</YEAR> <PRIZE>fl. 1. 20 kr.</PRIZE></BIBL></ITEM>\",\n  \"number_of_fixes\": 1,\n  \"explanation\": \"There was a closing tag mismatch in the second <BIBL> element. The closing tag was written as </PRICE> instead of </PRIZE>. The closing tag has been corrected to match the opening tag.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 790,
+        "output_tokens": 801,
+        "total_tokens": 1591
+    },
+    "duration": 26.6610848903656,
+    "timestamp": "2025-11-03T09:46:24.224117"
+}

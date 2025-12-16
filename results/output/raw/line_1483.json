@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM><TEXT>1174). Stuttgart. Bei uns ist erschienen und in Bahnmaier's Buchhandlung (C. Detloff) in Basel, so wie in jeder andern Buchhandlung in der Schweiz zu haben:</TEXT> <BIBL><TITLE>Umri√ü der biblischen Seelenlehre.</TITLE> Ein Versuch von <AUTHOR>Dr. J. T. B eck</AUTHOR>, ordentlichem Professor der Theologie in T√ºbingen. <FORMAT>gr. 8 brosch.</FORMAT> <PRIZE>1 fl.</PRIZE></BIBL> <TEXT>Diese f√ºr Theologen und Laien bestimmte Schrift des r√ºhmlichst bekaunten Verfassers ist ein sehr gelungener Versuch, die in der Bibel zerstreuten Andeutungen √ºber das Wesen der Seele zu einem anschaulichen Bilde zu vereinigen und dadurch ein gr√ºndliches Verst√§ndni√ü der ganzen Heilslehre anznbahnen.</TEXT> <BIBL><TITLE>Ueber das Verh√§ltni√ü des Christenthums zum Zeitleben.</TITLE> Akademische Antrittsrede, gehalten zu T√ºbingen den <YEAR>11. Mai 1843</YEAR>, von <AUTHOR>Dr. J. T. Beck</AUTHOR>, ordentlichem Professor der Theologie daselbst. <FORMAT>gr. 8.</FORMAT> <FORMAT>broch.</FORMAT> <PRIZE>12 kr.</PRIZE></BIBL> <BIBL><TITLE>Gediehte von Eduard Epth.</TITLE> <FORMAT>22 Bogen broch.</FORMAT> <PRIZE>1 fl. 36 kr.</PRIZE></BIBL> <TEXT>Diese Sammlung von Gedichten d√ºrfte in der poetischen Literatur an einer Stelle stehen, die beinahe noch eine L√ºcke hei√üen mu√ü, und hofft schon aus diesem Grunde ein gewisses Recht auf Eristenz zu haben. Ihre Grundtenden; ist die Verfechtung des christlichen Prinzips.</TEXT> <BIBL><TITLE>Kurze Mlorgen- und Abendgebete auf sechszehn Wochen, nebst einem Anhang von Fest- und andern Gebeten in verschiedenen Verh√§ltnissen des Lebens f√ºr christliche Familien.</TITLE> Mit einem Vorworte von <AUTHOR>Diakonus Hofacker.</AUTHOR> Zweite stark vermehrte Auflage mit einem Stahlstiche. <FORMAT>gr. 8.</FORMAT> <FORMAT>broch.</FORMAT> <PRIZE>Preis 48 kr.</PRIZE></BIBL> <TEXT>Das lautere Christenthum in einfacher und kurzer Bibelsprache findet sich in diesen mit W√§rme und Herzlichkeit verfa√üten Gebeten, welche bei dem au√üerordentlich wohlfeilen Preise vielen Familien willkommen seyn d√ºrften.</TEXT> <AUTHOR>Chr. Belser'sche Buchhandlung.</AUTHOR></ITEM>\",\n  \"number_of_fixes\": 1,\n  \"explanation\": \"The PRIZE tag was incorrectly spelled as PRICE in the last BIBL tag. This was corrected. Also, added TEXT tags around the descriptive text to separate them from the BIBL tags.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 770,
+        "output_tokens": 797,
+        "total_tokens": 1567
+    },
+    "duration": 28.718012809753418,
+    "timestamp": "2025-11-06T11:09:06.326050"
+}

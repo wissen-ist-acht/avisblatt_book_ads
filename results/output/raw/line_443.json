@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>In der Schweighauserischen Buchhandlung allhier ist zu haben: <BIBL><TITLE>Standrede nach der Hinrichtung einer Kindsm√∂rderin, auf der Richtst√§tte bey M√ºhlhausen gehalten Freytags den 23ten Aprill 1790, nebst einer kurzgefa√üten Geschichte dieser Ungl√ºcklichen</TITLE>, von <AUTHOR>Pfarrer Sp√∂rlin</AUTHOR>, <FORMAT>gr. 8.</FORMAT> <PRICE>4 kr.</PRICE></BIBL> <BIBL><TITLE>Zwol Predigten, gehalten in dem reformirten Bethause zu Stra√üburg</TITLE> von <AUTHOR>Pfr. Petersen</AUTHOR>, erste Predigt bey Erw√§hlung der Mu-s nicipaltt√§t, zweyte Predigt in Gegenwart des Hrn. Maire, der M√ºnicipalitat, des Gemeinde-Raths und der Abgeordneten aus allen St√§nden, gehalten am Einweihungsfeste des reformirten Bethauses in Stra√üburg, <FORMAT>gr. 8.</FORMAT> <PRICE>790. 8 kr.</PRICE></BIBL> <BIBL><TITLE>Anekdoten und Charakterz√ºge von Kaiser Joseph I. nebst einer Stkizze seines Lebens</TITLE>, <FORMAT>8.</FORMAT> <PRICE>790. 24 kr.</PRICE></BIBL> <BIBL><TITLE>Tralles Bestimmung der H√∂hen der bekanntern Berge des Cantons Bern, mit Kpf.</TITLE>, <FORMAT>gr. 8.</FORMAT> <PRICE>790. fl. 1. 20 kr.</PRICE></BIBL> <BIBL><TITLE>Die Universit√§tsjahre, oder Leichtsinn und Raache, ein Familiengem√§lde in ; Aufz√ºgen</TITLE>, <FORMAT>8.</FORMAT> <PRICE>790. 36. kr.</PRICE></BIBL> <BIBL><TITLE>Es war eben noch Zeit, oder Geschichte des Hrn. von Warnef</TITLE>, <FORMAT>8.</FORMAT> <PRICE>790. 36 kr.</PRICE></BIBL> <BIBL><TITLE>Beytr√§ge zur praktischen Forst- und Flo3-Handelswissenschaft, mit Kpf.</TITLE>, <FORMAT>gr. 8.</FORMAT> <PRICE>790. 40 kr.</PRICE></BIBL></ITEM>\",\n  \"number_of_fixes\": 3,\n  \"explanation\": \"The XML was missing closing tags for ITEM and BIBL. Also, the tag PRIZE was inconsistently named, sometimes as PRIZE and sometimes as PRICE. All instances have been changed to PRICE for consistency.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 664,
+        "output_tokens": 665,
+        "total_tokens": 1329
+    },
+    "duration": 19.86738896369934,
+    "timestamp": "2025-11-02T21:01:19.828071"
+}

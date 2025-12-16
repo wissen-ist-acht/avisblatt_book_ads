@@ -1,0 +1,5 @@
+{
+    "fixed_xml": "<ITEM>31. Hallo's gl√ºcklicher Abend, 2 Thle. <BIBL><TITLE>Hallo's gl√ºcklicher Abend</TITLE>, <VOLUME>2 Thle.</VOLUME></BIBL>. Federb <BIBL><TITLE>institut. logicae et metaphusicge</TITLE></BIBL>. <BIBL><TITLE>Campes Entdeckung von Amerika</TITLE></BIBL>. <BIBL><TITLE>Portraits des rois de France</TITLE>, par <AUTHOR>Mercier</AUTHOR></BIBL>. <BIBL><TITLE>Grammaire Jrunceise</TITLE> par <AUTHOR>Graumbert</AUTHOR></BIBL>. <BIBL><TITLE>Vogage de Montaigne</TITLE>, <VOLUME>2 tom.</VOLUME></BIBL>. <BIBL><AUTHOR>Gottscheds</AUTHOR> <TITLE>Kern der deutschen Sprachkunst</TITLE></BIBL>. <BIBL><TITLE>Musen und Grazien</TITLE> v. <AUTHOR>Meitz</AUTHOR>, und <AUTHOR>K√∂rners</AUTHOR> <TITLE>Gedichte</TITLE></BIBL>, sind bey Hrn. Z√§slin, Buchbinder an der Greifenga√ü, in Commission zu haben.</ITEM>",
+    "number_of_fixes": 1,
+    "explanation": "The only error in the original XML was a missing closing quote and angle bracket for the TITLE tag in the second BIBL tag. This has been corrected in the fixed XML."
+}

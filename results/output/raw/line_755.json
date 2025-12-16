@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>49. Bey Bolly, Buchbinder am Rindermart und hinter der School ist zu haben, <BIBL><TITLE>Taschenbuch f√ºr Damen aufs Jahr 1804.</TITLE> von <AUTHOR>Huber, Lafontaine, Pfeffel Íùõc.</AUTHOR> mit Kpfr. <PRIZE>2 fl. 24 kr.</PRIZE></BIBL> <BIBL><TITLE>Almanach f√ºr Freundinen ro mantischer Lect√ºre aufs Jahr 1804.</TITLE> mit Kupfer von <AUTHOR>Gerstner und Kohl</AUTHOR>, in verschiedenen Einb√§nden und Preisen.</BIBL> <BIBL><TITLE>Toiletten- Kalender f√ºr Damen.</TITLE> <YEAR>1804.</YEAR> mit Kupfer von <AUTHOR>Kohl</AUTHOR>, in verschiedenen Einb√§nden und Preisen.</BIBL> <BIBL><TITLE>Almanac de poche pour le beau Sexe & qui aiment les contes romantesques, pour lann√©e 1804.</TITLE> in verschiedenen Preisen.</BIBL> <BIBL><TITLE>Taschenbuch f√ºr Freunde des Guten und Sch√∂neu, enthaltend, Hermann und Dorothea</TITLE> von <AUTHOR>G√∂the</AUTHOR>, mit Kpfr. <YEAR>1804.</YEAR> <PRIZE>1fl. 40 kr.</PRIZE> mit Goldschnitt; ohne Goldschnitt <PRIZE>1 fl. 30 kr.</PRIZE></BIBL> <BIBL><TITLE>Taschenkallender der neuesten Moden.</TITLE> <YEAR>1804.</YEAR> √† <PRIZE>1fl. 12 kr.</PRIZE></BIBL> <BIBL><TITLE>Kleines Taschenkallenderlein samt nener poetischer Blumenlese.</TITLE> <YEAR>1804.</YEAR> mit Kupfer, √† <PRIZE>24 und 16 kr.</PRIZE></BIBL> <BIBL><TITLE>Schaffhauser Sackkallender, wo zwischen jeden Tag kan geschrieben werden, nebst andern mehr.</TITLE></BIBL> <BIBL><TITLE>Ein ganz neu Assortiment Neujahrs-W√ºnsche auf Atlas mit niedlichen Einfossungen</TITLE> in verschiedenen Preisen.</BIBL> <BIBL><TITLE>ABC B√ºcher mit illuminirten Figuren</TITLE> in verschied. Preisen.</BIBL></ITEM>\",\n  \"number_of_fixes\": 2,\n  \"explanation\": \"Two closing tags for 'PRIZE' were incorrectly written as 'PRICE'. These have been corrected to 'PRIZE'.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 668,
+        "output_tokens": 663,
+        "total_tokens": 1331
+    },
+    "duration": 21.3160560131073,
+    "timestamp": "2025-11-04T15:22:54.897589"
+}

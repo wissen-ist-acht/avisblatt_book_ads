@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>Zu verkaufen im Berichthaus: <BIBL><AUTHOR>Schellers</AUTHOR> <TITLE>lateinisch-deutsch und deutschlatein. Lexicon.</TITLE> <VOLUME>2 Bde.</VOLUME> <PRICE>Fr. 3. 50.</PRICE></BIBL> <BIBL><AUTHOR>Kraft</AUTHOR> <TITLE>deutsch-lat. Lexicon.</TITLE> <VOLUME>2 B.</VOLUME> <PRICE>7. 50.</PRICE></BIBL> <BIBL><AUTHOR>Gerlach</AUTHOR> <TITLE>laein. Grammatik</TITLE> <PRICE>l. 50.</PRICE></BIBL> <BIBL><AUTHOR>Eschenburg</AUTHOR> <TITLE>Handbuch</TITLE> <PRICE>L. 50. 50.</PRICE></BIBL> <BIBL><AUTHOR>Dronkes</AUTHOR> <TITLE>Aufgaben</TITLE> <PRICE>C.</PRICE></BIBL> <BIBL><AUTHOR>C. C. Sallustii</AUTHOR> <TITLE>opera</TITLE> <PRICE>50.</PRICE></BIBL> <BIBL><AUTHOR>M. J. Ciceronis</AUTHOR> <TITLE>orationes VI.</TITLE> <VOLUME>1B.</VOLUME> <PRICE>50.</PRICE></BIBL> <BIBL><AUTHOR>T. Livi</AUTHOR> <TITLE>Pat. hbri N1 B.</TITLE> <PRICE>4. 50.</PRICE></BIBL> <BIBL><AUTHOR>P. Ovidii Nasonis</AUTHOR> <TITLE>opera</TITLE> <PRICE>50.</PRICE></BIBL> <BIBL><AUTHOR>2 O. Horatii Flacci</AUTHOR> <TITLE>po√©mata</TITLE> <PRICE>50.</PRICE></BIBL> <BIBL><AUTHOR>Cornelii Nepotis</AUTHOR> <TITLE>vitae</TITLE> <PRICE>50.</PRICE></BIBL> <BIBL><AUTHOR>P. Virgilii Maronis</AUTHOR> <TITLE>po√©mata</TITLE> <PRICE>50.</PRICE></BIBL> <BIBL><AUTHOR>Homeri</AUTHOR> <TITLE>Odyssea</TITLE> <PRICE>50.</PRICE></BIBL> <BIBL><AUTHOR>C. J. Caesaris</AUTHOR> <TITLE>opera</TITLE> <PRICE>50.</PRICE></BIBL> <BIBL><AUTHOR>M. J. Ciceronis</AUTHOR> <TITLE>Eclogae 7</TITLE> <PRICE>50.</PRICE></BIBL></ITEM>\",\n  \"number_of_fixes\": 1,\n  \"explanation\": \"The tag <PRIZE> was used instead of <PRICE> in the first BIBL element. The tag was corrected to <PRICE>.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 718,
+        "output_tokens": 686,
+        "total_tokens": 1404
+    },
+    "duration": 18.83036971092224,
+    "timestamp": "2025-11-06T11:04:04.518214"
+}

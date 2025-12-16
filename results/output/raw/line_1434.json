@@ -1,0 +1,13 @@
+{
+    "text": "{\n\"fixed_xml\": \"<ITEM>2. Bei Tschopp und Comp., auf dem Fischmarkt No. 1523, ist zu haben: <BIBL><AUTHOR>Lechner</AUTHOR> <TITLE>Unterricht und Lehrart der h√∂chst nothwendigen und nutzbarsten Rechenkunst</TITLE>. Fr√ºherer Ladenpreis <PRICE>9 Btz.</PRICE> jetzt <PRICE>2 1/2 Btz.</PRICE></BIBL> <BIBL><AUTHOR>M√ºtheimer</AUTHOR> <TITLE>Lesebuch f√ºr deutsche Schulen</TITLE>. Fr√ºherer Ladenpreis <PRICE>13 1/2 Btz.</PRICE> jetzt <PRICE>5 Btz.</PRICE></BIBL> <BIBL><AUTHOR>H√ºbners</AUTHOR> <TITLE>zweimal zwei und f√ºnfzig auserlesene biblische Historien</TITLE>. Fr√ºherer Ladenpreis <PRICE>7 1/2 Btz.</PRICE> jetzt <PRICE>2 1/2 Btz.</PRICE></BIBL> <BIBL><AUTHOR>St√§heli, H.</AUTHOR> <TITLE>Sammlung christlicher Gebete auf allerlei Umst√§nde des Herzens und Lebens</TITLE>. <VOLUME>4te Auflage</VOLUME>. Fr√ºherer Ladenspreis <PRICE>7 1/2 Btz.</PRICE> jetzt <PRICE>2 1/2 Btz.</PRICE></BIBL> <BIBL><TITLE>Prometheus in Fesseln, aus dem Griechischen des Aeschylos</TITLE>, √ºbersetzt von <AUTHOR>Schlosser</AUTHOR>. Fr√ºherer Ladenpreis <PRICE>15 Btz.</PRICE> jetzt <PRICE>6 Btz.</PRICE></BIBL> <BIBL><TITLE>Die Schlacht bei St. Jakob an der Birs, im Jahr 1444. Ein historisches 2 Gedicht in vier Ges√§ngen</TITLE> von <AUTHOR>J. Sendtner</AUTHOR>. Fr√ºherer Ladenpreis <PRICE>10 Btz.</PRICE> jetzt <PRICE>4 1/2 Btz.</PRICE></BIBL> <BIBL><AUTHOR>Gottlieb Wilhelm Rabener</AUTHOR> <TITLE>Satyren</TITLE>. <VOLUME>6 B√§nde</VOLUME>. Fr√ºherer Ladenpreis <PRICE>60 Btz.</PRICE> jetzt <PRICE>14 Btz.</PRICE></BIBL> <BIBL><AUTHOR>Von Bruckner</AUTHOR> <TITLE>Merkw√ºrdigkeiten</TITLE> <VOLUME>23 Vol.</VOLUME> √† <PRICE>12 Fr.</PRICE></BIBL> <BIBL><AUTHOR>Wursteisen</AUTHOR> <TITLE>Chronik</TITLE> √† <PRICE>35 Btz.</PRICE></BIBL> <BIBL><AUTHOR>Erasmus</AUTHOR> <TITLE>Lob der Narrheit</TITLE> in deutscher und lateinischer Sprache √† <PRICE>6 Btz.</PRICE></BIBL> sind noch wenige Exemplare vorhanden, was wir den resp. Liebhabern mit dem Bemerken bekannt machen, da√ü binnen 14Tagen diese herabgesetzten Preise aufh√∂ren.</ITEM>\",\n\"number_of_fixes\": 3,\n\"explanation\": \"The tag <PRIZE> was replaced with the correct tag <PRICE> in three places.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 877,
+        "output_tokens": 842,
+        "total_tokens": 1719
+    },
+    "duration": 28.01404595375061,
+    "timestamp": "2025-11-06T10:52:32.881224"
+}

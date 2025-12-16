@@ -1,0 +1,13 @@
+{
+    "text": "{\n\"fixed_xml\": \"<ITEM>In der Deckerschen Buchhandlung allhier, ist zu haben: <BIBL><TITLE>Historisch-genealogischer Kalender von Berlin, aufs Jahr 1795</TITLE>, mit dem Portrait der K√∂nigin von Schweden, <VOLUME>12 Monatskupfern</VOLUME> aus der brandenburg. Geschichte, und <VOLUME>4 Bildnissen</VOLUME> ber√ºhmter M√§nner, Suhm, Kaiserling, Voltaire und Maupertuis, nebst einer <TITLE>Karte</TITLE>, gebunden in Futeral, franz. oder deutsch. √† <PRIZE>fl. 1. 12 kr.</PRIZE></BIBL> <BIBL><TITLE>Uebersicht einiger Veranlassungen und vorl√§ufigen Anzeigen von der franz. Revolution</TITLE>. <FORMAT>8.</FORMAT> <YEAR>795</YEAR>. √† <PRIZE>40 kr.</PRIZE></BIBL> <BIBL><TITLE>Neue Briefe √ºber die franz. Revolution, ekster Thl.</TITLE>, <FORMAT>8.</FORMAT> √† <PRIZE>fl. 1. 30 kr.</PRIZE></BIBL> <BIBL><TITLE>Der Trostsse, ein Lustspiel in einem Aufzuge</TITLE>. <FORMAT>8.</FORMAT> <YEAR>794</YEAR>. √† <PRIZE>20 kr.</PRIZE></BIBL> <BIBL><AUTHOR>Follins</AUTHOR> <TITLE>Reise in der W√ºste Sahara, oder neue Beytr√§ge zur Kenntni√ü von Afrika</TITLE>, zweytes St√ºck mit Anmerkungen von <AUTHOR>J. R. Forsten</AUTHOR>. <FORMAT>gr. 8.</FORMAT> <YEAR>795</YEAR>. √† <PRIZE>54 kr.</PRIZE></BIBL> <BIBL><AUTHOR>Stedmanns (CCarl)</AUTHOR> <TITLE>Geschichte des Ursprungs, des Fortgangs und der Beendigung des amerikanischen Kriegs Íùõc</TITLE>, erster Band. <FORMAT>gr. 8.</FORMAT> <YEAR>795</YEAR>. √† <PRIZE>fl. 2. 48 kr.</PRIZE></BIBL> <BIBL><AUTHOR>H√ºnters</AUTHOR> <TITLE>Reise nach Neu-S√ºbwallis Íùõc</TITLE> mit Anmerkungen von <AUTHOR>Forster</AUTHOR>, nebst Kupfern und Karten. <FORMAT>gr. 8.</FORMAT> <YEAR>794</YEAR>. √† <PRIZE>fl. 2. 30 kr.</PRIZE></BIBL> <BIBL><TITLE>Beschreibung der Stadt und Republik Bern</TITLE>. <FORMAT>gr. 8</FORMAT> <YEAR>794</YEAR>. broschiert √† <PRIZE>fl. 1. 40 kr.</PRIZE></BIBL></ITEM>\",\n\"number_of_fixes\": 3,\n\"explanation\": \"The XML tags <PRICE> were incorrect and have been replaced with the correct <PRIZE> tags in three places.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 774,
+        "output_tokens": 765,
+        "total_tokens": 1539
+    },
+    "duration": 25.629481077194214,
+    "timestamp": "2025-11-04T13:44:29.582988"
+}

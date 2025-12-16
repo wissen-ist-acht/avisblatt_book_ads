@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>In der Flickischen Buchhandlung auf dem Fischmarkt findet man: <BIBL><AUTHOR>J. L. Ewald</AUTHOR> <TITLE>Salomo Versuch einer psychologisch-biographischen Darstellung</TITLE>, gr. <FORMAT>8.</FORMAT> <YEAR>1800</YEAR> <PRIZE>fl. 3.</PRIZE></BIBL> <BIBL><AUTHOR>J. L. Ewald</AUTHOR> <TITLE>ist es jetzt rathsam die niedern Volkselassen aufzuklaren ?</TITLE> <FORMAT>8.</FORMAT> <YEAR>1800.</YEAR> <PRIZE>fl. 1. 40 kr.</PRIZE></BIBL> <BIBL><TITLE>Neue Handlungs-Bibliothek, herausgegeben von einer Gesellschaft theoret. und prakt. Kaufleute</TITLE>, <VOLUME>ister Bd. istes 2tes u. 3tes St.</VOLUME> <FORMAT>gr. 8</FORMAT> <YEAR>1800.</YEAR> <PRIZE>ft 3.</PRIZE></BIBL> <BIBL><AUTHOR>K. E. Mangelsdorf</AUTHOR> <TITLE>Abri√ü der deutschen Geschichte zur weitern Erkl√§rung in Schulen, demn√§chst aber auch zur eigenen hinreichenden Uebersicht bestimmt</TITLE>, <FORMAT>8.</FORMAT> <YEAR>1800.</YEAR> <PRIZE>fl. 1.</PRIZE></BIBL> <BIBL><AUTHOR>J. G. A. Galletti</AUTHOR> <TITLE>kleine Weltgeschichte zum Unterricht und zur Unterhaltung</TITLE>, <VOLUME>7ter Thl.</VOLUME> <FORMAT>8.</FORMAT> <YEAR>1800.</YEAR> <PRIZE>fl. 2. 40kr.</PRIZE></BIBL> <BIBL><TITLE>Historisches Mancherley, in kurzgefa√üten merkw√ºrdigen Erz√§hlungen aus der franz. und engl. Geschichte, mit 6 Kpf.</TITLE> <FORMAT>8.</FORMAT> <YEAR>1800.</YEAR> <PRIZE>48 kr.</PRIZE></BIBL> <BIBL><TITLE>Theatercalender auf das Jahr 1800.</TITLE> <PLACE>Gotha</PLACE> <PRIZE>fl. 2.</PRIZE></BIBL> <BIBL><TITLE>Kleine Streifereyen in die Litteratur der Ausl√§nder, f√ºr Damenbibliotheken</TITLE>, <FORMAT>8.</FORMAT> <YEAR>1800.</YEAR> <PRIZE>fl. 2. 40 kr.</PRIZE></BIBL> <BIBL><TITLE>Spuren des Wegs, sich seinem Schutzgeist zu nahen, aus einer Corresponden; mitgetheilt</TITLE>, <FORMAT>8.</FORMAT> <YEAR>1800.</YEAR> <PRIZE>30 kr.</PRIZE></BIBL></ITEM>\",\n  \"number_of_fixes\": 3,\n  \"explanation\": \"The XML was faulty at three places where the tag <PRICE> was used instead of the correct <PRIZE> tag. These have been corrected in the 'fixed_xml'.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 750,
+        "output_tokens": 763,
+        "total_tokens": 1513
+    },
+    "duration": 20.64700698852539,
+    "timestamp": "2025-11-04T14:42:48.393217"
+}

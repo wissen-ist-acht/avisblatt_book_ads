@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>In der Schweighauserschen Buchhandlung ist zu haben: <BIBL><AUTHOR>Lesseps</AUTHOR> <TITLE>Reisen von Kamtschatka nach Frankreich</TITLE>, von <AUTHOR>Prof- Billaume</AUTHOR> herausgegeben, <VOLUME>1ter Thl.</VOLUME> mit Charte, <FORMAT>gr. 8.</FORMAT> <YEAR>791</YEAR>. <PRIZE>fl. 1.</PRIZE></BIBL> <BIBL><TITLE>Der Hofspiegel oder Prinz Ferdinand;</TITLE> eine F√ºrstengeschichte in Briefen, <FORMAT>8.</FORMAT> <YEAR>791</YEAR>. <PRIZE>fl. 2.</PRIZE></BIBL> <BIBL><TITLE>Laster ist oft T√ºgend;</TITLE> ein Trauerspiel von <AUTHOR>Geiger</AUTHOR>, <FORMAT>8.</FORMAT> <YEAR>791</YEAR>. <PRIZE>18 kr.</PRIZE></BIBL> <BIBL><AUTHOR>Ewalds</AUTHOR> <TITLE>Predigten bey allerley Gelegenheiten und allerley Gem√ºthslagen</TITLE>, <FORMAT>8.</FORMAT> <PRIZE>fl. 1. 16 kr.</PRIZE></BIBL> <BIBL><TITLE>Emp√∂rungen der K√∂nige und F√ºrsten wider ihre Grossen;</TITLE> ein Gegenst√ºck der franz√∂sischen Revolution, <FORMAT>8.</FORMAT> <YEAR>791</YEAR>. <PRIZE>fl. 1. 12 kr.</PRIZE></BIBL></ITEM>\",\n  \"number_of_fixes\": 1,\n  \"explanation\": \"The last <PRICE> tag was incorrectly spelled. It has been corrected to <PRIZE>.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 446,
+        "output_tokens": 434,
+        "total_tokens": 880
+    },
+    "duration": 13.587755680084229,
+    "timestamp": "2025-11-03T09:54:35.554325"
+}

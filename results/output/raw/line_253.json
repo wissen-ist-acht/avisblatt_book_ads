@@ -1,0 +1,13 @@
+{
+    "text": "{\n\"fixed_xml\": \"<ITEM>1. Bey Hrn. C. A. Serini, Buchh√§ndler allhier an der Schiffl√§nde, ist zu haben: <BIBL><TITLE>Bilder-Akademie f√ºr die Jugend</TITLE>, <VOLUME>4te Ausgabe</VOLUME>, mit <FORMAT>Kupf.</FORMAT> und <FORMAT>Textb</FORMAT> √† <PRIZE>fl. 2. kr. 24.</PRIZE></BIBL> <BIBL><TITLE>Nikolaus von Fl√ºe oder die gerettete Eidsgenossenschaft</TITLE>, in <VOLUME>5 Aufz√ºgen</VOLUME>, von <AUTHOR>Hrn. Prof. Zimmermann</AUTHOR> in <PLACE>Luzern</PLACE>, <FORMAT>8.</FORMAT> <YEAR>1781</YEAR>. √† <PRIZE>kr. 16.</PRIZE></BIBL> <BIBL><TITLE>Morgarten, oder der erste Sieg f√ºr die Freyheit</TITLE>, ein <TITLE>Helvetisches Staatsschauspiel</TITLE> in <VOLUME>3 Aufz√ºgen</VOLUME>, <FORMAT>8.</FORMAT> <YEAR>1781</YEAR>. √† <PRIZE>kr. 18.</PRIZE></BIBL> <BIBL><TITLE>Die Eroberung von St. Lucig</TITLE>, ein <TITLE>Drama</TITLE> in einem <VOLUME>Aufzuig</VOLUME>, von dem <AUTHOR>Verfasser der Schlacht bey Morgarten</AUTHOR>, <FORMAT>8.</FORMAT> <YEAR>1781</YEAR>. √† <PRIZE>kr. 12.</PRIZE></BIBL> <BIBL><TITLE>Neueste Samlung von Erndtepredigten f√ºr Stadt- und Landleute</TITLE>, <FORMAT>8.</FORMAT> <YEAR>1781</YEAR>. √† <PRIZE>kr. 36.</PRIZE></BIBL> <BIBL><TITLE>Oden, Lieder und Ges√§nge</TITLE>, von <AUTHOR>A. J. Batsch</AUTHOR>, <FORMAT>8.</FORMAT> <YEAR>1781</YEAR>. √† <PRIZE>kr. 40.</PRIZE></BIBL> <BIBL><TITLE>Goldener Spiegel f√ºr Kinder</TITLE>, m. <FORMAT>Kupf.</FORMAT> <VOLUME>3te Lieferung</VOLUME>, <FORMAT>gr. 8.</FORMAT> <YEAR>1781</YEAR>. √† <PRIZE>kr. 36.</PRIZE></BIBL> <BIBL><AUTHOR>Lutz</AUTHOR> vollst√§ndige und auf Erfahrung gegr√ºndete <TITLE>Anweisung, die Thermometer zu verfertigen</TITLE>, mit <FORMAT>Kupf.</FORMAT> <FORMAT>gr. 8.</FORMAT> <YEAR>1781</YEAR>. √† <PRIZE>fl. 1. kr. 16.</PRIZE></BIBL> Auch ist wiederum bey ihme zu haben: <BIBL><TITLE>das sch√∂ne Tableau satisfaifant & allegorique; pour servir de Frontispice au Compte rendu</TITLE>, par <AUTHOR>Mr. Necher</AUTHOR>, tres-bien grav√© √† <PRIZE>Rr. 40.</PRIZE></BIBL></ITEM>\",\n\"number_of_fixes\": 4,\n\"explanation\": \"The 'PRIZE' tag was incorrectly spelled as 'PRICE' in four places. These were corrected to 'PRIZE'.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 865,
+        "output_tokens": 859,
+        "total_tokens": 1724
+    },
+    "duration": 29.497250080108643,
+    "timestamp": "2025-11-02T10:07:05.698852"
+}

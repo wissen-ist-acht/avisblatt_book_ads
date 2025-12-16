@@ -1,0 +1,13 @@
+{
+    "text": "{\n\"fixed_xml\": \"<ITEM>15. Bey Herrn J. J. Flick auf dem Fischmarkt ist zu haben: <BIBL><TITLE>Lehren der Jugend und Rechtschaffenheit f√ºr Studierende</TITLE>, <FORMAT>8.</FORMAT> <YEAR>1776</YEAR>. <PRIZE>kr. 45.</PRIZE></BIBL> Von der faulen und Pestartigen Kranckheit des Viehes aus dem Franzos. von <AUTHOR>Herrn Opitz</AUTHOR>, <FORMAT>8.</FORMAT> <YEAR>1776</YEAR>. <PRIZE>kr. 30.</PRIZE> <BIBL><TITLE>Geschichte eines Junglings in der Einsamkeit</TITLE>, <FORMAT>8.</FORMAT> <YEAR>1776</YEAR>. <PRIZE>kr.28.</PRIZE></BIBL> <BIBL><TITLE>Connoissance de PIomme moral par celle de PHomme physique</TITLE>, par <AUTHOR>Mr. Pernetty</AUTHOR>, <VOLUME>Tom. 1.</VOLUME> <FORMAT>8.</FORMAT> <YEAR>1776</YEAR>. <PRIZE>fl 1. xr. 48.</PRIZE> <BIBL><TITLE>Blocks 25. f√ºr den- Staat interessante Aufgaben und aufgel√∂√üt</TITLE>, <FORMAT>8.</FORMAT> <YEAR>1776</YEAR>. <PRIZE>kr. 48.</PRIZE></BIBL> <BIBL><TITLE>Die Gr√§fin von Walberg ein Trauerspiel in 5. Aufzugen</TITLE>, <FORMAT>8.</FORMAT> <YEAR>1776</YEAR>. <PRIZE>kr.28.</PRIZE></BIBL> <BIBL><TITLE>Die Satyren des Juvenalis in einer erkl√§renden Uebersetzung nebst dem latein. Textb</TITLE>, <FORMAT>8.</FORMAT> <YEAR>1776</YEAR>. <PRIZE>fl. 8.</PRIZE></BIBL> <BIBL><TITLE>Der ehrliche Schweizer ein Schauspiel in 2. Handlungen</TITLE>, <FORMAT>8.</FORMAT> <YEAR>1776</YEAR>. <PRIZE>kr. 24.</PRIZE></BIBL> <BIBL><TITLE>Recherches fur la faculte de sentir & fur celle de connoitre</TITLE>, <FORMAT>8vo,</FORMAT> <YEAR>1776</YEAR>. <PRIZE>a xr. 28.</PRIZE></BIBL> Ferners : <BIBL><TITLE>G√∂ttinger Taschen-Calender f√ºr das Jahr 1777.</TITLE> in deutsch und franz√∂sis. Sprache, gebunden √† <PRIZE>fl. 1. kr. 20.</PRIZE> dieser Calendergath√§lt die Genealogie der vornehmsten gohen Personen in Europa, nebst verschiedenen andern angenehmen und merkw√ºrdigen Sachen, wie auch sehr sch√∂nen Kupfern</BIBL> <BIBL><TITLE>Almanac des Muses pour Vannde 1777.</TITLE> avec Musique, <FORMAT>8.</FORMAT> <PLACE>G√∂ttingen,</PLACE> <PRIZE>fl. 1. kr. 12.</PRIZE></BIBL> <BIBL><TITLE>Poetische Blumenlese auf das Jahr 1777.</TITLE> <PLACE>G√∂ttingen,</PLACE> sehr angenehmen Inhalts und mit Musick, √† <PRIZE>fl. 1.</PRIZE></BIBL></ITEM>\",\n\"number_of_fixes\": 1,\n\"explanation\": \"The XML was missing a closing BIBL tag after the AUTHOR tag for 'Herrn Opitz'. This tag was added to correct the XML.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 911,
+        "output_tokens": 908,
+        "total_tokens": 1819
+    },
+    "duration": 20.112303018569946,
+    "timestamp": "2025-11-02T09:41:50.939114"
+}

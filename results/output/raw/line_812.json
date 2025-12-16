@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>20. Bey Emanuel Thurneysen an der Freyenstra√ü ist zu haben: <BIBL><TITLE>Christliche Gebete an dem in der L√∂bl. Eidsgenossenschaft auf den 8ten Herbstmonats 1805 angestellten Dank-Bu√ü- und Bettage</TITLE></BIBL>. <BIBL><AUTHOR>Stapfers (Joh.)</AUTHOR> hinterlassene <TITLE>Predigten, oder seiner Predigten 7r. und letzter Theil</TITLE>, <FORMAT>gr. 8.</FORMAT> <PRICE>1fl. 6kr.</PRICE></BIBL> <BIBL><AUTHOR>Ge√üner (Georg)</AUTHOR> <TITLE>christliche Unterhaltungen f√ºr Leidende und Kranke</TITLE>, <FORMAT>gr. 8.</FORMAT> <YEAR>1805</YEAR> <PRICE>1 fl. 48 kr.</PRICE></BIBL> <BIBL><TITLE>La grande Carte de la Suisse ou l'on a marqu√© les routes suivies, p. Mr. William Coxe dans ses quatres voyages en 1776, 1779 1785 u. 86</TITLE>, tr√®s-bien imprim√©e fur papier Colombier, <PRICE>1fl. 20 kr.</PRICE></BIBL> <BIBL><TITLE>M√©moires de Mr. le Baron de Besenval L. G√©n√©ral des arm√©es du Roi, sous Louis Tv. & RNL.</TITLE>, imprim√©s fur son manuscrit original, & publi√©s p. Mr. de Segur, avec son portrait, <VOLUME>3 Vol.</VOLUME> <FORMAT>gr. 8</FORMAT> <YEAR>1805</YEAR> broch√© <PRICE>8 fl. 24 kr.</PRICE></BIBL></ITEM>\",\n  \"number_of_fixes\": 2,\n  \"explanation\": \"Two 'PRIZE' tags were replaced with 'PRICE' tags to ensure consistency in the XML structure.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 523,
+        "output_tokens": 506,
+        "total_tokens": 1029
+    },
+    "duration": 15.211932897567749,
+    "timestamp": "2025-11-04T15:59:08.655427"
+}

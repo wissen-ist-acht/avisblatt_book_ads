@@ -1,0 +1,13 @@
+{
+    "text": "{\n\"fixed_xml\": \"<ITEM>13. <BIBL><AUTHOR>Tholuk</AUTHOR>, <TITLE>die Lehre von der S√ºnde und von dem Vers√∂hner, oder die wahre Weihe des Zweiflers</TITLE>. <VOLUME>Zweyte umgearbeitete Aufl</VOLUME> <PLACE>Hamburg</PLACE> <YEAR>1825</YEAR>. <PRIZE>45 Btz.</PRIZE></BIBL> <BIBL><AUTHOR>Neander, A Dr.</AUTHOR>, <TITLE>Denkw√ºrdigkeiten aus der Geschichte des Christenthums u. des christlichen Lebens</TITLE>. <VOLUME>2te verbesserte Auflage</VOLUME>. <PLACE>Berlin</PLACE> <YEAR>1825</YEAR>. <VOLUME>1ster Theil</VOLUME> <PRIZE>50 Btz.</PRIZE></BIBL> <BIBL><AUTHOR>Schubert, G. H. Dr.</AUTHOR>, <TITLE>Lehrbuch der Naturgeschichte, f√ºr Schulen und zum Unterricht</TITLE>. <VOLUME>Zweyte, vermehrte und verbesserte Auflage</VOLUME>. <PLACE>Erlangen</PLACE> <YEAR>1825</YEAR>. <PRIZE>9 Btz.</PRIZE></BIBL> <BIBL><AUTHOR>Schubert, G. H. Dr.</AUTHOR>, <TITLE>Kupfer zu derselben</TITLE>, schwarz <PRIZE>26 Btz.</PRIZE>, illuminirt <PRIZE>42 Btz.</PRIZE></BIBL> <BIBL><AUTHOR>Resch, J.</AUTHOR>, <TITLE>Warnungsb√ºchlein der un- vorsichtigen Jugend, zur Bef√∂rderung der Vorsicht, Klugheit und der Gesundheit, mit Bildern</TITLE>. <PRIZE>10 Btz.</PRIZE></BIBL> <BIBL><AUTHOR>Claudius, G. C.</AUTHOR>, <TITLE>Bilder des Anstandes und der feinen Lebensart</TITLE>. <PRICE>15 Btz.</PRICE></BIBL> <BIBL><AUTHOR>Thiersch, F.</AUTHOR>, <TITLE>Griechische Grammatit, vorzuglich des Homerischen Dialektes</TITLE>. <VOLUME>3tevermehrte und verbesserte Auflage</VOLUME>. <PLACE>Leipzig</PLACE> <YEAR>1826</YEAR>. <PRIZE>63 Btz.</PRIZE></BIBL> <BIBL><AUTHOR>Krause, K.H.</AUTHOR>, <TITLE>Lehrbuch der deutschen Sprache f√ºr Schulen</TITLE>. <PLACE>Halle</PLACE> <YEAR>1823</YEAR>. <VOLUME>3 Theile</VOLUME>, Bey zusammen <PRIZE>19 Btz.</PRIZE></BIBL> Felix Schneider, No. 1196 am B√§umlein.</ITEM>\",\n\"number_of_fixes\": 1,\n\"explanation\": \"The tag <PRICE> was used incorrectly. It was closed before enclosing any data. The correct tag <PRIZE> was used instead, as it was used consistently in other similar entries.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 746,
+        "output_tokens": 744,
+        "total_tokens": 1490
+    },
+    "duration": 32.12895202636719,
+    "timestamp": "2025-11-05T14:59:39.611852"
+}

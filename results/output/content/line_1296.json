@@ -1,0 +1,5 @@
+{
+    "fixed_xml": "<ITEM>6. A n; eige wegen dem Deuen Catechismus. <BIBL><TITLE>Der Neue Catechismus oder Lehrbuch des christlichen Religionsunterrichts f√ºr die Kirchens des Kant. Basel</TITLE>, zum Gebrauch f√ºr die Kinderlehren und f√ºr den Confirmations-Unterricht, kann von k√ºn ftig em Montag den 16. Jenner an bey allen Herren Buchbindern, so wie bey der Unterzeichneten gebunden zu dem festgesetzten Preis von <PRICE>274 Btz.</PRICE> bezogen werden.</BIBL> Schweighausersche Buchhandlung.</ITEM>",
+    "number_of_fixes": 1,
+    "explanation": "The 'PRICE' tag was incorrectly opened as 'PRIZE'. This has been corrected."
+}

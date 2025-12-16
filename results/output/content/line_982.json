@@ -1,0 +1,5 @@
+{
+    "fixed_xml": "<ITEM>4. Wer folgende B√ºcher: <BIBL><TITLE>Biblia hebra√©da</TITLE> von <AUTHOR>M. Christian Reineccio</AUTHOR> - <PLACE>Lipsiae</PLACE>. <FORMAT>2¬∞.</FORMAT></BIBL> <BIBL><TITLE>Lexicon hebraecum</TITLE> von <AUTHOR>Johann Buxtorf</AUTHOR> - <PLACE>Basel</PLACE>, oder von <AUTHOR>Joh. Simonis</AUTHOR> - <PLACE>Halle</PLACE>.</BIBL> <BIBL><AUTHOR>Schellers</AUTHOR> <TITLE>Hand-Lexicon</TITLE> beyde Theile, oder auch nur den lateintsch-deutsch. Theil, zu verkaufen hat, beliebe dieselben nebst billigsten Preisen ins Berichthaus zur Einsicht zu senden.</BIBL></ITEM>",
+    "number_of_fixes": 1,
+    "explanation": "The XML was missing a closing BIBL tag for the last book. This has been added."
+}

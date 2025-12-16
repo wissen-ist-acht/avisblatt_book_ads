@@ -1,0 +1,5 @@
+{
+    "fixed_xml": "<ITEM>Wo h lfeile B√ºch er, 36. die im Flickschen Gesch√§fts-Bureau, No. 160, um die beigesetzten Preise zu haben sind: <BIBL><TITLE>Th√ºmels Reise in die mitt√§gl. Provinzen</TITLE><PRIZE>9</PRIZE><TITLE>Frankreich</TITLE> in den Jahren 178s 1. 86. Ein Gegenstuck zu Poricks empf. Reisen. <PRIZE>4 Fr. s Thle.</PRIZE><BIBL><TITLE>V9l. C. v. Hochstetter, C. Theor. prakt. Handbuch der √§u√üern Pferdekenntni√ü u. der Wartung</TITLE><PRIZE>1</PRIZE><TITLE>Pflege der Pferde</TITLE>, mit erl√§nternden, nach der Natur gezeichneten Kupfern von Vollmar. <VOLUME>2 Theile.</VOLUME> gr. <FORMAT>S.</FORMAT> √† <PRIZE>Fr. Bern. 821.</PRIZE> br. </BIBL></BIBL></ITEM>",
+    "number_of_fixes": 3,
+    "explanation": "Three fixes were made: 1) The closing tag for the first <BIBL> element was missing, so it was added at the end. 2) There was no opening <PRIZE> tag for '9', so it was added. 3) There was no opening <PRIZE> tag for '1', so it was added."
+}

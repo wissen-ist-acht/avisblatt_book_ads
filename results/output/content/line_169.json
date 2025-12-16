@@ -1,0 +1,5 @@
+{
+    "fixed_xml": "<ITEM>3. Ein Astrolabium oder Quadrant von M√∂ssing mit einer silbernen Bussole oder Compat, ein Schuh im Durchmesser von Menant √† Paris verfertiget, im Berichthaus zu sehen, und in billichem Preis zu haben. <BIBL>Item ein mit der Feder gezeichnetes altes rares und illuminirtes <TITLE>Wapen-Buch</TITLE> von allen Konigl. F√ºrstl. Gr√§flich und Adelichen Geschlechtern von Europa</BIBL>; √† <PRIZE>1. Ldor</PRIZE> zu haben.</ITEM>",
+    "number_of_fixes": 1,
+    "explanation": "There was an extra closing TITLE tag that was not needed. The closing TITLE tag was removed to fix the XML."
+}

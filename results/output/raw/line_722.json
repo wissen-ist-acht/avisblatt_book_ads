@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>1. Bey Joh. Jak. Flick auf dem Fischmart ist zu haben: <BIBL><TITLE>Der verst√§ndige G√§rtner oder monatliche Anweisung zur Baum K√ºchen- und Blumeng√§rtnerey</TITLE> von <AUTHOR>Engel</AUTHOR>. <FORMAT>8.</FORMAT> zu <PRIZE>36 kr.</PRIZE></BIBL> <BIBL><TITLE>Gartenokonomte f√ºr Frauenzimmer, oder Anweisung der Produete des Blumen-K√ºchen- und Obstgartens in der Haushaltung aufs beste zu beautzen</TITLE>, <VOLUME>3 Thl.</VOLUME> <FORMAT>8.</FORMAT> <PLACE>Leipz.</PLACE> <PRIZE>4 fl.</PRIZE></BIBL> <BIBL><TITLE>Der vollst√§ndige Monats- G√§rtner, oder deutlich und vollst√§ndige Anweisung, zu allen Gesch√§ften, in Baum, K√ºchen und Blumen-Garten, auf alle Monate des Jahrs</TITLE> von <AUTHOR>J. C. F. M√ºller</AUTHOR> <FORMAT>8.</FORMAT> <PRIZE>1fl.</PRIZE></BIBL> <BIBL><AUTHOR>B√ºsch J. G.</AUTHOR> <TITLE>theoretisch-practische Darstellung der Handlung, in deren manigfaltigen Gesch√§ften</TITLE>, <VOLUME>5 Thle.</VOLUME> neue verbesserte Auflage. <FORMAT>8.</FORMAT> <PLACE>Hamburg</PLACE> <YEAR>1800</YEAR>. <PRIZE>fl. 5. 30 kr.</PRIZE></BIBL> <BIBL><TITLE>Handlungs-Adre√ükalender von Frankfurt am Mayn auf das Jahr 1801</TITLE> <FORMAT>8.</FORMAT> <PRICE>30 kr.</PRICE></BIBL> <BIBL><AUTHOR>Fl√ºgels (G. T.)</AUTHOR> <TITLE>Courszedel der vornehmsten Handelspl√§tze in Europa, nebst andern in die Wechselgesch√§fte einschlagenden Nachrichten, nebst Vergleichung des Gewichts und Ellenmaasses der europaischen Handelsst√§dte</TITLE> <FORMAT>8.</FORMAT> <PRICE>geb. 48 kr.</PRICE></BIBL> <BIBL><AUTHOR>Reinhards (D. F. V.)</AUTHOR> <TITLE>Predigten im Jahr 1799 bey dem kurf√ºrstlichen s√§chsischen evangelischen Hof Gottesdienste zu Dresden gehalten</TITLE>, <VOLUME>2 Thle.</VOLUME> <FORMAT>gr. 8.</FORMAT> <YEAR>1800</YEAR>. <PRICE>fl. 4. 12 kr.</PRICE></BIBL> <BIBL><AUTHOR>Spensers (Fr.)</AUTHOR> <TITLE>Erkl√§rung der neuen W√∂rter, die seit der Revolution in Gang und Uebung gekommen Íùõc.</TITLE> <FORMAT>8.</FORMAT> <YEAR>1801</YEAR>. <PRICE>geb. 12 kr.</PRICE></BIBL></ITEM>\",\n  \"number_of_fixes\": 0,\n  \"explanation\": \"The provided XML is correctly formatted. No fixes were needed.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 842,
+        "output_tokens": 820,
+        "total_tokens": 1662
+    },
+    "duration": 34.12073612213135,
+    "timestamp": "2025-11-04T15:03:18.846400"
+}

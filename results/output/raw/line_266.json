@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>5. Bey Hrn. C. A. Serini, Buchh√§ndler allhier, ist zu haben: <BIBL><TITLE>L'Observateur, ouvrage periodique, pour servir de suite auz Annales politiques de Mr. Linguet</TITLE>, No. l, tous les jours en paroit un No, & on paye davance <PRIZE>6 L. de France</PRIZE> pour quatre mois.</BIBL> <BIBL><TITLE>Rogna-Cassa ou la Princesse de Plsle imaginaire</TITLE>, <FORMAT>8.</FORMAT> <YEAR>1782</YEAR>. <PRIZE>Rr. 12.</PRIZE></BIBL> <BIBL><TITLE>Der traurende Freund √ºber den fr√ºhen Tod Hrn. Alb. Hartmanns von Bern, gestorben den 5 Junij 1782</TITLE>, <FORMAT>4.</FORMAT> <PRIZE>kr. 10.</PRIZE></BIBL> <BIBL><TITLE>Brieftasche aus den Alpen</TITLE>, <VOLUME>2te Lieferung</VOLUME>, <FORMAT>8.</FORMAT> <YEAR>1782</YEAR>. <PRIZE>kr. 24.</PRIZE></BIBL> <BIBL><TITLE>Beytr√§ge zur pragmatischen Jesuiter-Geschichte</TITLE>, mit Kupf. <FORMAT>4.</FORMAT> <YEAR>1782</YEAR>. <PRIZE>kr. 12.</PRIZE></BIBL> <BIBL><AUTHOR>von Jupalte</AUTHOR> hinterlassene <TITLE>Beschreibung der Geschichte gemeiner 3. B√ºnde</TITLE>, gro√ü <FORMAT>8vo.</FORMAT> <YEAR>1781</YEAR>. <PRIZE>fl. 1.</PRIZE></BIBL></ITEM>\",\n  \"number_of_fixes\": 2,\n  \"explanation\": \"There were two instances where the closing tag for <PRIZE> was written as </PRICE>. These have been corrected to </PRIZE>.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 490,
+        "output_tokens": 488,
+        "total_tokens": 978
+    },
+    "duration": 10.948801755905151,
+    "timestamp": "2025-11-02T10:10:56.803175"
+}

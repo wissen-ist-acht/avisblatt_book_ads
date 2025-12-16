@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>49. Bey Hrn. Joh. Conr. Dienast sel. Frau Wittib, sind aus der Farbenfabrique von Hrn. Pfannenschmidt von Hannover zu haben: <BIBL><TITLE>Die bekannte Sorten Farbentusch</TITLE>, in 12 verschiedenen Farben, aus welchen man durch Mischung alle Farben erhalten kan, das Assortiment √† <PRICE>fl. 3. 30 kr.</PRICE> und jedes einzele Stuck <PRICE>24 kr.</PRICE></BIBL> Ueberbi√ü sind <BIBL><TITLE>64 verh√§ltni√üm√§√üig von einander verschiedene Farben in Muscheln</TITLE>, welche wie jene Tusch brauchbar, das Assortiment √† <PRICE>fl. 3.</PRICE> nebst einem Buch: <BIBL><TITLE>Anleitung zum Mischen aller Farben aus blau, gelb und roth Íùõc.</TITLE> √† <PRICE>56 kr.</PRICE></BIBL> Ferner eine neue Art <BIBL><TITLE>Blautusch</TITLE>, der von dem feinsten Ultramarin verfertiget worden, das St√ºck √† <PRICE>fl. 1. 50 kr.</PRICE></BIBL> auch <BIBL><TITLE>Stifte in Rohr von verschiedenen Farben</TITLE>, zum Zeichnen brauchbar, als gewohnliche Biey- und Rothstift zu gebrauchen, das Sortiment von 12 verschiedenen Farben √† <PRICE>fl. 1. 20 kr.</PRICE> dito von 24 Farben <PRICE>fl. 2. 30 kr.</PRICE> von 36 Farben <PRICE>fl. 3. 40 kr.</PRICE></BIBL> <BIBL><TITLE>Ultramarin von √§usserster Feine und Sch√∂nheit</TITLE>, so im Feuer best√§ndig, und dahero in Porcelain und Email, als auch zu den feinsten Mahlereyen zu gebrauchen, die Once <PRICE>fl. 5.</PRICE></BIBL></ITEM>\",\n  \"number_of_fixes\": 1,\n  \"explanation\": \"The XML tag <PRIZE> was incorrect and has been replaced with the correct tag <PRICE>.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 581,
+        "output_tokens": 553,
+        "total_tokens": 1134
+    },
+    "duration": 15.210658073425293,
+    "timestamp": "2025-11-02T20:23:59.178657"
+}

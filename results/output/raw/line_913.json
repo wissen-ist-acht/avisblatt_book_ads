@@ -1,0 +1,13 @@
+{
+    "text": "{\n\"fixed_xml\": \"<ITEM>An k√ºn d ig ung. Bey S. Hopf, √∂ffentlicher Lehrer in Burgdorf, wird n√§chstens ein in mehrern Zeitbl√§ttern ausf√ºhrlich angek√ºndigtes <BIBL><TITLE>elementarisches Lehrbuch der franz√∂sischen Sprache</TITLE></BIBL>, welches sowohl dem Sch√ºler als dem Lehrer diesen Unterricht durch eine √§u√üerst klare und einfache Einrichtung m√∂glichst zu erleichtern bezweckt. Um dieses <BIBL><TITLE>Lehrbuch</TITLE></BIBL> auch unverm√∂genden Kindern k√§uflich zu machen, wird es Bogenweise in monatlichen Zwischenr√§umeu herausgegeben. Das ganze wird etwa zehn Bogen start; jeder Bogen, gro√ües wei√ües Schreibpapier, wird samt dem Porto in Schweizerst√§dte h√∂chstens <PRICE>1 Batzen oder 5 Kreuzer</PRICE> kosten. Lehr-Anstalten welche von dem Werkgen ein oder mehrere Dutzend bestellen, bezahlen nur zwey Drittel. Man bittet die Bestellungen in Portofreyen Briefen an den Herausgeber zu rrichten, wo m√∂glich vor Ende Herbstmonats. Eine gro√üe Zahl von Vorausbestellungen k√∂nnte obigen Preis noch bedeutend vermindern; hingegen wird der sp√§ters Ladenpreis h√∂her seyn.</ITEM>\",\n\"number_of_fixes\": 1,\n\"explanation\": \"The XML tag <PRIZE> was incorrect and has been changed to <PRICE>.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 449,
+        "output_tokens": 433,
+        "total_tokens": 882
+    },
+    "duration": 13.674268007278442,
+    "timestamp": "2025-11-05T10:52:47.826781"
+}

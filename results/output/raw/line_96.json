@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>Es verlangt jemand: <BIBL><AUTHOR>Suiceri</AUTHOR> <TITLE>Diction. graec.</TITLE> <FORMAT>4t√≤.</FORMAT></BIBL> und <BIBL><AUTHOR>Herodiani</AUTHOR> <TITLE>hist. cum not. Boecleri &amp; Ind. Scheidii</TITLE></BIBL> zu kaufen, der Liebhaber ist im Berichthaus zu erfragen.</ITEM>\",\n  \"number_of_fixes\": 1,\n  \"explanation\": \"The XML was almost well-formed, but I had to replace the '&' character with its equivalent entity reference '&amp;' to make it a well-formed XML. The '&' character is a reserved character in XML and it must be replaced with '&amp;' when it does not function as the beginning of an entity reference.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 164,
+        "output_tokens": 199,
+        "total_tokens": 363
+    },
+    "duration": 10.545982122421265,
+    "timestamp": "2025-10-31T11:51:29.611954"
+}

@@ -1,0 +1,13 @@
+{
+    "text": "{\n\"fixed_xml\": \"<ITEM>29. tas eh em te xi cac ne der Rese unungsmun 2 e n, s√ºmmtlicher Reiche, L√ºnder mid Oerter aller viek Erdthesse, nebst Anzeige ihires Werthes m Conventions- und Preussi. schen Courent, nach alphiabetischier Oxdnung, von F. R. G√©rh√§rdt. 8. Leipzig, bey G√©fhardt Fr√®ischer dein J√ºngern. Preis 2fl. <BIBL><TITLE>Rese unungsmun</TITLE>, s√ºmmtlicher Reiche, L√ºnder mid Oerter aller viek Erdthesse, nebst Anzeige ihires Werthes m Conventions- und Preussi. schen Courent, nach alphiabetischier Oxdnung, von <AUTHOR>F. R. G√©rh√§rdt</AUTHOR>. <FORMAT>8.</FORMAT> <PLACE>Leipzig</PLACE>, bey <PUBLISHER>G√©fhardt Fr√®ischer dein J√ºngern</PUBLISHER>. <PRICE>Preis 2fl.</PRICE></BIBL> Mit diesem Lexikon, das schon lange ein wahres Bed√ºrfni√ü war, hat Hr. Gerhardt, Geheimer Ober-Staatsbuchhalter zu Berlin, nicht nur der merkantilischen Welt, sondern allen gebildeten Menschen ein sehr angenehmes Geschenk gemacht. Die Einrichtung desselben ist so bequem, da√ü ein jeder, der sich von irgend einer vorkommenden Rechnungsm√ºnze n√§her unterrichten will, solche nach dem Alphabet auffiuden kann, wobey dann folgende Punkte nachgewiesen werden: 1) in welchen L√§ndern und Oertern dieselbe gangbar ist; 2) wie viel St√ºcke davon auf ein Ganzes gerechnet werden, 3) die Anzahl von St√ºcken, die auf eine c√∂llnische Mark feines Silber gehen, mit beygef√ºgten -Logarithmen; 4) der Silberwerthvon 1 Stuck im Conventions 20 Guldensu√ü, nach Lhalern, Groschen und Pfeulzigen, (beyde letztere auch zugleich als -Kreuzer berechnet) als auch im Preuss- Courent, ebenfalls in Thalern, Groschen und Pfennigen. Die Vorrede ist wegen den darin mitgetheilten Nachrichten √ºber die Entstehung des deutscheir M√ºnzwesens und der nach und nach aufgekommenen, verschiedenen Beuennungen, Pfund, Mark, Gulden, Thaler, Groschen, Schillinge-c. sehr lesenswerth und beiehretd, nund bewei√üt, da√ü Herr- G. aus den besten Quel. sen geschopft hat., Druck und Papzapendlichelassen, bey diesem lohenswerzholt Ane ternehmen, nichts zu w√ºnschenf√ºbrig. Exemplare und zu habem bey Neikirch, Buchh√§ndlo</ITEM>\",\n\"number_of_fixes\": 1,\n\"explanation\": \"The only issue identified was with the XML tag <PRIZE>, which should be <PRICE>. This was corrected.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 820,
+        "output_tokens": 806,
+        "total_tokens": 1626
+    },
+    "duration": 31.6615149974823,
+    "timestamp": "2025-11-05T14:12:01.808363"
+}

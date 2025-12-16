@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>16. Unsere Zeit, 8tes regul. Heft, nebst Supplement-Heft, N. 1. Enth√§lt: Samml. der merkw√ºrdigsten u. wichtigsten Aktenstucke Documente, Belege, Beweisst√ºcke u. Briefe, zur Geschichte unserer Zeit geh√∂ria. Beyde Hefte mit Port. brosch. √† 15 kr. NB. F√ºr diesen √§usserst geringen Preis kann nur noch bis Ende d. J. subs. werden. Zu Neujahrsgeschenken: <BIBL><TITLE>Virgils Aeneis</TITLE>. Trav. v. <AUTHOR>A. Blumauer</AUTHOR>, 2Thle. auf Schreibp. brosch. <PRICE>24kr.</PRICE></BIBL> <BIBL><TITLE>Seumes Gedichte</TITLE>, 2 Theile, auf weissem Druckpap. brosch. <PRICE>40 kr.</PRICE></BIBL> <BIBL><TITLE>G√∂thes Herrmann u. Dorothea</TITLE>. Neue wohlf. Ausgabe, brosch. <PRICE>12 kr.</PRICE></BIBL> <BIBL><AUTHOR>Schmids</AUTHOR> (Verf. der Ostereyer Íùõc) s√§mtl. Schriften, 4 Thle. mit Kupf. in Cart. geb. <PRICE>2 fl. 40 kr.</PRICE> u. mit Goldtitel <PRICE>3 fl.</PRICE></BIBL> <BIBL><AUTHOR>Dessen</AUTHOR> s√§mtl. Schriften, einzeln brosch.</BIBL> <BIBL><AUTHOR>Dessen</AUTHOR> 100 Erz√§hlungen, gut geb. <PRICE>10 kr.</PRICE></BIBL> <BIBL><TITLE>T√§gliches Handb√ºchlein f√ºr fromme Kinder</TITLE>, mit Kupf. sch√∂n geb. <PRICE>12 kr.</PRICE></BIBL> <BIBL><AUTHOR>Schelers</AUTHOR> <TITLE>Jugendgarten</TITLE>, bestehend in lehrreichen Geschichten u. Erz√§hlungen Íùõc. 2 B√§ndchen, mit Kupf. sch√∂n geb. <PRICE>24 kr.</PRICE></BIBL> <BIBL><TITLE>Tafel Leuchter</TITLE>, mit Gallerie, in deren Mitte ein chem. Feuerzeug befindl. das Ganze ist mit Silber platirt. <PRICE>2 fl. 24kr.</PRICE></BIBL> <BIBL><TITLE>Chemische Feuerzeuge</TITLE>, in fein en moir√© lakirten Blechgef√§ssen. <PRICE>24kr.</PRICE></BIBL> <BIBL><TITLE>Dito</TITLE>, in soliden Wei√üblechgef√§ssen, f. Dienstboten Íùõc. <PRICE>20 kr.</PRICE></BIBL> <BIBL><TITLE>Erdkugel</TITLE>, nebst Erkl√§rung derselben Íùõc. in einem Kistchen. <PRICE>2 fl. 40 kr.</PRICE></BIBL> <BIBL><TITLE>Glasharmonika</TITLE>, mit 2Octaven, nebst Musikpult, Scala u. 12 Musikstuckchen Íùõc. eleg. bearbeitet. <PRICE>2 fl. 24kr.</PRICE></BIBL> In der Holdenecker'schen Leihbibliothek beym Kornhause.</ITEM>\",\n  \"number_of_fixes\": 6,\n  \"explanation\": \"The xml contained six instances of the tag <PRIZE> which is not a recognized xml tag. These were replaced with the correct <PRICE> tag.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 954,
+        "output_tokens": 941,
+        "total_tokens": 1895
+    },
+    "duration": 26.59184718132019,
+    "timestamp": "2025-11-05T14:56:40.149861"
+}

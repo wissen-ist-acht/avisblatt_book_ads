@@ -1,0 +1,5 @@
+{
+    "fixed_xml": "<ITEM>Im Berichthaus liegen folgende B√ºcher zur Einsicht, die zu verkaufen sind: <BIBL><AUTHOR>Dessette</AUTHOR> <TITLE>Commentar zum Matth. Marc. und Luk.</TITLE> <PRICE>30 Btz.</PRICE></BIBL> <BIBL><AUTHOR>DelV'ette</AUTHOR> <TITLE>Comment. zum Johannes</TITLE> <PRICE>23 Btz.</PRICE></BIBL> <BIBL><AUTHOR>De- Nette</AUTHOR> <TITLE>Comment. zum R√∂merbrief</TITLE> <VOLUME>2te Aufl.</VOLUME> <PRICE>18 Btz.</PRICE></BIBL> <BIBL><AUTHOR>De lVette</AUTHOR> <TITLE>biblische und evangel. luth. Dogmatik</TITLE> <VOLUME>2 Bde.</VOLUME> <PRICE>35 Btz.</PRICE></BIBL> <BIBL><TITLE>Ssnopsis von DeWette u. L√ºcke</TITLE> <PRICE>38 Btz.</PRICE></BIBL> <BIBL><TITLE>Biblia hiebraica</TITLE> <PLACE>Basel</PLACE> <YEAR>827</YEAR> <VOLUME>2 Bde.</VOLUME> <FORMAT>Hlbfrzbd.</FORMAT> <PRICE>85 Btz.</PRICE></BIBL></ITEM>",
+    "number_of_fixes": 1,
+    "explanation": "The xml tag <PRIZE> was incorrect and has been replaced with the correct tag <PRICE>."
+}

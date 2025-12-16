@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>In der Serinischen Buchhandlung ist zu haben: <BIBL><TITLE>Die beyden Muhmen, eine moralische Erzehlung f√ºr die Jugend</TITLE>, mit einem <FORMAT>Kupf.</FORMAT> in <FORMAT>Taschenformat</FORMAT>, sauber gebunden. <YEAR>796.</YEAR> <PRIZE>fl. 1. 16 kr.</PRIZE></BIBL> <BIBL><TITLE>Der Phllosoph f√ºr den Spiegeltisch</TITLE>, von <AUTHOR>L. Meister</AUTHOR>, mit einem <FORMAT>Kupfer</FORMAT>, <FORMAT>Taschenform</FORMAT>. gebunden. <YEAR>796.</YEAR> <PRIZE>fl. 1. 16 kr.</PRIZE></BIBL> <BIBL><TITLE>Almanach f√ºr die Geschichte der Menschheit auf das Jahr 1796.</TITLE>, von <AUTHOR>F. C. Schlenkert</AUTHOR>, mit <FORMAT>13 Kupf.</FORMAT> gebunden. <PRIZE>fl. 3.</PRIZE></BIBL> <BIBL><TITLE>Gallerie ausgezeichneter Handlungen und Karaktern aus der franz√∂sischen Revolution</TITLE>, mit <FORMAT>Kupf.</FORMAT> von <AUTHOR>K√ºfner</AUTHOR>, <VOLUME>1ster Band</VOLUME>. <FORMAT>gr. 8.</FORMAT> <FORMAT>broch.</FORMAT> <YEAR>795.</YEAR> <PRIZE>fl. 2. 36kr.</PRIZE></BIBL> <BIBL><TITLE>Libationen, eine interessante Zuschrift</TITLE>, istes bis <VOLUME>5tes Heft</VOLUME>. <FORMAT>brochirt.</FORMAT> <YEAR>795.</YEAR> <PRIZE>fl. 3.</PRIZE></BIBL> <BIBL><TITLE>Der L√∂wenritter, eine Geschichte des dreyzehnten Jahrhunderts</TITLE>, von <AUTHOR>K. H. Spie√ü</AUTHOR>, <VOLUME>4 Thl.</VOLUME> mit <FORMAT>Kupf.</FORMAT> <YEAR>795.</YEAR> u. <YEAR>796.</YEAR> <PRIZE>fl. 8. 46 kr.</PRIZE></BIBL> <BIBL><TITLE>B√ºrdes Erzehlungen</TITLE>, mit einem <FORMAT>Kupf.</FORMAT> <FORMAT>8.</FORMAT> <YEAR>796.</YEAR> <PRIZE>fl. 1. 30 kr.</PRIZE></BIBL> <BIBL><TITLE>Die Aussteuer, ein Schauspiel</TITLE> von <AUTHOR>Ifland</AUTHOR>. <FORMAT>8.</FORMAT> <YEAR>796.</YEAR> <PRIZE>fl. 1. 8 kr.</PRIZE></BIBL> <BIBL><TITLE>Die Reise nach der Stadt, ein Lustspiel</TITLE> von <AUTHOR>Ifland</AUTHOR>. <FORMAT>8.</FORMAT> <YEAR>795.</YEAR> <PRIZE>fl. 1. 12 kr.</PRIZE></BIBL> <BIBL><TITLE>Der Vormund, ein Schauspiel</TITLE> von <AUTHOR>Ifland</AUTHOR>. <FORMAT>8.</FORMAT> <YEAR>795.</YEAR> <PRIZE>fl. 1. 12 kr.</PRIZE></BIBL> <BIBL><TITLE>Berlinisches Jahrbuch der Pharmacie auf das Jahr 1795</TITLE>, mit <FORMAT>illumin. Kupf.</FORMAT> <FORMAT>8.</FORMAT> <PRIZE>fl. 1. 30 kr.</PRIZE></BIBL></ITEM>\",\n  \"number_of_fixes\": 6,\n  \"explanation\": \"The xml tags <PRICE> were incorrect and have been replaced with the correct tag <PRIZE> in six places.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 910,
+        "output_tokens": 914,
+        "total_tokens": 1824
+    },
+    "duration": 44.85035276412964,
+    "timestamp": "2025-11-04T14:02:07.441442"
+}

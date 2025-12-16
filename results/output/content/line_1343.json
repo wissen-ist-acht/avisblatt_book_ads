@@ -1,0 +1,5 @@
+{
+    "fixed_xml": "<ITEM>21. Neueste Schriften. <BIBL><TITLE>Lebensgeschichte des Peter Welti, gewesenen Pfarrers zu Wohlenschwyl.</TITLE> Von ihm selbst verfa√üt in seiner Gefangenschaft zu Baden. Rebst dessens daselbst von R. Leemann gez. Bildni√ü. <PRIZE>20 kr.</PRIZE></BIBL> <BIBL><TITLE>Standrede nach der Hinrichtung des Pet. Welti, gehalten auf dessen Richtst√§tte den 4. September d. J.</TITLE> Von <AUTHOR>J. Keller, Stadtpfr. zu Baden.</AUTHOR> <PRIZE>6 kr.</PRIZE></BIBL> <BIBL><TITLE>Deutsches Leben, Runst und Poesie.</TITLE> Herausgegeben v. <AUTHOR>J. H. Garnier.</AUTHOR> Einleitungs-Programm eines in London erscheinenden deutschen Journals. <PRICE>12 kr.</PRICE></BIBL> <BIBL><TITLE>Der Lahrer hinkende Bote f√ºr 1835.</TITLE> Mit feinen Holzschnitten u. lithog. Rechnungsformul. und Schreib√ºbung. <PRIZE>10 kr.</PRIZE></BIBL> In der Holdenecker'schen Leihbibliothek.</ITEM>",
+    "number_of_fixes": 1,
+    "explanation": "The xml was mostly well-formed, but there was a typo in one of the tags. The tag <PRIZE> was misspelled as <PRICE> in the third <BIBL> entry, so it was corrected."
+}

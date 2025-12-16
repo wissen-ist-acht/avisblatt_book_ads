@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>Zu Weihnachts-Geschenken passend erscheinen im Literatur-Comptoir in Stuttgart folgende, in allen guten Buchhandlungen vorr√§thige, sehr empfehlenswerthe und durch die Ausstattung besonders ausgezeichnete Werke: <BIBL><TITLE>Atlas. Zur Kunde fremder Welttheile.</TITLE> Herausgegeben von <AUTHOR>August Le wald.</AUTHOR> <YEAR>1836.</YEAR> <VOLUME>1-4r Bd.</VOLUME> <YEAR>1837.</YEAR> <VOLUME>5r Bd.</VOLUME> <FORMAT>gr. 6.</FORMAT> Mit Stahlstichen, Lithographien und Karten. <PRICE>geh. Preis jeden Bandes 2 fl. 42 kr.</PRICE></BIBL> <BIBL><AUTHOR>Stang, Martin Luther.</AUTHOR> <TITLE>Sein Leben und Wirken.</TITLE> Ein Prachtband von <VOLUME>126 Bogen</VOLUME> <FORMAT>kl. 4.</FORMAT> mit <VOLUME>7</VOLUME> herrlichen Stahlstichen. <PRICE>geh. 6 fl.</PRICE></BIBL> <BIBL><AUTHOR>B√∂ttigers</AUTHOR> <TITLE>Geschichte des deutschen Volkes und des deutschen Landes.</TITLE> <VOLUME>Zwer B√§nde</VOLUME> mit <VOLUME>8</VOLUME> historischen Scenen in sch√∂nstem Stahlstich. <PRICE>geh. 4 fl. 48 kr.</PRICE></BIBL> <BIBL><AUTHOR>Glatz,</AUTHOR> <TITLE>das Buch der Tugenden. Historische Gallerie edler Thaten und Handlungen f√ºr die deutsche Jugend aller St√§nde.</TITLE> <VOLUME>Zwei Bde.</VOLUME> mit <VOLUME>40</VOLUME> Holzschnitten. <PRICE>geb. 4 fl. 30 kr.</PRICE></BIBL> <BIBL><AUTHOR>Pfaff's</AUTHOR> <TITLE>Gesammt-Naturlehre f√ºr das Volk und seine Lehrer.</TITLE> Mit <VOLUME>73</VOLUME> Abbildungen. <FORMAT>Kartonirt.</FORMAT> <PRICE>2 fl. 24kr.</PRICE></BIBL> <BIBL><AUTHOR>M√ºnch's</AUTHOR> <TITLE>allgem. Geschichte der neuesten Zeit.</TITLE> <VOLUME>7 B√§nde.</VOLUME> Herabgesetzter Preis bis Ende Februar <YEAR>1838:</YEAR> <PRICE>9 fl.</PRICE></BIBL> <BIBL><AUTHOR>Supplementband</AUTHOR> dazu von <AUTHOR>Dr. Franz Kottenkamp.</AUTHOR> <PRICE>2fl.</PRICE></BIBL> <BIBL><AUTHOR>Nisles</AUTHOR> <VOLUME>27</VOLUME> <TITLE>Umrisse zu Hebel's allemannischen Gedichten.</TITLE> Elegant ausgestattet, in Mappe. <PRICE>4 fl. 48 kr.</PRICE></BIBL> Zu Bestellungen empfiehlt sich die Schweighauser'sche Buchhandlung.</ITEM>\",\n  \"number_of_fixes\": 2,\n  \"explanation\": \"The 'PRIZE' tags were replaced with 'PRICE' tags to maintain consistency. This was done twice.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 812,
+        "output_tokens": 799,
+        "total_tokens": 1611
+    },
+    "duration": 30.93768286705017,
+    "timestamp": "2025-11-06T10:30:19.181406"
+}

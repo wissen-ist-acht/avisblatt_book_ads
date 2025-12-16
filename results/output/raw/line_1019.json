@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>17. A n; e ig e. In der unterzeichneten Verlagshandlung erscheint auf Subscription: <BIBL><TITLE>Der wei√üe Sack, enthaltend den Briefwechsel mehrerer Personen aus England, Deutschland, Italien und andern L√§ndern.</TITLE> in welchen sich die R√∂nigin von England aufhielt. Dazu bestimmt, die Ehre dieser K√∂nigin zu retten. Von einem r√ºhmlichst bekanuten Gelehrten aus dem <PLACE>Franz√∂sischen</PLACE> ins Deutsche √ºbersetzt.</BIBL> Um diese √§usserst interessante Schrift schleunig dem P√ºblikum in die H√§nde geben zu k√∂nnen, ist die Anstalt getroffen worden, da√ü das franz√∂sische Original Bogenweis aus <PLACE>Paris</PLACE> ankommt, um eben so schleunig √ºbersetzt und gedbuckt werden. zu k√∂nnen. Da sich also dadurch die Anzahl der Druckbogen nicht voraus bestimmen l√§√üt, so werden den Herrn Subseribenten so vielmal <PRICE>4 kr.</PRICE> f√ºr den rein und auf sch√∂nes Papier gedruckten Bogen berechnet, als die vollendete Schrift enthal- ten wird. Alle solide Buchhandlungen Deutschlands nehmen Bestellungen hierauf an. Der Subse. Termin dauert bis Ende <YEAR>November</YEAR> <YEAR>l. J.</YEAR>; dann tritt der um einen Drittheil erh√∂hte Ladenpreis ein. Im <YEAR>Dezember</YEAR> wird die Schrift versendet. <PLACE>Ellwangen u. Gm√ºnd</PLACE> im <MONTH>Sept</MONTH> <YEAR>1820</YEAR>. Ritter'sche Buchhandlung. Neukirch, Buchh√§ndler, auf dem Fischmarkt nimmt auf obiges Werk Bestellungen an.</ITEM>\",\n  \"number_of_fixes\": 1,\n  \"explanation\": \"The XML was not well formed. The tag <PRIZE> was opened but closed with a different tag </PRICE>. The tag <PRIZE> was replaced with <PRICE> to match the closing tag.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 554,
+        "output_tokens": 562,
+        "total_tokens": 1116
+    },
+    "duration": 22.01041603088379,
+    "timestamp": "2025-11-05T12:03:33.324635"
+}

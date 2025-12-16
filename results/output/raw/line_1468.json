@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>In Vahnmaiers Buchhandlung in Basel ist so eben erschienen und durch jede andere Buchhandlung zu beziehen: <BIBL><TITLE>Die christliche Menschen-Liebe, das Wort und die Gemeinde Christi</TITLE>, von <AUTHOR>J. T. Veck Professor der Theologie</AUTHOR>. <VOLUME>152 Seiten</VOLUME> <FORMAT>8</FORMAT> in gef. Umschlag. <PRIZE>Preis 15 Btz</PRIZE>. Diese Schrift, eine Fortsetzung von der im J. 1839 in demselben Verlage erschienenen:, <TITLE>Die Geburt des christlichen Lebens</TITLE>; u. s. w., enthält in einem körnigen Auszug die Vorlesungen, welche der Verf. während der Winter-Halbjahre 183%o und 181 vor einem größeren Publikum gehalten hat, wobei die wichtigeren Punkte in einem beigegebenen Anhang noch näher beleuchtet werden. Ihre Bestimmung ist, wie die Vorrede sich ausdrückt, auf unmittelbarer Grundlage der h. Schrift zum eigenen Nachdenken und Verarbeiten anzuregen, und zur Selbstständigkeit in Christlicher Erkenntnis zu bilden; sie bietet sich daher Solchen vor Allem an, die aus dem Vielerlei unserer Zeit gerne in die ursprüngliche Einfachheit und ihre gedrängte Fülle eingehen, gerne forschen in der Schrift, wie es sich verhalte, und auch im Lernen und Erkennen den schmalen Weg jedem andern vorziehen.</BIBL> In dem gleichen Verlage ist von demselben Herrn Verfasser erschienen: <BIBL><TITLE>Neue Folge christlicher Reden</TITLE>; eine Sammlung von <VOLUME>12 Vorträgen</VOLUME>; in farb. Umschlag, <PRIZE>br. Preis 15 Btz</PRIZE>. </BIBL><BIBL><TITLE>Das neue Leben</TITLE>; eine <TITLE>Predigt am Osterfest 1842</TITLE>, gehalten in der St. Elisabethen-Kirche, über <VOLUME>1 Petr. 1, 3-9</VOLUME>. <PRIZE>Preis 2 Btz</PRIZE>. (In Parthieen <PRICE>1 1/2 Btz. pr. Ex.</PRICE>)</BIBL> So eben hat die Presse verlassen: <BIBL><TITLE>Die fünf und zwanzigste Jahresfeier der freiwilligen Armen-Schullehrer- Anstalt zu Beuggen</TITLE>, den <VOLUME>1. Heumonath 1842</VOLUME>. <PRIZE>Preis geb. 3 Btz</PRIZE>.</BIBL></ITEM>\",\n  \"number_of_fixes\": 6,\n  \"explanation\": \"The XML was missing closing tags for some BIBL elements, and there were some typos in the text. The fixes included adding missing closing tags for BIBL elements, correcting the spelling of 'Theologie', and replacing special characters with their correct representations.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 746,
+        "output_tokens": 721,
+        "total_tokens": 1467
+    },
+    "duration": 24.888768911361694,
+    "timestamp": "2025-11-06T11:04:29.410689"
+}

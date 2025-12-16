@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>26. In der Schweighauser'schent Buchhandlung sind nachstehende neue B√ºcher zu haben: <BIBL><TITLE>Lehren des Trostes und der Warnung.</TITLE> Eine . Reihe von Erz√§hlungen aus √§lterer und l neuerer Zeit, zur Belehrung und zur Unter haltung. Gesammelt von <AUTHOR>J. G. Metes</AUTHOR>. <FORMAT>8.</FORMAT> <PRIZE>Fr. 1. 3 1/2 Btz.</PRIZE> <PLACE>Frankfurt</PLACE>, geb. <AUTHOR>R√∂ver</AUTHOR>, <TITLE>Fr.</TITLE></BIBL> <BIBL><TITLE>Der Hausfreund auf dem Lande, oder Sammlung erprobter Rathschl√§ge.</TITLE> <FORMAT>1 Rezepte und Mittel</FORMAT>, zur eigenen Berathung und Selbsth√ºlfe, vorz√ºglich bey'm einsamen Landleben, f√ºr Hausv√§ter und Hausm√ºtter. <FORMAT>gr. 8.</FORMAT> <VOLUME>32 Bd.</VOLUME> <PLACE>Magdeb.</PLACE> <PRIZE>Fr. 5</PRIZE></BIBL> <BIBL><TITLE>Die Hausfreundin auf dem Lande, oder m√∂glichst vollst√§ndige Anweisung f√ºr Frauenzimmer, die ihrem l√§ndlichen Haus halten mit Ehren und Vortheil vorstehen, die Gesch√§fte der K√ºche, des Kellers u. der . Vorraths-Beh√§ltnisse selbst besorgen, und dabey zugleich ihre und der Ihrigen Gesundheit berlcksichtigen wollen</TITLE>, <VOLUME>3r Band</VOLUME> <FORMAT>gr. 8.</FORMAT> <PLACE>Magdeburg</PLACE> <PRIZE>Fr. 6.</PRIZE></BIBL> <BIBL><TITLE>Der Hellenen Freyheitskampf im Jahr 1822.</TITLE> Aus dem Tagebuche des Herrn <AUTHOR>A. von L.</AUTHOR> Kampfgenossen des Generals Grafen von Normann, bearbeitet von <AUTHOR>Ludwig v. Bollmann</AUTHOR>. <FORMAT>gr. 8.</FORMAT> <PLACE>Bern</PLACE>, geheftet <PRIZE>12 Btz.</PRIZE></BIBL></ITEM>\",\n  \"number_of_fixes\": 1,\n  \"explanation\": \"The last <PRICE> tag was incorrectly spelled. It was corrected to <PRIZE>.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 644,
+        "output_tokens": 630,
+        "total_tokens": 1274
+    },
+    "duration": 21.72955083847046,
+    "timestamp": "2025-11-05T14:29:49.820435"
+}

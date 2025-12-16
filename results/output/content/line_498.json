@@ -1,0 +1,5 @@
+{
+    "fixed_xml": "<ITEM>In Emanuel Thurneysens Buchhandlung ist zu haben: <BIBL><TITLE>Revolutions-Allmanach von 1793</TITLE>, handelnd von den gewaltsamen Ver- √§nderungen und den Erschutterungen, welche die Staaten und L√§nder in √§ltern und neuern Zeiten erlitten haben, mit <FORMAT>12 historischen Kupfern</FORMAT>, welche interessante Szenen sowohl aus der alten Schweitzergeschichte als aus den neuern und jetzigen Zeiten verschiedener Nationen vorstellen.<FORMAT>8.</FORMAT> <PRIZE>br. fl. 2. 40 kr.</PRIZE></BIBL></ITEM>",
+    "number_of_fixes": 1,
+    "explanation": "The XML was faulty because there was a closing TITLE tag that did not have a corresponding opening tag. This was fixed by removing the unnecessary closing TITLE tag."
+}

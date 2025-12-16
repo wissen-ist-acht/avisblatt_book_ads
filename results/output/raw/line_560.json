@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>24. Bey Hrn. Joh. Jak. Flick, Buchh√§ndler auf dem Fischmarkt, ist zu haben: <BIBL><AUTHOR>Matthissons</AUTHOR> <TITLE>Briefe</TITLE>, <VOLUME>1ter Th</VOLUME> <YEAR>755</YEAR>. <PRIZE>fl. 1. 36 kr.</PRIZE></BIBL> <BIBL><AUTHOR>Mitbillier</AUTHOR> <TITLE>Geschichte Deutschlands im 18ten Jahrhundert</TITLE>, <VOLUME>1ter-Theil</VOLUME>: ein Nachtrag zu <TITLE>Risbek Geschichte der Deutschen</TITLE>, <YEAR>795</YEAR>. <PRIZE>fl. 1. 36 kr.</PRIZE></BIBL> <BIBL><AUTHOR>Meiners</AUTHOR> <TITLE>Lebensbeschreibungen ber√ºhmter M√§nner aus den Zeiten der Wiederherstellung der Wissenschaften</TITLE>, <VOLUME>rter Bd.</VOLUME> <YEAR>795</YEAR>. <PRIZE>fl. 2. 40 kr.</PRIZE></BIBL> <BIBL><TITLE>Gr√ºndliche Zeichenkunst f√ºr junge Leute und Liebhaber</TITLE>, nach <AUTHOR>Prei√ülers</AUTHOR> und <AUTHOR>Ihle</AUTHOR> Original- Zeichnungen, <VOLUME>4 Thle.</VOLUME> <PRIZE>fl. 3. 36 kr.</PRIZE></BIBL> <BIBL><TITLE>Nouvelle lettre aux francais fur les √©v√©nemens arriv√©s en Franc√© depuis la derni√®re r√©volution du mois de Juillet 1794</TITLE>. <YEAR>795</YEAR>. <PRIZE>Ru. 34 Kr.</PRIZE></BIBL> <BIBL><TITLE>Briefe an die Franzosen √ºber die Vorf√§lle in Frankreich seit der letzte Re- Panzers volutie im July 1794</TITLE>. <PRIZE>54</PRIZE></BIBL> <BIBL><TITLE>Deutschlands Insekterfaune, oder entom√∂lsgisches Taschenbuch f√ºr 1795</TITLE>, mit <FORMAT>Kpf.</FORMAT> <PRIZE>fl. 3 22 kr</PRIZE></BIBL></ITEM>\",\n  \"number_of_fixes\": 1,\n  \"explanation\": \"The XML was mostly well-formed, but there was one minor error in the tags. The tag <PRICE> was used instead of <PRIZE> in the second to last <BIBL> tag. This was corrected by replacing <PRICE> with <PRIZE>.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 630,
+        "output_tokens": 656,
+        "total_tokens": 1286
+    },
+    "duration": 18.636317014694214,
+    "timestamp": "2025-11-04T13:41:18.459309"
+}

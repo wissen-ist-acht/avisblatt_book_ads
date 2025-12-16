@@ -1,0 +1,5 @@
+{
+    "fixed_xml": "<ITEM>22. Bey Mstr. Biermann No. 331 in der Fr√∂schga√ü ist ein n√ºtzliches Buch zu haben, sehr interessant f√ºr Pferdliebhaber u. Pferdkenner, welches sich gewi√ü bey den Lesern selbsten empfehlen wird, betitelt <BIBL><TITLE>der allgemeine Pferdarzt oder der Pferdzweiger</TITLE>, <VOLUME>2 Thl.</VOLUME> der 1ste enth√§lt allerley Curen f√ºr Pferd- Frankheiten, der 2te Thl. enth√§lt: die Pferde einzeln ziehen od. reiten zu lernen.</BIBL> <PRIZE>2 fl. 20 kr.</PRIZE> Soeben kann man auch bey mir von der schon ber√ºhmten Salbe haben, f√ºr Pferde wann sie die Schwine haben.</ITEM>",
+    "number_of_fixes": 1,
+    "explanation": "The XML was faulty because there was an extra closing TITLE tag that was not needed. The TITLE tag was already closed earlier, so I removed the extra closing tag."
+}

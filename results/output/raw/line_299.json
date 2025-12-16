@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>In der Schweigh√§userischen Buchhandlung allhier, ist zu haben: <BIBL><TITLE>Histoire de la- R√©formation de l'Eglise chr√®tienne en Allemagne</TITLE>, √©crite par le Baron de Sexendorf, abreg√©e par M. M. Junins & Roos- & traduite en francois par J. J. P. soivie d'un Abreg√© des anciennes Eglises esciavones & vaudoises <VOLUME>Tom.l</VOLUME>, & <YEAR>r784</YEAR>. das ganze Werk wird V. Theile ausmachen, welche welche zusammen <PRICE>L. 10. de France</PRICE> auf Pranumeration kosten; ein besonderer Prospe- Stus dar√ºber, wird in besagter Buchhandlung gratis ausgegeben.</BIBL> <BIBL><TITLE>Die Rauber</TITLE>, von <AUTHOR>Schiller</AUTHOR>, ein Schauspiel, <FORMAT>8</FORMAT>. <YEAR>1782</YEAR>. <PRICE>kr. 36</PRICE>.</BIBL> <BIBL><AUTHOR>J. C. Krafts</AUTHOR> <TITLE>Predigten √ºber Wahrheiten und Gebote der christlichen Lehre</TITLE>, <VOLUME>2 Thle</VOLUME>. <FORMAT>gr. 8</FORMAT>. <YEAR>1783</YEAR>. <PRICE>fl. 3. kr. 30</PRICE>.</BIBL> <BIBL><TITLE>Die Macht der Tugend, oder Begebenheiten der Clara Welldone</TITLE>, von der Frau von <AUTHOR>Malarme</AUTHOR>, <VOLUME>1ter Theil</VOLUME>, <FORMAT>8</FORMAT>. <YEAR>1783</YEAR>. <PRICE>fl. 1. kr. 30</PRICE>.</BIBL> <BIBL><TITLE>Geschichte der Kreutzzuge, oder Staats- und Kriegsbegebenheiten Íùõc</TITLE>. <VOLUME>2 B√§nde</VOLUME>, gro√ü <FORMAT>8</FORMAT>. <YEAR>1783</YEAR>. <PRICE>fl. 5. kr. 40</PRICE>.</BIBL> <BIBL><TITLE>Die Verkleidung</TITLE>, ein Lustspiel, <FORMAT>8</FORMAT>. <YEAR>1780</YEAR>. <PRICE>kr. 12</PRICE>.</BIBL> <BIBL><TITLE>Anrede an die in Olten versammelte Helvetische Gesellschaft</TITLE>, gehalten den 2 Juni <YEAR>1783</YEAR>, von Herrn <AUTHOR>Dreyerherr M√ºnch von Basel</AUTHOR>, <FORMAT>8</FORMAT>. <YEAR>1784</YEAR>. <PRICE>kr. 12</PRICE>.</BIBL></ITEM>\",\n  \"number_of_fixes\": 6,\n  \"explanation\": \"The XML tag <PRIZE> was consistently used incorrectly. It was replaced with the correct tag <PRICE> in all 6 occurrences.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 733,
+        "output_tokens": 721,
+        "total_tokens": 1454
+    },
+    "duration": 19.11326813697815,
+    "timestamp": "2025-11-02T20:10:07.176032"
+}

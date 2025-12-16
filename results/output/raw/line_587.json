@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>27. Bey Hrn. Joh. Jak. Flick, Buchh√§ndler auf dem Fischmarkt, ist zu haben: <BIBL><TITLE>Onelques notices po√ºr l'histoire de mes p√©rils depuis le 31 May 1793</TITLE>, <AUTHOR>J. Baptiste Louvet</AUTHOR>, repr√©sentant proscrit en <YEAR>1793</YEAR>. <PRIZE>fl. 1. 4 Kr.</PRIZE></BIBL> <BIBL><AUTHOR>Berlepsch</AUTHOR> <TITLE>Erholungsstunden</TITLE>. <YEAR>795</YEAR>. <FORMAT>Velinpapier</FORMAT>. <PRIZE>fl. 2. 24 kr.</PRIZE> auf <FORMAT>Schreibpap</FORMAT>. <PRIZE>fl. 1. 54 kr.</PRIZE> auf <FORMAT>Druckpap</FORMAT>. <PRICE>fl. 1. 4 kr.</PRICE></BIBL> <BIBL><AUTHOR>Heinzmann</AUTHOR> <TITLE>Appel an meine Nation</TITLE>. <PRIZE>fl. 2.</PRIZE></BIBL> <BIBL><AUTHOR>Weber</AUTHOR> <TITLE>Sieyesens Leben von ihm selbst, mit Anmerkungen und seinem Poktr√§t</TITLE>. <PRIZE>46 kr.</PRIZE></BIBL> <BIBL><TITLE>Notes historiques f√ºr le m√©moire justificati√ü de Dumouriez</TITLE>. <YEAR>795</YEAR>. <PRICE>12 xr.</PRICE></BIBL></ITEM>\",\n  \"number_of_fixes\": 1,\n  \"explanation\": \"The last <PRIZE> tag was incorrectly closed as <PRICE>. It has been corrected to <PRIZE>.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 446,
+        "output_tokens": 436,
+        "total_tokens": 882
+    },
+    "duration": 11.378082036972046,
+    "timestamp": "2025-11-04T13:53:30.660524"
+}

@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>Im Bischoffischen Buchladen ist zu haben: <BIBL><AUTHOR>Kyburzens</AUTHOR> ausf√ºhrliche Betrachtungen der Leyden unsers HErrn und Heilands JEsu Christi, mit Gebettern begleitet und vielen Kpfrn. gezieret, <FORMAT>gr. 8.</FORMAT> <PLACE>Basel</PLACE> <YEAR>1768</YEAR>. <PRIZE>fl. 1. kr. 30.</PRIZE></BIBL> Eben dieses Buch auf Schreib-Papier, √† <PRIZE>fl. 1. kr. 48.</PRIZE> <BIBL><TITLE>Erkl√§rende Umschreibung der vier Evangelisten</TITLE>, <FORMAT>8.</FORMAT> <PLACE>Halle</PLACE> <YEAR>1775</YEAR>. <PRICE>fl. 1. kr. 48.</PRICE></BIBL> <BIBL><TITLE>Die heilige Wochen, oder Vorbereitung zu w√ºrdigem Genu√ü des H. Nachtmahls, wie auch einige Betrachtungen nach dessen Empfahung</TITLE>, <FORMAT>8.</FORMAT> <PLACE>St. Gallen</PLACE>. <PRICE>kr. 26.</PRICE></BIBL> <BIBL><AUTHOR>Dr. Lorenzens</AUTHOR>, Betrachtungen √ºber Jesum, da√ü Er ein Heiland, wie Ihn arme S√ºnder der n√∂thig haben, und √ºber den sch√∂nen, Abend eines Gottgeheiligten Lebens, in <VOLUME>2.</VOLUME> Predigten, <FORMAT>8.</FORMAT> <PLACE>Stra√üburg</PLACE> <YEAR>1778</YEAR>. <PRICE>kr. 6.</PRICE></BIBL> Von den vorhergehenden Predigten sind auch noch Eremplaria √† <PRIZE>fl. 1. kr. 20.</PRIZE> vorhanden. <BIBL><TITLE>Herzliche Gedanken zur Erinnerung des Tauf-Bundes beym ersten Hintritt zu dem</TITLE> √† <PRICE>kr. 2.</PRICE> Tisch des HErrn, <FORMAT>8.</FORMAT> <YEAR>1778</YEAR>.</BIBL></ITEM>\",\n  \"number_of_fixes\": 3,\n  \"explanation\": \"Three missing <TITLE> tags have been added to the XML. The <TITLE> tag is used to specify the title of a book, which was missing in the original XML. The titles of the books 'Erkl√§rende Umschreibung der vier Evangelisten', 'Die heilige Wochen, oder Vorbereitung zu w√ºrdigem Genu√ü des H. Nachtmahls, wie auch einige Betrachtungen nach dessen Empfahung', and 'Herzliche Gedanken zur Erinnerung des Tauf-Bundes beym ersten Hintritt zu dem' were not enclosed in <TITLE> tags.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 603,
+        "output_tokens": 715,
+        "total_tokens": 1318
+    },
+    "duration": 14.541476011276245,
+    "timestamp": "2025-11-02T09:50:49.717386"
+}

@@ -1,0 +1,13 @@
+{
+    "text": "{\n\"fixed_xml\": \"<ITEM>36. Bey Herren Joh. Rud. Im-Hof und Sohn Buchdrucker und Buchh√§ndlere hinter dem schwarzen Pfahl allhier wohnhaft, ist zu haben : <BIBL><TITLE>Das Frauenzimmer in der Einsamkeit</TITLE>, <PRIZE>12. kr. 20.</PRIZE></BIBL> <BIBL><AUTHOR>M√∂sers (Justi)</AUTHOR> <TITLE>patriotische Phantasten, in moralischen und critischen Historien bestehend</TITLE>, <VOLUME>2 Theile</VOLUME>, <FORMAT>8.</FORMAT> <PRIZE>fl. 2. kr. 40.</PRIZE></BIBL> <BIBL><AUTHOR>Amaveri (Francone delb)</AUTHOR> <TITLE>Untersuchung ob es eine Festigkeit gebe, dabey viele abergl√§ubische Irrth√ºmer wiederleget werden, nebst beygef√ºgtem Catechi√ümus von der Geisterlehre</TITLE>, <FORMAT>8.</FORMAT> <PRIZE>kr. 32.</PRIZE></BIBL> <BIBL><AUTHOR>H D√∂hlers</AUTHOR> <TITLE>Abhandlung von Domainen, Contributionen, Steuren, Schatzungen und Abgaben</TITLE>, <FORMAT>8.</FORMAT> <PRIZE>kr. 36.</PRIZE></BIBL> <BIBL><TITLE>Sie that Unrecht ihn zu heyrathen, oder Geschich- Geschichte der Lady Dursley</TITLE>, <AUTHOR>aus dem Englischen</AUTHOR>, <VOLUME>1ter Theil</VOLUME>, <FORMAT>8.</FORMAT> <PRIZE>kr. 32.</PRIZE></BIBL> <BIBL><AUTHOR>Harwords (Eduard)</AUTHOR> <TITLE>Abhandlung √ºber die M√§√üigkeit und Unm√§√üigkeit, nebst ihren Wirkungen auf das menschliche Leben</TITLE>, <AUTHOR>aus dem Englischen</AUTHOR>, <FORMAT>8.</FORMAT> <PRIZE>kr. 12.</PRIZE></BIBL> <BIBL><AUTHOR>Sinds (des Freyhrn. von)</AUTHOR> <TITLE>vollst√§ndiger Unterricht in den Wissenschafften eines Stallmeisters</TITLE>, <FORMAT>fol.</FORMAT> <PRIZE>fl. 6.</PRIZE></BIBL> <BIBL><AUTHOR>Stengels Peterson</AUTHOR> <TITLE>Beschreibung von Sonnenuhren, wie solche auf allerley Flachen, Ebenen sowol unter der Sphaera recta als obliqua, geometrisch aufzureissen</TITLE>, <FORMAT>8.</FORMAT> <PRIZE>fl. 1. kr. 48.</PRIZE></BIBL> <BIBL><AUTHOR>Superville (Dan. de)</AUTHOR> <TITLE>Predigten √ºber verschiedene Stellen der Heil. Schrifft, in der Wallonischen Kirche zu Rotterdam gehalten</TITLE>, <FORMAT>8.</FORMAT> <PRIZE>kr. 40.</PRIZE></BIBL> <BIBL><AUTHOR>Steidele (Joh.)</AUTHOR> <TITLE>Abhandlung von dem unvermeidentlichen Gebrauch der Instrumente in der Geburtsh√ºlfe</TITLE>, <FORMAT>8vo.</FORMAT> <PRIZE>kr. 48.</PRIZE></BIBL></ITEM>\",\n\"number_of_fixes\": 3,\n\"explanation\": \"Three PRIZE tags were incorrectly labeled as PRICE. These have been corrected.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 881,
+        "output_tokens": 865,
+        "total_tokens": 1746
+    },
+    "duration": 19.82252073287964,
+    "timestamp": "2025-11-02T09:39:18.344694"
+}

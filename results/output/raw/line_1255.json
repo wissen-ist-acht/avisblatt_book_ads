@@ -1,0 +1,13 @@
+{
+    "text": "{\n\"fixed_xml\": \"<ITEM>2. <BIBL><TITLE>Kalender f√ºr das Jahr 1831. Eidgen√∂ssischer Wandkalender</TITLE>, sch√∂n lithogr. und geschmackvoll ausgestattetmit dem Verzeichni√ü der Posten allhier;</BIBL> gr. real-folio <PRIZE>6 Btz.</PRIZE> <BIBL><TITLE>Calendrier de Cabiet</TITLE>, mit Ansichten von Bern, Genf, Lausanne, Vivis Íùõc.</BIBL> (fein) in <FORMAT>4.</FORMAT> zum aufziehn. <PRIZE>4 Btz.</PRIZE> <BIBL><TITLE>Comptoir-Kalender Chiesige</TITLE> von <PRIZE>1 bis 5 Btz</PRIZE></BIBL> <BIBL><TITLE>Historische Hauskalender</TITLE> aller Sorten.</BIBL> <BIBL><TITLE>Taschen-Schreibkalender</TITLE> mit und ohne Pergament, von <PRIZE>6 bis 18 Btz.</PRIZE></BIBL> <BIBL><TITLE>Kleine dito</TITLE> mit und ohne Kupfer, von <PRIZE>3 bis 15 Btz.</PRIZE></BIBL> <BIBL><TITLE>Chiesige u ausw√§rtige</TITLE> bey <AUTHOR>J. C. Schabelitz</AUTHOR>, <TITLE>Buchbinder</TITLE>, <PLACE>No. 1423 an der obern Freyenstra√üe.</PLACE></BIBL></ITEM>\",\n\"number_of_fixes\": 0,\n\"explanation\": \"The XML provided has all the tags properly closed and there is no missing information or misplaced tags. Therefore, no fixes were required.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 432,
+        "output_tokens": 423,
+        "total_tokens": 855
+    },
+    "duration": 16.54187297821045,
+    "timestamp": "2025-11-05T15:59:53.776894"
+}

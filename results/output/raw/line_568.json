@@ -1,0 +1,13 @@
+{
+    "text": "{\n\"fixed_xml\": \"<ITEM>30. In Emanuel Thurneysens Buchhandlung allhier ist zu haben: <BIBL><TITLE>Cours complet & suvi de botanique</TITLE> redig√© fous les formes & dans les termes les plus clairs d'apr√©s les diverses m√©thodes & les principes adopt√©s, par <AUTHOR>Tournefort, Linn√©, J. J. Rousseau, Jussieux la Mark, Durande, Villars, & autres futeurs</AUTHOR>, les plus illustres, <VOLUME>Tome 1er</VOLUME>.</BIBL> <BIBL><AUTHOR>Gessneri</AUTHOR> (.) <TITLE>Tabule phy- 8. 795. thographice Analysin generum plantarum exhibentes cum Commentatione</TITLE>, edidit <AUTHOR>C. S. Schinz</AUTHOR>, mit sch√∂n illuminirten Kupfern, <FORMAT>fol.</FORMAT> <YEAR>795</YEAR>. <PRICE>fl. 25. 30 kr.</PRICE> und ohnilluminirt <PRICE>fl. 4</PRICE>.</BIBL> <BIBL><TITLE>Lettres aux francois</TITLE>, par <AUTHOR>Gorani</AUTHOR>, <VOLUME>3 Tom.</VOLUME> <FORMAT>gr. 8.</FORMAT> <YEAR>79495</YEAR>. <PRICE>fl. 3. 54 Kr.</PRICE></BIBL> <BIBL><TITLE>Das gleiche Buch deutsch</TITLE>, <VOLUME>3 Thle.</VOLUME> <FORMAT>8.</FORMAT> <YEAR>794- 95</YEAR>. <PRICE>fl. 31 24 kr.</PRICE></BIBL> <BIBL><AUTHOR>Heinzmann</AUTHOR> <TITLE>Appell an meine Nation √ºber Aufkl√§rung und Aufkl√§rer, √ºber Gelehrsamkeit und Schriftsteller, auch √ºber mancherley anderes, was Menschenfreyheit und Menschenrechte betrifft</TITLE>, <FORMAT>gr. 8.</FORMAT> <YEAR>795</YEAR>. <PRICE>fl. 2.</PRICE></BIBL> <BIBL><TITLE>Notices historiques</TITLE> fur <AUTHOR>Morizot, Advocat de Paris</AUTHOR>, <FORMAT>8.</FORMAT> <YEAR>795</YEAR>. <PRICE>A. 1. 6 xr.</PRICE></BIBL></ITEM>\",\n\"number_of_fixes\": 3,\n\"explanation\": \"The XML-tags <PRIZE> were replaced with <PRICE> in three different places to maintain consistency.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 652,
+        "output_tokens": 628,
+        "total_tokens": 1280
+    },
+    "duration": 25.470929861068726,
+    "timestamp": "2025-11-04T13:45:22.358187"
+}

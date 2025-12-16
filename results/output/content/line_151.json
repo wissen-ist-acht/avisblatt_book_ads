@@ -1,0 +1,5 @@
+{
+    "fixed_xml": "<ITEM>In der Mechelischen Buchdruckerey allhier sind zu haben: 1) <BIBL><TITLE>Bibliotheck f√ºr den guten Geschmack</TITLE> <VOLUME>1tes bis 11tes Stuck</VOLUME>, <FORMAT>8.</FORMAT> <PLACE>Bern</PLACE> <YEAR>1775</YEAR>. jedes Stuck √† <PRIZE>kr. 48.</PRIZE></BIBL> 2) <BIBL><TITLE>Schweizerische Schauspiele, nemlich Wilhelm Tell oder der gef√§hrliche Schu√ü. Ge√ülers Tod, oder das erlegte Raubthier. Der alte Heinrich von Melchthal, oder die ausgetretnen Augen</TITLE>, <FORMAT>8.</FORMAT> <YEAR>1775</YEAR>. alle drey zusammen <PRIZE>kr. 12.</PRIZE></BIBL> 3) <BIBL><AUTHOR>Herrn Ant. Wirzen sel.</AUTHOR> <TITLE>Synodal Reden</TITLE>, <VOLUME>4ter und letzter Theil</VOLUME>, <FORMAT>8.</FORMAT> <YEAR>1775</YEAR>. Die Herren Pr√§numeranten belieben diesen Theil gegen Auslieferung ihrer Scheinen und Nachbezahlung von <PRIZE>fl. 1. kr. 20.</PRIZE> auch <PRIZE>4. kr. porto</PRIZE> abholen zu lassen.</BIBL></ITEM>",
+    "number_of_fixes": 1,
+    "explanation": "The XML tag <PRICE> was incorrect and has been changed to <PRIZE> to match the other tags in the XML."
+}

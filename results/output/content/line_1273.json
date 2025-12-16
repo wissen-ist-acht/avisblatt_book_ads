@@ -1,0 +1,5 @@
+{
+    "fixed_xml": "<ITEM>Ich zeige hiemit ergebenst an, da√ü ich so eben eine Parthie Gesangb√ºcher in sehr sch√∂nen Einb√§nden vorr√§thig habe, die ich bestens empfehlen darf. Auch mache zugleich bekannt, da√ü ich die Lieder und Gedichte, welche den 20. Merz bey den B√ºrger-Mahlen gesungen wurden, √† 2kr. erlassen werde, da dieselben doch gewi√ü f√ºr jeden Fremden und Einheimischen der mitgehalten hat, ein besonderes Interesse haben werden. Sodann ist bey mir in Commis. zu haben: <BIBL><TITLE>Die Heiligen Schriften alten und neuen Testaments</TITLE> in zwey B√§nden, jeder mit <FORMAT>100 Kupfern</FORMAT>, Text von <AUTHOR>Ewald</AUTHOR>, zu dem sehr billigen Preis von <PRICE>15 Gulden</PRICE>.</BIBL> <BIBL><TITLE>Histoire v√©ritable des temps fabuleux</TITLE>, <VOLUME>5 vol.</VOLUME> sehr sch√∂n in <FORMAT>Franzband gebunden</FORMAT>, √† <PRICE>14 Gulden</PRICE>.</BIBL> Atz, Buchbinder.</ITEM>",
+    "number_of_fixes": 1,
+    "explanation": "There was a typo in the XML tag for 'Price'. It was written as 'PRIZE' instead of 'PRICE'. The tag was corrected in two places."
+}

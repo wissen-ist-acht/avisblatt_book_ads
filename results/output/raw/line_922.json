@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>2. Bey Bernhard Atz, Buchbinder an der Schneiderga√ü sind folgende B√ºcher, um beygesetzte bilige Preise in Commission zu haben: <BIBL><AUTHOR>Wielands</AUTHOR> <TITLE>s√§mmtliche Werke</TITLE>, <VOLUME>5. B√§nde</VOLUME>, enthaltend <TITLE>Agathor</TITLE> und <TITLE>Amadis</TITLE>. Prachtausgabe, mit weissem fein gegl√§ttetem Medianpapier, <PLACE>Leipz.</PLACE> <YEAR>1794</YEAR>: sch√∂n gz. <PRICE>Frzod. 5 fl. 20 kr.</PRICE></BIBL> <BIBL><AUTHOR>Lavaters</AUTHOR> <TITLE>Aussichten in die Ewigkeit</TITLE>, <VOLUME>4 Bdehlb.</VOLUME><FORMAT>Frzbd.</FORMAT> <PRICE>1 fl. 20 kr.</PRICE></BIBL> <BIBL><AUTHOR>Snells</AUTHOR> <TITLE>Lehrbuch der deutschen Schreibart</TITLE>, <PRICE>C. 40 kr.</PRICE></BIBL> <BIBL><AUTHOR>Matthison's</AUTHOR> <TITLE>Gedichte</TITLE>, <PRICE>C. 40 kr.</PRICE></BIBL> <BIBL><AUTHOR>Salis</AUTHOR> <TITLE>Gedichte</TITLE>, <PRICE>C. 30 kr.</PRICE></BIBL> <BIBL><AUTHOR>J- Stillings</AUTHOR> <TITLE>Theorie der Geisterkunde</TITLE>, <PRICE>C. 40 kr.</PRICE></BIBL> <BIBL><AUTHOR>Mendelsohn's</AUTHOR> <TITLE>Psalmen Davids</TITLE>, <FORMAT>hlb. Frzbd.</FORMAT> <PRICE>40 kr.</PRICE></BIBL> <BIBL><AUTHOR>Lavaters</AUTHOR> <TITLE>Nathanael, oder die g√∂ttl. des Christenthums</TITLE>, <PRICE>C. 48 kr.</PRICE></BIBL> <BIBL><TITLE>Ulrich Zwinglis Leben</TITLE>, mit Portrait, <PRICE>C. 30kr.</PRICE></BIBL> <BIBL><AUTHOR>Carl Bonnet's</AUTHOR> <TITLE>Beweise f√ºr das Christenthum</TITLE>. <PRICE>32 kr.</PRICE></BIBL> <BIBL><AUTHOR>Lavaters</AUTHOR> <TITLE>Herzens-Erleichterung</TITLE>, <VOLUME>12.</VOLUME> <PRICE>24kr.</PRICE></BIBL> <BIBL><AUTHOR>J. Glatz</AUTHOR>, <TITLE>Trostbuch f√ºr Leidende</TITLE>, <PLACE>Arau</PLACE> <YEAR>1813</YEAR> sch√∂n gebunden. <PRICE>3 fl. 20 kr.</PRICE></BIBL></ITEM>\",\n  \"number_of_fixes\": 5,\n  \"explanation\": \"The XML was missing closing tags for PRICE and had incorrect PRIZE tags. These were replaced with the correct PRICE tags.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 781,
+        "output_tokens": 753,
+        "total_tokens": 1534
+    },
+    "duration": 33.86385798454285,
+    "timestamp": "2025-11-05T10:57:15.902140"
+}

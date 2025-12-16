@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>In der Samuel Flickschen Buchhandl. ist soeben erschienen und √† 18 Btz. zu haben: <BIBL><TITLE>Der kleine Schweizer-Almanach f√ºr das Jahr 1806</TITLE>, mit dem wohlgetroffenen Bildni√ü Sr. Exzellen; des zuk√ºnftigen Herrn Landammanns Merian; gezeichnet von Wocher, und gestochen von Lips, nebst 4 niedlichen Kupferstichen v. K√∂nig; das Alpenhirten-Fest zu Unterseen, vorstellend. <YEAR>1806</YEAR>. Der Inhalt dieses kleinen Almanachs ist so mannigfaltig als interressant, und von einem beliebten Schriftsteller verfertiget worden; er bedarf keiner weitern Empfehlung, sondern durch die nachstehende Anzeige seines Inhalts empfiehlt er sich selbst zu einem angenehmen Neujahrsgeschenk. Inhalt: 1. Biographie des Hrn. Andreas Merian, Burgermeister von Basel, und Landammann der Schweiz im Jahr <YEAR>1806</YEAR>. 2. Beschreibung des Alpenhirten-Festes zu Unterseen, als Erkl√§rung der Kupfer. ‚Äì 3. Aehrenlese aus der neuern Historie der 3 Schweizer, bestehend in einer kleinen Saml. von 22 kurzen Erz√§hlungen und wahren Anekdoten aus der neuen Kriegsgeschichte der kleinen Cantone, welche bis jetzt noch nicht bekannt waren. 4. Der Nachtbesuch, oder der Ehestifter ohne es zu vermuthen, eine l√§ndliche Schweizer-Erz√§hlung von <AUTHOR>Fr. H. Bronner</AUTHOR>. 5. Auswahl von Gedichten. 6. Die Sturmnacht auf Hekesta. 7. Vergleichung der neuen Maa√ü und Gewichte in Frankreich u. s. w. <PRICE>18 Btz.</PRICE></BIBL></ITEM>\",\n  \"number_of_fixes\": 1,\n  \"explanation\": \"The tag <PRIZE> was incorrect. It was replaced with the correct tag <PRICE>.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 548,
+        "output_tokens": 534,
+        "total_tokens": 1082
+    },
+    "duration": 23.894062042236328,
+    "timestamp": "2025-11-04T16:03:03.377973"
+}

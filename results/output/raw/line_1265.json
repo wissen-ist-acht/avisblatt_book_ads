@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>Anze ig e 20. wohlfeiler B√ºcher, die im Flick'schen Gesch√§fts-Bureau No. 160, dem Storchen gegen√ºber, zu haben sind: <BIBL><TITLE>Das goldne A BC f√ºr Herren 1. Damen in und ausser der Ehe</TITLE>, <PRIZE>12. 809. br. 5 Btz.</PRIZE></BIBL> <BIBL><TITLE>Annales de la vertu ou Cours d'histoire √† l'usage des jeunes personnes</TITLE>, par <AUTHOR>Mad. de Genlis</AUTHOR>, <VOLUME>3 vol.</VOLUME> gr. in <FORMAT>8</FORMAT> <PLACE>Paris</PLACE>. <PRIZE>Halb- 28 Btz. franzband</PRIZE></BIBL> <BIBL><TITLE>Die H√ºhner- u. Pfauenzucht in ihrem gan- zen Umfange Íùõc.</TITLE>, <PRIZE>7 1/2 Btz.</PRIZE></BIBL> <BIBL><TITLE>J√§gerlieder f√ºr Forst- u. Jagdfreunde</TITLE>, <FORMAT>8.</FORMAT> <PRIZE>6Btz. 823.</PRIZE></BIBL> <BIBL><TITLE>Nieuport Rituum roman. Explicatio Ed. U. post Scheepflini, Reizu & al. curas.</TITLE>, <FORMAT>8.</FORMAT> <PLACE>Berol.</PLACE> <YEAR>751.</YEAR> <PRICE>Pgt. 10 Btz.</PRICE></BIBL> <BIBL><TITLE>Le nouveau Robinson</TITLE>, par <AUTHOR>Campe</AUTHOR>, trad. de l'allemand et corrig√© par <AUTHOR>Grandmottet</AUTHOR>, <FORMAT>8.</FORMAT> <PLACE>Brunsvic</PLACE> <YEAR>805.</YEAR> <PRICE>C. 10 Btz.</PRICE></BIBL> <BIBL><TITLE>Ge√üners christliches Sonntagsblatt</TITLE>, <VOLUME>10 B√§nde</VOLUME>, compl. in <FORMAT>Cart.</FORMAT> <PRICE>75 Btz.</PRICE></BIBL> <BIBL><TITLE>Stillings grauer Mann, eine Volksschrift</TITLE>, <VOLUME>30 Hefte in 15 B√§nden</VOLUME>, <FORMAT>8.</FORMAT> <PLACE>N√ºrnb.</PLACE> <PRICE>60 Btz.</PRICE></BIBL> <BIBL><TITLE>Principes philosophiques, politiques et moreaux</TITLE>, pan <AUTHOR>le Colonel de Weiss</AUTHOR>, <VOLUME>Ime Edit. 2 vol.</VOLUME> gr. in <FORMAT>8.</FORMAT> <PLACE>Gen√®ve</PLACE> <YEAR>806.</YEAR> <PRICE>br. 15 Btz.</PRICE></BIBL> <BIBL><TITLE>Handb. f. angehende Prediger, bestehend in Kasualreden u. Festpredigten Íùõc.</TITLE>, <VOLUME>24Thle. in 12 B√§nden</VOLUME>, <FORMAT>8.</FORMAT> <PLACE>Frankfurt.</PLACE> <PRICE>C. u. T. wie neu. 75 Btz.</PRICE></BIBL> <BIBL><TITLE>Sammlung der Gesetze u. Beschl√ºsse, wie auch der Polizey Verordnungen des Kantons Basel, welche von 1810 bis 1827 publizirt worden sind.</TITLE>, <VOLUME>6 B√§nde</VOLUME>, gr. <FORMAT>8.</FORMAT> in <FORMAT>Carton.</FORMAT> <PRICE>10 Fr.</PRICE></BIBL></ITEM>\",\n  \"number_of_fixes\": 7,\n  \"explanation\": \"The XML tags <PRICE> were being closed incorrectly as <PRIZE> or <PRIZE></PRICE> instead of </PRICE>. This mistake was found and corrected 7 times.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 957,
+        "output_tokens": 958,
+        "total_tokens": 1915
+    },
+    "duration": 30.924527168273926,
+    "timestamp": "2025-11-05T16:04:48.929672"
+}

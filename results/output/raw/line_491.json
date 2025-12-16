@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>35. Bey Hrn. Joh. Jacob Flick, Buchh√§ndler auf dem Fischmarkt allhier ist zu haben: <BIBL><TITLE>Geschichte der Stadt und Landschaft Basel</TITLE>, von <AUTHOR>Hrn. D. Stadtschreiber Ochs</AUTHOR>, <VOLUME>aten Bds.</VOLUME> <VOLUME>iste Abtheilung</VOLUME>. <PRIZE>fl. 1. kr.</PRIZE></BIBL> 36. <BIBL><TITLE>Der deutsche Alcibiades</TITLE>, <VOLUME>3 Theile</VOLUME>, <YEAR>1792</YEAR>. <PRIZE>fl. 1. kr.</PRIZE></BIBL> 36. <BIBL><TITLE>Der Catholieismus und der Protestantismus in ihren gegenseitigen Verh√§ltnissen betrachtet</TITLE>, von <AUTHOR>J. Kern</AUTHOR>. <FORMAT>8.</FORMAT> <YEAR>792</YEAR>. <PRIZE>kr.</PRIZE></BIBL> 40. <BIBL><AUTHOR>Raffs</AUTHOR> <TITLE>Geographie f√ºr Kinder</TITLE>, <VOLUME>3ter Theil</VOLUME>, welcher <TITLE>Amerika und Australien</TITLE> enth√§lt, fortgese;t von <AUTHOR>Ch. C. Andre</AUTHOR>, <FORMAT>8.</FORMAT> <YEAR>1791</YEAR>. <PRIZE>fl. 1. kr.</PRIZE></BIBL> 8. <BIBL><TITLE>Frankfurter Handlungs- Adresse-Calender pro 1792</TITLE>. <PRIZE>kr. 24</PRIZE></BIBL> <BIBL><AUTHOR>Metternich</AUTHOR>, <TITLE>vom Schaden der Brechmittel in der Lungensucht</TITLE>. <FORMAT>8.</FORMAT> <YEAR>1792</YEAR>. <PRIZE>kr. 20</PRIZE></BIBL> <BIBL><TITLE>Schilderungen aus Griechenland</TITLE>. <FORMAT>8.</FORMAT> <PRIZE>kr. 24</PRIZE></BIBL> <BIBL><TITLE>Con¬¨ Aderations importantes fur les droits & les devoirs respectits de la France & des Etats de Pempire d'Allemagne, possessionnes en Alsace</TITLE>, <FORMAT>4to.</FORMAT> <YEAR>1792</YEAR>. <PRIZE>fl. 3</PRIZE></BIBL> <BIBL><TITLE>Chronologie des Comtes de Genevois</TITLE>, par <AUTHOR>Mr. del Leyrier</AUTHOR>. <VOLUME>2 vol.</VOLUME> <PRIZE>H. 3. Er. 20</PRIZE></BIBL></ITEM>\",\n  \"number_of_fixes\": 2,\n  \"explanation\": \"Two closing tags for <PRIZE> were incorrectly written as </PRICE>. They have been corrected to </PRIZE>.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 711,
+        "output_tokens": 705,
+        "total_tokens": 1416
+    },
+    "duration": 27.656177043914795,
+    "timestamp": "2025-11-07T15:39:23.593437"
+}

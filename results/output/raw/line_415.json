@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>5. Bey Hrn. C. A. Serini, Buchh√§ndler allhier, ist zu haben: <BIBL><AUTHOR>Campe</AUTHOR> v√§terlicher Rath f√ºr meine Tochter, ein Gegenst√ºck zum Theophron, <FORMAT>8.</FORMAT> <YEAR>789.</YEAR> <PRICE>40 kr.</PRICE></BIBL> <BIBL>Reise durch eine der romantischesten Gegenden der Schwei; <YEAR>1788.</YEAR> von <AUTHOR>Hrn. Pfarrer Bridel</AUTHOR> allhier, nebst einer Charte von der Route, <FORMAT>8.</FORMAT> <PRICE>fl. 1. 48 kr.</PRICE></BIBL> <BIBL>Beschreibung des Bannats, der Wallachey, Moldau, und der K√∂nigreiche Servien und Bo√ünien, <FORMAT>8.</FORMAT> <YEAR>789.</YEAR> <PRICE>18 kr.</PRICE></BIBL> <BIBL>Beschreibung (Crichtige und vollst√§ndige) der Cattun-und Leinwanddruckerey, wie auch der Verarbeitung des Cattuns und der Leinwandel zum Druck, <FORMAT>8.</FORMAT> <YEAR>788.</YEAR> <PRICE>28 kr.</PRICE></BIBL> <BIBL>Bibliothet der Romanen; <VOLUME>16ter Bd.</VOLUME>, <FORMAT>8.</FORMAT> <YEAR>789.</YEAR> <PRICE>fl. 1. 12 kr.</PRICE></BIBL> <BIBL>Blotz auf a0j√§hrige Erfahrung gegrundeter Unterricht, wie man durch Behandlung des Hopfen-Spargeln-und Meerretigbaues sehr vielen Vortheil ziehen kann Íùõc., <FORMAT>8.</FORMAT> <YEAR>788.</YEAR> <PRICE>18 kr.</PRICE></BIBL> <BIBL><AUTHOR>Borowky</AUTHOR> die be√üten in- und ausl√§ndischen Getraidearten, Futergew√§chse, Fabrik-Gew√ºrz-F√§rbe- und Oehspflanzen in verschiedenen Arten, <FORMAT>8.</FORMAT> <YEAR>789.</YEAR> <PRICE>18. kr.</PRICE></BIBL> <BIBL><AUTHOR>Engelmann</AUTHOR> praktische Lehre vom heiligen Abendmahl, <FORMAT>8.</FORMAT> <YEAR>789.</YEAR> <PRICE>24. kr.</PRICE></BIBL></ITEM>\",\n  \"number_of_fixes\": 7,\n  \"explanation\": \"The XML tag <PRIZE> was incorrect and has been replaced with the correct tag <PRICE> in 7 places.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 697,
+        "output_tokens": 674,
+        "total_tokens": 1371
+    },
+    "duration": 16.195080041885376,
+    "timestamp": "2025-11-02T20:50:47.742524"
+}

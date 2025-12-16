@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>3. Das Flick'sche Gesch√§fts-Bureau hat so eben von M√ºnchen erhalten: <BIBL><TITLE>Jesus am Kreuze, umgeben von Engeln</TITLE>, nach dem Gem√§lde <AUTHOR>Lebruns</AUTHOR> gezeichnet u. lithographirt von <AUTHOR>Brandm√ºller</AUTHOR>, ein Pendant zu dessen <TITLE>Madonna del Sisto</TITLE>. <PRIZE>12 Fr.</PRIZE></BIBL> Eben so wie bey der Steinzeichnung der <AUTHOR>Rafael'schen</AUTHOR> <TITLE>Madonna</TITLE> hat auch hier der K√ºnstler keinen Flei√ü gespart, um diesem Blatte Kraft und Ausdruck zu geben. Der gr√∂√üte Theil der K√ºnstler u. Kunstliebhaber kennt ohne Zweifel das Original, und kann beurtheilen, welche Arbeit mit der Zeichnung von einigen 20 Figuren verbunden ist. Daher wird auch Jedermann den obigen Preis f√ºr dieses herrliche St√ºck bilig finden. Der Vollendung nahe h√§ngt der Heiland am Kreuze. Die ihn umgebenden Engel knieen zum Theil um's Kreuz, zum Theil schweben sie auf Wolken. Der tiefste Schmerz √ºber die Leiden des Erl√∂sers, Freude √ºber seinen nahen Sieg, Bewunderung. Aubetung und Ehrfurcht dr√ºcken sich in den Gesichtern unnachahmlich aus. Da einige wenige Abdr√ºcke als Prob- Exemplare hieher gesandt worden, so belieben diejenigen Personen, welche noch von den ersten Abdr√ºcken zu haben w√ºnschen, mit ihren Bestellungen nicht zu s√§umen. Zugleich wird angezeigt, da√ü von der <TITLE>Madonna del Sisto</TITLE> wieder einige sehr gute Abdr√ºcke eingetroffen sind, die man ebenfalls noch umden Subscriptionspreis von <PRIZE>12 Fr.</PRIZE> haben kann. Diese beyden Bl√§tter, welche alles leisten, was von der Lithographie gefordert werden kann, machen eine Zierde f√ºr jedes Zimmer aus, und eignen sich auch zugleich f√ºr Hochzeitgeschenke. <BIBL><TITLE>Madonna del Sisto</TITLE>, <PRIZE>12 Fr.</PRIZE></BIBL> 4. Es wird ein drey Jahre alter m√§nnlicher Jagdhund von mittlerer Gr√∂√üe u. sch√∂ner Farbe feil geboten, und d√ºrfte hinsichtlich seiner Talente, sowohl im- Stechen als Fortjagen, auf Probe gegeben werden. In Betreff des Preises u. Besichtigung; desselben hat man sich an alt Schlo√üj√§ger Haas in Sissach zu wenden.</ITEM>\",\n  \"number_of_fixes\": 1,\n  \"explanation\": \"The closing tag for PRIZE was incorrectly written as PRICE. This was corrected to PRIZE.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 773,
+        "output_tokens": 760,
+        "total_tokens": 1533
+    },
+    "duration": 32.586283683776855,
+    "timestamp": "2025-11-05T15:40:52.250473"
+}

@@ -1,0 +1,13 @@
+{
+    "text": "{\n\"fixed_xml\": \"<ITEM>14. In der Mechelischen Buchdruckerey in der Steinen-Vorstadt sind, nebst andern, folgende neue B√ºcher zu haben : <BIBL><AUTHOR>Wilcocles; Thoma</AUTHOR> <TITLE>k√∂stlicher Honig-Tropfen aus dem Felsen Christo: oder, ein kurzes Wort der Ermahnung an alle Heilige und S√ºnder.</TITLE> Aus dem Englischen: <FORMAT>8vo</FORMAT> <YEAR>1757</YEAR>. √† <PRICE>6. kr.</PRICE></BIBL> <BIBL><TITLE>Sammlung der Dand-Predigen √ºber den grossen Sieg welchen die K√∂nigl. Preu√üischen Truppen den 25ten Aug. 1758 √ºber die Russisch-Kayserl. Armee bey Zorndorf erfochten.</TITLE> <FORMAT>8vo.</FORMAT> <PLACE>Berlin</PLACE>. √† <PRICE>15. kr.</PRICE></BIBL> <BIBL><TITLE>Abbildung eines Schlacht-Feldes und die Busse eines hart-ble√üirten sterbenden Soldaten, samt einem Anhang zum Lobe der Dreyeinigkeit GOttes.</TITLE> <FORMAT>4to.</FORMAT> <YEAR>1758</YEAR>. √† <PRICE>10. kr.</PRICE></BIBL> <BIBL><TITLE>lEcole de P'Amiti√©, deux Parties.</TITLE> <FORMAT>12m√≤.</FORMAT> <PLACE>Francof.</PLACE> <YEAR>1758</YEAR>. √† <PRICE>45. xr.</PRICE></BIBL> <BIBL><TITLE>Coup dOeil fur PAngleterre, par un Anglais.</TITLE> <FORMAT>8v√≤.</FORMAT> <YEAR>1758</YEAR>. √† <PRICE>22. xr.</PRICE></BIBL> <BIBL><TITLE>La Voir dun Citoyen d'Amsterdam, ou Reffexions impartiales fur les Affaires presentes.</TITLE> <NUMBER>No. 1 & 2.</NUMBER> <FORMAT>8v√≤.</FORMAT> <YEAR>1758</YEAR>. √† <PRICE>10. xr.</PRICE></BIBL> <BIBL><TITLE>Histoire de la Campagne, contenant tout ce gui est passe dinteressant dans IElectorat dHanovre, la Principaute d Embden, le Landgraviat de Cassel, la Westphalie, le Bas- Rhin & le Comt√© de Hanau.</TITLE> Depuis le Commencement de cette Annee jusqu √† la fin du mois de Juillet; avec le detail de PAffaire du Comte de Maillebois contre le Marechal d Estrees, & les Memoires relatits √† cet ohjet. <FORMAT>8v√≤.</FORMAT> <YEAR>1758</YEAR>. √† <PRICE>30. xr.</PRICE></BIBL> <BIBL><TITLE>L Esprit de la presente Guerre.</TITLE> <FORMAT>8v√≤.</FORMAT> <YEAR>1758</YEAR>. √† <PRICE>22. xr.</PRICE></BIBL> <BIBL><TITLE>Der aufrichtige und getreue Welt-Bott, oder sogenanter geistlicher Calender auf das Jahr 1759.</TITLE> in gew√∂hnlichem Preis.</BIBL></ITEM>\",\n\"number_of_fixes\": 7,\n\"explanation\": \"The XML tag for price was misspelled as 'PRIZE' in seven places. It has been corrected to 'PRICE' in all seven instances.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 893,
+        "output_tokens": 876,
+        "total_tokens": 1769
+    },
+    "duration": 32.35443687438965,
+    "timestamp": "2025-10-30T17:55:07.143396"
+}

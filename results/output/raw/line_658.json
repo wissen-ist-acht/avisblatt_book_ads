@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>Emanuel Thurneysens Buchhandlung sind nebst andern neuen B√ºchern folgende zu haben: <BIBL><TITLE>Geschichte aller christl. Kaiser im Brient und Oceident, f√ºr die studirende Jugend und zum allgemeinen Gebrauch</TITLE>, <FORMAT>8.</FORMAT> <PRICE>799. 40 kr.</PRICE></BIBL> <BIBL><AUTHOR>Schenkl CJ. B.</AUTHOR> <TITLE>Spruche und Lehren der Weisheit, f√ºr Liebhaber einer weisen Lebensart</TITLE>, <FORMAT>8.</FORMAT> <PRICE>798. 14 kr.</PRICE></BIBL> <BIBL><TITLE>Abhandlung von den sowohl √§u√üerlich-als innerlichen Krankheiten der Jagd- und anderer Hunde, f√ºr J√§ger und Jagdfremde</TITLE>, <FORMAT>8.</FORMAT> <PRICE>798. 20 kr.</PRICE></BIBL> <BIBL><AUTHOR>Hacker. (B.)</AUTHOR> <TITLE>drey Lieder f√ºr Herz und Einpfindung, f√ºr Gesang und Clavier gesetzt</TITLE>, <FORMAT>fol.</FORMAT> <PRICE>798. 20 kr.</PRICE></BIBL> <BIBL><AUTHOR>Wismayr 6Jos.</AUTHOR> <TITLE>Lieder f√ºrs Clavier, aus den Bluthen u. Fr√ºchten vom Jahr 1798.</TITLE> mit Musik von <AUTHOR>A. J. Emmert</AUTHOR> und <AUTHOR>Benedikt Hacker</AUTHOR>, <FORMAT>fol.</FORMAT> <PRICE>798. 20 kr.</PRICE></BIBL> <BIBL><TITLE>Bl√ºthen und Fr√ºchte zur Aufmunterung und Veredlung jugendlicher Talente vom Jahr 1798.</TITLE> mit Melodien von <AUTHOR>A. J. Emmert</AUTHOR> und <AUTHOR>B. Hacker</AUTHOR>, <PRICE>fl. 1. 8 kr.</PRICE></BIBL> <BIBL><TITLE>llfaut un √©tat od la revue de l'an sixi√´me proverbe en un adte en prose & en vaudeville</TITLE>, par <AUTHOR>Leger Chazet & Buhan</AUTHOR>, <FORMAT>8.</FORMAT> <PRICE>798. br. 30 kr.</PRICE></BIBL> <BIBL><TITLE>Dictionnaire Cnouyeau) portatif francns-ullemand & allemand-francais</TITLE>, par <AUTHOR>J. Valentin Meidinger</AUTHOR>, <VOLUME>2 Tom.</VOLUME> <FORMAT>gr. 8.</FORMAT> <PRICE>797. f. 2. 30 kr.</PRICE></BIBL> <BIBL><TITLE>Kleiner republikanischer Taschen-Calender auf das J. 1799.</TITLE> mit der franz. Zeitrechnung und einem kleinen Anhang, <PRICE>geb. 12 kr.</PRICE></BIBL></ITEM>\",\n  \"number_of_fixes\": 3,\n  \"explanation\": \"The xml was mostly well-formed, but the 'PRIZE' tags were incorrect, they should have been 'PRICE' tags. Three instances of this error were found and corrected.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 804,
+        "output_tokens": 792,
+        "total_tokens": 1596
+    },
+    "duration": 54.74644184112549,
+    "timestamp": "2025-11-04T14:32:17.809251"
+}

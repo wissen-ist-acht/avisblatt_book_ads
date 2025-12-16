@@ -1,0 +1,5 @@
+{
+    "fixed_xml": "<ITEM>Ein Halbdotzend moguetene gr√ºne Sessel, mit glatten Lehnen, samt einem Tischlein, <BIBL><TITLE>zwey Mangoldische Biblen</TITLE></BIBL>, und <BIBL><TITLE>ein Zwingerisches Kr√§uterbuch</TITLE></BIBL>.</ITEM>",
+    "number_of_fixes": 2,
+    "explanation": "There were two errors in the XML. Both were related to the TITLE tag within the BIBL tag. The opening TITLE tag was missing the closing angle bracket '>' in two instances. This has been fixed."
+}

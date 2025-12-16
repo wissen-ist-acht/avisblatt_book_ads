@@ -1,0 +1,5 @@
+{
+    "fixed_xml": "<ITEM>7. In der Serinischen Buchhandlung sind folgende B√ºcher zu haben: <BIBL><TITLE>Historisch-Geographisches-Statisches Lexikon von der Schweiz</TITLE>, <VOLUME>2 Thl.</VOLUME> <PRIZE>fl. 5.</PRIZE></BIBL> <BIBL><AUTHOR>J. H. Pfingsten</AUTHOR> <TITLE>Deutsches Dispenfatorium oder allgemeines Apothekerbuch</TITLE> <PRIZE>fl. 3. 30 kr.</PRIZE></BIBL> <BIBL><TITLE>Reduktions-Tabellen der Gulden und Kreutzer in Livres, Sols, Deniers, D√©cimes und Centmes</TITLE> <PRIZE>16 kr.</PRIZE></BIBL> <BIBL><AUTHOR>Weicard</AUTHOR> <TITLE>Sammlung medic. praktischer Betrachtungen und Abhandlungen</TITLE> <PRIZE>fl. 1. 30 kr.</PRIZE></BIBL> <BIBL><TITLE>Einige wohlgemeite Vorschl√§ge, wie ein medic. Collegium auf Lie zweckm√§√üigste und vollkommenste Art einzurichten sehe</TITLE>, von einem rechtgl√§ubigen Arzt <PRIZE>20 kr.</PRIZE></BIBL> <BIBL><TITLE>Nouvel abc francais</TITLE>, mit <FORMAT>rel. en Carton</FORMAT> <PRIZE>40 xr.</PRIZE></BIBL></ITEM>",
+    "number_of_fixes": 1,
+    "explanation": "In the last <BIBL> tag, the closing tag for <PRICE> was incorrectly written as </PRIZE>. This was corrected to </PRICE>."
+}

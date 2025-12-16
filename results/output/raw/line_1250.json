@@ -1,0 +1,13 @@
+{
+    "text": "{\n\"fixed_xml\": \"<ITEM>Einladung zur Subscription auf ein Supplement-B√§ndchen zu H. Sschokkes werke in Taschenformat, unter dem Titel: <BIBL><TITLE>Heinrich Zschokke, seine vorz√ºglichsten Lebensmomente und seine Schriften, seine Freunde und Feinde; nebst allerley √ºber Geist und Ungeist, Leben und Treiben in kleinen Republiken</TITLE>. Von <AUTHOR>Ernst M√ºnch</AUTHOR>. Der Inhalt liegt schon im Titel ausgesprochen, die Tenden; theils in dem Gef√ºhle der Verehrung f√ºr einen Mann, der sein ganzes Leben nur dem Dienste des Guten, Sch√∂nen und Wahren gewidmet, theils dem des Unwillens √ºber die Niedertr√§chtigkeit und Heucheley falscher Freunde und sophistischer oder unwissender Gegner. Ein letztes Urtheil √ºber jeden der Oeffentlichkeit einmal verfallenen Mann, kann zwar erst nach seinem Tode erfolgen; es giebt jedoch Zeiten, wo das Leben auch seinen Kranz will und das Volk in jeder neuen Generation seine Guten und seine Schlechten erkennen, und ehren oder verachten soll. Das beyl√§ufig <VOLUME>20 Bogen</VOLUME> starke Werkchen wird im Laufe dieses Jahrs erscheinen, und ist der Subscriptionspreis <PRICE>fl 2.</PRICE> f√ºr die Taschen-Ausgabe auf ordin und <PRICE>fl 2. 40 kr.</PRICE> auf wei√üem Papier; auch wird eine Ausgabe in <FORMAT>8¬∞</FORMAT> veranstaltet zu <PRICE>fl 3. 40 kr.</PRICE></BIBL> Man subseribirt bey J. G. Neukirch</ITEM>\",\n\"number_of_fixes\": 1,\n\"explanation\": \"The XML tag <PRIZE> was incorrect. It has been changed to <PRICE>.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 499,
+        "output_tokens": 476,
+        "total_tokens": 975
+    },
+    "duration": 17.09360909461975,
+    "timestamp": "2025-11-05T15:57:31.366699"
+}

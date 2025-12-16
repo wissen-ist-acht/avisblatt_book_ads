@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>Bey J. Georg Bolly, Buchbinder auf dem Markt, ist zu haben: <BIBL><TITLE>Eine sch√∂ne Auswahl von Taschenb√ºchern, Almanachs und Schreibkalender</TITLE>, worunter auch, wo man zwischen die Tage schreiben kann.</BIBL> <BIBL><TITLE>Unterrichtsb√ºcher zum Zeichnen</TITLE> f. die Jugend, <BIBL><TITLE>Farbensch√§chtelchen</TITLE>, in <FORMAT>12 und 24Farben</FORMAT></BIBL>. <BIBL><TITLE>A. B.C B√ºcher</TITLE>.</BIBL> <BIBL><TITLE>Orbis pietus</TITLE>, nebst andern neuen Jugendschritten mit illuminierten Kupfern.</BIBL> <BIBL><TITLE>Mechanische, und andere Neujahrsw√ºnsche</TITLE> auf Atlas mit Einfassungen.</BIBL> <BIBL><TITLE>Strickmuster, der sch√∂nsten und neusten Desseins</TITLE>.</BIBL> Ferners sind in verschiedenen Einb√§nden und billigen Preisen zu haben, die Schriften, von <AUTHOR>Klatz</AUTHOR>, <AUTHOR>Campe</AUTHOR>, <AUTHOR>Raff</AUTHOR> Íùõc. <BIBL><TITLE>Stunden der Andacht</TITLE>, <VOLUME>8 B√§nde</VOLUME>, <FORMAT>2te Auflage</FORMAT></BIBL> <BIBL><TITLE>Ehrenbergs Andachtsbuch</TITLE>, f√ºr gebildete des weiblichen Geschlechts, <BIBL><TITLE>Emiliens Stunden der Andacht</TITLE>, von <AUTHOR>Spiecker</AUTHOR>.</BIBL> <BIBL><TITLE>Morgen- und Abendopfer</TITLE>, von <AUTHOR>Witschel</AUTHOR>.</BIBL> <BIBL><TITLE>Andachtsbuch, f√ºr gebildete Familien</TITLE>, von <AUTHOR>Glatz</AUTHOR>.</BIBL> <BIBL><TITLE>Die Abendmahlsfeyer</TITLE>, von <AUTHOR>Klose</AUTHOR>.</BIBL> <BIBL><TITLE>Ewald's Erbaunngsbuch f√ºr Frauenzimmer, aller Confessionen</TITLE>.</BIBL> <BIBL><TITLE>Gott ist die reinste Liebe</TITLE>, von <AUTHOR>Eckartshausen</AUTHOR>.</BIBL> <BIBL><TITLE>Die neuesten Schriften</TITLE>, von <AUTHOR>Friedrich, Baron de la Motte Fouque</AUTHOR>, <AUTHOR>Schilling</AUTHOR>, <AUTHOR>Lan√§bein</AUTHOR>, <AUTHOR>Kind</AUTHOR>, <AUTHOR>Schreiber</AUTHOR>, <AUTHOR>Laue</AUTHOR>, <AUTHOR>Stein</AUTHOR>, <AUTHOR>Regina Frohberg</AUTHOR>.</BIBL> Auch findet man bey mir nebst gew√ºhnlichen Schreibmaterialien, euglisches und holl√§ndisches <BIBL><TITLE>Zeichnungs- und Briespapier</TITLE></BIBL>, so wie auch aller Art sehr sch√∂nes rastriertes <BIBL><TITLE>Musikpapier</TITLE>.</BIBL></ITEM>\",\n  \"number_of_fixes\": 2,\n  \"explanation\": \"The XML was missing closing BIBL tags for the 'Zeichnungs- und Briespapier' and 'Musikpapier' elements.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 855,
+        "output_tokens": 876,
+        "total_tokens": 1731
+    },
+    "duration": 23.857239961624146,
+    "timestamp": "2025-11-05T11:28:40.982876"
+}

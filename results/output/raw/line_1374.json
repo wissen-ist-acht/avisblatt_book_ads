@@ -1,0 +1,13 @@
+{
+    "text": "{\n\"fixed_xml\": \"<ITEM>3. Einziges D√©pot der <BIBL><TITLE>Essence d'Engelure- Gefristkranken</TITLE></BIBL> empfehlenswerth, ist den ganzen Winter durch bei mir zu finden, das Fl√§schchen √† <PRIZE>3 Btz.</PRIZE>; sowie auf gegenw√§rtiges Neujahr <BIBL><TITLE>h√ºbsche Bilderverse oder Devisen</TITLE></BIBL>, <BIBL><TITLE>Versbilder</TITLE></BIBL>, <BIBL><TITLE>ABC B√ºcher</TITLE></BIBL>, <BIBL><TITLE>Bilderb√ºcher</TITLE></BIBL> und <BIBL><TITLE>Bogen</TITLE></BIBL>, und <BIBL><TITLE>verzierte Neujahrsw√ºnsche</TITLE></BIBL> zu den billigsten Preisen. Schwartz, Buchbinder in No 1163 an der Gerbergasse</ITEM>\",\n\"number_of_fixes\": 1,\n\"explanation\": \"There was a missing equals sign in the TITLE tag for 'h√ºbsche Bilderverse oder Devisen'. It was corrected to <TITLE>h√ºbsche Bilderverse oder Devisen</TITLE>.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 297,
+        "output_tokens": 312,
+        "total_tokens": 609
+    },
+    "duration": 8.463531017303467,
+    "timestamp": "2025-11-06T10:29:25.822313"
+}

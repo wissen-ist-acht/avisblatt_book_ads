@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>14. In der Serinischen Buchhandlung sind folgende B√ºcher zu haben: <BIBL><TITLE>Observation fur la Constitution Helv√©tique</TITLE>. <PRIZE>20Kr.</PRIZE></BIBL> <BIBL><TITLE>Projet d'un nouveau systeme d'imposition territoriale pr√©sent√©e auxt administrations de LHelvetie</TITLE> par <AUTHOR>Monneron</AUTHOR>. <PRIZE>16xr.</PRIZE></BIBL> <BIBL><TITLE>Discours prononc√© √† la soci√©t√© des amis de la libert√© a Lausanne</TITLE>. <PRIZE>8xr.</PRIZE></BIBL> <BIBL><TITLE>Discours pr√©liminaire du nouveau Dictionnaire de la langue francaise</TITLE> par <AUTHOR>Rivarol</AUTHOR>. <PRIZE>fl. 4.</PRIZE></BIBL> <BIBL><TITLE>Aufruf an den Genius des scheidenden Jahrhunderts, zur Ausrottung der Blattern</TITLE>. <PRIZE>20 kr.</PRIZE></BIBL> <BIBL><TITLE>Julie Farnese aus den Zeiten Pabst Alexanders des Vl.</TITLE> vom Verfasser der <TITLE>Familie Eboli</TITLE>. <PRIZE>fl. 3.</PRIZE></BIBL> <BIBL><AUTHOR>Schlossers</AUTHOR> <TITLE>kleine Schriften</TITLE>, <VOLUME>6ter Theil</VOLUME>. <PRIZE>fl. 1. 36 kr.</PRIZE></BIBL> <BIBL><TITLE>Kleine moral. Geschichten und Erz√§hlungen f√ºr Kinder</TITLE> <PRIZE>fl. 1. 4 kr.</PRIZE></BIBL> <BIBL><TITLE>Predigten zur Bef√∂rderung der Liebe zu Jesus, f√ºr Christen aller drey Kirchen</TITLE>, von <AUTHOR>Ewald</AUTHOR>. <PRIZE>fl. 2.</PRIZE></BIBL> <BIBL><TITLE>Dagobert, eine Geschichte aus dem jetzigen Freyheits-Kriege, als Seitenst√ºck zum Grafen Donamar</TITLE>. <PRIZE>fl. 2. 24 kr.</PRIZE></BIBL> <BIBL><TITLE>Der K√ºchen- Gartenbau f√ºr den G√§rtner und Gartenliebhaber</TITLE>, <PRIZE>fl. 2. 24 kr.</PRIZE></BIBL> <BIBL><TITLE>Der aufrichtige Baumg√§rtner</TITLE>, von einem Freunde der <TITLE>Baumzucht</TITLE>. <PRIZE>40 kr.</PRIZE></BIBL></ITEM>\",\n  \"number_of_fixes\": 2,\n  \"explanation\": \"There were two instances where the tag <PRICE> was used instead of <PRIZE>. These have been corrected.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 735,
+        "output_tokens": 728,
+        "total_tokens": 1463
+    },
+    "duration": 22.674543857574463,
+    "timestamp": "2025-11-04T14:32:40.486133"
+}

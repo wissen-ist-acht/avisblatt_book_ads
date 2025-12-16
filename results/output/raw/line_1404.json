@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>In der Raw'schen Buchhandlung in Nurnberg ist erschienen und stets bei uns vorr√§thig: <BIBL><TITLE>Valentin Jamerai D√ºval's h√∂chstmerkw√ºrdige Lebensgeschichte</TITLE>. F√ºr die deutsche Jugend bearbeitet von <AUTHOR>Dr. Carl Dielitz</AUTHOR>. Mit einem Stahlstich. <PRICE>Preis 9 Btz.</PRICE></BIBL> F. Spittler und Comp. Freiestra√üe No. 1178.</ITEM>\",\n  \"number_of_fixes\": 1,\n  \"explanation\": \"The xml tag <PRIZE> was incorrect. It was replaced with the correct tag <PRICE>.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 198,
+        "output_tokens": 185,
+        "total_tokens": 383
+    },
+    "duration": 5.314840078353882,
+    "timestamp": "2025-11-06T10:41:44.632681"
+}

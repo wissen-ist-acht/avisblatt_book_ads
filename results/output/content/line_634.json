@@ -1,0 +1,5 @@
+{
+    "fixed_xml": "<ITEM>4. Bey Joh. Peter Hindenlang am Gerberberg ist zu haben: Ein zweyth√ºriger und ein einth√ºriger Kasten, ein Secret√§r, ein nu√übaumener-Tisch, ein K√ºchekasten mit Glas, ein taffiener langer Tisch, eine Stubenth√ºr von kannenem Holz, der obere Spiegel mit Kanafas, 6 Schuh 2 Zoll hoch und 21 Schuh 2 Zoll breit; eine dito Gatter, 31/2 Schuh und 2 Zoll breit; eine zweyschl√§frige und eine einschl√§frige Bettlade, ein nu√übaumenes Buffert; <BIBL><TITLE>Wursteisens Basler-Chronik</TITLE></BIBL>, <BIBL><TITLE>eine Folio-Bibel</TITLE> von <AUTHOR>Battier und Gernler</AUTHOR>, mit Auslegungen;</BIBL> <BIBL><AUTHOR>Scrivers</AUTHOR> <TITLE>Seelenschatz</TITLE> in <VOLUME>3 B√§nden</VOLUME></BIBL></ITEM>",
+    "number_of_fixes": 1,
+    "explanation": "The closing BIBL tag was missing for the last bibliographic reference. This has been added to ensure well-formedness of the XML."
+}

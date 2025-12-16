@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>23. Bey Hrn. Joh. Jakob Flick, Buchh√§ndler allhier, ist zu haben: <BIBL><TITLE>Friedrich U. als Schriftsteller im Elysium, ein dramatisches Gem√§lde</TITLE>, <PRIZE>789. 24. kr.</PRIZE></BIBL> <BIBL><TITLE>Vudelnarr gche Reise-Abendtheuer dreyer K√∂nigss√∂hne</TITLE>, <PRIZE>789. 45 kr.</PRIZE></BIBL> <BIBL><TITLE>Der N√ºrnbergische Iluminist, oder kurze und praktische Unterweisung, von sich selbst sch√∂n illuminiren und malen zu lernen</TITLE>, mit <FORMAT>Kpf.</FORMAT> <PRIZE>48 kr.</PRIZE></BIBL> <BIBL><TITLE>Der Vogelsteller, oder die Kunst, allerler Arten von V√∂geln sowohl ohne als auch auf dem Vogelheerd beguem und in Menge zu fangen</TITLE>, mit <FORMAT>Kpf.</FORMAT> von <AUTHOR>Naumann</AUTHOR>, <PRIZE>789. 54 kr.</PRIZE></BIBL> <BIBL><TITLE>K√ºnste grosser K√ºnstler, oder Anweisung, wie alle m√∂gliche Arten von Firnissen, Lack und farbenen Compositionen zu verfertigen sind</TITLE>, <PRIZE>789. 30 kr.</PRIZE></BIBL> <BIBL><TITLE>Die 11 Tage, neue arabische M√§hrchen, samt noch andern Blumen astatischer Litteratur</TITLE>, <PRIZE>789. 54 kr.</PRIZE></BIBL> <BIBL><TITLE>Wiener Musenalmanach auf das Jahr 1789</TITLE>, von <AUTHOR>Ratschky und Blumauer</AUTHOR>, <PRIZE>36 kr.</PRIZE></BIBL> <BIBL><TITLE>Taschenbuch Josephs U.</TITLE>, <PRIZE>788. 16kr.</PRIZE></BIBL> <BIBL><AUTHOR>J. S. Vatalte</AUTHOR> <TITLE>Predigten √ºber die Evangelien und Episteln</TITLE>, <VOLUME>2 Theile</VOLUME>, <FORMAT>4. neue Auflage</FORMAT>, <PRIZE>789. fl. 4. 30 kr.</PRIZE></BIBL> <BIBL><TITLE>Wienerisches Commerzial-Schema, worinnen die samtliche in Wien befindliche Handelsherren, Fabrikanten, Handwerker, K√ºnstler Íùõc. nebst einem Post-Cours Íùõc.</TITLE>, <PRIZE>fl. 1. 20 kr.</PRIZE></BIBL></ITEM>\",\n  \"number_of_fixes\": 1,\n  \"explanation\": \"The XML tag <PRICE> was incorrectly used instead of <PRIZE>. This was fixed in two places.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 732,
+        "output_tokens": 724,
+        "total_tokens": 1456
+    },
+    "duration": 17.11788010597229,
+    "timestamp": "2025-11-02T20:48:06.221502"
+}

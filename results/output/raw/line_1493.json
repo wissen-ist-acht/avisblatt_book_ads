@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>2208. In Bahnmaier's Buchhandlung (C. Detloff) ist zu haben: <BIBL><AUTHOR>Liebetrut, Fr. Dr.</AUTHOR>, <TITLE>christliche Andachtsstunden f√ºr Frauen und Jungfrauen evangelischer Confession</TITLE>. <FORMAT>8.</FORMAT> <PRICE>6 7 1/2 Btz.</PRICE></BIBL> <BIBL><AUTHOR>Meyer, J F.</AUTHOR>, <TITLE>Wahrheit und Dichtung. Erz√§hlungen f√ºr die reifere Jugend</TITLE>. <PRICE>40 Btz.</PRICE></BIBL> <BIBL><AUTHOR>Hermann, Baron von Lyncker</AUTHOR>, <TITLE>Gesundheit und Geld gewonnen durch richtige Luftbenutzung in Geb√§uden. Ein Beitrag zur Baukunst</TITLE>. Mit <FORMAT>16 erl√§uternden Tafeln</FORMAT>. <PRICE>60 Btz.</PRICE></BIBL></ITEM>\",\n  \"number_of_fixes\": 2,\n  \"explanation\": \"The XML was faulty at two places where the tag <PRIZE> was used instead of the correct <PRICE> tag. These have been corrected.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 302,
+        "output_tokens": 295,
+        "total_tokens": 597
+    },
+    "duration": 10.70219898223877,
+    "timestamp": "2025-11-06T11:12:54.810498"
+}

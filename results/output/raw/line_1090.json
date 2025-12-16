@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>13. No vit√§ten. Alle Arten neue sch√∂ne Schreibvorschriften, in Heften von 12 Bl√§ttern, in Umschlag und Titelblatt, √† 3 Btz. <BIBL><TITLE>Neues franz√∂sisch-deutsches und deutsch-fran- z√∂sisches W√∂rterbuch</TITLE>. √† <VOLUME>Thle.</VOLUME> <FORMAT>kl. 8.</FORMAT> <PLACE>Bern</PLACE>. <YEAR>1823</YEAR>. <PRIZE>br. 2 Fr.</PRIZE></BIBL> <BIBL><TITLE>W√∂chentliche Unterhaltungs-Bl√§tter f√ºr Welt- und Menschenkunde</TITLE>. <VOLUME>1ster Jahrg.</VOLUME> <YEAR>1824</YEAR>. <VOLUME>N. 1</VOLUME>. Diese 3 Artikel werden zur Einsicht ertheilt in der Holdenecker'schen Leihbibliothek beym Kornhause.</BIBL></ITEM>\",\n  \"number_of_fixes\": 1,\n  \"explanation\": \"The xml was missing a closing BIBL tag for the second BIBL element.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 319,
+        "output_tokens": 308,
+        "total_tokens": 627
+    },
+    "duration": 8.148109912872314,
+    "timestamp": "2025-11-05T14:36:03.435277"
+}

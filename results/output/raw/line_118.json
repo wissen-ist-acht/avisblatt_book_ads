@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>38. Im Bischoffischen Buchladen ist zu haben: <BIBL><TITLE>Das so bekannt als beliebte Kochbuch, welches lehret mehr als 1500 Speisen und alles ersinnliche Koch- und Backwerk aufs schmackhafteste und nach der neuesten Art zurichten</TITLE>, in <VOLUME>2 Theilen</VOLUME>, nebst einem Anhang von <TITLE>400 Fasten-Speisen</TITLE> und einem <TITLE>Transchierbuch</TITLE>, <YEAR>1766</YEAR>. neue und viel verbesserte Auflage, √† <PRIZE>fll1 12 xr.</PRIZE></BIBL> <BIBL><AUTHOR>Plouquets</AUTHOR> <TITLE>Aufl√∂sung der im 1766. Jahre vorgegebenen Fragen, den zu erhaltenden best√§ndig vortheilhaften Preis des Getraides betreffend</TITLE>, <VOLUME>4.</VOLUME> <PLACE>T√ºbingen</PLACE> √† <PRIZE>6 xr.</PRIZE></BIBL> <BIBL><AUTHOR>Starkens</AUTHOR> <TITLE>g√ºldenes Schatzk√§stl. frommer Christen</TITLE>, <FORMAT>16.</FORMAT> <YEAR>1766</YEAR> √† <PRIZE>36 xr.</PRIZE></BIBL> <BIBL><TITLE>Geistliche Lotterie</TITLE> in <VOLUME>250 Loosen</VOLUME>, <FORMAT>32.</FORMAT> √† <PRIZE>4 xr.</PRIZE></BIBL> <BIBL><AUTHOR>Hollatzens</AUTHOR> <TITLE>evangel. Gnaden-Ordnung</TITLE>, √† <PRIZE>8 xr.</PRIZE></BIBL> <BIBL><TITLE>Der im Reden, Schreiben und Beten wohlunterrichtete Stadt- und Landmann</TITLE>, <FORMAT>12.</FORMAT> mit Figuren, √† <PRIZE>18 xr.</PRIZE></BIBL> <BIBL><TITLE>Christl. Zeitvertreib oder Anleitung, wie man den Tag zubringen soll</TITLE>, <FORMAT>12.</FORMAT> a <PRIZE>6. xr.</PRIZE></BIBL> <BIBL><AUTHOR>D Wyttenbachs</AUTHOR> <TITLE>Catechismus oder kurzer Entwurf der ganzen Christl. Religion</TITLE>, <FORMAT>8.</FORMAT> √† <PRIZE>20 xr.</PRIZE></BIBL> <BIBL><TITLE>Der kl√ºge Hauspater</TITLE> <VOLUME>1. Theile</VOLUME>, worinnen gezeiget wird, wie der Christl. Ehestand m√ºsse angefangen, fortgesetzt und vollendet werden, mit Kupfern, <FORMAT>8.</FORMAT> √† <PRIZE>20 xr.</PRIZE></BIBL> <BIBL><TITLE>Die kl√ºge, vernunft- und schriftm√§√üigel Kinderzucht</TITLE> in <VOLUME>8</VOLUME> erbaulichen Unterredungen, <FORMAT>8.</FORMAT> mit Kpf. √†<PRIZE>120 xr.</PRIZE></BIBL></ITEM>\",\n  \"number_of_fixes\": 4,\n  \"explanation\": \"There were four errors in the XML tags where <PRICE> was used instead of <PRIZE>. These were corrected to ensure proper XML formatting.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 826,
+        "output_tokens": 826,
+        "total_tokens": 1652
+    },
+    "duration": 27.231339693069458,
+    "timestamp": "2025-10-31T11:57:58.218472"
+}

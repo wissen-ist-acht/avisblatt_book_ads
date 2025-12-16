@@ -1,0 +1,13 @@
+{
+    "text": "{\n\"fixed_xml\": \"<ITEM>53. Neu ist erschienen und in der Sam. Flick'schen Buchhandlung zu haben: <BIBL><TITLE>Helvetischer Almanach f√ºr das Jahr 1818</TITLE>, enthaltend die statistische Beschreibung des F√ºrstenthums Neuchatel, mit <FORMAT>Kupf.</FORMAT> und <FORMAT>Karten</FORMAT>. <PRIZE>Preis 4 Fr.</PRIZE></BIBL> <BIBL><TITLE>Essai statistique Sur le canton de Neuchatel</TITLE>, avce <FORMAT>crav.</FORMAT> et <FORMAT>cartes</FORMAT>. <PRICE>Fr. 4.</PRICE></BIBL> <BIBL><TITLE>Deutliche und vollst√§ndige Anweisung, ohne Winkel und Me√üinstrumente, einzelne Grundst√ºcke Íùõc. sowohl, als ganze Feldmarken zu vermessen und zu berechnen; desgleichen Grundst√ºcke zu theilen, H√∂hen auszumessen, und √ºberhaupt alles, was zur gew√∂hnlichen praktischen Feldme√ükunst geh√∂rt, zu verrichten.</TITLE>; <AUTHOR>F. A. Hegenberg</AUTHOR>. <VOLUME>1 Band</VOLUME> in <FORMAT>80.</FORMAT> mit <FORMAT>9 Kupfertafeln</FORMAT>. <PRICE>Fr. 4.</PRICE></BIBL></ITEM>\",\n\"number_of_fixes\": 1,\n\"explanation\": \"The XML tag <PRIZE> was misspelled as <PRICE> in two places. This has been corrected.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 407,
+        "output_tokens": 394,
+        "total_tokens": 801
+    },
+    "duration": 10.583536863327026,
+    "timestamp": "2025-11-05T11:26:00.253238"
+}

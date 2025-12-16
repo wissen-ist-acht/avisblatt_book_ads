@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>70. Das Sam. Flick'sche Gesch√§ftsBureau welches nebst den andern in seinen Gesch√§ftskreis einschlagenden Gegenst√§nden, auch den Ankauf und Verkauf von alten B√ºchern und Bibliotheken √ºbernimmt. sowohl f√ºr eigene Rechnung als Commissionsweise, bietet nachstehende B√ºcher zum Verkauf an, als: <BIBL><AUTHOR>Eberts</AUTHOR> <TITLE>Auszug aus Leonb. Eulers vollst. Algebra, mit Erl√§ut. u. Vermehrungen.</TITLE> √†<PRICE>Th.</PRICE> in <VOLUME>1 Bd.</VOLUME> <FORMAT>gr. 8.</FORMAT> <PLACE>Frankf.</PLACE> <YEAR>789.</YEAR> <PRICE>2 Fr.</PRICE> erglebens <TITLE>Anfangsgr. der Naturlehre.</TITLE> <VOLUME>6te vekm. u. verb. Aufl.</VOLUME> mit <AUTHOR>Zus√§tzen von Lichtenberg</AUTHOR> und mit <FORMAT>Kupfern.</FORMAT> <PLACE>G√∂ttingen</PLACE> <PRICE>15 Btz.</PRICE> <YEAR>794.</YEAR> <FORMAT>Halbfrzbd.</FORMAT></BIBL> <BIBL><AUTHOR>Sigand de la Fond</AUTHOR>, <TITLE>Anweisung zur Experimentalphysik,</TITLE> <VOLUME>2 Thle.</VOLUME> mit <FORMAT>Kpfrn.</FORMAT> aus dem <PRICE>18 Btz.</PRICE> <PLACE>Franz.</PLACE> √ºbers. <FORMAT>8.</FORMAT> <YEAR>785.</YEAR> <FORMAT>Cart.</FORMAT></BIBL> <BIBL><AUTHOR>Picht, Ii G.</AUTHOR>, <TITLE>der Ingenieur im Felde,</TITLE> mit <PRICE>6Btz.</PRICE> <VOLUME>5 Kpfrn.</VOLUME> <FORMAT>8.</FORMAT> <YEAR>761.</YEAR> <FORMAT>Cart.</FORMAT></BIBL> <BIBL><AUTHOR>Voblinhaus, D. A.</AUTHOR> <TITLE>Anweis. zu Felder- und l√§ndertheilungen Íùõc. Íùõc.</TITLE> mit <FORMAT>Kpfrn.</FORMAT> <FORMAT>gr. 8.</FORMAT> <PRICE>8 Btz.</PRICE> <PLACE>Hannover,</PLACE> <YEAR>773.</YEAR></BIBL> <BIBL><AUTHOR>Wild, M. F.</AUTHOR>, <TITLE>Anfangsgr. der Rechenkunft und Geometrie,</TITLE> mit <FORMAT>Kpfrn.</FORMAT> <FORMAT>gr. 8.</FORMAT> <PLACE>Colmar</PLACE> <PRICE>15 Btz.</PRICE> <YEAR>783.</YEAR> <FORMAT>Halbfrzbd.</FORMAT></BIBL> <BIBL><AUTHOR>Wolfs, C. J. Prof. in Wien</AUTHOR>, <TITLE>Handbuch der praktischen Rechenkunst f√ºr alle St√§nde d. b√ºrgerl. Lebens.</TITLE> <FORMAT>gr. 8.</FORMAT> <PLACE>Wien</PLACE> <YEAR>796.</YEAR> <PRICE>C. 15 btz.</PRICE></BIBL></ITEM>\",\n  \"number_of_fixes\": 3,\n  \"explanation\": \"The PRIZE tag was corrected to PRICE in three instances. The XML is now well-formed.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 860,
+        "output_tokens": 837,
+        "total_tokens": 1697
+    },
+    "duration": 27.032852172851562,
+    "timestamp": "2025-11-05T14:36:48.766568"
+}

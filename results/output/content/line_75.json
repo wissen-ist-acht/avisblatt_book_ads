@@ -1,0 +1,5 @@
+{
+    "fixed_xml": "<ITEM>Im Berichthaus ist ein rares Buch, von einer uralten <BIBL><TITLE>Chronick</TITLE> in gro√ü <FORMAT>Folio</FORMAT> mit vielen <FORMAT>Kupfern</FORMAT></BIBL>; wie auch ein anders von der <BIBL><TITLE>R√∂m. Reichs-Ordnung gehaltenen Reichst√§ge</TITLE> samt der <BIBL><TITLE>guldenen B√ºlle</TITLE></BIBL> zu sehen und in billichem Preis zu haben. Auch sind daselbst allerhand Juwelen, Brillant und Rosetten-Ringe, wie auch allerhand Mann- und Weiber-Kleider zu haben.</ITEM>",
+    "number_of_fixes": 1,
+    "explanation": "The XML was mostly correct, but there was a missing opening <BIBL> tag before the <TITLE>guldenen B√ºlle</TITLE> element. This has been fixed in the 'fixed_xml' field."
+}

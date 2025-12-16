@@ -1,0 +1,13 @@
+{
+    "text": "{\n\"fixed_xml\": \"<ITEM>11. Schwarze Dinte, nach einem neuerfundnen Rezept, welche sich sowohl durch wohlfeilen Preis, als auch durch vorz√ºgl. G√ºte bestens empfiehlt; wobey zu bemerken, da√ü sich das Geschriebene zwar anfangs etwas bla√ü zeige, aber nach und nach um so viel schw√§rzer und dauerh√§fter wird. Die Maas f√ºr 16 Btz. Ruch sind in Fl√§schchen Viersels-Schoppen zur Probe √† 1 Btz. zu haben. <BIBL><TITLE>Augnst von Kotzebnte. Sein Leben, Wirken und tragisches Ende- Eine biogr. Skizze</TITLE>, <PRIZE>br. 6 Btz.</PRIZE></BIBL> <BIBL><TITLE>Stunden der Andacht</TITLE>, <VOLUME>ach B√§nde</VOLUME>, vierte verb. sehr wohlfeile Orig. Ausgabe, <FORMAT>gr. 8.</FORMAT> <PLACE>Arau</PLACE>, <YEAR>1819</YEAR> auf ord. Pap. <PRIZE>8 Fr.</PRIZE> und auf weissem Pp. <PRIZE>12 Fr.</PRIZE> In Taschenform√§t auf weissem Pp. <PRIZE>18 Fr.</PRIZE></BIBL> Die ersten 4 Bde. dieser neuen 4ten Ausg. werden bis im Juni, und die letzten 4 Bde. bis im Okt. d. J. fertig. Inzwischemkann auf dieses allgemein beliente Werk f√ºr obige √§usserst niedere Preise Bestellung gemacht werden in der Holdeneeker'schen Leihbibliothek beim Kornhause.</ITEM>\",\n\"number_of_fixes\": 1,\n\"explanation\": \"The XML was mostly well-formed, but there was a closing tag </PRICE> that did not have a corresponding opening tag. This was corrected to <PRIZE> to match the other similar tags in the document. No other errors were found.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 482,
+        "output_tokens": 496,
+        "total_tokens": 978
+    },
+    "duration": 16.419562101364136,
+    "timestamp": "2025-11-05T11:36:22.335521"
+}

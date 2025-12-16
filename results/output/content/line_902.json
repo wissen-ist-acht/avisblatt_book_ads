@@ -1,0 +1,5 @@
+{
+    "fixed_xml": "<ITEM>28. <BIBL><TITLE>Starke's Bibelwerk</TITLE>, <VOLUME>9 Bde.</VOLUME> <PRICE>8 fr.</PRICE></BIBL> <BIBL><AUTHOR>Schmidts</AUTHOR> <TITLE>Geschichte der Deutschen</TITLE>, <VOLUME>12 Thle. 6 Bde.</VOLUME> <PRICE>6 fr.</PRICE></BIBL> <BIBL><AUTHOR>J. J. He√ü</AUTHOR>, <TITLE>christliches Uebungsjahr</TITLE>, <VOLUME>2 Thle.</VOLUME> <PRICE>1 fr. 7. Btz.</PRICE></BIBL> <BIBL><AUTHOR>Hermes</AUTHOR> <TITLE>Passionspredigren</TITLE>, √† <VOLUME>Thle.</VOLUME> <PRICE>1 fr. 6bz.</PRICE></BIBL> <BIBL><TITLE>Sonn- und Festags-Predigten</TITLE>, <VOLUME>2 Thle.</VOLUME> <PRICE>2 fr.</PRICE></BIBL> <BIBL><AUTHOR>Virgilii</AUTHOR> <TITLE>Opera</TITLE>, <PLACE>Biponti</PLACE> <YEAR>1783</YEAR>, <PRICE>2 fr. 2 b2.</PRICE></BIBL> <BIBL><TITLE>Collection complette de tous les ouvrages pour et contre M. Necker</TITLE>, <VOLUME>2tom.</VOLUME> <PRICE>1fr. 5b2.</PRICE></BIBL> Alle sch√∂n und gut gebunden.</ITEM>",
+    "number_of_fixes": 4,
+    "explanation": "The XML was faulty because the closing tags for the 'PRICE' elements were incorrectly written as 'PRIZE'. This was fixed by replacing 'PRIZE' with 'PRICE' in four places."
+}

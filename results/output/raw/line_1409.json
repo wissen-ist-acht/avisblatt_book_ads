@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>In der Buchhandlung von Felix Schne ider, No. 1196 B√§umlein, ist so eben angekommen: <BIBL><TITLE>Der Pietismus und die speculative Theologie.</TITLE> Sendschreiben an Herrn Diakonus Dr. M√§rklin in Calw, von <AUTHOR>Dr. C. G. Barth</AUTHOR>. <PRICE>√† 12 kr.</PRICE></BIBL> An Freunde und Feinde des Pietismus. <BIBL><TITLE>Eine Zugabe zu der Schrift des Herrn Diak. Dr. M√§rklin, Darstellung und Kritit des modernen Pietismust</TITLE> von <AUTHOR>Diak. Palmer</AUTHOR>. <PRICE>√† 24 kr.</PRICE></BIBL> <BIBL><TITLE>Bekenntnisse und Vertheidigung. Erstes und zweites Wort gegen Dr. M√§rklins Schriften:,Darstellung und Kritik des modernen Pietismuse und ,das Ketzergericht des Christenboten,</TITLE> von <AUTHOR>Wilh. Hofacker</AUTHOR>. <PRICE>√† 24 kr.</PRICE></BIBL> <BIBL><TITLE>Hohenst aufen. Ein Cyklus von Liedern u. Gedichten,</TITLE> v. <AUTHOR>Albert Knapp</AUTHOR>. <PRICE>√† fl. 3. 24 kr.</PRICE> Mit <FORMAT>6 Abbildungen</FORMAT>.</BIBL></ITEM>\",\n  \"number_of_fixes\": 1,\n  \"explanation\": \"The 'PRIZE' tag was misspelled as 'PRIZE' in three places and as 'PRIZE' in one place. This was corrected to 'PRICE' in all instances.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 419,
+        "output_tokens": 418,
+        "total_tokens": 837
+    },
+    "duration": 13.809330940246582,
+    "timestamp": "2025-11-06T10:43:43.841683"
+}

@@ -1,0 +1,5 @@
+{
+    "fixed_xml": "<ITEM>15. Bey Hrn. Jakob Bernoulli im Engelhoof, ist wiederum zu haben: <BIBL><TITLE>Wilhelm Tell</TITLE>, gestochen von <AUTHOR>Chodowiecki</AUTHOR>, <PRIZE>fl. 1. kr. 20.</PRIZE></BIBL> <BIBL><TITLE>Die Mausfalle, eine Szene aus dem Hamlet</TITLE>, von <AUTHOR>Berger</AUTHOR>, <PRIZE>fl. 1. kr. 20.</PRIZE></BIBL> Verschiedene andere sehr feine Kupferstiche, von <AUTHOR>Sinzerich</AUTHOR>, wie auch <BIBL><TITLE>Lieder nebst Melodien aufs Clavier</TITLE></BIBL>. Ferner kan auf die Fortsetzung von <BIBL><AUTHOR>Joh. Bernoullis</AUTHOR> <TITLE>Samlung kurzer Reisebeschreibungen</TITLE>, <YEAR>1783</YEAR>, mit einem <PRIZE>Dukaten</PRIZE></BIBL>, und auf eine <BIBL><TITLE>Beschreibung vom F√ºrstenthum Neuenburg und Vallangin</TITLE>, wovon ein Prospectus gratis zu haben ist, mit <PRIZE>fl. 1. kr. 20.</PRIZE> pr√§numeriert werden.</ITEM>",
+    "number_of_fixes": 1,
+    "explanation": "The tag <BIBL> was missing before the title 'Lieder nebst Melodien aufs Clavier'. This tag was added to maintain consistency with the rest of the XML."
+}

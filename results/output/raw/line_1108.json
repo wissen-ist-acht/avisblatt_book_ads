@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>13. Neueste Unterhaltungsb√ºcher Íùõc. <BIBL><TITLE>Hautsche Romanen Bibliothek f√ºr gebildete Leser</TITLE>. Herausgeg. v. <AUTHOR>H. Clauren, G Schilling. Johanna Schopenhauer, van der Velde u. A.</AUTHOR> Erster bis <VOLUME>12r Band</VOLUME>. <YEAR>1826</YEAR>. (Wird fortgesetzt.)</BIBL> <BIBL><AUTHOR>Malter Scotts</AUTHOR> <TITLE>Werke</TITLE>. Aus dem Engl. Erster bis <VOLUME>18ter Band</VOLUME>. Auf milchweissem Pap. mit deutschen Lettern sch√∂n gedruckt. Diese 18 B√§nde enthalten: <TITLE>Kenilworth</TITLE>, <VOLUME>3 Thle</VOLUME>. <TITLE>Nigels Schicksale</TITLE>, <VOLUME>3 Th.</VOLUME> <TITLE>Peveril v. Gipfel</TITLE>, <VOLUME>3 Thle</VOLUME>. <TITLE>Der Alterth√ºmler</TITLE>, <VOLUME>3 Thl.</VOLUME> <TITLE>Der Pirat</TITLE>, <VOLUME>3 Thl.</VOLUME> <TITLE>Waverley</TITLE>, <VOLUME>3 Thl.</VOLUME> Diese Romane sind mit Auswahl pr. Theil √† <PRIZE>15 Btz.</PRIZE> oder pr. Subscription f√ºr diese u. alle nachfolgenden Theile, √† <PRIZE>12 Btz.</PRIZE> zu haben.</BIBL> <BIBL><AUTHOR>Fschokkes</AUTHOR> <TITLE>ausgew√§hlte Schriften</TITLE>. Erster bis <VOLUME>4ter Theil</VOLUME>. <PRICE>3 Fr.</PRICE></BIBL> NB. Sowohl obige, als auch eine andre gro√üe Auswahl d. interessantesten Unterhaltungs- B√ºcher Íùõc. welche seit mehrern Jahren bis dato erschienen sind, werden auch ausgeliehen in der Holdenecker'schen Leibbibliothek beym Kornhause.</ITEM>\",\n  \"number_of_fixes\": 1,\n  \"explanation\": \"There was a duplicate <PRICE> tag which was removed.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 583,
+        "output_tokens": 561,
+        "total_tokens": 1144
+    },
+    "duration": 20.12474012374878,
+    "timestamp": "2025-11-05T14:44:33.117691"
+}

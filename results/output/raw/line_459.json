@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>27. Bey Hrn. Buchbinder Scholer auf der Rheinbruck ist zu haben: <BIBL><AUTHOR>Brastenbergers</AUTHOR> <TITLE>evangelisches Zeugnu√ü der Wahrheit, inf einem vollst√§ndigen Predigt-Jahrgang</TITLE>, gebunden √† <PRICE>24 Btz.</PRICE></BIBL> Ein <BIBL><TITLE>Band von Insekten, und Blumen</TITLE>, sauber gestochen.</BIBL> <BIBL><TITLE>Der lustige Schweizer</TITLE>, enthaltend nebst dem alten und neuen Kalender auf das Jahr <YEAR>1791</YEAR> Beschreibung nebst Abbildung der vornehmsten t√ºrkischen Gebr√§uchen, als: der Divan; die Art, wie den Janitscharen der Sold ausbezahlt wird: ein Harem; eine t√ºrkische Hochzeit; ein t√ºrkisches Begr√§bni√ü; Lauvons Bildnu√ü nebstl seiner k√ºrzen Lebensbeschreibung; Vorstellung der Kaiserkr√∂nung mit gr√ºndlicher Beschreibung der Wahl und Kr√∂nung; allerley lustige Geschichten, Erz√§hlungen; R√§thsel; Verzeichni√ü aller Monarchen und vornehmsten F√ºrsten Íùõc. √† <PRICE>8 kr.</PRICE></BIBL></ITEM>\",\n  \"number_of_fixes\": 1,\n  \"explanation\": \"The XML tag <PRIZE> was incorrect and has been replaced with the correct tag <PRICE>.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 421,
+        "output_tokens": 403,
+        "total_tokens": 824
+    },
+    "duration": 14.155546188354492,
+    "timestamp": "2025-11-03T09:47:39.679629"
+}

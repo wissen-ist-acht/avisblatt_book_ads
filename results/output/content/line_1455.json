@@ -1,0 +1,5 @@
+{
+    "fixed_xml": "<ITEM><BIBL><TITLE>Histoire g√©n√©rale des voyages ou collection de toutes les relations de vovages par mer et par terre</TITLE><VOLUME>64 Franzb√§nde</VOLUME> mit geographischen Karten und Kupfern. Ausgabe in <FORMAT>8</FORMAT>. <PLACE>Paris</PLACE>. <AUTHOR>Didot</AUTHOR> <YEAR>1746</YEAR>. Mangel Platzes um den niedrigen Preis von <PRICE>Fr. 21</PRICE>. Ein Musterband ist im Berichthaus einzusehen.</BIBL></ITEM>",
+    "number_of_fixes": 1,
+    "explanation": "The tag <PRIZE> was incorrect. It was replaced with the correct tag <PRICE>."
+}

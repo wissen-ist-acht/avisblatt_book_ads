@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>In der Deckerischen Buchhandlung all hier ist zu haben: <BIBL><TITLE>Auszug aus dem Protokoll der National-Versammlung vom 5ten und 10ten Augst 1789 f√ºr die Wi-derherstellung der √∂ffentlichen Ruhe</TITLE>, <FORMAT>8.</FORMAT> <PRICE>4 kr</PRICE></BIBL> Ferner: <BIBL><TITLE>Auszug aus dem Protokoll den National Versammlung: Artickel, welch in den unterm 4ten, 6 7. 8 und 111 Sitzungen festgesetzt, schriftlich verfa√üt und verordnet worden sind</TITLE>, <FORMAT>8.</FORMAT> <PRICE>6 kr.</PRICE> in fran;. und deutscher Sprache.</BIBL></ITEM>\",\n  \"number_of_fixes\": 1,\n  \"explanation\": \"The <PRIZE> tag was incorrect. It was replaced with the correct <PRICE> tag.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 255,
+        "output_tokens": 239,
+        "total_tokens": 494
+    },
+    "duration": 5.581718921661377,
+    "timestamp": "2025-11-02T20:49:58.787820"
+}

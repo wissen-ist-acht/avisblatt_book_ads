@@ -1,0 +1,13 @@
+{
+    "text": "{\n\"fixed_xml\": \"<ITEM>In J. Scheibles Buchhandlung in Stuttgart erschien so eben und kann durch alle Buchhandlungen bezogen werden, <BIBL><TITLE>Schw√§nkte des Hebel'schen Rheinl√§ndisehen Hausfreundes</TITLE> (18o81831) mit allen spa√ühaften Geschichten vom Zundeltrieder, rothen Dieter und Heiner. In <VOLUME>zwei Theilen</VOLUME>. S. Mit <FORMAT>120 Abbildungen</FORMAT>. <FORMAT>Broschirt</FORMAT>. Preis eines Theiles <PRICE>1 fl. 12 kr. rhein.</PRICE> oder <PRICE>18 ggr. s√§chs.</PRICE></BIBL></ITEM>\",\n\"number_of_fixes\": 1,\n\"explanation\": \"The tag <PRIZE> was incorrect and has been replaced with the correct tag <PRICE>.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 229,
+        "output_tokens": 210,
+        "total_tokens": 439
+    },
+    "duration": 9.688378810882568,
+    "timestamp": "2025-11-06T10:45:44.114682"
+}

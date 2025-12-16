@@ -1,0 +1,5 @@
+{
+    "fixed_xml": "<ITEM>Bei Tschopp und Comp. in Basel ist zu haben: <BIBL><TITLE>Buchstabenglaube, Weltvergstkerung, Denkgl√§ubigkeit.</TITLE> F√ºr Christen aller St√§nde, welche √ºber ihren Glauben mit sich selbst und mit ihrer Zeit ins Reine zu kommen w√ºnschen, in ihren gegenseitigen Verh√§ltnissen √ºbersichtlich dargestellt von <AUTHOR>No. 56.</AUTHOR> <PRICE>Preis 18 1/2 Batzen.</PRICE></BIBL> (G√ºnstige Beurtheilungen in der Hall. allg. Lit. Ztg. und in R√∂hrs Predigerbibliothek empfehlen diese Schrift unbedingt und was von einer sogenannten Kritit derselben in der Berliner literarischen Zeitung 1843 No. 4 zu halten ist, wird Vorurtheilsfreien anheim gestellt.</ITEM>",
+    "number_of_fixes": 1,
+    "explanation": "The tag <PRIZE> was corrected to <PRICE> to match the closing tag </PRICE>."
+}

@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>Bey Hrn. Buchbinder Scholer auf der Rheinbruck ist zu haben: <BIBL><TITLE>Eine Foliobibel</TITLE> mit grobem Druck, in Schweinleder, wohl beschlagen, <PRIZE>fl. 8.</PRIZE></BIBL> Eine dito <BIBL><TITLE>mit illuminirten Holzschnitten</TITLE>, <PRIZE>fl. 8.</PRIZE></BIBL> Eine dito <BIBL><FORMAT>in 4o</FORMAT> <TITLE>mit sch√∂nen Kupfern</TITLE>, <PRIZE>fl. 3.</PRIZE></BIBL> <BIBL><TITLE>Ein Atlas</TITLE> von <VOLUME>24 Landcharten, das K√∂nigreich ngarn und angr√§nzende Orte</VOLUME>, sauber gestochen, von <AUTHOR>Andr. Pfeffel</AUTHOR>, <PRIZE>fl. 3.</PRIZE></BIBL> <BIBL><AUTHOR>Eman. K√∂nig M. D.</AUTHOR> <TITLE>Regnum vegetabile</TITLE></BIBL> <BIBL><AUTHOR>W√ºrzens</AUTHOR> <TITLE>Wechsel-Arbitragen</TITLE></BIBL></ITEM>\",\n  \"number_of_fixes\": 1,\n  \"explanation\": \"The 'VOLUME' tag was not closed. It has been closed now.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 368,
+        "output_tokens": 352,
+        "total_tokens": 720
+    },
+    "duration": 9.219488143920898,
+    "timestamp": "2025-11-03T09:52:53.971323"
+}

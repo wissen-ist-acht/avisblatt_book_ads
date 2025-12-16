@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>7. Bey Wilhelm Haas auf dem Leonhardsgraben sind zu haben: <BIBL><AUTHOR>J. Isler</AUTHOR> <TITLE>Nouvelle M√©thode Suisse pour tenir les Livres en partie double</TITLE>, in <FORMAT>gro√ü 4to</FORMAT>, wei√ü Papier, broch√© √† <PRICE>Fr. 8 Suisse</PRICE></BIBL>. <BIBL><TITLE>Haushaltungs-Journal</TITLE> in <FORMAT>4to</FORMAT>, deutsch oder franz√∂sisch, √† <PRICE>Btz. 8</PRICE></BIBL>. <BIBL><TITLE>Haushaltungs-Manual</TITLE> in <FORMAT>4to</FORMAT>, deutsch oder franz√∂sisch, √† <PRICE>Btz. 16</PRICE></BIBL>. <BIBL><TITLE>Deutsch und franz√∂sische in Kupfer gestochene Wechselbriefe und Assignationen</TITLE>, auf extra fein Postpapier, le <PRICE>%√† Btz. 20</PRICE></BIBL>. <BIBL><TITLE>Deutsch und franz√∂sische Waaren-Cours</TITLE>, auf extra fein Postpapier, le <PRICE>¬æ√† Btz. 20</PRICE></BIBL>. <BIBL><TITLE>Franz√∂sische Wechsel-Cours</TITLE> auf extra fein Postpapier, le <PRICE>¬æ√† Btz. 10</PRICE></BIBL>. <BIBL><TITLE>Deusch und franz√∂sische Frachtbriefe</TITLE> in <FORMAT>4to</FORMAT> und <FORMAT>8.</FORMAT>, auf gut Schreibpapier, das Buch √† <PRICE>Btz. 6</PRICE></BIBL>. <BIBL><TITLE>Roth linirte Schreibb√ºchlein</TITLE> in <FORMAT>8.</FORMAT>, √† <PRICE>Btz. 3</PRICE> und √† <PRICE>Btz. 4</PRICE></BIBL></ITEM>\",\n  \"number_of_fixes\": 7,\n  \"explanation\": \"The xml tag <PRIZE> was incorrectly used instead of <PRICE>. The tag was fixed in 7 places.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 583,
+        "output_tokens": 561,
+        "total_tokens": 1144
+    },
+    "duration": 28.520591020584106,
+    "timestamp": "2025-11-05T10:24:00.670422"
+}

@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>529. In der Schweighauser'schen Buchhandlung ist zu haben: <BIBL><TITLE>Verzeiehniss der Leh√∂rden und Beamten des Kantons Basel-Stadttheil, so wie der eidgen√∂ssischen Bundes-Beh√∂rden auf das Jahr 18 3.</TITLE> <FORMAT>(Regimentsb√ºchlein.)</FORMAT> <PRICE>Preis: brosch. 7 1/2 Btz., mit Schreibpapier durchschossen 10 Btz.</PRICE></BIBL></ITEM>\",\n  \"number_of_fixes\": 1,\n  \"explanation\": \"There was a typo in one of the XML tags. The tag <PRIZE> was corrected to <PRICE>.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 195,
+        "output_tokens": 185,
+        "total_tokens": 380
+    },
+    "duration": 6.454667091369629,
+    "timestamp": "2025-11-06T11:08:00.438147"
+}

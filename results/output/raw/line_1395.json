@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>Bei J. Holdenecker auf dem Rornhausplatz sind folgende neue B√ºcher und Kunstsachen zu haben, welche sich vorz√ºglich zu Neujahrs-Geschenken eignen: <BIBL><TITLE>Archiv f√ºr Natur, Kunst, Wissenschaft und Leben</TITLE>, der Jahrgang mit <VOLUME>150 Abbildungen</VOLUME>, eleg. brosch. in <FORMAT>4.</FORMAT> <PRICE>2 fl. 42kr.</PRICE></BIBL> <BIBL><TITLE>Buch, das, der Tugenden. Historische Gallerie edler Thaten und Handlungen</TITLE>, <VOLUME>2 B√§nde</VOLUME> mit <VOLUME>40 Abbildungen</VOLUME>, <PRICE>4 fl. 30 kr.</PRICE></BIBL> <BIBL><TITLE>Buch, das, der M√§hrchen f√ºr Kindheit und Jugend</TITLE>, von <AUTHOR>J. A. C. L√∂hr</AUTHOR>, mit <VOLUME>23 pr√§chtigen Kupferstichen</VOLUME> von <AUTHOR>Ramberg</AUTHOR> <PRICE>8 fl.</PRICE> in <FORMAT>gr. 8.</FORMAT></BIBL> <BIBL><TITLE>Carlsruher-Unterhaltungsblatt</TITLE>. Ein f√ºr alle St√§nde interessantes und belehrendes Bilderwerk, mit <VOLUME>52 Tafeln-Abbil-</VOLUME> <PRICE>5 fl. 12 kr.</PRICE></BIBL> <BIBL><AUTHOR>D√∂rings</AUTHOR> <TITLE>Quelle n√ºtzlicher Besch√§ftigungen zum Vergn√ºgen der Jugend</TITLE>, mit <VOLUME>52 Tafeln-Abbildungen</VOLUME> zum ausschneiden, <PRICE>5 fl. 30 kr.</PRICE></BIBL> <BIBL><TITLE>Erheiterungen</TITLE>. Eine Auswahl des Merkw√ºrdigsten und Interessantesten aus der belletristischen Literatur. <VOLUME>Jahrgang</VOLUME> <PRICE>6 fl. 24 kr.</PRICE></BIBL> <BIBL><TITLE>Englische Robinson Crusoe, der, seine Seefahrten, Schiffbeuch und 28j√§hriger Aufenthalt auf einer unbewohnten In-</TITLE> <PRICE>4 fl. 48 kr.</PRICE> Mit <VOLUME>50 sch√∂nen Kupfern</VOLUME>, geb.</BIBL> <BIBL><TITLE>Festkalender in Bildern und Liedern, geistlich und weltlich</TITLE>, von <AUTHOR>Pocei</AUTHOR> und <AUTHOR>G√∂rres</AUTHOR>, <VOLUME>2 Bde.</VOLUME> in <FORMAT>4</FORMAT> mit <VOLUME>80 Tafeln-Abbildun-</VOLUME> <PRICE>3 fl.</PRICE></BIBL> <BIBL><TITLE>Haus- Wand- Schreib- und Taschenkalender auf das Jahr 1838</TITLE>, mit schwarzen und illum. Kupfern, in niedlichen Einb√§nden von <PRICE>10 kr.</PRICE> bis <PRICE>1 fl.</PRICE></BIBL></ITEM>\",\n  \"number_of_fixes\": 3,\n  \"explanation\": \"The XML tag <PRIZE> was corrected to <PRICE> in three places.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 857,
+        "output_tokens": 828,
+        "total_tokens": 1685
+    },
+    "duration": 22.663172960281372,
+    "timestamp": "2025-11-06T10:39:15.948948"
+}

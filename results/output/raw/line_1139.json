@@ -1,0 +1,13 @@
+{
+    "text": "{\n\"fixed_xml\": \"<ITEM>16. <BIBL><TITLE>Unsere Zeit.</TITLE> 4tes <VOLUME>B√§ndchen</VOLUME>, mit dem Portrait des Herzogs von Orleans, <FORMAT>brosch.</FORMAT> <PRIZE>15 kr.</PRIZE></BIBL> Die n√§chste Brosch√ºre enth√§lt, als 2tes ausserordentliches Heft: <BIBL><TITLE>Die Jesuiten in ihrer wahren Gestalt.</TITLE> od. ihre Enistehung, Verbreitung u. Vertreibung aus allen L√§ndern; ihre Vernichtung durch Clemens Klv, dessen Vergiftung u. Tod; die Verh√∂re des letzten Jesniten-Generals in der Engelsburg; dessen Testament; die Wiederherstellung des Ordens; dessen neuestes, gesetzwidriges Einschleichen in verschiedene Staaten; Hrn. v. Montlosier's Denkschrift Íùõc., dessen f√∂rmliche Ankl√§ge gegen das gesetzwidrige Einnisten dieser Fuchsw√∂lfe, u. ihrer Congregationen in Fr√§nkreich.<TITLE> Das Titelkupfer dieses Hefts wird ihre Vernichtung durch Clemens Kl V. darstellen.</TITLE></BIBL> Die <PRIZE>Subscription √† 15 kr. pr. B√§ndchen</PRIZE>, bleibt nur noch bis Ende d. M. offen. Man kann hierf√ºr subscr. in der Holdenecker'schen Leihbibliothek beym Kornhause.</ITEM>\",\n\"number_of_fixes\": 1,\n\"explanation\": \"There was a missing opening <TITLE> tag before 'Das Titelkupfer dieses Hefts wird ihre Vernichtung durch Clemens Kl V. darstellen.' in the second BIBL element. This was the only fix needed.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 437,
+        "output_tokens": 452,
+        "total_tokens": 889
+    },
+    "duration": 17.91646695137024,
+    "timestamp": "2025-11-05T15:00:39.580960"
+}

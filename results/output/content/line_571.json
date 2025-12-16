@@ -1,0 +1,5 @@
+{
+    "fixed_xml": "<ITEM>In Emanuel Thurneysens Buchhandlung ist zu haben: <BIBL><AUTHOR>Oberth√ºr</AUTHOR> <TITLE>Taschenbuch f√ºr die Geschichte, Topographie und Statistik Frankenlands, besonders dessen H√§uptstadt W√ºrzburg</TITLE>. <FORMAT>8.</FORMAT> <YEAR>795</YEAR>. <PRICE>fl. 1. 12 kr.</PRICE></BIBL> <BIBL><TITLE>Nouvelle grammaire allemande m√©thodique & raisonn√©e, compof√©e sur le model des meilleurs auteurs de nos jours & principalement d'apres Junlter & Gotsched</TITLE>, avec un petit <TITLE>dictionnaire francois-allemand</TITLE>. <FORMAT>8.</FORMAT> <YEAR>795</YEAR>. <PRICE>J. 1. 20 xr.</PRICE></BIBL> <BIBL><AUTHOR>Sonnenfels</AUTHOR> <TITLE>Grunds√§tze der Polizey, Handlung und Finanz</TITLE>. <VOLUME>2 Thle.</VOLUME> <FORMAT>8.</FORMAT> <PRICE>fl. 3. 15 kr.</PRICE></BIBL> <BIBL><TITLE>Unterricht √ºber die Viehseuche, und wie ihr am kr√§ftigsten zu wehren sey</TITLE>. <FORMAT>8.</FORMAT> <YEAR>795</YEAR> <PRICE>15 kr.</PRICE></BIBL></ITEM>",
+    "number_of_fixes": 4,
+    "explanation": "The XML tags <PRIZE> were incorrect. They have been replaced with the correct tag <PRICE>."
+}

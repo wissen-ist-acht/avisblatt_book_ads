@@ -1,0 +1,13 @@
+{
+    "text": "{\n\"fixed_xml\": \"<ITEM>Wohlfeile B√ºcher. Im S. Flick'schen Gesch√§fts-Bureau werden nachstehende B√ºcher, welche von der im December veranstalteten Steigerung √ºbrig geblieben sind, unter dem Anschlagpreis weggegeben: <BIBL><TITLE>Encyclop√©die ou Dict. universel raisonn√© des connaissances humaines</TITLE>, tom. 1-42. (√†-4) avec 6 vol. de suppl. 10 vol. des planches et 2 vol. table des mati√®res, en tout 60 vol. <FORMAT>4¬∞.</FORMAT> <PLACE>Tverdun</PLACE>. Cartonn√©s. statt <PRIZE>60 Fr.</PRIZE> √† <PRIZE>48 Schwfr.</PRIZE></BIBL> <BIBL><TITLE>Oeuvres de J. J. Rousseau</TITLE>. <VOLUME>33 vol.</VOLUME> gr. in <FORMAT>8¬∞.</FORMAT> Edit. de <PLACE>Gen√®ve</PLACE>, br. et cart. statt <PRIZE>30 Fr.</PRIZE> √† <PRICE>24 Fr.</PRICE></BIBL> <BIBL><TITLE>Deuvres de Fr√©deric H</TITLE>. <VOLUME>16 vol.</VOLUME> gr. <FORMAT>8.8¬∞.</FORMAT> Halbfranzb. √† <PRIZE>Fr. 5.</PRIZE></BIBL> <BIBL><AUTHOR>Girtanners</AUTHOR> <TITLE>histor. Nachrichten u. polit. Betrachtungen √ºber d. franz√∂s. Revolntion</TITLE>, mit d. Forts. von <AUTHOR>F. Buchholz</AUTHOR>. <VOLUME>17 Bde.</VOLUME> gr. <FORMAT>8.¬∞.</FORMAT> <PLACE>Berlin</PLACE>. Halbfrzbd. √† <PRIZE>10 Fr.</PRIZE></BIBL> <BIBL><TITLE>The European Magazine and London Rev</TITLE>. Rc. von <YEAR>1786-1790</YEAR>. <VOLUME>10 Bde.</VOLUME> mit vielen Kupfern. Die ersten 5 Bde. in R. 1. E. Leder, die √ºbrigen brosch. √† <PRIZE>5 Fr.</PRIZE></BIBL></ITEM>\",\n\"number_of_fixes\": 1,\n\"explanation\": \"The last PRIZE tag was incorrectly closed with a PRICE tag. It was fixed to correctly close with a PRIZE tag.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 636,
+        "output_tokens": 626,
+        "total_tokens": 1262
+    },
+    "duration": 20.729786157608032,
+    "timestamp": "2025-11-05T16:17:52.446563"
+}

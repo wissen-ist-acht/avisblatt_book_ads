@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>(1512.) In Bahnmaier's Buchhandlung ist in Commission erschienen: <BIBL><TITLE>Die Sonntagsfeier und das Theater.</TITLE> Den Mitgliedern des Gro√üen Raths gewidmet und seinen Mitb√ºrgern vorgelegt. Von einem <AUTHOR>Basler</AUTHOR>. <PRICE>1/2 Btz.</PRICE></BIBL></ITEM>\",\n  \"number_of_fixes\": 1,\n  \"explanation\": \"The xml tag <PRIZE> was incorrect. It was replaced with the correct tag <PRICE>.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 155,
+        "output_tokens": 142,
+        "total_tokens": 297
+    },
+    "duration": 4.9830451011657715,
+    "timestamp": "2025-11-06T11:07:53.980356"
+}

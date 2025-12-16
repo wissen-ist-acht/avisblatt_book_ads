@@ -1,0 +1,5 @@
+{
+    "fixed_xml": "<ITEM>La Mis√®ricorde de Dieu manisest√©e en J√©sus-Christ, trad. de l'angl. p. Mde E. Falle. <BIBL><TITLE>La Mis√®ricorde de Dieu manisest√©e en J√©sus-Christ</TITLE>, trad. de l'angl. p. <AUTHOR>Mde E. Falle</AUTHOR>. <FORMAT>8.</FORMAT> <PRIZE>9 Btz.</PRIZE></BIBL> <BIBL><TITLE>Le Bon Berger J√©sus-Christ</TITLE>. All√©gorie. <FORMAT>8</FORMAT> <PRIZE>1 Btz.</PRIZE></BIBL> <BIBL><AUTHOR>Alb. von Haller</AUTHOR>, <TITLE>Versuch schweizerischer Gedichte</TITLE>, <VOLUME>12te</VOLUME> viel verm. u. verb. Ausgabe, besorgt von <AUTHOR>J. R. Wy√ü</AUTHOR>. Mit der Lebensbeschr. des Verfassers. <FORMAT>gr. 8.</FORMAT> <PLACE>Bern</PLACE>, brosch. <PRIZE>fl 2.</PRIZE></BIBL> <BIBL><TITLE>Versuch schweizerischer Gedichte</TITLE>, mit vielen gestochenen Vignetten u. einem facsimile. <PRIZE>fl 3.</PRIZE></BIBL></ITEM>",
+    "number_of_fixes": 1,
+    "explanation": "The closing tag for PRIZE in the last BIBL block was incorrectly written as PRICE. It has been corrected to PRIZE."
+}

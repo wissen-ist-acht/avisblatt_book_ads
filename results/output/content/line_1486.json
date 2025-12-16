@@ -1,0 +1,5 @@
+{
+    "fixed_xml": "<ITEM>(2121.) Im Verlag von J. F. Steinkopf in Stuttgart ist erschienen und in Bahnmaier's Buchhandlung (C. Detloff) vorr√§thig: <BIBL><TITLE>Das Bild einer treuen Christin. Z√ºge aus dem Leben der Frau Touise Mlundg, zu Chinsurah in Ostindien.</TITLE> Mit einem Vorwort von <AUTHOR>Ma rtha Weit br ech t</AUTHOR> Gattin des Missionars Weitbrecht in Burdwan. <PRICE>Preis: 4 Btz.</PRICE></BIBL></ITEM>",
+    "number_of_fixes": 1,
+    "explanation": "The 'PRICE' tag was incorrectly spelled as 'PRIZE'. This has been corrected to 'PRICE'."
+}

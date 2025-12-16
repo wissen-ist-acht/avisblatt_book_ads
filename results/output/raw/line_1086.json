@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>In der Kunsthandlung Birmann u. S√∂hne ist so eben angelangt: <BIBL><TITLE>Das M√ºnster zu Basel</TITLE>, lith. von <AUTHOR>D. Quaglig</AUTHOR>, gro√ü fol. <PRIZE>2Zu. 18 1/21. √† 8 Fr.</PRIZE></BIBL> Mehrere musterhaft lithogr. Schrift-Titel von <AUTHOR>Mettenleiter</AUTHOR>. <BIBL>Ein neues Heft <TITLE>Aufangsgr√ºnde zum Landschaftzeichnen in Studien u. d. Natur</TITLE>, in Kupfer ge√§tzt von <AUTHOR>Weibe</AUTHOR> l. <VOLUME>20 Bl.</VOLUME> g. fol. <PRIZE>8 Fr.</PRIZE></BIBL> <BIBL><TITLE>Portrait von A. D√ºrer</TITLE> nach dessen eignem Gem√§ld gestochen von <AUTHOR>Forster</AUTHOR> in <PLACE>Paris</PLACE>. gro√ü <FORMAT>46.</FORMAT> <PRIZE>12 Fr.</PRIZE></BIBL> Von den lithogr., <BIBL><TITLE>Lettres sur la Suisse</TITLE> <VOLUME>66.</VOLUME> <AUTHOR>Engelmann</AUTHOR> in <PLACE>M√ºlhausen</PLACE>) sind bereits <VOLUME>3 Cahiers</VOLUME> esschienen, jedes mit <VOLUME>4 Aussich ten</VOLUME>, die sehr geistreich ausgef√ºhrt sind, g. f. mit Textb √† <PRIZE>8 Fr.</PRIZE> und auf chines. Papier- √† <PRIZE>10 Frs. de France</PRIZE></BIBL>. Auch sind wir frischerdings mit dem oft begehrten <TITLE>Carton Brislol</TITLE>, f√ºr Portraits sehr dienlich, und andern franz√∂s. superf. Zeichnungs-Papieren versehen.</ITEM>\",\n  \"number_of_fixes\": 1,\n  \"explanation\": \"The closing tag for PRIZE was misspelled as PRICE at the end of the XML. It was corrected to PRIZE.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 545,
+        "output_tokens": 539,
+        "total_tokens": 1084
+    },
+    "duration": 17.596195936203003,
+    "timestamp": "2025-11-05T14:34:56.492643"
+}

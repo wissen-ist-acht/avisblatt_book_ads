@@ -1,0 +1,5 @@
+{
+    "fixed_xml": "<ITEM>47. Bey Hrn. Daniel Haag, des Buchbinders sel. Wittib bey dem Aeschemerthurm, ist in Commi√üion zu haben: <BIBL><TITLE>Einweihungspredigt in dem neuerbauten B√§tthaus zu Oberseebach, mit beygef√ºgter Nachricht, diese diese reformierte Gemeinde betreffend</TITLE>, gebunden √† <PRIZE>3 bz.</PRIZE></BIBL> und <BIBL><TITLE>mit Verordnung des K√∂nigl. franz√∂s. Staatsraths, betreffend die Erlanbni√ü, f√ºr die protestantischen Gemeinde zu Oberseebach und Schleithal im Elsa√ü, √∂ffentlichen Gottesdienst und Schulen, nach der reformierten Lehre, zu halten</TITLE>, √† <PRIZE>5 b3.</PRIZE></BIBL></ITEM>",
+    "number_of_fixes": 1,
+    "explanation": "The second <BIBL> tag was missing a <TITLE> start tag before the title of the book. This was added to correct the XML structure."
+}

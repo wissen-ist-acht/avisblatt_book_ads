@@ -1,0 +1,5 @@
+{
+    "fixed_xml": "<ITEM>Bei Orell, F√º√üli und Comp. in Z√ºrich erscheint so eben und ist durch die Schweighauser'sche Buchhandlung zu beziehen: <BIBL><AUTHOR>Jsohann von M√ºller's</AUTHOR> <TITLE>R. Glutz-Blotzheim's und J. J. Hottinger's Geschichte schweizerischer Eidgenossenschaft</TITLE> fortgesetzt von <AUTHOR>L. Vulliemin</AUTHOR>. Mit einem Vorwort von <AUTHOR>J. J. Hottinger</AUTHOR>. <VOLUME>Achter Band</VOLUME>. Auch unter dem besondern Titel: <TITLE>Geschichte der Eidgenossen w√§hrend des 16ten und 17ten Jahrhunderts</TITLE> von <AUTHOR>L. Vulliemin</AUTHOR>. <VOLUME>Erster Band</VOLUME>. <FORMAT>gr. 8</FORMAT>. <PRICE>Preis 45 Btz</PRICE></BIBL></ITEM>",
+    "number_of_fixes": 1,
+    "explanation": "The tag <PRIZE> was incorrect and has been replaced with the correct tag <PRICE>."
+}

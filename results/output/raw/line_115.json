@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>12. Die nun verbesserte Uebersetzung der Psalmen Davids samt einem doppelten Anhange vo Fest-Nachtmahls-Katechismus- und ander Liedern von Hrn. J. J. Sprengen, der Dicht kunst und griechischen Sprache hiesigem Professore, ist bey Herrn Notario und Gerichts herin von Mechel in folgendem Preise zu ha hen, nemlich: <BIBL><TITLE>Die nun verbesserte Uebersetzung der Psalmen Davids samt einem doppelten Anhange vo Fest-Nachtmahls-Katechismus- und ander Liedern</TITLE> von <AUTHOR>Hrn. J. J. Sprengen</AUTHOR>, der Dicht kunst und griechischen Sprache hiesigem Professore</BIBL>, ist bey Herrn Notario und Gerichts herin von Mechel in folgendem Preise zu ha hen, nemlich: <BIBL>Ein zweystimmiges <TITLE>Psalmen- und Gesangbuch</TITLE> auf <FORMAT>Postpapier</FORMAT> um <PRICE>25 gute Batzen</PRICE></BIBL>; <BIBL>desgleichen auf <FORMAT>gemein wei√ü Papier</FORMAT>, um <PRICE>14 Batzen</PRICE></BIBL>; <BIBL>desgleichen auf <FORMAT>Druckpapier</FORMAT>, um <PRICE>12 Batzen</PRICE></BIBL>. <BIBL>Ferners ein einstimmiges <TITLE>Psalmen- und Gesangbuch f√ºr das Frauenzimmer</TITLE>, mit <FORMAT>kleinen Schrift</FORMAT>, auf <FORMAT>Postpapier</FORMAT> um <PRICE>20 gute Batzen</PRICE></BIBL>. <BIBL>Desgl. auf <FORMAT>gemein wei√ü Papier</FORMAT> um <PRICE>12 Btz.</PRICE></BIBL> <BIBL>Auf <FORMAT>Druckpapier</FORMAT>, um <PRICE>10 Batzen</PRICE></BIBL>. Diejenigen G√∂nner aber, weche durch ihre Unterschriften die Gemeinmachung dieses Werkes bef√∂rdert haben, k√∂nnen ihre bestellten Eremplarien um den besondern Ihnen bestimmten Preis abholen lassen, wogegen man erwartet, da√ü bedingtermassen die Bezahlung in franz√∂sischem Gelde, den Neuen Thaler zu 36. Batzen gerechnet, geleistet werde; wobey der Herausgeber nicht ungemeldet lassen soll, da√ü er √ºber hundert Lieder, worunter 47 Katechismuslie. der begriffen seyn, mehr lifere, als er sich an heischig gemacht hatte. <BIBL>Und das zu diesem Psalmenwerk geh√∂rige <TITLE>Kupferstuck</TITLE> um <PRICE>6 xr.</PRICE></BIBL></ITEM>\",\n  \"number_of_fixes\": 7,\n  \"explanation\": \"The XML was not well-formed. The 'PRIZE' tags were replaced with the correct 'PRICE' tags.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 776,
+        "output_tokens": 753,
+        "total_tokens": 1529
+    },
+    "duration": 28.772831916809082,
+    "timestamp": "2025-10-31T11:57:07.635686"
+}

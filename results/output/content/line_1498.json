@@ -1,0 +1,5 @@
+{
+    "fixed_xml": "<ITEM>Bei Tschopp und Comp. in Basel ist zu haben: <BIBL><TITLE>Die zweite Auflage Ceder radikalen Heilung der Muttermale, Sommerflecken, des Kupferhandels, der Finnen, Mitesser und Leberflecken</TITLE>. Von dem praktischen Arzt und Hofrath <AUTHOR>Berg</AUTHOR>. <PRICE>Preis 13 1/2 Batzen</PRICE></BIBL></ITEM>",
+    "number_of_fixes": 1,
+    "explanation": "The tag <PRIZE> was incorrect. It was replaced with the correct tag <PRICE>."
+}

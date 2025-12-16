@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>4. Bey Em. Thurneisen, Buchh√§ndler an der Freyenstra√üe, ist zu haben: <BIBL><AUTHOR>Knecht</AUTHOR>, <TITLE>kleine und leichte Uebungsst√ºcke im Klavierspielen</TITLE>. <VOLUME>18 Heft</VOLUME>, <PRICE>4. 54kr.</PRICE></BIBL> <BIBL><TITLE>Sammlung auserlesener Klavierstucke</TITLE>, <VOLUME>18-3s Heft</VOLUME>, <PRICE>4. 2fl. 42 kr.</PRICE></BIBL> <BIBL><AUTHOR>Pradt, de</AUTHOR>, <TITLE>Ueber den Wiener Kongre√ü</TITLE>, ausd. Franz√∂s. <FORMAT>8.</FORMAT> <VOLUME>2 Bde.</VOLUME> <PRICE>3fl.</PRICE></BIBL> <BIBL><AUTHOR>Rotteck</AUTHOR>, <TITLE>allgemeine Geschichte von Anfang der historischen Kenntni√ü bis auf unsere Zeiten</TITLE>, <FORMAT>gr. 8.</FORMAT> <VOLUME>3 Thle.</VOLUME> <PRICE>7 fl. 34kr.</PRICE></BIBL> <BIBL><TITLE>Geschichte der mittlern Zeiten, oder</TITLE> <VOLUME>4r Bd.</VOLUME> <FORMAT>gr. 8.</FORMAT> <PRICE>3fl.</PRICE></BIBL> <BIBL><AUTHOR>Herda</AUTHOR>, <TITLE>Erz√§hlungen und Gem√§lde aus der deutschen Vorzeit</TITLE>, von <AUTHOR>J- G. Pahl</AUTHOR>, <VOLUME>4r Bd.</VOLUME> <FORMAT>8.</FORMAT> <PRICE>1fl. 48 kr.</PRICE></BIBL></ITEM>\",\n  \"number_of_fixes\": 6,\n  \"explanation\": \"The XML tag <PRIZE> was incorrectly used in place of the correct tag <PRICE>. This was fixed in six places.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 515,
+        "output_tokens": 497,
+        "total_tokens": 1012
+    },
+    "duration": 15.118649959564209,
+    "timestamp": "2025-11-05T11:14:49.610638"
+}

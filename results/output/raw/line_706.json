@@ -1,0 +1,13 @@
+{
+    "text": "{\n    \"fixed_xml\": \"<ITEM>48. Be ym B. Bolli auf dem Markt und hinter der Scholl sind nebst andern Schreibkalender zu haben: <BIBL><TITLE>Taschenkalender der neusten Mo. den f√ºr das Jahr i801</TITLE> mit 22 sauber illum. Kupfern geziert, vergoldt in Futteral mit Spiegel √† <PRIZE>fl 1. 20 kr.</PRIZE> dito ohne Spiegel √† <PRIZE>fl 1. 12 kr.</PRIZE></BIBL> <BIBL><TITLE>Kleines Taschenbuch f√ºr die Jugend auf das Jahr i801</TITLE> mit Kupfern und dem wohlgetroffenen Bildni√ü des Erzherzog Carls. √† <PRIZE>40 kr.</PRIZE></BIBL> <BIBL><TITLE>Kleines Taschenbuch f√ºr die Jugend auf das Jahr 18o1</TITLE> mit einer Sammlung von Volksliedern und dem Bildni√ü des Erzherzog Carls. √† <PRIZE>30 kr.</PRIZE></BIBL> <BIBL><TITLE>Kleines Taschenbuch auf 1801</TITLE> mit dem Regierungsetat. √† <PRIZE>12 kr.</PRIZE></BIBL> <BIBL><TITLE>Kleines Sack- und Futralkalenderlein auf das Jahr 1801</TITLE> samt einer poetischen Blumenlese mit illuminirt und ohnilluminirten K√ºpferchen in verschiedenen Preisen</BIBL>, <BIBL><TITLE>G√∂ttinger Musen-Almanach</TITLE> wie auch <TITLE>G√∂ttinger Taschen-Kalender</TITLE>, alles aufs Jahr <YEAR>1801</YEAR> in gew√∂hnlichen Preisen, wie auch von denen kommlichen Schreibkalendern, wo man zwischen jeden Tag schreiben kann. Subscription wird auch angenommen, auf die <TITLE>Gallerie der alten Griechen und R√∂mer</TITLE> mit 82 Portraits von <AUTHOR>Herrn Geheimrath Zapf</AUTHOR>, wovon eine gedruckte Nachricht gratis zu haben. Auch sind ein sch√∂nes Sortiment <TITLE>Neujahrsw√ºnsche</TITLE> zu haben.</ITEM>\",\n    \"number_of_fixes\": 0,\n    \"explanation\": \"The provided XML is well-formed and does not need any fixes. All tags are correctly opened and closed, and there are no missing or extra tags.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 615,
+        "output_tokens": 612,
+        "total_tokens": 1227
+    },
+    "duration": 20.017578840255737,
+    "timestamp": "2025-11-04T14:54:01.878553"
+}

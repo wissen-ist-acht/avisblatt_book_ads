@@ -1,0 +1,5 @@
+{
+    "fixed_xml": "<ITEM>33. Im Berichthaus ist in Commi√üion zu haben: <BIBL><TITLE>Posselts Geschichte Karls des Zw√∂lften, K√∂nigs von Schweden</TITLE>, <FORMAT>8.</FORMAT> <PRIZE>791. 48 xr.</PRIZE></BIBL> <BIBL><TITLE>Archenholz Geschichte des siebenj√§hrigen Kriegs</TITLE>; <VOLUME>2 Thle.</VOLUME> mit Kupfern und Charte, <FORMAT>8.</FORMAT> <PRIZE>48 kr.</PRIZE></BIBL> <BIBL><TITLE>Sire Brahe, oder die Neugierigen, ein Schauspiel</TITLE> von <AUTHOR>Gustav Il, K√∂nig von Schiveden</AUTHOR>, <PRICE>54 xr.</PRICE>; diesez B√ºcher in halb Frzbd. </BIBL><BIBL><TITLE>Galath√©, roman pastoral de Florian</TITLE>, in <FORMAT>18.</FORMAT> avec fig. br. <PRIZE>24 xr.</PRIZE></BIBL> <BIBL><TITLE>Dou- 2e Tableaux des Frangais</TITLE>, in <FORMAT>fol.</FORMAT> f. <PRIZE>6. 40 xr.</PRIZE></BIBL> <BIBL><TITLE>Sept Tableaun de la revolution frafigaise</TITLE>, in <FORMAT>fol.</FORMAT> <PRIZE>fl. 3. 30 xr.</PRIZE></BIBL></ITEM>",
+    "number_of_fixes": 1,
+    "explanation": "There was a missing closing BIBL tag in the third BIBL block. Added the closing BIBL tag."
+}

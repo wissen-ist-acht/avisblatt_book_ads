@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>Wohlfeile B√ºcher, welche im Flickschen Gesch√§fts-Bureau, No. 165, zu haben sind: <BIBL><TITLE>W√ºrsteisens Baslerchronik</TITLE>, die neuere Ausgabe, mit der Fortsetzung von <AUTHOR>Bruckner</AUTHOR> und <AUTHOR>Dr. Beck</AUTHOR>. Mit Kpfrn. in <FORMAT>folio</FORMAT>. <PRICE>12 Fr.</PRICE> Halbfrzbd.</BIBL> <BIBL><TITLE>Stettlers Schweizerchronik</TITLE>. in <FORMAT>folio</FORMAT>. Per- <PRICE>3 Fr.</PRICE> gamenthand.</BIBL> <BIBL><TITLE>Basler Gerichtsordnung</TITLE>, die neue Ausgabe von <YEAR>1756</YEAR>. <FORMAT>folio</FORMAT>. Cart. <PRICE>20 Btz.</PRICE></BIBL> <BIBL><TITLE>Dictionnaire francais-italien et italienfrancais</TITLE>, par <AUTHOR>Alberti</AUTHOR>. <VOLUME>2 vol.</VOLUME> gr. in <FORMAT>8</FORMAT>. <PLACE>Lyon</PLACE> <YEAR>1802</YEAR>. Halbfrzbd. <PRICE>5 Fr.</PRICE></BIBL> <BIBL><TITLE>Gesenius hebr√§ische Grammatik</TITLE>. <VOLUME>6te Aufl.</VOLUME> gr. <FORMAT>8</FORMAT>. <PLACE>Halle</PLACE> <YEAR>1823</YEAR>. Halbfrzbd. <PRICE>1 Fr.</PRICE></BIBL> <BIBL><TITLE>Niemers griechisch deutsches Handw√∂rterbuch</TITLE>. Auszug aus <AUTHOR>Schneiders</AUTHOR> gro√üem W√∂rterbuch <VOLUME>2te Aufl.</VOLUME> <VOLUME>2 Bde.</VOLUME> gr. <FORMAT>8</FORMAT>. <PLACE>Jena</PLACE> <YEAR>1815</YEAR>. R. u. E. Pat. <PRICE>Fr. 7. 5 Btz</PRICE></BIBL> <BIBL><TITLE>Geschichte der vorder√∂sterreich. Staaten (des Breisgaus, des Schwarzwalds Íùõc.)</TITLE> von <AUTHOR>P. Fr. Kreuter</AUTHOR>, ehemaligem Probsten von B√ºrglen. <VOLUME>2 Bde.</VOLUME> mit Karten. <PRICE>36 Btz.</PRICE> gr. <FORMAT>8</FORMAT>. <YEAR>1790</YEAR>. Cart.</BIBL> <BIBL><TITLE>Vademecum juridicum, oder der sich selbst rathende Advokat, wohl unterwiesene Beklagte und rechtsverst√§ndige Con sulent</TITLE>, von <AUTHOR>Dr. Freuler</AUTHOR>. <VOLUME>4 Bde.</VOLUME> <FORMAT>8</FORMAT>. <PRICE>24 Btz.</PRICE> <PLACE>Basel</PLACE> <YEAR>1750</YEAR>. R. u. E. Pat.</BIBL></ITEM>\",\n  \"number_of_fixes\": 5,\n  \"explanation\": \"The XML tag <PRIZE> was incorrectly used in five places. It was replaced with the correct tag <PRICE>.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 810,
+        "output_tokens": 793,
+        "total_tokens": 1603
+    },
+    "duration": 23.698718309402466,
+    "timestamp": "2025-11-05T15:44:35.837192"
+}

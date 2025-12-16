@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>In dem S. Flick schen Gesch√§fts- Bureau sind n√§chstehende wohlfeile B√ºcher zu haben: <BIBL><TITLE>Der theoretische und praktische Kellermeister, oder die Erzeugung, Erkennung, Behandlung und Erhaltung aller trinkbaren Fl√ºssigkeiten, nebst einer neuen Theorie der Branntweinbrennerey, Bieru. Essigbrauerey</TITLE>, von <AUTHOR>5. Serviere</AUTHOR>, <VOLUME>2te verb. u. verm. Auflage</VOLUME>, mit <FORMAT>Kupf.</FORMAT> gr. <FORMAT>8.</FORMAT> √† <PRICE>15 Btz.</PRICE> <FORMAT>Cart.</FORMAT></BIBL> <BIBL><TITLE>Der Weinbau, Behandlung des Weins und dessen Verbesserung, desgl. vom Bierbrauen nach engl. Grunds√§tzen</TITLE> von <AUTHOR>J. L. Christ</AUTHOR>, <VOLUME>3te verm. Aufl.</VOLUME> mit <FORMAT>Kpfern.</FORMAT> gr. <FORMAT>8.</FORMAT> √† <PRICE>18 Btz.</PRICE> <FORMAT>Cart.</FORMAT></BIBL> <BIBL><AUTHOR>B√ºschs, J. G.</AUTHOR> <TITLE>Theoretisch-praktische Darstellung der Handlung, in ihren mannigfaltigen Gesch√§ften</TITLE>, <VOLUME>5 Thle.</VOLUME> <FORMAT>8.</FORMAT> <PLACE>Hamburg</PLACE> √† <PRICE>5 Fr. 800.</PRICE> <FORMAT>Cart. u. Tit.</FORMAT></BIBL> <BIBL><AUTHOR>Girtanners, C.</AUTHOR> <TITLE>Abhandl. √ºber die venerische Krankheit</TITLE>, <VOLUME>3Thle.</VOLUME> gr. <FORMAT>8.</FORMAT> <PLACE>G√∂tting.</PLACE> <YEAR>788-</YEAR> √† <PRICE>30 Btz. 89.</PRICE> <FORMAT>Cart.</FORMAT></BIBL> <BIBL><TITLE>Portrait des Rois de France</TITLE> par <AUTHOR>Mercier</AUTHOR>, <VOLUME>4 vol.</VOLUME> <FORMAT>8.</FORMAT> <PLACE>Neuch.</PLACE> <YEAR>783</YEAR> <PRICE>Cart. 18 Btz.</PRICE></BIBL> <BIBL><TITLE>Oeuvres compl√®tes de M. de Florian</TITLE>, <VOLUME>22 vol.</VOLUME> <FORMAT>12.</FORMAT> <PLACE>Paris</PLACE> <YEAR>8o5</YEAR> <PRICE>Cwie neu) Fr. 12.</PRICE></BIBL> Sodann ist nachstehendes Prachtwerk in Commission zu haben: <BIBL><TITLE>Reise seiner Durchl. des Prinzen von Neuwied nach Brasilien in den Jahren 1815 bis 1817</TITLE>, <VOLUME>2 Bde.</VOLUME> gr. <FORMAT>4¬∞.</FORMAT> mit vielen <FORMAT>Vign.</FORMAT> und <VOLUME>2 Heften</VOLUME> <FORMAT>Kupfer u. Karten</FORMAT> in <FORMAT>folio.</FORMAT> in <FORMAT>Carton.</FORMAT> - Der Subscriptionspreis war <PRICE>4 NLd'or.</PRICE></BIBL></ITEM>\",\n  \"number_of_fixes\": 7,\n  \"explanation\": \"The XML was faulty because the tag <PRIZE> was used instead of <PRICE>. This was fixed by replacing all instances of <PRIZE> and </PRIZE> with <PRICE> and </PRICE> respectively.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 868,
+        "output_tokens": 873,
+        "total_tokens": 1741
+    },
+    "duration": 39.138166189193726,
+    "timestamp": "2025-11-05T15:50:38.004554"
+}

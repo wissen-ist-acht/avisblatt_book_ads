@@ -1,0 +1,5 @@
+{
+    "fixed_xml": "<ITEM>In dem Brandm√ºllerischen Buchladen zum halben Rad an St Paulberg ist, nebst anderen Bucheren zu verkauffen: <BIBL><TITLE>Fieury Kirchen- Geschichten des neuen Testaments uber die 2. ersten Jahnhundert von Christi Geburt</TITLE>, aus dem frantz√∂sischen ins Teutsche ubersetzt von <AUTHOR>Herrn Simonetti</AUTHOR>, <FORMAT>8v√≤.</FORMAT> <YEAR>1747</YEAR>, mit des Auctoris Bildnis, welches sonsten <PRIZE>836. kr.</PRIZE> gekostet, nunmehro √† <PRIZE>12. kr.</PRIZE> und zwar aus Mangel Platzes.</BIBL> <BIBL><AUTHOR>Meyers</AUTHOR> <TITLE>Biblische Geschichten alt und neuen Testamens</TITLE> <VOLUME>2. Tomi</VOLUME> <FORMAT>8v√≤.</FORMAT> mit Figuren, welcheredessen <PRICE>fl. 1. 30. kr.</PRICE> gekostet, dermahlen √† <PRICE>40. kr.</PRICE></BIBL> <BIBL><AUTHOR>Sibersmann</AUTHOR> <TITLE>Erkl√§rung des Evangelii ot. Johannis</TITLE> <VOLUME>2. Tom</VOLUME> in <FORMAT>4to.</FORMAT> welches vorhin <PRICE>fl. 2.</PRICE> nun aber <PRICE>40. kr.</PRICE> kostet.</BIBL></ITEM>",
+    "number_of_fixes": 2,
+    "explanation": "The XML tags for 'price' were incorrectly written as 'prize'. This was corrected in two places."
+}

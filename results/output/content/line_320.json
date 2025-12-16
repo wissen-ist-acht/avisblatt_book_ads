@@ -1,0 +1,5 @@
+{
+    "fixed_xml": "<ITEM>2. Bey Hrn. Buchbinder Scholer auf der Rheinbruck, ist zu haben: <BIBL><AUTHOR>Moreri</AUTHOR> <TITLE>Dictionnaire de Moreri samt Supplement</TITLE>, <VOLUME>9 Tom.</VOLUME> sauber in engl. Band, <PRIZE>fl. 24.</PRIZE></BIBL> <BIBL><TITLE>D Ueber das befreyte Jerusalem</TITLE>, von <AUTHOR>Torguato Tasso</AUTHOR>, <VOLUME>4 B√§nde</VOLUME> in albo. <FORMAT>8.</FORMAT> <PLACE>Mannheim</PLACE> <YEAR>1781.</YEAR> <PRIZE>fl. 3.</PRIZE></BIBL> <BIBL><AUTHOR>Woltersdorf</AUTHOR> unsch√§tzbare <TITLE>Predigten der Vergebung der S√ºnden</TITLE>, <PRIZE>kr210.</PRIZE></BIBL> <BIBL><AUTHOR>B√∂hms</AUTHOR> <TITLE>gr√ºndliche Anleitung zur Mo√ükunst-auf dem Felde</TITLE>, samt <VOLUME>2 Anh√§ngen vom Wasserw√§gen</VOLUME>, mit <VOLUME>24 Tabellen</VOLUME>, in <FORMAT>40.</FORMAT> <PRIZE>fl. 1. kr. 36.</PRIZE></BIBL> <BIBL><AUTHOR>Bobels</AUTHOR> <TITLE>Feldme√ükunst, f√ºr Landfeldmesser</TITLE>, mit <VOLUME>Tabellen</VOLUME>, <PRIZE>kr. 30.</PRIZE></BIBL></ITEM>",
+    "number_of_fixes": 0,
+    "explanation": "The provided XML is already well formatted and doesn't need any fixes. All the tags are properly opened and closed."
+}

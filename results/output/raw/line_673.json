@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>In der Flickischen Buchhandlung auf dem Fischmarkt allhier finder man: <BIBL><TITLE>Morgen- und Abend-Andachten auf alle Tage der Woche, ein Handbuch f√ºr jeden Menschen der Gott sucht und das Gute liebt, auch auf Reisen ein gesegneter Gef√§hrde</TITLE>, geb. <PRIZE>48 kr.</PRIZE></BIBL> <BIBL><TITLE>Der braune Robert und das blonde Nandchen, ein Spiegel f√ºr Viele</TITLE>, <VOLUME>2 Bde.</VOLUME> <PRIZE>fl. 2. 36 kr.</PRIZE></BIBL> <BIBL><AUTHOR>Hildebrandt, C</AUTHOR> <TITLE>Encyelopedie der gesamten Chemie</TITLE>, <VOLUME>1ster Thl.</VOLUME> <PRIZE>54kr.</PRIZE></BIBL> <BIBL><AUTHOR>Jaufret C. F.</AUTHOR> <TITLE>zoologisch geograph. Spiel f√ºr die Jugend</TITLE> <PRIZE>fl. 2. 45 kr.</PRIZE></BIBL> <BIBL><TITLE>Bowles Kunst mit Wasserfarben zu malen</TITLE> <PRIZE>fl. 1.</PRIZE></BIBL> <BIBL><TITLE>Leipziger Briefsteller f√ºr Frauenzimmer</TITLE> <PRIZE>fl. 2.</PRIZE></BIBL> <BIBL><AUTHOR>Degen (J. F.)</AUTHOR> <TITLE>Nachtrag zur Litteratur der deutschen Uebersetzungen der R√∂mer</TITLE> <PRIZE>45 kr.</PRIZE></BIBL> <BIBL><TITLE>Lehrreiche Geschichten, Fabeln u. Erz√§hlungen f√ºr die Jugend</TITLE> <PRIZE>36 kr</PRIZE></BIBL> <BIBL><AUTHOR>Des Dues du Chatelet</AUTHOR> <TITLE>Beschreibung seiner Reise in Portugal</TITLE> <PRIZE>fl. 2.</PRIZE></BIBL></ITEM>\",\n  \"number_of_fixes\": 4,\n  \"explanation\": \"The XML was missing closing tags for the PRIZE elements in four places. They were incorrectly spelled as PRICE. This has been corrected to PRIZE in the fixed XML.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 560,
+        "output_tokens": 565,
+        "total_tokens": 1125
+    },
+    "duration": 18.748673915863037,
+    "timestamp": "2025-11-04T14:38:50.095564"
+}

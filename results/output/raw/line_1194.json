@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>16. Neue Litteratur. <BIBL><TITLE>Hand Bibliothek der deutschen Classiker</TITLE>. Pracht-Ausg. in <FORMAT>Octav</FORMAT>. <VOLUME>1ster u. 2ter Theil</VOLUME>, enthaltend: <TITLE>B√ºrgers Gedichte</TITLE>. Mit dessen Portrait in Stahl gestochen von <AUTHOR>F. Fleischmann</AUTHOR> Inengl. Halbfranzband mit Gold und Arabesken geschmackvoll geziert. <PRIZE>1 fl. 20 kr.</PRIZE></BIBL> <BIBL><TITLE>Europa und die T√ºrkey</TITLE>. In historischpolitisch milit√§rischen Darstellungen, <VOLUME>2 B√§ndchen</VOLUME>, mit <FORMAT>Kupf.</FORMAT> brosch. √† <PRIZE>24fr.</PRIZE></BIBL> In einer Epoche, in welcher der Blick der eivilisirten Menschheit auf die ungl√ºcklichen L√§nder der alten classischen Welt gerichtet ist, empfiehlt sich diesesgehaltreiche u. belehrende Werk in jeder Hinsicht. <BIBL><TITLE>Das Weltall</TITLE>. <VOLUME>1stes bis 14tes Heft</VOLUME>, mit <FORMAT>Kupfern</FORMAT>, brosch. √† <PRIZE>18 kr.</PRIZE></BIBL> <BIBL><TITLE>Zeit√ºngs- und Conversations-Lexikon</TITLE>. Mit <FORMAT>Kupfern u. Karten</FORMAT>, <VOLUME>6 B√§nde</VOLUME>, gr. <FORMAT>8</FORMAT>. In Halbfranzband, <PRIZE>8fl.</PRIZE></BIBL> In der Holdenecker'schen Leibibliothek.</ITEM>\",\n  \"number_of_fixes\": 1,\n  \"explanation\": \"The XML tag <PRICE> was incorrectly spelled. It was corrected to <PRIZE>.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 496,
+        "output_tokens": 483,
+        "total_tokens": 979
+    },
+    "duration": 17.719773292541504,
+    "timestamp": "2025-11-05T15:28:57.191456"
+}

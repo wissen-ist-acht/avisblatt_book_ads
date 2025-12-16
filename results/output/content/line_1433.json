@@ -1,0 +1,5 @@
+{
+    "fixed_xml": "<ITEM>7. <BIBL><TITLE>Pfennig-Magazin</TITLE></BIBL> und <BIBL><AUTHOR>Hanhard's</AUTHOR> <TITLE>Schweizergeschichte</TITLE></BIBL>, in Commission um billigen Preis bei L. Ge√üler, Buchbinder.</ITEM>",
+    "number_of_fixes": 1,
+    "explanation": "The second BIBL tag was not closed. It was fixed by adding a closing tag after the 'Schweizergeschichte' TITLE tag."
+}

@@ -1,0 +1,13 @@
+{
+    "text": "{\n\"fixed_xml\": \"<ITEM>23. <BIBL><TITLE>Elast. Pergament-Steintafeln</TITLE> mit farbigen Einfassungen, zum Schrei ben- Rechnen und Zeichnen, pr. St√ºck <PRIZE>1 Btz.</PRIZE>, pr. Dutzd. f√ºr Schulen Íùõc. <PRIZE>9 Btz.</PRIZE></BIBL> <BIBL><TITLE>Schreibvorschriften von deutscher Currentschrift</TITLE>, das Er. von <VOLUME>2 Foliobl.</VOLUME> <PRIZE>1Btz.</PRIZE>, pr. Dutzd. f√ºr Schulen Íùõc. <PRIZE>9 Btz.</PRIZE></BIBL> <BIBL><TITLE>K√∂lnisches Wasser</TITLE> von vorz√ºglichster G√ºte, da√ü Kistchen mit <VOLUME>6 gro√üen Flaschen</VOLUME>, <PRIZE>45 Btz.</PRIZE> Einzelne Flaschen √† <PRIZE>10 Btz.</PRIZE></BIBL> <BIBL><TITLE>Koopsons engl. Glanzwichse</TITLE>, das Viertelpfund in einer Glasb√ºchse, das mit <VOLUME>1/2 Maas Wasser oder Bier</VOLUME> vermischt, eine vortrefliche Wichse giebt, <PRIZE>4 Btz.</PRIZE></BIBL> <BIBL><TITLE>Willer'sche Gesundheitssohlen</TITLE>, nebst deren Gebrauchsanweis. <PRIZE>22 1/2 Btz.</PRIZE></BIBL> <BIBL><TITLE>Gesundheits-Magnete</TITLE>, nebst derselben Gebrauchsanweisung.</BIBL> <BIBL><TITLE>Schnell-Dinten-Pulver</TITLE>, in P√§ckchen von <VOLUME>2 Loth</VOLUME>, √† <PRIZE>2 1/2 Btz.</PRIZE></BIBL> <BIBL><TITLE>Chem. Feuerzeuge, oder Schnellz√ºnder</TITLE> in Wei√üblechgef√§ssen, zu <PRIZE>5 u. 7 Btz.</PRIZE> und en moirs lakirt zu <PRIZE>6 u. 8 Btz.</PRIZE></BIBL> <BIBL><TITLE>Ehem. Z√ºndh√∂lzchen</TITLE> beste Sorte, das <VOLUME>100</VOLUME> zu <PRIZE>6 kr</PRIZE></BIBL> In der Holdenecker'schen Leihbibliothek zun√§chst dem Kornhause.</ITEM>\",\n\"number_of_fixes\": 4,\n\"explanation\": \"There were four instances where the closing tag for <PRIZE> was incorrectly written as </PRICE>. These have been corrected to </PRIZE>.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 709,
+        "output_tokens": 709,
+        "total_tokens": 1418
+    },
+    "duration": 27.488462924957275,
+    "timestamp": "2025-11-05T16:05:45.196151"
+}

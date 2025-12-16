@@ -1,0 +1,13 @@
+{
+    "text": "{\n\"fixed_xml\": \"<ITEM>6. Bey Herrn Johannes Kyburt am Rheinsprung allhier ist frisch angelangtes <BIBL><TITLE>diroup de l apulaire</TITLE></BIBL>, <BIBL><TITLE>Sirop de Limon</TITLE></BIBL>, <BIBL><TITLE>Eaux de Lavande</TITLE></BIBL>, <BIBL><TITLE>Hongrie</TITLE></BIBL>, <BIBL><TITLE>Sans-Pareille</TITLE></BIBL>, <BIBL><TITLE>Eaux de Cologne</TITLE></BIBL>, <BIBL><TITLE>Mile feur</TITLE></BIBL>, <BIBL><TITLE>Jalmim</TITLE></BIBL>, <BIBL><TITLE>Jonguille</TITLE></BIBL>, <BIBL><TITLE>mbra</TITLE></BIBL>, <BIBL><TITLE>Eaun Sultane</TITLE></BIBL>, <BIBL><TITLE>Eaux Vulneraire soit Arquebusade</TITLE></BIBL>, <BIBL><TITLE>Eaun Siamon</TITLE></BIBL> zu haben, ferner <BIBL><TITLE>neuer Caroliner-Reis</TITLE></BIBL>, <BIBL><TITLE>dito Mayl. Haar-Pommaden</TITLE> in Stangen √† la Beganoite</BIBL>, <BIBL><TITLE>Senf-Meh</TITLE> in K√∂rnern und gemahlten</BIBL>, <BIBL><TITLE>aller Sorten Thee</TITLE></BIBL>, <BIBL><TITLE>Caffe</TITLE></BIBL> und <BIBL><TITLE>feiner Zucker</TITLE></BIBL>, <BIBL><TITLE>fein gekre√º√ütes Pferdt-Haar</TITLE></BIBL>, <BIBL><TITLE>Bougies de Mans</TITLE></BIBL>, <BIBL><TITLE>des allerfeinsten Nicer-Baum√∂hl</TITLE></BIBL>, <BIBL><TITLE>fein beschnitten Post-Papier</TITLE> in <FORMAT>4to</FORMAT> und <FORMAT>folio</FORMAT>, alles in raisonnablen Preisen.</ITEM>\",\n\"number_of_fixes\": 0,\n\"explanation\": \"The provided XML is well-formed and does not need any fixes. All tags are properly opened and closed. There are no missing or extra tags.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 587,
+        "output_tokens": 574,
+        "total_tokens": 1161
+    },
+    "duration": 14.241581916809082,
+    "timestamp": "2025-11-02T09:34:34.396274"
+}

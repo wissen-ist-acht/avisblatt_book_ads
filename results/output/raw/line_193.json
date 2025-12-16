@@ -1,0 +1,13 @@
+{
+    "text": "{\n\"fixed_xml\": \"<ITEM>Bey dem Buchh√§ndler Hrn. Flick allhier ist zu haben: <BIBL><TITLE>Renophontis historia graeca</TITLE>, recensuit, animadversiones & indicem adjecit <AUTHOR>Sam. Frid. Nath. Morus</AUTHOR>, accedit Leunclavian √† versio, <FORMAT>8.</FORMAT> <YEAR>778</YEAR>. <PRICE>fl. 3. xr. 30.</PRICE></BIBL> <BIBL><TITLE>Entwurf, einer √∂konomischen Zoologie</TITLE>, <FORMAT>gr. 8.</FORMAT> <YEAR>778</YEAR>. <PRICE>kr. 54.</PRICE></BIBL> <BIBL><AUTHOR>Ferbers Joh. Jac.</AUTHOR> <TITLE>neue Beytr√§ge zur Mineralgeschichte verschiedener L√§nder</TITLE>, <VOLUME>1ter Band</VOLUME>, mit Kpfrn. <FORMAT>gr. 8.</FORMAT> <YEAR>778</YEAR>. <PRICE>fl. 1. kr. 45.</PRICE></BIBL> <BIBL><AUTHOR>Meusels (Joh. Georg)</AUTHOR> <TITLE>neueste Litteratur der Geschichtkunde</TITLE>, <VOLUME>3ter Theil</VOLUME>, <FORMAT>gr. 8.</FORMAT> <YEAR>778</YEAR>. <PRICE>kr. 30.</PRICE></BIBL> <BIBL><AUTHOR>Pfeiffers</AUTHOR> <TITLE>Grundri√ü der wahren und falschen Staatskunst</TITLE>, <VOLUME>2 B√§nde</VOLUME>, <FORMAT>gr. 8.</FORMAT> <YEAR>1778</YEAR> und <YEAR>1779</YEAR>. <PRICE>fl. 2. kr. 20.</PRICE></BIBL> <BIBL><AUTHOR>Friedr.</AUTHOR> <TITLE>Entwurf einer Akademie der bildenden K√ºnste</TITLE>, <VOLUME>2 B√§nde</VOLUME>, <FORMAT>gro√ü 8.</FORMAT> <YEAR>1778</YEAR>. <PRICE>fl. 2. kr. 30.</PRICE></BIBL> <BIBL><AUTHOR>Raffs (Georg Christ.)</AUTHOR> <TITLE>Naturgeschichte f√ºr Kinder</TITLE>, mit <NUMBER>11.</NUMBER> Kupfer- Tafeln, <FORMAT>gr. 8.</FORMAT> <YEAR>1778</YEAR>. <PRICE>fl. 2. kr. 15.</PRICE></BIBL> <BIBL><TITLE>G√∂ttinger Taschen-Kalender auf 1770</TITLE>, mit Kupfern von <AUTHOR>Chodowieki</AUTHOR>, die neuesten Kopfzierden der Damen und den: Kontrast zwischen Natur und Affectation vorstellend, in Futeral mit vergoldetem Schnitt, <PRICE>fl. 1. kr. 30.</PRICE></BIBL> <BIBL><TITLE>Poetische Blumenlese oder G√∂ttinger Musenallmanach f√ºr 1779</TITLE>, <PRICE>kr. 54.</PRICE></BIBL> <BIBL><TITLE>Musenallmanach f√ºr 1779</TITLE>, von <AUTHOR>Voss</AUTHOR>, <NUMBER>12.</NUMBER> <PLACE>Hamburg</PLACE> √† <PRICE>kr. 45.</PRICE></BIBL> <BIBL><TITLE>Marionetten-Theater</TITLE>, <FORMAT>8.</FORMAT> <YEAR>778</YEAR>. <PRICE>kr. 54.</PRICE></BIBL> <BIBL><TITLE>Entwurf der Naturlehre</TITLE>, mit Kupfern, <FORMAT>8.</FORMAT> <YEAR>778</YEAR>. <PRICE>kr. 36.</PRICE></BIBL></ITEM>\",\n\"number_of_fixes\": 7,\n\"explanation\": \"The XML tags <PRIZE> were replaced with the correct <PRICE> tags in 7 instances.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 1002,
+        "output_tokens": 972,
+        "total_tokens": 1974
+    },
+    "duration": 23.94197106361389,
+    "timestamp": "2025-11-02T09:48:31.867567"
+}

@@ -1,0 +1,13 @@
+{
+    "text": "{\n\"fixed_xml\": \"<ITEM>In der Schweighauser'schen Buchhandlung sind angekommen und zu erhalten: <BIBL><TITLE>Stunden der Andacht, zur Bef√∂rderung wahren Christenthums und h√§uslicher Gottesverehrung</TITLE>. <VOLUME>8 B√§nde</VOLUME>. <YEAR>7te verbesserte Auflage</YEAR> in <FORMAT>klein 8</FORMAT> mit kleinerer Schrift und mit dem Bildnisse Jesu Christi. Auf ordinair Papier √† <PRICE>82 1/2 Batzen</PRICE>, auf wei√ü P√§pier<PRICE>11 Fr. 2 1/2 Btz.</PRICE></BIBL> <BIBL><AUTHOR>Kr√ºsi, H.</AUTHOR>, Vorsteher einer Erziehungsanstalt in Iferten, <TITLE>bedeutende Augenblicke in der Entwicklung des Rindes, als Winke der Natur √ºber den Zusammenhang des innern und √§ussern Lebens</TITLE>; den z√§rtlichen und treuen Gattinnen und M√ºttern gewidmet. <FORMAT>8.</FORMAT> <PLACE>Arau</PLACE> broch. <PRICE>9 Btz.</PRICE></BIBL> <BIBL><AUTHOR>Lutz, M.</AUTHOR>, <TITLE>Nachtr√§ge und Berichtigungen zu dem geograph. statistischen Hand- Lexikon der Schweiz</TITLE> werden an die Besitzer der beyden durch uns erhaltenen B√§nde des Hand-Lexikons, gegen Vorzeigung derselben, graris abgegeben.</BIBL></ITEM>\",\n\"number_of_fixes\": 2,\n\"explanation\": \"The tag <PRIZE> was misspelled twice. It should be <PRICE>. The tag was corrected in two places.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 454,
+        "output_tokens": 440,
+        "total_tokens": 894
+    },
+    "duration": 16.06853413581848,
+    "timestamp": "2025-11-05T14:24:47.259686"
+}

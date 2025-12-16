@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>Neue interessante Schriften in der Sch weighauser'schen Buchhandlung. <BIBL><AUTHOR>Friedrich Str√§u√ü</AUTHOR>, <TITLE>Glockent√∂ne; Erinnerungen aus dem Leben eines jungen Geistlichen</TITLE>, <VOLUME>3te Aufl.</VOLUME> <VOLUME>18 u. 28 B√§ndchen</VOLUME>, wei√ü <FORMAT>Druckp.</FORMAT> <PLACE>8. Elberfeld</PLACE>. <PRIZE>3Fr. 6 Btz.</PRIZE></BIBL> <BIBL><AUTHOR>Krug, Professor</AUTHOR>, <TITLE>√ºber deutsches Universit√§tswesen mit R√ºcksicht auf Kotzebue's literarisches Wochenblatt u. gewaltsamen Tod</TITLE> <PLACE>8. Leipz.</PLACE> <FORMAT>br.</FORMAT> <PRIZE>1Fr. 2 1/2 Btz.</PRIZE></BIBL> <BIBL><AUTHOR>Heinrich Steffens</AUTHOR>, <TITLE>√ºber Kotzebues Ermordung</TITLE>. <PLACE>8. Breslau</PLACE>, <FORMAT>br.</FORMAT> <PRIZE>5 Btz.</PRIZE></BIBL> <BIBL><AUTHOR>Karl Ludwig Sand's</AUTHOR>, <TITLE>wichtigste Lebensmomente, nebst dessen wohl getroffnem Bildni√ü</TITLE>. <PLACE>gr. 8. N√ºrnherg</PLACE>, <FORMAT>br</FORMAT> <PRIZE>1Fr. 2 Btz</PRIZE></BIBL> <BIBL><TITLE>Allgemeines Commers- u. Liederbuch, mit Melodien</TITLE> herausgegeben von <AUTHOR>Albert Methfessel</AUTHOR>, <FORMAT>guer 4.</FORMAT> <PLACE>Rudolstadt</PLACE>, <FORMAT>br.</FORMAT> <PRIZE>3 Fr. 4 Btz.</PRIZE></BIBL> <BIBL><AUTHOR>Karl G√∂ttling</AUTHOR>, <TITLE>die Lehre vom Accent der griech. Sprache</TITLE>. <PLACE>8. Rudolst.</PLACE> <FORMAT>geb.</FORMAT> <PRIZE>7 1/2 Btz.</PRIZE></BIBL></ITEM>\",\n  \"number_of_fixes\": 2,\n  \"explanation\": \"Two PRIZE tags were incorrectly spelled as PRICE. These have been corrected in the fixed XML.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 620,
+        "output_tokens": 608,
+        "total_tokens": 1228
+    },
+    "duration": 21.150987148284912,
+    "timestamp": "2025-11-05T11:39:27.436270"
+}

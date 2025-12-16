@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>Bey Heinrich Z√§slin, Buchbinder, sind folgende B√ºcher zu haben: <BIBL><AUTHOR>M√ºllers</AUTHOR> <TITLE>Schweizergeschichte</TITLE>, <VOLUME>5 Bde.</VOLUME> <PRICE>12 Fr.</PRICE></BIBL> <BIBL><TITLE>Geschichte der Hohenloben</TITLE>, <PRICE>21 Fr.</PRICE></BIBL> <BIBL><TITLE>Der goldene Spiegel</TITLE>, <FORMAT>8 Btz.</FORMAT></BIBL> <BIBL><TITLE>Hersiliens Lebensmorgen</TITLE>, <FORMAT>10 Btz.</FORMAT></BIBL> <BIBL><AUTHOR>Osstans</AUTHOR> <TITLE>Gedichte</TITLE>, <VOLUME>3 Thle.</VOLUME> <PRICE>20 Btz.</PRICE></BIBL> <BIBL><AUTHOR>Uz</AUTHOR> <TITLE>s√§mmtliche Werke</TITLE>, <FORMAT>7 Btz.</FORMAT></BIBL> <BIBL><AUTHOR>He√ü</AUTHOR> <TITLE>Zw√∂lf Predigten</TITLE>, <FORMAT>9 Btz.</FORMAT></BIBL> <BIBL><AUTHOR>Wielands</AUTHOR> <TITLE>G√∂tter-Gespr√§che</TITLE></BIBL> <BIBL><AUTHOR>Schillers</AUTHOR> <TITLE>Wilbelm Tell</TITLE>, <FORMAT>7 Btz.</FORMAT></BIBL> <BIBL><TITLE>F√ºr Eltern und Ebelustige</TITLE>, <VOLUME>5 Bde.</VOLUME> <PRICE>3 Fr.</PRICE></BIBL> <BIBL><TITLE>Das Leben Jesu</TITLE>, <FORMAT>5 Btz.</FORMAT></BIBL> <BIBL><TITLE>Ueber Gesetzgebung und Kindermord</TITLE></BIBL> <BIBL><TITLE>Tasso befreytes Jernsalem</TITLE>, <FORMAT>12 Btz.</FORMAT></BIBL> <BIBL><AUTHOR>Blumauer</AUTHOR> <TITLE>Virgils Aeneis</TITLE>, <FORMAT>9 Btz.</FORMAT></BIBL> <BIBL><AUTHOR>Herbst</AUTHOR> <TITLE>Betrachtungd menschlichen Herzens</TITLE>, <FORMAT>6. Btz.</FORMAT></BIBL> <BIBL><AUTHOR>Raffs</AUTHOR> <TITLE>Naturgeschichte</TITLE>, <FORMAT>18 Btz.</FORMAT></BIBL> <BIBL><TITLE>Comtoir- u. Zeitungs-Lertkon</TITLE></BIBL> <BIBL><TITLE>Der Olymp</TITLE>, <FORMAT>18 Btz.</FORMAT></BIBL> <BIBL><TITLE>Umgangsbuch f√ºr Gebildete</TITLE>, <PRICE>2 Fr.</PRICE></BIBL></ITEM>\",\n  \"number_of_fixes\": 3,\n  \"explanation\": \"Three instances of the 'PRIZE' tag were replaced with the correct 'PRICE' tag.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 767,
+        "output_tokens": 748,
+        "total_tokens": 1515
+    },
+    "duration": 24.97035503387451,
+    "timestamp": "2025-11-05T16:11:12.723552"
+}

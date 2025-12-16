@@ -1,0 +1,13 @@
+{
+    "text": "{\n\"fixed_xml\": \"<ITEM>12. Ein gro√üer <BIBL><TITLE>General-Atlas</TITLE> von <AUTHOR>Beaurain</AUTHOR>, K√∂nigl. franz√∂s. Geographen, bestehend aus <VOLUME>drey gro√üfolio B√§nden</VOLUME>, sch√∂n und dauerhaft in gr√ºnem Pergament, und R√ºcken in Leder gebunden, mit Titel. Diese 3 B√§nde enthalten beyl√§ufig <VOLUME>280</VOLUME> gutgestochene √§ltere und neuere Charten √ºber alle Theile der Erde, nebst einer Anzahl Himmelscharten, zum Gebrauch der Astronomie, so wie mehrere Seecharten.</BIBL> Alle 3 B√§nde zusammen f√ºr den √§usserst biligen Preis von <PRICE>3 Ld'ors</PRICE>. wobey jede einzelne Charte nicht h√∂her als auf <PRICE>7 kr.</PRICE> zu stehen kommt; in No. 662 an der Gerberga√ü.</ITEM>\",\n\"number_of_fixes\": 1,\n\"explanation\": \"There was a typo in the XML tag for 'price'. It was written as '<PRIZE>' but it should be '<PRICE>'. This was the only fix needed in the XML.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 340,
+        "output_tokens": 338,
+        "total_tokens": 678
+    },
+    "duration": 13.627548933029175,
+    "timestamp": "2025-11-05T11:03:01.186011"
+}

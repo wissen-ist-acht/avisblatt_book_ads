@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>29. In der Deckerischen Buchdruckerey allhier ist zu haben: <BIBL><TITLE>Recherches philosophiques sur les Am√©ricains, ou Memoires interessantes pour servir √† Thistoire de Pespece humaine</TITLE>, <PLACE>Berlin</PLACE> <YEAR>1768</YEAR>. <VOLUME>2 Theil.</VOLUME> <FORMAT>8.</FORMAT> √† <PRIZE>fl 1. xr. 46.</PRIZE></BIBL> <BIBL><TITLE>Caracteres historiques des Empereurs depuis Ruguste jusqu a Marimien</TITLE>, par <AUTHOR>Mr. Weguelin</AUTHOR>, <PLACE>Berlin</PLACE> <YEAR>1768</YEAR>. <VOLUME>2 Theil,</VOLUME> <FORMAT>8.</FORMAT> √† <PRIZE>fl. 3. xr. 8.</PRIZE></BIBL> <BIBL><TITLE>Eloge de Pierre Corneille</TITLE> gut √† oncouru √† PAcademie de Rouen en <YEAR>1768</YEAR>. par <AUTHOR>Mr. Bitaube</AUTHOR>, <PLACE>Berlin</PLACE> <YEAR>1769</YEAR>. <FORMAT>8.</FORMAT> <PRIZE>xr 16.</PRIZE></BIBL> <BIBL><TITLE>Dialogue de Morale</TITLE> √† Vusage de la Jeunesse, par <AUTHOR>main de Maitre</AUTHOR>, <PLACE>Berlin</PLACE> <YEAR>1770</YEAR>. <FORMAT>8.</FORMAT> gebunden <PRIZE>6 kr.</PRIZE></BIBL> Eben dieses auch teutsch. <BIBL><TITLE>Amusemens historiques & moraun en Prose & en Vers</TITLE> tires des meilleurs Auteurs, avec un Vocabulaire frang & allem. √† Vusage de ceun gut veulent apprendre P√ºne ou Pautre des 2. langues, <PLACE>Francfort</PLACE>. <PRIZE>xr. 24.</PRIZE></BIBL> <BIBL><TITLE>Abreg√© de la Langue frangoise</TITLE> contenant <YEAR>285.</YEAR> Dialogues tires de la Nature, de sntiguite, de PHistoire & de la Mythologie, enrichi dun Vocabulaire, <FORMAT>8.</FORMAT> <PLACE>Colmar</PLACE> <YEAR>1770</YEAR>. √† <PRIZE>xr. 22.</PRIZE></BIBL> <BIBL><TITLE>Allgemeine Berechnungs-Tafel der Interessen</TITLE> welche die Kapitallen zu <YEAR>5.</YEAR> vom <YEAR>100.</YEAR> abwerfen, <PLACE>Colmar</PLACE> <YEAR>1771</YEAR>. <PRIZE>kr. 22.</PRIZE></BIBL></ITEM>\",\n  \"number_of_fixes\": 1,\n  \"explanation\": \"The XML tag <PRICE> was incorrectly spelled at the end of the document. It has been corrected to <PRIZE>.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 736,
+        "output_tokens": 730,
+        "total_tokens": 1466
+    },
+    "duration": 39.4081768989563,
+    "timestamp": "2025-10-31T12:01:30.187383"
+}

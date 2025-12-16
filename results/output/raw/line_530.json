@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>7. Donkmaale f√ºr Hielvetiens Bewohner, oder obrigkeitliche Ank√ºndigungen, ein Hirtenbrief vom Bischoff von Lausanne, Predigten und Ausz√ºge aus solchen, und Gebeter beyder Religionsverwandten, den den 16ten Merz i794 in der l√∂bl. Eidsgenossenschaft gefeyerten Bu√ütag betreffend, zur Erweckung und Unterhaltung der Andacht und Erbauung, ist auf Schrbppr. f√ºr 14 kr. und auf Druckppr. f√ºr 12 kr. in der Deckerischen Buchhandlung, im Bischoffischen Buchladen, und bey Hrn. Scholer auf der Rheinbruck zu haben.<BIBL><TITLE>Donkmaale f√ºr Hielvetiens Bewohner, oder obrigkeitliche Ank√ºndigungen, ein Hirtenbrief vom Bischoff von Lausanne, Predigten und Ausz√ºge aus solchen, und Gebeter beyder Religionsverwandten, den den 16ten Merz i794 in der l√∂bl. Eidsgenossenschaft gefeyerten Bu√ütag betreffend, zur Erweckung und Unterhaltung der Andacht und Erbauung</TITLE>, ist auf <FORMAT>Schrbppr.</FORMAT> f√ºr <PRICE>14 kr.</PRICE> und auf <FORMAT>Druckppr.</FORMAT> f√ºr <PRICE>12 kr.</PRICE></BIBL></ITEM>\",\n  \"number_of_fixes\": 1,\n  \"explanation\": \"The tag <PRIZE> was incorrectly written, it was corrected to <PRICE>\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 433,
+        "output_tokens": 414,
+        "total_tokens": 847
+    },
+    "duration": 14.265260934829712,
+    "timestamp": "2025-11-04T13:28:12.710072"
+}

@@ -1,0 +1,5 @@
+{
+    "fixed_xml": "<ITEM>31. Anze ig e. So eben ist erschienen und in den Buchhandlungen von Fel. Schneider und C. F. Spittler zu haben: <BIBL><TITLE>Die Juden und die Mission unter denselben in Polen.</TITLE> Besonders abgedruckt aus den von dem Vereine von Freunden Israels in Basel herausgegebenen, <TITLE>Nachrichten von der Ausbreitung des Reiches Gottes unter Israel.</TITLE> <FORMAT>68 Seiten.</FORMAT> <PRICE>Preis 3 Batzen.</PRICE></BIBL></ITEM>",
+    "number_of_fixes": 1,
+    "explanation": "The <PRIZE> tag was incorrectly spelled. It has been corrected to <PRICE>."
+}

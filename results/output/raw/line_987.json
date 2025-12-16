@@ -1,0 +1,13 @@
+{
+    "text": "{\n\"fixed_xml\": \"<ITEM>32. Die H. Schrift, A. u. N. Testament, reiner Druck, mit den 40 bekannten biblischen Kupfern, welche schon vor 8 Jahren zu eben dieser Bibel-Ausgabe abgedrukt wurden, und zu den Ersten Abdr√ºcken zu z√§hlen sind; eignen sich zu Christnachts- Neujahrs- und Reformations-Geschenken. <BIBL><TITLE>Die H. Schrift, A. u. N. Testament</TITLE>, reiner Druck, mit den 40 bekannten biblischen Kupfern, welche schon vor 8 Jahren zu eben dieser Bibel-Ausgabe abgedrukt wurden, und zu den Ersten Abdr√ºcken zu z√§hlen sind; eignen sich zu Christnachts- Neujahrs- und Reformations-Geschenken. in ganz <FORMAT>Franzband</FORMAT> mit Futteral, <PRIZE>9 Frt.</PRIZE></BIBL> <BIBL><TITLE>Das neue Testament</TITLE> mit 6 K√ºpferchen, in <FORMAT>Taschenformat</FORMAT>, halb <FORMAT>Frankband</FORMAT> mit Futteral <PRIZE>17 Btzn.</PRIZE>, ohne K√ºpferchen <PRIZE>13 Btz.</PRIZE></BIBL> <BIBL><AUTHOR>Danns</AUTHOR> <TITLE>Communion-Buch</TITLE> mit einem sch√∂nen Titel-Kupfer, in passendem <FORMAT>Einband</FORMAT>, <PRIZE>18 Btz.</PRIZE></BIBL> <BIBL><TITLE>Denkschrift des Prediger-Instituts in T√ºbingen</TITLE>, vom Jahr <YEAR>1818</YEAR>; herausg. von Hrn. Do. <AUTHOR>J. F. Bahnmeyer</AUTHOR>, mit <AUTHOR>Ferd. Wekherlins</AUTHOR> Leben, der dasselbe bey einem Besuch am Ende des Jahres 1817 hier in Basel beschlo√ü; mit des Seligen Portr√§it, <PRIZE>9 Btzn.</PRIZE>, ohne Portrait <PRIZE>7 1/2 Btzn.</PRIZE></BIBL> Bey Felix Schneider, Buchdr.</ITEM>\",\n\"number_of_fixes\": 1,\n\"explanation\": \"The XML was missing a closing tag for the <TITLE> element in the first <BIBL> item. This was fixed by adding the missing closing tag.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 597,
+        "output_tokens": 587,
+        "total_tokens": 1184
+    },
+    "duration": 183.23292899131775,
+    "timestamp": "2025-11-05T11:31:44.217998"
+}

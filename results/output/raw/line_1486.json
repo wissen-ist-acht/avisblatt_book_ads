@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>(2121.) Im Verlag von J. F. Steinkopf in Stuttgart ist erschienen und in Bahnmaier's Buchhandlung (C. Detloff) vorr√§thig: <BIBL><TITLE>Das Bild einer treuen Christin. Z√ºge aus dem Leben der Frau Touise Mlundg, zu Chinsurah in Ostindien.</TITLE> Mit einem Vorwort von <AUTHOR>Ma rtha Weit br ech t</AUTHOR> Gattin des Missionars Weitbrecht in Burdwan. <PRICE>Preis: 4 Btz.</PRICE></BIBL></ITEM>\",\n  \"number_of_fixes\": 1,\n  \"explanation\": \"The 'PRICE' tag was incorrectly spelled as 'PRIZE'. This has been corrected to 'PRICE'.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 203,
+        "output_tokens": 191,
+        "total_tokens": 394
+    },
+    "duration": 7.961428880691528,
+    "timestamp": "2025-11-06T11:09:58.315999"
+}

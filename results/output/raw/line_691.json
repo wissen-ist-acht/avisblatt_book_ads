@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>In der Deckerischen Buchhandlung findet man; <BIBL><TITLE>Beckers Allmanach und Taschenbuch zum geselligen Vergn√ºgen</TITLE>, <PRICE>2fl. 40kr.</PRICE></BIBL> <BIBL><TITLE>M√©moires secrets fur la Russie et particuli√®rement fur la fin du r√™gne de Catherine L. et le commencement de celui de Paul 1.</TITLE> formant un tableau des meurs de St. P√™tersbourg √† la fin du R√∂Illeme si√®cle et contenant. nombre d'anecdotes recueillies pendant um s√©jour de dix annees, sur les projets de Catherine √† l'√©gard de son fils, les bizar reries de ce dernier, le mariage manqu√© de la grande duchesse Alexandra avec le Ros de Su√©de, et le caract√©re des principaux personnages de cette cour, et nomm√™ment de Souwarov. Suivies de remarques K√ºr l√©ducation des grands seigneurs, les mceurs des femmes, et la religion du peuple, <VOLUME>2 Vol.</VOLUME> <FORMAT>8.</FORMAT> <PRICE>fl. 3. 20 kr.</PRICE></BIBL> <BIBL><TITLE>Geheime Nachrichten √ºber Ru√üland, unter der Regierung Catharinens H. und Pauls 1.</TITLE> Ein Gem√§lde der Sitten des Petersburger-Hofes gegen das Ende des 18ten Jahrhunderts, <VOLUME>2 B√§nde</VOLUME> der 2te Theil wird in wenig Wochen gratis nachgeliefert, <PRICE>fl. 3. 20 kr.</PRICE></BIBL> <BIBL><AUTHOR>Alins</AUTHOR> <TITLE>Abentheuer von Matthison</TITLE>, <PRICE>40 kr.</PRICE></BIBL> Dasselbe Velin-Papier <PRICE>fl. 1. 20 kr.</PRICE> <BIBL><TITLE>Politique d√©voil√©e de la France, vis- √†- vis de l'Angleterre; conduite de celle-ci depuis l'√©poque de la conf√©rence de Pilnitz jusqu'√† la d√©claration de guerre qui lui a √©t√© faite au m√©pris de sa neutralit√©, confirm√©e par tous les documens authentiques &c.</TITLE> <VOLUME>2 Vol.</VOLUME> in <FORMAT>8.</FORMAT> <PLACE>Londr.</PLACE> <YEAR>799</YEAR>. <PRICE>R. 3. 20 kr.</PRICE></BIBL></ITEM>\",\n  \"number_of_fixes\": 3,\n  \"explanation\": \"The XML was faulty at three places where the closing tag was <PRIZE> instead of <PRICE>. The fixes were done by replacing <PRIZE> with <PRICE>.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 731,
+        "output_tokens": 729,
+        "total_tokens": 1460
+    },
+    "duration": 31.20597004890442,
+    "timestamp": "2025-11-04T14:48:17.534061"
+}

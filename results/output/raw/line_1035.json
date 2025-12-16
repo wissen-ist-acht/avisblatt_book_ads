@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>14. Neuerschienene B√ºcher, zu finden bey J. G. Neukirch auf dem Fischmarkt. <BIBL><TITLE>Hermbst√§dts gemeinn√ºtziger Rathgeber f√ºr den B√ºrger und Landmann</TITLE>, <VOLUME>5r Bd.</VOLUME> mit einem Kpfr. Prs. br. <PRIZE>1fl. 30.</PRIZE></BIBL> <BIBL><TITLE>Le bon Jardinier, Almanach pour 1821.</TITLE> <VOLUME>1Bd.</VOLUME> <FORMAT>8.</FORMAT> <PLACE>Parls.</PLACE> <PRIZE>4fl. 36.</PRIZE></BIBL> <BIBL><TITLE>Die Heimathlosen</TITLE>, von <AUTHOR>J. C. Appenzeller</AUTHOR>, br. <PRIZE>20 kr.</PRIZE></BIBL> <BIBL><TITLE>Les gens sans patrie</TITLE>, trad. de l'allem. de <AUTHOR>Appenzeller</AUTHOR>, broch√© <PRIZE>20 kr.</PRIZE></BIBL> <BIBL><TITLE>Beschreibung eines Stubenheitz- und RocHosens, der bereits seit mehrern Jahren in Leipzig als der vortheilhafteste er- probt worden ist</TITLE>, mit 1 Abbildung von <AUTHOR>F. Pohl</AUTHOR>, <FORMAT>8.</FORMAT> br. <PRIZE>40 kr.</PRIZE></BIBL> Auch sind von folgenden Werken wieder Exemplare zu haben: <BIBL><TITLE>Schule der Wund√§rzneykunst, ein Leitfaden zum zweckm√§sigen Unterricht f√ºr Lehrlinge</TITLE>, <VOLUME>1r Bd.</VOLUME> <PRIZE>2 fl.</PRIZE></BIBL> <BIBL><AUTHOR>J. L. Burkhards</AUTHOR> <TITLE>Reise in Nublen</TITLE>, mit 3 Karten und Portrait. <PRIZE>7fl. 30.</PRIZE></BIBL></ITEM>\",\n  \"number_of_fixes\": 3,\n  \"explanation\": \"There were three faulty XML tags in the original text. The closing tags for the 'PRIZE' elements were incorrectly written as 'PRICE'. These have been corrected in the 'fixed_xml'.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 564,
+        "output_tokens": 573,
+        "total_tokens": 1137
+    },
+    "duration": 19.413929224014282,
+    "timestamp": "2025-11-05T14:14:12.589750"
+}

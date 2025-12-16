@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>Im Bischoffischen Buchladen ist zu haben: <BIBL><AUTHOR>Dr. S. F. Lorenzen</AUTHOR>'s <TITLE>Pa√üionsnndachten</TITLE>, <FORMAT>8</FORMAT> <PRIZE>30 kr.</PRIZE></BIBL> <BIBL><AUTHOR>Kyburzen</AUTHOR>'s <TITLE>vollst√§ndiges Pa√üionsbuch</TITLE>, mit <FORMAT>Kupfern</FORMAT>, <PRIZE>80 fl.</PRIZE> i. dito <PRIZE>Schreibpap. fl. 1. 20 kr.</PRIZE></BIBL> <BIBL><AUTHOR>Keller</AUTHOR>, <TITLE>gegen den Aberglauben</TITLE>, <FORMAT>8</FORMAT> <PLACE>Stutgard</PLACE> <YEAR>1786</YEAR>. <PRIZE>fl. 1. 30 kr.</PRIZE></BIBL> <BIBL><AUTHOR>Abel</AUTHOR>'s <TITLE>Quellen der menschlichen Vorstellungen</TITLE>, <FORMAT>8</FORMAT> <YEAR>1786</YEAR>. <PRIZE>fl. 1. 12 kr.</PRIZE></BIBL> <BIBL><AUTHOR>Dessen</AUTHOR> <TITLE>Einleitung in die Seelenlehre</TITLE>, <FORMAT>8</FORMAT> <YEAR>1786</YEAR>. <PRIZE>fl. 2.</PRIZE></BIBL> <BIBL><TITLE>Das Merkw√ºrdigste aus den besten Beschreibungen vom Vorgeb√ºrge der guten Hoff- Hoffnung, und dem Innern von Afrika Íùõc.</TITLE>, <FORMAT>8</FORMAT> <YEAR>1787</YEAR>. <PRIZE>fl. 1. 15 kr.</PRIZE></BIBL> <BIBL><AUTHOR>St√§ublin</AUTHOR>'s <TITLE>Beytr√§ge zur Erl√§uterung der biblischen Propheten, und zur Geschichte ihrer Auslegung</TITLE>, <FORMAT>8</FORMAT> <YEAR>1786</YEAR>. <PRIZE>fl. 1. 12 kr.</PRIZE></BIBL> <BIBL><AUTHOR>Moses Mendels. sohn</AUTHOR>, <TITLE>der weise, und der Mensch, ein lhrisch-didactisches Gedicht</TITLE> von <AUTHOR>Con3</AUTHOR>, <FORMAT>8vo.</FORMAT> <YEAR>1787</YEAR> <PRIZE>54 kr.</PRIZE></BIBL> <BIBL><AUTHOR>Schmalzried</AUTHOR>'s <TITLE>voltstandige Anleitung zur Reesischen Rechnung</TITLE>, <FORMAT>8vo.</FORMAT> <YEAR>1786</YEAR>. <PRIZE>fl. 1.</PRIZE></BIBL> <BIBL><TITLE>Schweitzerische Volkslieder, mit Melodien von Hrn. Egli und Walder</TITLE>, gro√ü <FORMAT>4to.</FORMAT> auf wei√ü Papier, <PLACE>Z√ºrich</PLACE> <YEAR>1788</YEAR>. <PRIZE>fl. 1. 40 kr.</PRIZE></BIBL> <BIBL><TITLE>Schweitzerlieder</TITLE>, gro√ü <FORMAT>4to.</FORMAT> <VOLUME>2Theile</VOLUME>, mit <FORMAT>Mustt</FORMAT>, <YEAR>1775</YEAR> und <YEAR>1787</YEAR>. <PRIZE>fl. 4.</PRIZE></BIBL></ITEM>\",\n  \"number_of_fixes\": 0,\n  \"explanation\": \"The provided XML is well-formed and does not require any fixes.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 899,
+        "output_tokens": 880,
+        "total_tokens": 1779
+    },
+    "duration": 29.67720103263855,
+    "timestamp": "2025-11-02T20:47:49.098926"
+}

@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>24. Bey Hrn. Bolli, Buchbinder auf dem Kornmarkt, ist zu haben: <BIBL><TITLE>Helvetischer Kalender f√ºr das Jahr 1796</TITLE>, in Safian gebunden, wie auch broschirt.</BIBL> <BIBL><TITLE>Revolutions- Gallerie der franz√∂sischen Republik</TITLE>, <VOLUME>4tes und letztes Heft</VOLUME>. <PRICE>30 kr.</PRICE> alle <VOLUME>4 Heft</VOLUME> von dieser merkw√ºrdigen Schrift √† <PRICE>fl. 2.</PRICE></BIBL> <BIBL><TITLE>Auszuge aus des sel. Ordinarii der evang. Bruderkirche sowohl ungedruckten als gedruckten Reden √ºber biblische Terte</TITLE>, <VOLUME>7 Thle.</VOLUME> geb. √† <PRICE>fl. 7.</PRICE></BIBL> <BIBL><AUTHOR>Feers</AUTHOR> <TITLE>arithmetisches Lexicon oder Tarif gen√©ral von schon gemachten und ausgearbeiteten Rechnungen sowohl in Reichs- als franz√∂sischem und Schweizergeld Íùõc.</TITLE>, <VOLUME>2 Bde.</VOLUME> in lang <FORMAT>4.</FORMAT> <PRICE>fl. 5. 20 kr.</PRICE></BIBL> <BIBL><TITLE>Le Paradis perdu, de Milion, po√´me h√©roique</TITLE>, <VOLUME>3 Thle.</VOLUME> in <FORMAT>Franzband</FORMAT>. <PRICE>fl. 2.</PRICE></BIBL> <BIBL><AUTHOR>Fr. Boileau Despreaux</AUTHOR> <TITLE>Oeu vres diverses</TITLE> mit <TITLE>fig.</TITLE>, <VOLUME>2 vol.</VOLUME> in <FORMAT>Franzband</FORMAT>. <PRICE>fl. 2.</PRICE></BIBL> <BIBL><TITLE>Die Begebenheiten des Telemachs</TITLE>, in deutsche Verse gebracht von <AUTHOR>B. Ne√ºkirch</AUTHOR>, mit <TITLE>Kpf.</TITLE>, <VOLUME>3 Thle.</VOLUME> <PRICE>fl. 2. 30 kr.</PRICE></BIBL></ITEM>\",\n  \"number_of_fixes\": 3,\n  \"explanation\": \"The 'PRIZE' tags were incorrectly spelled and have been corrected to 'PRICE'. This fix was applied 3 times in the XML.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 632,
+        "output_tokens": 616,
+        "total_tokens": 1248
+    },
+    "duration": 23.232281923294067,
+    "timestamp": "2025-11-04T13:59:39.938610"
+}

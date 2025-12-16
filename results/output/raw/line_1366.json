@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>30. Bei Unterzeichnetem sind folgende B√ºcher um beigesetzte bilige Preise zu haben: <BIBL><TITLE>Kantonsbl√§tter</TITLE> von <YEAR>1798- 1823</YEAR>, <PRIZE>Btz. 80</PRIZE></BIBL>. <BIBL><AUTHOR>Homeri</AUTHOR> <TITLE>Hlias</TITLE>, <VOLUME>2 Bde.</VOLUME> Leipziger Stercotyp- Ausgabe und <AUTHOR>Fenophontis</AUTHOR> <TITLE>memorabilia</TITLE>, <PRIZE>Btz. 8</PRIZE></BIBL>. <BIBL><AUTHOR>Rost</AUTHOR> <TITLE>griechische Grammatik</TITLE>, <PRIZE>Btz. 15</PRIZE></BIBL>. <BIBL><AUTHOR>Sailers</AUTHOR> <TITLE>Schullehrer-Bibel</TITLE>, <VOLUME>8 Bde.</VOLUME> <PRIZE>Btz. 45</PRIZE></BIBL>. <BIBL><TITLE>Der Friedensbote</TITLE>, noch neu, <VOLUME>2 Thle.</VOLUME> <PRIZE>Btz. 35</PRIZE></BIBL>. <BIBL><AUTHOR>Gryn√§us</AUTHOR> <TITLE>Die heilige Schrift</TITLE>, <PRIZE>Btz. 3, Hlbfrzbd. Btz. 26</PRIZE></BIBL>. <BIBL><TITLE>Berleburger- Bibel altes Test.</TITLE>, <PRIZE>Btz. 80</PRIZE></BIBL>. <BIBL><TITLE>Merkw√ºrdigkeiten der Stadt Basel</TITLE>, <VOLUME>17 Stk.</VOLUME> <PRIZE>Btz. 60</PRIZE></BIBL>. <BIBL><TITLE>Allgen e ne Reisebeschreibung</TITLE>, <VOLUME>12 Bde.</VOLUME> <PRIZE>Btz. 45</PRIZE></BIBL>. <BIBL><AUTHOR>Bredows</AUTHOR> <TITLE>Weltbegebenheit.</TITLE>, <PRIZE>Btz. 8</PRIZE></BIBL>. <BIBL><AUTHOR>Gutsmuths</AUTHOR> <TITLE>Gymnastik</TITLE> mit <TITLE>Kupfer</TITLE>, <PRIZE>Btz. 15</PRIZE></BIBL>. <BIBL><AUTHOR>Schmidlins</AUTHOR> <TITLE>Ges√§nge</TITLE>, <PRIZE>Btz. 8</PRIZE></BIBL>. <BIBL><AUTHOR>Meidingers</AUTHOR> <TITLE>franz√∂sische Grammatik</TITLE>, <PRIZE>Btz. 16</PRIZE></BIBL>. <BIBL><AUTHOR>Schl√∂tzer</AUTHOR> <TITLE>Histoire universelle</TITLE> par, <PRIZE>Bz. 8</PRIZE></BIBL>. <BIBL><AUTHOR>Schellers</AUTHOR> <TITLE>klesines lat. W√∂rterbuch</TITLE>, <PRIZE>Btz. 8</PRIZE></BIBL>. <BIBL><AUTHOR>Heinsius</AUTHOR> <TITLE>deutsche Sprachlehre</TITLE>, <PRIZE>Btz. 8</PRIZE></BIBL>. <BIBL><AUTHOR>Chr. Munzinger</AUTHOR>, <TITLE>Buchbinder, St. Martin</TITLE></BIBL>.</ITEM>\",\n  \"number_of_fixes\": 7,\n  \"explanation\": \"The 'PRICE' tags were incorrect and have been fixed to 'PRIZE'. Also, the last 'AUTHOR' and 'TITLE' tags were not enclosed within a 'BIBL' tag, which has been corrected.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 874,
+        "output_tokens": 906,
+        "total_tokens": 1780
+    },
+    "duration": 25.089555978775024,
+    "timestamp": "2025-11-06T09:48:46.425556"
+}

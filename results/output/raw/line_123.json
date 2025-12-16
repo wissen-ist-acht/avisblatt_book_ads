@@ -1,0 +1,13 @@
+{
+    "text": "{\n\"fixed_xml\": \"<ITEM>Im Bischoffischen Buchladen ist zu haben : <BIBL><AUTHOR>Cramers</AUTHOR> <TITLE>geistliche Oden und Lieder</TITLE>, mit Musit von <AUTHOR>Schmidlin</AUTHOR>, <FORMAT>4to.</FORMAT> <PLACE>Z√ºrich</PLACE> <YEAR>1767</YEAR>. auf Schreib-wei√ü und Druck-Papyr √† <PRIZE>36. 30</PRIZE> und <PRIZE>24 xr.</PRIZE></BIBL> <BIBL><AUTHOR>Gellerts</AUTHOR> <TITLE>geistl. Oden und Lieder</TITLE> mit Musit von <AUTHOR>Schmidlin</AUTHOR>, <FORMAT>4to</FORMAT> auf Schreibund Druck-Papyr, √† <PRIZE>fl 12 15 xr.</PRIZE> und <PRICE>45 xr.</PRICE></BIBL> <BIBL><AUTHOR>J√∂chers</AUTHOR> <TITLE>Gelehrten-Lexicon</TITLE>, <VOLUME>2 Theil</VOLUME>, <PLACE>Leipz.</PLACE> geb. √† <PRIZE>fl 2- 40 xr.</PRIZE></BIBL> <BIBL><AUTHOR>Hederici</AUTHOR> <TITLE>Lexicon manuale latino- germanicum</TITLE>; <VOLUME>2 Tomi</VOLUME>, <PLACE>Lips.</PLACE> geb. √† <PRIZE>fl 4.</PRIZE></BIBL> <BIBL><AUTHOR>Surceri</AUTHOR> <TITLE>Lexicon graeco-latinum, &c.</TITLE> <FORMAT>4to.</FORMAT> geb. √† <PRIZE>fl 2.</PRIZE></BIBL></ITEM>\",\n\"number_of_fixes\": 3,\n\"explanation\": \"The XML was fixed by correcting the closing tags for the PRIZE elements. In three instances, the closing tags were incorrectly written as </PRICE> instead of </PRIZE>. The number of fixes refers to these three corrected tags.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 471,
+        "output_tokens": 483,
+        "total_tokens": 954
+    },
+    "duration": 14.636422872543335,
+    "timestamp": "2025-10-31T11:58:59.350302"
+}

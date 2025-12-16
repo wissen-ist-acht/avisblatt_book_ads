@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>37. Bey J. W√ºrz sind folgende sehr wohlfeile B√ºcher in Commission zu haben: <BIBL><AUTHOR>Stapfers</AUTHOR> <TITLE>Grundlegung zur wahren Religion</TITLE>, <VOLUME>12 Bde</VOLUME> in <FORMAT>8.</FORMAT> in <FORMAT>Perg.</FORMAT> √† <PRIZE>5 fl.</PRIZE></BIBL> <BIBL><AUTHOR>Speners (P. I.)</AUTHOR> s√§mmtliche <TITLE>Leichpredigten</TITLE>, <VOLUME>1; Bde</VOLUME> <FORMAT>4. R. E.</FORMAT> <FORMAT>Perg.</FORMAT> <PRIZE>4 fl. 30.</PRIZE></BIBL> <BIBL><AUTHOR>Schmidt</AUTHOR> von den <TITLE>M√ºnz sorten</TITLE>, <FORMAT>4.</FORMAT> <FORMAT>Frzbd.</FORMAT> <PRIZE>1 fl.</PRIZE></BIBL> <BIBL><AUTHOR>Schnaubert</AUTHOR>, vom <TITLE>Lehenrecht</TITLE>, <FORMAT>4.</FORMAT> <PRICE>fl. 20. kr.</PRICE></BIBL> <BIBL><AUTHOR>Hoes</AUTHOR> <TITLE>biblisches Real Lexikon</TITLE>, <VOLUME>4 B√§nde</VOLUME>, <FORMAT>4.</FORMAT> <PRIZE>2 fl. 30. kr.</PRIZE></BIBL> <BIBL><TITLE>Eine sch√∂ne Mangoldische Bibel</TITLE> in <FORMAT>Leder und Schlo√ü</FORMAT>, √† <PRIZE>10 fl. 40 kr.</PRIZE></BIBL> <BIBL><AUTHOR>Dr. Luthers</AUTHOR> <TITLE>biblisches Spruch- und Schatzk√§stlein</TITLE>, <VOLUME>3 Thl.</VOLUME> <FORMAT>Taschenformat</FORMAT>, <PRIZE>32 kr.</PRIZE></BIBL></ITEM>\",\n  \"number_of_fixes\": 1,\n  \"explanation\": \"The XML tag for price was incorrectly written as 'PRIZE' in one instance. It was corrected to 'PRICE'.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 546,
+        "output_tokens": 537,
+        "total_tokens": 1083
+    },
+    "duration": 19.308374643325806,
+    "timestamp": "2025-11-04T15:11:23.443013"
+}

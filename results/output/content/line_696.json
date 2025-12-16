@@ -1,0 +1,5 @@
+{
+    "fixed_xml": "<ITEM>35. Eine <BIBL><TITLE>Mangoldische Bibel</TITLE></BIBL> in Schweinleder, eine <BIBL><AUTHOR>Battierische</AUTHOR> <TITLE>Bibel</TITLE></BIBL> mit <BIBL><TITLE>Merianischen Kupfern</TITLE></BIBL>, Original-Edition, in Schweinleder, nebst unterschiedlichen andern B√ºchern in Commission bey Samson, Buchbinder.</ITEM>",
+    "number_of_fixes": 1,
+    "explanation": "The third title tag 'Merianischen Kupfern' was not enclosed within a BIBL tag. This has been fixed by adding the missing BIBL tags around it."
+}

@@ -1,0 +1,5 @@
+{
+    "fixed_xml": "<ITEM>2 So eben ist erschienen und in allen Buchhandlungen zu haben, in Basel bei C. F. Spittler u. Comp, Freiestra√üe No. 1179: <BIBL><TITLE>Der wohlerfahrene Hefenf abrikan t, oder gr√ºndliche Anweisung, die Holl√§ndische Pre√ühefe nach einer verbesserten und sehr vortheilhaften Methode zu bereiten, sowie auch die besten Arten fl√ºssiger Hefen, die bei der Wei√üb√§ckerei angewandt werden, auf eine leichte Weise und mit unbedeutenden Kosten zu jeder Zeit selbst zu verfertigen, die Hefen zu pr√ºfen, ob sie gut sind, sie aufzubewahren, und schlechte oder verdorbene Hefen wieder brauchbar zu machen. Nebst Anweisung zur Bereitung k√ºnstlicher Hefen oder G√§hrungsmittel f√ºr Branntweinbrennereien.</TITLE> Auf Erfahrung gegr√ºndet, und sowohl theoretisch als praktisch dargestellt von <AUTHOR>August Lehmann</AUTHOR>, <FORMAT>8.</FORMAT> <PRICE>9 Btz.</PRICE></BIBL></ITEM>",
+    "number_of_fixes": 1,
+    "explanation": "The tag <PRIZE> was incorrectly spelled and has been corrected to <PRICE>."
+}

@@ -1,0 +1,5 @@
+{
+    "fixed_xml": "<ITEM>11. <BIBL><TITLE>Geschichtliche Denkw√ºrdigkeiten u. Seltenheiten der Natur, durch Kupferbl√§tter anschaulich gemacht und f√ºr alle St√§nde zum Nutzen und Vergnugen fa√ülich beschrieben</TITLE>. Unter diesem Titul wird monatlich ein St√ºck von 2 Bogen mit 2 colorirten Kupfern in <FORMAT>gr. 8</FORMAT> mit einem Umschlag erscheinen, durch sein Interesse sowohl, als durch seinen billigen Prei√ü wird sich dieses Journal vortheilhaft auszeichnen. <VOLUME>12 Hefte</VOLUME> werden einen <VOLUME>Band</VOLUME> bilden und mit <TITLE>Titel</TITLE> und <TITLE>Register</TITLE> versehen.</BIBL> Liebhaber die n√§here Kenntni√ü davon w√ºnschen, k√∂nnen das erste Heft bey <AUTHOR>Heinrich Haag</AUTHOR> einsehen, wo Subscription angenommen wird, das Heft zu <PRICE>24kr.</PRICE> mit schwarzen Kpfrn. <PRICE>18 kr.</PRICE> Die Subscription ist nur auf einen <VOLUME>Band</VOLUME> verbindlich, und wird am Schlu√ü desselben solches fortzusetzen, jedem Liebhaber frey gestellt.</ITEM>",
+    "number_of_fixes": 1,
+    "explanation": "The tag <PRIZE> was incorrect and has been replaced with the correct tag <PRICE>."
+}

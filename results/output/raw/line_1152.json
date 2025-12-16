@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>22. Ne ueB√º ch er in der Schweighauser'schen Buchhandlung. <BIBL><TITLE>Leben von Rapoleon Buonaparte, mit einer Uebersicht der franz√∂sischen Revolution</TITLE>, v. <AUTHOR>Walter Scott</AUTHOR>. Aus dem Engl. √ºbersetzt vom <AUTHOR>General J. v. Theobald</AUTHOR>. <VOLUME>6 Thle.</VOLUME> mit Portraits. <FORMAT>12.</FORMAT> <PLACE>Stuttg.</PLACE> geh. <PRIZE>Fr. 2. 7. Btz.</PRIZE></BIBL> <BIBL><TITLE>Gedichte</TITLE> von <AUTHOR>Fr. B. de la Motte Fouqu√©</AUTHOR>. <VOLUME>5r Band</VOLUME>. <FORMAT>8.</FORMAT> <PLACE>Stuttg.</PLACE> <PRIZE>Fr. 3. 7 Btz.</PRIZE></BIBL> <BIBL><TITLE>Neuer Nekrolog der Deutschen</TITLE>. <VOLUME>3r Jahrgang (1825)</VOLUME> in <VOLUME>2 B√§nden</VOLUME>. <FORMAT>8.</FORMAT> <PLACE>Ilm.</PLACE> geh. <PRIZE>Fr. 15.</PRIZE></BIBL> <BIBL><TITLE>Auch ich war im Heinrichsbade</TITLE>, von <AUTHOR>R. H. F. v. Z.</AUTHOR>. <FORMAT>8.</FORMAT> <PLACE>Luzern</PLACE>, geh. <PRIZE>4 Btz.</PRIZE></BIBL> <BIBL><TITLE>Auswahl der sch√∂nsten Lieder und Ges√§nge f√ºr fr√∂hliche Gesellschaften</TITLE>, gesammelt u. herausgegeben von <AUTHOR>J. M. Bauer</AUTHOR>. <VOLUME>3te stark vermehrte Aufl.</VOLUME> <FORMAT>8.</FORMAT> <PLACE>N√ºrnb.</PLACE> geb. <PRIZE>Fr. 1. 8 Btz.</PRIZE></BIBL> Bis Ende Augusts erscheint ein wohlgefroffenes sch√∂nes Portrait der ber√ºhmten deutschen S√§ngerin <AUTHOR>Henriette Sonntag</AUTHOR>, gemalt von <AUTHOR>J. H√ºbner</AUTHOR> u. gestochen von <AUTHOR>J. Caspar Ceinem</AUTHOR> ausgezeichneten Sch√ºler <AUTHOR>Lonahi's</AUTHOR>. In gro√ü <FORMAT>folio</FORMAT> auf das sch√∂nste Velinpapier abgedruckt. Auf diese vorz√ºglichste aller bisher erschienenen Abbildungen der gefeyerten S√§ngerin, nehmen wir Subscription an. Der Preis eines erpl. vor der Schrift ist <PRIZE>Fr. 9.</PRIZE> Mit der Schrift <PRIZE>Fr. 6.</PRIZE></ITEM>\",\n  \"number_of_fixes\": 2,\n  \"explanation\": \"The XML element <PRICE> was incorrectly closed with </PRICE> in two places. It was corrected to <PRIZE>.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 769,
+        "output_tokens": 767,
+        "total_tokens": 1536
+    },
+    "duration": 22.896456956863403,
+    "timestamp": "2025-11-05T15:07:30.117474"
+}

@@ -1,0 +1,5 @@
+{
+    "fixed_xml": "<ITEM>(3679.) <BIBL><TITLE>Biblische Geschichte f√ºr den Jugendunterricht</TITLE>, zweite Auflage, <PLACE>Basel</PLACE> <YEAR>1836</YEAR></BIBL>. <BIBL><TITLE>Deutsches Lesebuch</TITLE> von <AUTHOR>Dr. K. E. P. Wackernagel</AUTHOR>.<DESCRIPTION> Diese B√ºcher sind so viel als neu und im Berichthaus zur Einsicht. </DESCRIPTION>(3680.)<DESCRIPTION> Ein Sto√ü von grauem Pelz, im Berichthaus zur Einsicht.</DESCRIPTION></ITEM>",
+    "number_of_fixes": 1,
+    "explanation": "The text 'Diese B√ºcher sind so viel als neu und im Berichthaus zur Einsicht.' and 'Ein Sto√ü von grauem Pelz, im Berichthaus zur Einsicht.' were not enclosed in any xml tags. I have added 'DESCRIPTION' tags around them."
+}

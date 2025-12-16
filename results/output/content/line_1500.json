@@ -1,0 +1,5 @@
+{
+    "fixed_xml": "<ITEM>Anerbieten 098.) zum Umtausch kr√ºherer Auflagen des Couver sations-Lexikons gegen die neueste 9te Auflage. Herr J. A. Brockhaus in Leipzig anerbietet sich, jede fr√ºhere Auflage des Conversations-Lexikons gegen die neueste neunte zur√ºckzunehmen, in welchem Stande sie sich auch befinden m√∂gen, und stellt den Besitzern frei: 1) Die 4 ersten B√§nde der neuen Auflage, die 14 Schweizerfranken kosten, unentgeldlich zu empfangen, oder 2) den Gegenwerth des vollen Ankaufspreises aus seinem werthvollen Verlage zu w√§hlen. <BIBL><TITLE>Conversations-Lexikons</TITLE> <VOLUME>9te Auflage</VOLUME></BIBL>. Die Unterzeichnete wird mit Vergn√ºgen den Umtausch besorgen und den Ka- <BIBL><AUTHOR>Schweighauser'sche Buchhandlung</AUTHOR></BIBL> tolog nebst Bedingungen mittheilen.</ITEM>",
+    "number_of_fixes": 1,
+    "explanation": "The BIBL tag was closed too early, before the VOLUME tag. It should encompass both the TITLE and VOLUME tags. One fix was made to correct this."
+}

@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>2. Bey Hr. Scholer, Buchbinder auf der Rheinbruck, ist zu haben: <BIBL><TITLE>Beschreibung der bedenklichen Verw√ºstung der ber√ºhmten Stadt Gera im Voigtlande, wie auch Ausz√ºge aus Briefen, und Gedanken √ºber diese merkw√ºrdige Begebenheit</TITLE>, das Eremplar √† <PRIZE>4 b5.</PRIZE></BIBL>, auch wiederum von den <BIBL><TITLE>Predigten √ºber diesen Brand</TITLE>, √† <PRIZE>4 b3.</PRIZE> das Erempl.</BIBL> <BIBL><AUTHOR>Ciceronis</AUTHOR> <TITLE>Opera omnia cum not. Oliveti</TITLE>, <VOLUME>9 Voll.</VOLUME> <PRIZE>40.</PRIZE></BIBL> <BIBL><AUTHOR>Priestley</AUTHOR> <TITLE>Geschichte der Electricit√§t</TITLE>, mit <FORMAT>Kupf.</FORMAT> in <PRIZE>40.</PRIZE> in billigem Preis zu haben, nebst ein paar Pistolen; auch isteme B√ºcher-Nota einzusehen.</BIBL></ITEM>\",\n  \"number_of_fixes\": 1,\n  \"explanation\": \"The XML was almost well-formed. The only error was a mismatched tag. The opening tag <PRIZE> was incorrectly closed with </PRICE>. The closing tag was corrected to </PRIZE> to match the opening tag.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 354,
+        "output_tokens": 368,
+        "total_tokens": 722
+    },
+    "duration": 9.441098928451538,
+    "timestamp": "2025-11-02T10:00:02.288582"
+}

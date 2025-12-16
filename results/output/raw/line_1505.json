@@ -1,0 +1,13 @@
+{
+    "text": "{\n\"fixed_xml\": \"<ITEM>Bei J. Meyri, Antiquar, in No. 110 A am Lindenberg ist zu haben: <BIBL><AUTHOR>Henschel</AUTHOR> <TITLE>Diction. franc. all. & all.fr.</TITLE>, <VOLUME>2 starke Bde.</VOLUME>; <FORMAT>gr. 8 sch√∂n Halbfz.</FORMAT> (<PRICE>Ladenpreis Fr. 22. 50 Rp.</PRICE>) <PRICE>Fr. 10. 50 Rp.</PRICE></BIBL> <BIBL><AUTHOR>Thibaut</AUTHOR> <TITLE>Dict. fr.- all. & all. fr.</TITLE> <FORMAT>Hlbfrzbd.</FORMAT> <PRICE>Fr. 3. 50 Rp.</PRICE></BIBL> <BIBL><AUTHOR>Lay</AUTHOR> <TITLE>Dict. de Poche, fr.-all & all.fr., r√©dig√© dapres Martin, Mozin, Thibaut & l'Academie franc.</TITLE>, <FORMAT>broch.</FORMAT> neu (<PRICE>Ladenpreis Fr. 3. 50 Rp.</PRICE>) <PRICE>Fr. 2.</PRICE></BIBL> <BIBL><TITLE>Basler-Gesangb√ºcher</TITLE> mit <FORMAT>grobem Druck, cart.</FORMAT> neu, <PRICE>pr. St√ºck √† Fr. 60 Rp.</PRICE></BIBL> <BIBL><AUTHOR>Renophon</AUTHOR><TITLE>Anabasis</TITLE>, <FORMAT>br.</FORMAT> √† <PRICE>Fr. . 35 Rp.</PRICE></BIBL> <BIBL><AUTHOR>Livius</AUTHOR>, <VOLUME>6 B√§nde</VOLUME>, <PUBLISHER>Tauchnitz</PUBLISHER>, <FORMAT>br.</FORMAT> √† <PRICE>Fr. 2 -</PRICE></BIBL> <BIBL><TITLE>Tausend und eine Nacht</TITLE>, <VOLUME>4 B√§nde</VOLUME> mit <NUMBER>160 Holzschn.</NUMBER> <FORMAT>cart.</FORMAT> √† <PRICE>Fr. 4 -</PRICE></BIBL> Ferner habe fortw√§hrend Maculatur in Velin-, Schreib- und Druckpapier verschiedenen Formats biligst zu verkaufen.</ITEM>\",\n\"number_of_fixes\": 3,\n\"explanation\": \"The XML tags <PRIZE> were replaced with the correct <PRICE> tags in three places.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 621,
+        "output_tokens": 598,
+        "total_tokens": 1219
+    },
+    "duration": 16.58124017715454,
+    "timestamp": "2025-11-06T11:16:47.814343"
+}

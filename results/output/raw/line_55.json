@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>19. Bey Hrn. Johannes Meyerr, Buchdrucker an der Gerbergasse ist wieder frisch zu haben, <BIBL><TITLE>Von dem Hohdurgischen Gicht-Fieber-Gifft- Catharr- und Brust-aufl√∂senden Wund-Kra√ºter-Thee</TITLE> √† <PRICE>5. kr. und 8. Rappen.</PRICE></BIBL> Item: <BIBL><TITLE>Bl√ºmlin- oder Brust-Thee</TITLE> das Paquet √† <PRICE>2. Batzen;</PRICE></BIBL> Item, <BIBL><TITLE>Edel-Brust-Thee</TITLE> das Paquet √† <PRICE>22. Rappen;</PRICE></BIBL> Item, <BIBL><TITLE>sauft-k√ºhlender Flu√ü- Rauch-Taback</TITLE> das Paquet √† <PRICE>2. √ü.</PRICE></BIBL> Item, <BIBL><TITLE>ein bew√§hrtes Pulver f√ºr die dicken H√§ls und Kr√∂pf</TITLE> das Paquet √† <PRICE>3. Batzen;</PRICE></BIBL> Item, <BIBL><TITLE>Romanische Larier-Pillen, welche die angesetzte Geschwulst und Wassersucht auflbsen</TITLE>, die Prise √† <PRICE>10. kr.</PRICE> samt Attestat;</BIBL> Item, <BIBL><TITLE>Schneeberger Haubt. Flu√ü-Schnupf-Pulver</TITLE>, das L√§dlin √† <PRICE>2. √ü.</PRICE></BIBL> Item, <BIBL><TITLE>ein rarer delicater orientalischer Blumen, der wehret den kalten Flu√ü- Fieberen</TITLE>, das Paquet √† <PRICE>6. kr.</PRICE></BIBL> Item, <BIBL><TITLE>extra wohl riechender orientalischer Cephalique oder Bl√ºmlin-Taback, welcher das verstockte Blut und Fl√ºsse im Haubt aufl√∂set</TITLE>, das Paquet <PRICE>6. kr.</PRICE> und <PRICE>12. kr.</PRICE></BIBL> Item, <BIBL><TITLE>extra wohl riechender orientalischer grenirter Bl√ºmlin-Taback, so eine subtile durchtringende Krafft hat, die Fl√ºsse im Haubt aufzul√∂sen</TITLE>, das Paquet <PRICE>2. √ü.</PRICE> √† <PRICE>2. Batzen;</PRICE></BIBL> Item, <BIBL><TITLE>die ber√ºhmte Stahls Haubt-Pillen, welche aufl√∂sen, und Gifft, Galle und Schleim ausf√ºhren</TITLE>, das L√§dlin √† <PRICE>3. Batzen.</PRICE></BIBL> Zu jedem Stuck wird ein gedruckter Zedel beygelegt, woraus das Mehrere zu ersehen.</ITEM>\",\n  \"number_of_fixes\": 6,\n  \"explanation\": \"All instances of the <PRIZE> tag were replaced with the correct <PRICE> tag. There were 6 instances of this error.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 832,
+        "output_tokens": 806,
+        "total_tokens": 1638
+    },
+    "duration": 24.129223108291626,
+    "timestamp": "2025-10-30T17:43:57.421094"
+}

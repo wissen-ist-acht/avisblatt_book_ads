@@ -1,0 +1,13 @@
+{
+    "text": "{\n\"fixed_xml\": \"<ITEM>In der Schweighauserischen Buchhandlung ist zu haben: <BIBL><TITLE>Ephemerides astronomicae ad An. 1781.</TITLE> calculatae a <AUTHOR>Manim Hell</AUTHOR>, <FORMAT>8.</FORMAT> <YEAR>1780.</YEAR> <PRIZE>fl. 1. Er. 30</PRIZE></BIBL> <BIBL><AUTHOR>Homme</AUTHOR> elinische Versuche, <TITLE>Krankengeschichte und Leichen- √∂ffnungen</TITLE>, <FORMAT>8.</FORMAT> <YEAR>1781.</YEAR> <PRIZE>fl. 2. kr. 16.</PRIZE></BIBL> <BIBL><AUTHOR>Irwin</AUTHOR>s <TITLE>Beschreibung einer Reise auf dem rothen Meer, auf der arabischen und √§gyptischen K√ºste, und durch die thebaische W√ºste</TITLE>, mit <FORMAT>Kupf.</FORMAT> <FORMAT>8.</FORMAT> <YEAR>1781.</YEAR> <PRIZE>fl. 2. kr. 24.</PRIZE></BIBL> <BIBL><AUTHOR>Jacobssohns</AUTHOR> <TITLE>technologisches W√∂rterbuch der Manufacturen, K√ºnste 1. Handwerker</TITLE>, <VOLUME>1ter Band</VOLUME>, <FORMAT>gr. 4.</FORMAT> <YEAR>1781.</YEAR> <PRIZE>fl. 6.</PRIZE></BIBL> <BIBL><AUTHOR>Euler</AUTHOR>s <TITLE>Theorie der Planeten und Cometen</TITLE>, von <AUTHOR>Pacca√üi</AUTHOR>, mit <FORMAT>Tabellen</FORMAT> und <FORMAT>Anhang</FORMAT> vermehrt, <FORMAT>4.</FORMAT> <YEAR>1781.</YEAR> <PRIZE>fl. 2.</PRIZE></BIBL> <BIBL><AUTHOR>Cramer</AUTHOR>s <TITLE>Unterhaltungen zur Bef√∂rderung der h√§uslichen Gl√ºckseligkeit</TITLE>, <FORMAT>8.</FORMAT> <YEAR>1781.</YEAR> <PRIZE>fl. 2. kr.216.</PRIZE></BIBL> <BIBL><TITLE>Neue Welt- und Menschengeschichte</TITLE>, mit <AUTHOR>Zus√§tzen von Hi√üman</AUTHOR>, mit <FORMAT>Landehart.</FORMAT> <VOLUME>2 Theile</VOLUME>, <FORMAT>8.</FORMAT> <YEAR>1781.</YEAR> <PRIZE>fl. 5.</PRIZE></BIBL> <BIBL><AUTHOR>Nicolai</AUTHOR> <TITLE>Gedichte</TITLE>, <VOLUME>6ter Band</VOLUME>, <FORMAT>8.</FORMAT> <YEAR>1781.</YEAR> <PRIZE>fl. 1.</PRIZE></BIBL> <BIBL><TITLE>Loren; Marcel, oder der Beobachter ohne Vorurtheil</TITLE>, <VOLUME>1ter Theil</VOLUME>, <FORMAT>8.</FORMAT> <YEAR>1781.</YEAR> <PRIZE>fl. 1. kr. 48.</PRIZE></BIBL> <BIBL><TITLE>Lebens-Geschichte der Kayserin Mar. Theresia</TITLE>, <FORMAT>8.</FORMAT> <YEAR>1781.</YEAR> <PRIZE>fl. 1.</PRIZE></BIBL> <BIBL><TITLE>Geschichte Weilers und seiner Freunde</TITLE>, <FORMAT>8.</FORMAT> <YEAR>1781.</YEAR> <PRIZE>kr. 48.</PRIZE></BIBL></ITEM>\",\n\"number_of_fixes\": 7,\n\"explanation\": \"There were 7 instances where the 'PRIZE' tag was incorrectly written as 'PRICE'. This has been corrected in the 'fixed_xml' field.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 923,
+        "output_tokens": 927,
+        "total_tokens": 1850
+    },
+    "duration": 22.153541088104248,
+    "timestamp": "2025-11-02T10:02:46.872280"
+}

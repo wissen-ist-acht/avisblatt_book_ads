@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>6. Eine Schul-Edition von <BIBL><AUTHOR>Tacitus</AUTHOR></BIBL>. <BIBL><AUTHOR>Homers</AUTHOR> operg, am liebsten der von <AUTHOR>Wolf</AUTHOR></BIBL>. <BIBL><AUTHOR>Nieuport</AUTHOR> de ritibus Romanorum, am liebsten die mit dem Anhange von <AUTHOR>Homelius</AUTHOR> de tribunnali pretoris versehene Ausgabe</BIBL>. <BIBL><TITLE>Biblia hebraice</TITLE> ex ed. <AUTHOR>V an der Hoogt</AUTHOR></BIBL></ITEM>\",\n  \"number_of_fixes\": 1,\n  \"explanation\": \"The tag <AUTHOR=Wolf</AUTHOR> was incorrect. XML tags cannot contain equals symbols. The correct format is <AUTHOR>Wolf</AUTHOR>.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 215,
+        "output_tokens": 217,
+        "total_tokens": 432
+    },
+    "duration": 7.154331922531128,
+    "timestamp": "2025-11-05T11:09:40.436749"
+}

@@ -1,0 +1,5 @@
+{
+    "fixed_xml": "<ITEM>13. Bey Emanuel Thurneysen, Buchdrucker und Buchh√§ndler an der Freyenstra√ü sind von der Original-Edition der <BIBL><TITLE>Oeuvres de J. J. Rousseau</TITLE> nach dem von Seiner Wittib erkauften Manuscript</BIBL> in dem Subscriptions- Preis zu haben: <BIBL>Die 4 ersten Theile</BIBL> in <FORMAT>4to</FORMAT> <PRICE>L. 4o fran3. Geldt;</PRICE> <BIBL>die 8 ersten Theile</BIBL> in <FORMAT>8vo</FORMAT> <PRICE>L. 24.</PRICE> <BIBL>die 8 ersten Theile</BIBL> in <FORMAT>12.</FORMAT> <PRICE>L. 16.</PRICE> Und gratis ein <BIBL><TITLE>Prospectus</TITLE></BIBL> dar√ºber. <BIBL><TITLE>le Leopard Britannique mis √† la raison</TITLE>, une <TITLE>Estampe</TITLE> mit sa <TITLE>description</TITLE>.</BIBL> <PRICE>30 xr</PRICE></ITEM>",
+    "number_of_fixes": 2,
+    "explanation": "Two changes were made: The first <PRIZE> tag was changed to <PRICE> to match the closing </PRICE> tag. The last <PRIZE> tag was also changed to <PRICE> to match the closing </PRICE> tag. These changes ensure that the opening and closing tags match for each element."
+}

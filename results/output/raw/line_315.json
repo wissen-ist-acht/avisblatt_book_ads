@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>4. Bey Hrn. C A. Serini, Buchh√§ndler allhier, ist zu haben: <BIBL><TITLE>Auszug aus Middletons Lrbensgeschichte des M. T. Cicero</TITLE>, <FORMAT>8.</FORMAT> <YEAR>1784</YEAR>. <PRICE>kr. 16.</PRICE></BIBL> <BIBL><AUTHOR>Sonnenfels</AUTHOR> <TITLE>gesammelte Schriften</TITLE>, <VOLUME>2 B√§nde</VOLUME>, <FORMAT>8.</FORMAT> <YEAR>1783</YEAR>. <PRICE>fl. 2. kr. 30.</PRICE></BIBL> <BIBL><AUTHOR>Alb. von Haller</AUTHOR> <TITLE>Vorlesungen √ºber die gerichtliche Arzneywissenschaft</TITLE>, <VOLUME>2ten Bandes 1ter Theil</VOLUME>, <FORMAT>8.</FORMAT> <YEAR>1782</YEAR>. <PRICE>fl. 2.</PRICE></BIBL> <BIBL><AUTHOR>Schmids</AUTHOR> <TITLE>Geschichte der Deutschen</TITLE>, <VOLUME>1ter Band</VOLUME>, neue vom Verfasser verbesserte Auflage, <FORMAT>gr. 8.</FORMAT> <YEAR>4783</YEAR>. <PRICE>fl. 1. kr 48.</PRICE></BIBL> <BIBL><TITLE>S√§mtliche Werke des Wandsbeckerbotten</TITLE>, <VOLUME>4 Theile</VOLUME>, <FORMAT>8.</FORMAT> <YEAR>1784</YEAR>. <PRICE>fl. 2. kr. 16.</PRICE></BIBL> <BIBL><AUTHOR>Salzmann</AUTHOR> <TITLE>Carl von Carlsberg, oder √ºber das menschliche Elend</TITLE>, <VOLUME>2 Theile</VOLUME>, <FORMAT>8.</FORMAT> <YEAR>1784</YEAR>. <PRICE>ftl. 1. kr. 12.</PRICE></BIBL> <BIBL><TITLE>Journal f√ºr die Gartenkunst</TITLE>, <VOLUME>5tes St√ºck</VOLUME>, <YEAR>1784</YEAR>. <PRICE>kr. 24.</PRICE></BIBL> <BIBL><AUTHOR>Mr. Mercier</AUTHOR> <TITLE>LHomme lauvage</TITLE>, <FORMAT>8.</FORMAT> <YEAR>1784</YEAR>. <PRICE>Kr. 48.</PRICE></BIBL> <BIBL><AUTHOR>Mr. Jacquet</AUTHOR> <TITLE>Droit public d'Allemagne, contenant la forme de son Gouvernement, ses diss√®rentes Loix dc.</TITLE>, <VOLUME>6 Tomes</VOLUME>, <FORMAT>8.</FORMAT> <YEAR>1782</YEAR>. <PRICE>fl. 4.</PRICE></BIBL></ITEM>\",\n  \"number_of_fixes\": 7,\n  \"explanation\": \"The tag <PRIZE> was replaced with the correct tag <PRICE> in seven instances.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 755,
+        "output_tokens": 733,
+        "total_tokens": 1488
+    },
+    "duration": 15.24274492263794,
+    "timestamp": "2025-11-02T20:15:01.589796"
+}

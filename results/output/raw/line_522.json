@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>In der Serinischen Buchhandlung ist zu haben: <BIBL><AUTHOR>C. G. Jagemann</AUTHOR> <TITLE>Diaionario italiano-tedesco & tedesco italiano</TITLE> <VOLUME>2 Tom.</VOLUME> <FORMAT>8r.</FORMAT> <YEAR>790 & 91</YEAR> <PRIZE>fl. 13. 20 xr.</PRIZE></BIBL> <BIBL><TITLE>Der alte Ueberall und Nirgends, Geistengzeschichte</TITLE> von <AUTHOR>Spies</AUTHOR>, <VOLUME>istes und 2tes Jahrhundert</VOLUME> <FORMAT>8.</FORMAT> <YEAR>792</YEAR> <PRIZE>fl. 1. 48 kr.</PRIZE></BIBL> <BIBL><TITLE>Anthropologische Reisen</TITLE> <FORMAT>8.</FORMAT> <YEAR>793</YEAR> <PRIZE>fl. 2. 40 kr.</PRIZE></BIBL> <BIBL><TITLE>Spuckereyen des Teusels, in Prosa und Poesie</TITLE> <FORMAT>8.</FORMAT> <PRIZE>48 kr.</PRIZE></BIBL> <BIBL><TITLE>Das M√§dchen von Orleans, travestirt</TITLE> von <AUTHOR>Ritter Fas</AUTHOR> <VOLUME>ister Bd.</VOLUME> <FORMAT>8.</FORMAT> <PRIZE>fl. 1. 16kr.</PRIZE></BIBL> <BIBL><TITLE>Lesvesque Gem√§lde von Rom, aus dem Franz√∂sischen</TITLE> <FORMAT>8.</FORMAT> <PLACE>Riga</PLACE> <YEAR>793</YEAR> <PRIZE>fl. 2.</PRIZE></BIBL> <BIBL><AUTHOR>Carl Stille</AUTHOR> <TITLE>Erz√§hlungen</TITLE> <VOLUME>ater Bd.</VOLUME> <FORMAT>8.</FORMAT> <YEAR>793</YEAR> <PRIZE>fl. 1. 48 kr.</PRIZE></BIBL> <BIBL><AUTHOR>K√∂llner</AUTHOR> <TITLE>Theoretisch-praktisches Lehrbuch √ºber die Reitkunst</TITLE> <FORMAT>Kpf.</FORMAT> <FORMAT>8.</FORMAT> <PRIZE>fl. 2.</PRIZE></BIBL> <BIBL><TITLE>Erlachs Tod, ein vaterl√§ndisches Trauerspiel</TITLE> von <AUTHOR>Hrn. Professor Zimmermann</AUTHOR> <FORMAT>1 Kpf.</FORMAT> <FORMAT>8.</FORMAT> <PRIZE>16 kr.</PRIZE></BIBL> <BIBL><TITLE>Eulalia Meinau oder die Folgen der Wiedervereinigung</TITLE> <SUBTITLE>Trauerspiel in 4 Aufz√ºgen</SUBTITLE> <PRIZE>16 kr.</PRIZE></BIBL></ITEM>\",\n  \"number_of_fixes\": 2,\n  \"explanation\": \"In the original XML, there were two errors. The first error was in the tag <TITLE_theoretisch-praktisches Lehrbuch √ºber die Reitkunst</TITLE> where an underscore was used instead of a space. This was corrected to <TITLE>Theoretisch-praktisches Lehrbuch √ºber die Reitkunst</TITLE>. The second error was in the tag <TITLE>Trauerspiel in 4 Aufz√ºgen</TITLE> which was a subtitle and not a title. This was corrected to <SUBTITLE>Trauerspiel in 4 Aufz√ºgen</SUBTITLE>.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 751,
+        "output_tokens": 855,
+        "total_tokens": 1606
+    },
+    "duration": 30.017332792282104,
+    "timestamp": "2025-11-04T13:24:34.369247"
+}

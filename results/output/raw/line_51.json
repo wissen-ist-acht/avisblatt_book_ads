@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>Von der in der Schrammischen Buchdrnckerey in T√ºbingen Ao. 1748. in Folio gedruckten <BIBL><TITLE>Bibel oder H. Schrifft Alten und Neuen Testamentes</TITLE>, durch <AUTHOR>Doctor Martin Luther</AUTHOR> in das Teutsche √ºbersetzet, und jetzo mit des sel. Mannes sch√∂nen Vorreden, jeden Capitels Lehrreichen Summarien, n√∂thigen Parallel- Stellen, beygef√ºgten vielen Erkl√§rungen und Nutz-Anwendungen auf das Neue versehen; auch mit dem dritten Buche der Maccabeer und Zugabe des dritten und vierten Buchs E√ür√§; 1tem mit einer gantz neuen sehr nutzlichen und accuraten Nachricht von der Erbfolge der J√ºdischen Hoben-Priester von Aaron bis auf die letzte Zerst√∂rung Jerusalems. Wie auch einer Verzeichni√ü der Reisen des HErrn JEsu Christi, und denn einer Harmonie der vier H. Evangelisten; darzu kommt der beygesetzte Lebens-Lauf <AUTHOR>Lutheri</AUTHOR>, ein historisches Register, ein Register der Glaubens-Lehren, Lebens- Pflichten und Trost-Gr√ºnde, ingleichem des ber√ºhmten Herrn <AUTHOR>Johann Arnds</AUTHOR> Unterricht von Lesung der Bibel, und die unge√§nderte Augspurgische Confe√üion; zu t√§glichem Gebrauch, nebst sch√∂nen Kupferen und Holtzstichen, samt einer Vorrede <AUTHOR>Herrn Johann Christian Klemmen</AUTHOR>, der H. Schrifft Doctoris und Prof. Publ. Ord. der Stiffts-Kirche Decani und des Hochf√ºrstl. Theol. Stipendii Superintendenten.</BIBL> K√∂nnen die Herren Liebhabere bey Hrn. Joserh Heber dem Buchdrucker auf dem Paarfusser-Platz, das Eremplar franco allhier vor <PRICE>fl 2. 15. xr.</PRICE> haben ; man beliebe sich aber in Zeiten darum anzumelden und einschreiben zu lassen.</ITEM>\",\n  \"number_of_fixes\": 1,\n  \"explanation\": \"The XML was missing the closing tag for PRICE. The tag was written as <PRIZE> but it was closed as </PRICE>. The tag names should match, so I changed the opening tag to <PRICE> to match the closing tag.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 620,
+        "output_tokens": 635,
+        "total_tokens": 1255
+    },
+    "duration": 19.820842742919922,
+    "timestamp": "2025-10-30T17:42:43.260031"
+}

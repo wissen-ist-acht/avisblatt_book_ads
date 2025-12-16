@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>18. Beym B. Bolli auf dem Markt ist zu haben: <BIBL><TITLE>die Geb√§ude der ru√üisch-kayserlichen Ak√§demie der Wissenschaften</TITLE>, in <VOLUME>10 Kupfertafeln</VOLUME>, mit ru√üisch-deutsch latein und franz. Erkl√§rung. <PLACE>Petersb.</PLACE> <YEAR>741</YEAR>. in <FORMAT>gr. fol.</FORMAT> √† <PRIZE>2Rthlr.</PRIZE></BIBL> <BIBL><TITLE>Republikanische Andachten f√ºr alle Umst√§nde des Lebens</TITLE>, <PLACE>Helvetien</PLACE> <YEAR>596</YEAR>. geb √† <PRIZE>48 kr.</PRIZE></BIBL> <BIBL><AUTHOR>Brastbergers</AUTHOR> <TITLE>evangel. Zeugnisse der Wahrheit</TITLE>, in einem vollst√§ndigen <VOLUME>Predigt-Jahrgang</VOLUME>, in <FORMAT>4.</FORMAT> <YEAR>796</YEAR>. gebr <PRIZE>fl. 2. 40 kr.</PRIZE></BIBL> <BIBL><AUTHOR>Sturms</AUTHOR> und <AUTHOR>Tiede</AUTHOR> <TITLE>Unterhaltungen in den Morgenund Abendstunden</TITLE>, <VOLUME>4 Thle.</VOLUME> geb. <PRIZE>fl. 4. 40 kr.</PRIZE></BIBL> <BIBL><AUTHOR>Canzens</AUTHOR> <TITLE>√ºberzeugender Beweis aus der Varnunft v. der Unsterblichkeit d. Seele</TITLE> <PRIZE>48 kr.</PRIZE></BIBL> <BIBL><AUTHOR>Zollikofers</AUTHOR> <TITLE>Predigten √ºber die W√ºrde des Menschen und den Werth der vornehmsten Dinge, die zur menschlichen Gluckseligkeit geh√∂ren</TITLE>, <VOLUME>2 Thle</VOLUME> in einem Band, <PRIZE>fl. 1. 48 kr.</PRIZE></BIBL> <BIBL><TITLE>Die er√∂fnete Heimlichkeit der vornehmsten nat√ºrlichen K√ºnste</TITLE>, samt Kartenk√ºnste und K√ºnstst√ºcke zu einem angenehmen Zeitvertreib in Gesellschaften, <PRIZE>24 kr.</PRIZE></BIBL> <BIBL><TITLE>Die brittischen Helden, ein dramat. Originalgem√§lde</TITLE>, <PRIZE>24 kr.</PRIZE></BIBL> <BIBL><AUTHOR>Webers</AUTHOR> <TITLE>Fragmente von der Physik, f√ºr Frauenzimmer und Kinder</TITLE>, <PRIZE>30 kr.</PRIZE></BIBL> <BIBL><TITLE>Klugheitslehren f√ºr J√ºnglinge</TITLE>, von <AUTHOR>Campe</AUTHOR>, <PRIZE>24 kr.</PRIZE></BIBL> <BIBL><AUTHOR>Campe's</AUTHOR> <TITLE>Sitten u. Lebensregeln f√ºr Knaben und M√§dchen</TITLE>, <PRIZE>12 kr.</PRIZE></BIBL></ITEM>\",\n  \"number_of_fixes\": 1,\n  \"explanation\": \"The XML was mostly correct, but one tag was named 'PRICE' instead of 'PRIZE'. This has been corrected.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 862,
+        "output_tokens": 865,
+        "total_tokens": 1727
+    },
+    "duration": 26.419779062271118,
+    "timestamp": "2025-11-04T14:36:53.209276"
+}

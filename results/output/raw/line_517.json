@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>In der Deckerischen Buchhandlung allhier wird auf nachstehende drey Kupferstiche bis Ende Monats August Pr√§numeration und Subscription angenommen: <BIBL><TITLE>1) lphigenia</TITLE>, ein Blatt von 21 Zoll breit und 15 Zoll hoch, nach dem Gem√§lde des <AUTHOR>Vanloo</AUTHOR>, gestochen von <AUTHOR>Eberhard Henne</AUTHOR>, davon ein Probedruck in obiger Handlung einzusehen; der Pr√§numerationspreis ist <PRIZE>1Louisd or.</PRIZE></BIBL> <BIBL><TITLE>2) Ein radirtes Blatt</TITLE> in der Gr√∂√üe des obigen, gemahlt von <AUTHOR>Bernh. Mode</AUTHOR>, und gestochen von bemeldtem Hrn. <AUTHOR>E. Henne</AUTHOR>, so allbereits fertig seyn wird; dasselbe stellt vor: den sterbenden <AUTHOR>Friedrich I.</AUTHOR> sitzend, neben ihm den <AUTHOR>Prof. Selle</AUTHOR>, <AUTHOR>Minister Herzberg</AUTHOR>, und <AUTHOR>Geh. R. Sch√∂ning</AUTH>, als Kammerhusar. Die Erleuchtung geschiehet durch Kaminfeuer, und macht sehr vielen Effekt; die Portraits der Figuren sind √§hnlich.</BIBL> <BIBL><TITLE>3) Die lezte Zusammenkunft Ludwigs XVI. mit seiner Familie</TITLE>, genau in der Gr√∂√üe des les adieur de Calas, gezeichnet von der Meisterhand des <AUTHOR>D. Chodowiecky</AUTHOR>, und von obenbesagtem K√ºnstler gestochen. Eine ausf√ºhrliche Nachricht hievon ist in obiger Handlung gratis zu haben.</BIBL> Der Subscriptionspreis f√ºr die ersten Abdr√ºcke ist <PRIZE>r Louisdor</PRIZE>, und f√ºr die folgenden <PRIZE>2 NThlr.</PRIZE> Die Erempl. werden hier franko abgeliefert.</ITEM>\",\n  \"number_of_fixes\": 0,\n  \"explanation\": \"The provided XML is correctly formatted and does not require any fixes. All tags are properly opened and closed.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 576,
+        "output_tokens": 564,
+        "total_tokens": 1140
+    },
+    "duration": 35.61004304885864,
+    "timestamp": "2025-11-04T13:22:47.870253"
+}

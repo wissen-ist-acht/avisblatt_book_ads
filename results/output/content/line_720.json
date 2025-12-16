@@ -1,0 +1,5 @@
+{
+    "fixed_xml": "<ITEM>In der Serinischen Buchhandlung ist zu haben: <BIBL><TITLE>Lisbeth, ou le bon & vertueux Gese ner</TITLE>, opera en trois adtes.</BIBL> <BIBL>44 Kr.</BIBL> <BIBL><TITLE>La nuit champ√™tre, ou les mariages, par D√©pit</TITLE>, com√©die en deux actes.</BIBL> 32 xr. <BIBL><TITLE>Des Hrn. von 51 Z. unentbehrliche Hausmittel, oder H√ºlfsb√ºchlein</TITLE></BIBL> fl. 1. 20 kr.</ITEM>",
+    "number_of_fixes": 1,
+    "explanation": "The last BIBL tag was not properly closed after the TITLE tag. This has been fixed by adding a closing BIBL tag."
+}

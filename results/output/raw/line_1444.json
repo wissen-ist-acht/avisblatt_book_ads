@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>In der Schweighauser'schen Buchhandlung trifft so eben ein: <BIBL><TITLE>Gubitz Pollishalender</TITLE> f√ºr <YEAR>T 8 A2</YEAR>. Mit <FORMAT>120 neuen Holzschnitten</FORMAT>, vom <AUTHOR>Professor F. W. Gubitz</AUTHOR> und unter dessen Leitung gefertigt. <PRIZE>Preis 12 Batzen</PRIZE>.</BIBL> Der neue Jahrgang dieses beliebtesten Volks- und Unterhaltungsbuches tr√§gt wieder die unverkennbaren Spuren des ernsten Bestrebens immer Vorz√ºglicheres zu leisten, an sich. Von dem reichen Inhalte desselben erw√§hnen wir nur Folgendes: Gegen 30 erkl√§rende Bilder zu belehrenden Aufs√§tzen und neuen Erfindungen; Portraits, voran nat√ºrlich Preu√üens K√∂nigspaar, Johann 111. (Sobinski) K√∂nig von Polen, Hans Joachim von Ziethen, Johann Sebastian Bach, Ernst Moritz Arndt Íùõc.; 40 Genre-Bilder und Darstellungen zu humoristischen Streifz√ºgen; 20 landschaftliche und architektenische: die heilige Grabes-Kapelle, das k√∂nigliche Schlo√ü zu Copenhagen, Trient Íùõc.; 10 Karrikatur-Bilder u. s. w. Von den fr√ºhern Jahrg√§ngen k√∂nnen noch einige Exemplare zu dem n√§mlichen Preise abgegeben werden. Als Seitenst√ºck und Rivale des Gubitzischen verdient <BIBL><AUTHOR>Karl Steffens</AUTHOR> <TITLE>Vollishalender</TITLE> f√ºr <YEAR>18 22</YEAR> mit <FORMAT>8 Stahlstichen und vielen Holzschnitten</FORMAT>, <PRIZE>Preis 12 Batzen</PRIZE>, die Beachtung des Publikums.</BIBL> Der Textb ist auf das sorgf√§ltigste von bew√§hrten Schriftstellern bearbeitet, die Bilder sind meistens nach ber√ºhmten Originalien und, iwenn auch die Holzschnitte nicht immer die Vollkommenheit derjenigen von Gubitz erreichen, so werden die K√§ufer durch die beigegebenen Stahlstiche hinreichend entsch√§digt.</ITEM>\",\n  \"number_of_fixes\": 1,\n  \"explanation\": \"The XML was mostly well-formed, but there was one error. The closing tag for the PRIZE element in the second BIBL element was incorrectly written as PRICE. This has been corrected to PRIZE.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 667,
+        "output_tokens": 677,
+        "total_tokens": 1344
+    },
+    "duration": 25.641155004501343,
+    "timestamp": "2025-11-06T10:56:27.768851"
+}

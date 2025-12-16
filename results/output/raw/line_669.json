@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>In der Flickischen Buchhandlung auf dem Fischmarkt findet man: <BIBL><AUTHOR>J. C. Tillot</AUTHOR> √ºber den Einfluss der Leidenschaften auf Kranlheiten, neu √ºbersezt von <AUTHOR>J. J. Breiting</AUTHOR>, <FORMAT>8.</FORMAT> <YEAR>799</YEAR> <PRICE>fl. 2.</PRICE></BIBL> <BIBL><AUTHOR>Steinbeck (C. G.)</AUTHOR> <TITLE>Magazin f√ºr deutsche B√ºrger und Landleute</TITLE>, <VOLUME>istes B√§ndchen</VOLUME>, <FORMAT>8.</FORMAT> <YEAR>799</YEAR> <PRICE>46 kr.</PRICE></BIBL> <BIBL><TITLE>Discours f√ºr la litt√©rature prononc√© √† l'acad√©mie des sciences & belles lettres de Berlin</TITLE>, <AUTHOR>Mr. le Marquis ci-devant chevalier de Bouffiers</AUTHOR>, <YEAR>1798</YEAR>, <FORMAT>8.</FORMAT> <PRICE>45 Fr.</PRICE></BIBL> <BIBL><AUTHOR>Starks (F6.)</AUTHOR> <TITLE>neues Archiv f√ºr die Geb√ºrth√ºlfe</TITLE>, <VOLUME>1 Bds. 2tes St√ºch</VOLUME>, <FORMAT>8.</FORMAT> <YEAR>799</YEAR> <PRICE>fl. 1.</PRICE></BIBL> <BIBL><TITLE>Graf Guido von Taufkirchen, oder Darstellung des zu Jena aufgehobenen Mosellaner- oder Amicisten- Ordens</TITLE>, <FORMAT>8.</FORMAT> <YEAR>799</YEAR> <PRICE>fl. 2. 20 kr.</PRICE></BIBL> <BIBL><TITLE>Reapel und die Lazzaroni, ein charakteristisches Gem√§lde, f√ºr Liebhaber der Zeitgeschichte</TITLE>, <FORMAT>8.</FORMAT> <YEAR>799</YEAR> <PRICE>fl. 1. 20 kr.</PRICE></BIBL> <BIBL><AUTHOR>Sch√ºtze (C. H.)</AUTHOR> <TITLE>Kriti√ü der mythologischen Beruhigungsgr√ºnde, mit vorz√ºglicher Hinsicht auf Schillers bedicht, die G√∂tter Griechenlandes</TITLE>, <FORMAT>8.</FORMAT> <YEAR>799</YEAR> <PRICE>fl. 4.</PRICE></BIBL></ITEM>\",\n  \"number_of_fixes\": 5,\n  \"explanation\": \"The xml was faulty as the closing tag for 'PRICE' was written as 'PRIZE'. This was fixed by replacing 'PRIZE' with 'PRICE' in 5 places.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 704,
+        "output_tokens": 699,
+        "total_tokens": 1403
+    },
+    "duration": 24.028382301330566,
+    "timestamp": "2025-11-04T14:37:17.240226"
+}

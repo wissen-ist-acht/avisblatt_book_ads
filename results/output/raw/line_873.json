@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>4. Bey Hs. Conrad D√§niker, B√ºcher-Antiquarius, im Schaafg√§√ülein, No. 407 sind folgende B√ºcher um beygesetzte Prei√üe gegen baare Bezahlung zu haben: <BIBL><TITLE>Reineceii Biblia in Sacrg quadriligguia</TITLE>, <VOLUME>3 Tom.</VOLUME> <FORMAT>fol.</FORMAT>, neu, √† <PRIZE>18 fl.</PRIZE></BIBL> <BIBL><TITLE>Montam Hebraica Biblia</TITLE>, neu, √† <PRIZE>3 Rthlr.</PRIZE></BIBL> <BIBL><TITLE>Le Gemme Antiche figurate</TITLE>, cum <VOLUME>260. Jconibus</VOLUME>, <FORMAT>Pergam. 4to</FORMAT> √† <PRIZE>4 Rthlr.</PRIZE></BIBL> <BIBL><AUTHOR>Kheven Hillers</AUTHOR> <TITLE>Lebens-Beschreibung Ferdinands, des H R√∂mischen Kaisers</TITLE>, mit <VOLUME>146 Kupfer-Planches</VOLUME>, <VOLUME>12Thle.</VOLUME> <VOLUME>7 B√§nde</VOLUME>, <FORMAT>fol.</FORMAT> complett, √† <PRIZE>12 Rthlr.</PRIZE></BIBL> <BIBL><TITLE>Die gro√üe Beckische Concordanz-Bibel</TITLE> √† <PRIZE>3 Rthlr.</PRIZE></BIBL> <BIBL><AUTHOR>Meteren</AUTHOR> <TITLE>Niederl√§ndische Geschichten</TITLE>, mit <VOLUME>68 Portraiten</VOLUME> und <VOLUME>16 Kupfern</VOLUME>, <VOLUME>4 B√§nde</VOLUME>, <FORMAT>fol.</FORMAT> √† <PRIZE>3 Rthlr.</PRIZE></BIBL> <BIBL><AUTHOR>Merians</AUTHOR> <TITLE>Topographie von Oestereich, B√∂hmen Schlesien Íùõc.</TITLE>, mit <VOLUME>107 Kupfern</VOLUME>, <FORMAT>fol.</FORMAT> √† <PRIZE>3 Rthlr.</PRIZE></BIBL> <BIBL><AUTHOR>Schilteri</AUTHOR> <TITLE>Thesaurus antiquitatum c.fig. aneis</TITLE> <VOLUME>3 Tom.</VOLUME> <FORMAT>fol.</FORMAT> √† <PRIZE>5 Rthlr.</PRIZE></BIBL> <BIBL><AUTHOR>Stephani</AUTHOR> <TITLE>Thesaurus</TITLE>, <VOLUME>4 Tom.</VOLUME> complett <FORMAT>fol.</FORMAT> <PRIZE>6 Rthlr.</PRIZE></BIBL> <BIBL><AUTHOR>Verzaschas</AUTHOR> <TITLE>Kr√§uterbuch</TITLE> √† <PRIZE>60 Btz.</PRIZE></BIBL> <BIBL><AUTHOR>Paracelsi (Th.)</AUTHOR> <TITLE>Chirurgia Magna</TITLE> <VOLUME>3 Tom.</VOLUME> <FORMAT>fol.</FORMAT> <PRIZE>100 Batzen.</PRIZE></BIBL> <BIBL><AUTHOR>Vesalii CAndr.</AUTHOR> <TITLE>de Humani Corporis, libri 7 c. mult. fig.</TITLE> <PRIZE>100 Btz.</PRIZE> <FORMAT>fol.</FORMAT>, nebst vielen andern B√ºchern. Catalogi hievon sind gratis zu haben.</BIBL></ITEM>\",\n  \"number_of_fixes\": 2,\n  \"explanation\": \"The xml was mostly correct. However, there were two instances where the <PRIZE> tag was misspelled as <PRICE>. These have been corrected to ensure the xml is valid.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 931,
+        "output_tokens": 942,
+        "total_tokens": 1873
+    },
+    "duration": 32.13818120956421,
+    "timestamp": "2025-11-05T10:26:36.063182"
+}

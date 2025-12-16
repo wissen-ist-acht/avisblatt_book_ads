@@ -1,0 +1,13 @@
+{
+    "text": "{\n\"fixed_xml\": \"<ITEM>3. Bey Herrn Daniel Eckenstein, dem Buchdrucker in der Aeschemer-Vorstadt, ist gedruckt und zu haben <BIBL><TITLE>Die erbauliche Exhortations Rede</TITLE> welche Ihro Mohl-Ehrw√ºrden Herr <AUTHOR>Pfarrer Ramspeck</AUTHOR>, nach geschehener Execution zweyer hingerichteter Misseth√§teren, den 12ten dieses, bey dem Hochgericht an die Umstehende gehalten. <PRIZE>das Stuck √† vier Rappen.</PRIZE></BIBL></ITEM>\",\n\"number_of_fixes\": 1,\n\"explanation\": \"The closing </TITLE> tag was misplaced, causing the XML to be malformed. It was moved to the end of the actual title, before the <AUTHOR> tag.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 204,
+        "output_tokens": 201,
+        "total_tokens": 405
+    },
+    "duration": 9.0836181640625,
+    "timestamp": "2025-10-30T17:43:10.540761"
+}

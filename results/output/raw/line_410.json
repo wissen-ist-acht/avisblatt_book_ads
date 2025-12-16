@@ -1,0 +1,13 @@
+{
+    "text": "{\n\"fixed_xml\": \"<ITEM>4. Bey Hrn. Joh. Jakob Flick, Buchh√§ndler allhier, ist zu haben: <BIBL><TITLE>Leipziger Frauen. zimmer-Almanach, zum Nutzen und Vergnugen</TITLE>, pro <YEAR>1789</YEAR> in <FORMAT>perg. Decke, Schnidt vergoldt und Futeral</FORMAT>, mit schwarzen und illum. Fig. <PRIZE>fl. 1. 20kr.</PRIZE></BIBL> <BIBL><TITLE>Dank und Undank, ein Lustspiel</TITLE> in <VOLUME>Akten</VOLUME>, von <AUTHOR>J√ºnger</AUTHOR>, <YEAR>1789</YEAR>. <PRIZE>28 kr.</PRIZE></BIBL> <BIBL><TITLE>Taschenbuch f√ºr Scheidek√ºnstler und Apothecker</TITLE>, pr. <YEAR>1789</YEAR>. <PRIZE>54 kr.</PRIZE></BIBL> <BIBL><TITLE>Gedichte von Aug. Fried. Langbein</TITLE>, mit <FORMAT>Kupf.</FORMAT> <YEAR>1788</YEAR>. <PRIZE>fl. 2. 42 kr.</PRIZE></BIBL> <BIBL><TITLE>Abrege des Quvrages d. Em. Swedenborg</TITLE>, <YEAR>1788</YEAR>. <PRIZE>br. fl. 3.</PRIZE></BIBL> <BIBL><TITLE>Lesebuch f√ºr Kaufleufe</TITLE>, von <AUTHOR>Sinap.</AUTHOR> <YEAR>1788</YEAR>. <PRIZE>fl. 1. 8 kr.</PRIZE></BIBL> <BIBL><TITLE>Geschichte des weiblichen Geschlechts</TITLE>, von <AUTHOR>Meiners</AUTHOR>, <VOLUME>1ter Theil</VOLUME>, <YEAR>1788</YEAR>. <PRIZE>fl. 1. 20 kr.</PRIZE></BIBL> <BIBL><TITLE>Betrachtungen √ºber einige ausgew√§hlte Stellen der H. Schrift</TITLE>, von <AUTHOR>Caroline x</AUTHOR>, und gesammelt v. <AUTHOR>G. H. Schnee</AUTHOR>, <YEAR>1788</YEAR>. <PRIZE>54 kr.</PRIZE></BIBL></ITEM>\",\n\n\"number_of_fixes\": 4,\n\n\"explanation\": \"The XML tags <PRICE> were replaced with the correct <PRIZE> tags in four places.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 610,
+        "output_tokens": 600,
+        "total_tokens": 1210
+    },
+    "duration": 14.503472089767456,
+    "timestamp": "2025-11-02T20:49:27.457614"
+}

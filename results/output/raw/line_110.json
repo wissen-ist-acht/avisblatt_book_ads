@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>In den Deckerischen Buchdruckereyen allhier, in Basel und in Collmar, ist sowohl einzeln als Hundertweis zu haben: <BIBL><TITLE>Allgemeine Bibliothek des Sch√∂nen und Guten</TITLE>, erster Band, in <FORMAT>8vo.</FORMAT> welches der Aufang einer Sammlung ist, in welcher die sch√∂nsten St√ºcke der vornehmsten sowohl deutschen als ausw√§rtigen Schriftsteller Platz finden werden.</BIBL> Der Preis eines einzeln Exemplars ist <PRIZE>32 hiesiger Kreuzer</PRIZE>, oder <PRIZE>1 Livre 4 Sols franz√∂s. Val.</PRIZE> Ferners: <BIBL><TITLE>Der Unglaube durch die blosse Vernunft bestritten</TITLE>, von einem Christlichen K√∂nige, in <FORMAT>4to</FORMAT> √† <PRIZE>6 Kr.</PRIZE> oder <PRIZE>4 Sols franz√∂s. Val.</PRIZE></BIBL> Item: <BIBL><TITLE>Ganz besondere Arithmetica, oder sehr leichter Unterricht und Lehrart der h√∂chstnothwendigen und nutzbaren Rechenkunst</TITLE>, in sich enthaltend: Kaufm√§nnische Praxis, die Quadrat- und Cubic-Wurzel, die Rapports der Proportion g√©ometrique und arithmetique, die Proportion des menschlichen Leibes vor die Bildhauer und Mahler, Unterricht des immerw√§hrenden Calenders, Beschreibung der Weltkugel, Íùõc. Íùõc.</BIBL> in <FORMAT>8vo.</FORMAT> √† <PRIZE>32 xr.</PRIZE> oder <PRIZE>1 Lir. 4 Sols franz√∂s. Val.</PRIZE> Item: <BIBL><TITLE>Amusemens historiques & moraux, en prose &en vers, avec un Vocabulaire francois-allemand</TITLE>, contenant tous les mots qui se trouvent dans cet Ouvrage, √† l'usage de ceux qui veulent apprendre l'une ou l'autre des deux Langues, in <FORMAT>8vo.</FORMAT> √† <PRIZE>32 xr.</PRIZE> oder <PRIZE>1Liv. 4 sols franz√∂s. Valuta.</PRIZE></BIBL></ITEM>\",\n  \"number_of_fixes\": 1,\n  \"explanation\": \"The last PRICE tag was incorrectly spelled. It was corrected to PRIZE.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 651,
+        "output_tokens": 634,
+        "total_tokens": 1285
+    },
+    "duration": 15.568644046783447,
+    "timestamp": "2025-10-31T11:55:31.671688"
+}

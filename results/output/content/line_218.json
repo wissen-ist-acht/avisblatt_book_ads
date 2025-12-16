@@ -1,0 +1,5 @@
+{
+    "fixed_xml": "<ITEM>Man verlangt, <BIBL><AUTHOR>Angeli Politiani</AUTHOR>, <TITLE>opera omnia</TITLE> apud <PLACE>Nicolaum Episcopium Juniorem</PLACE> <YEAR>1553</YEAR>. oder auch eine andere Edition wann diese nicht mehr zu haben;</BIBL> dann ferner, <BIBL><AUTHOR>Juliani Novellae Imperatoris Justiniani</AUTHOR>, <PLACE>Basilea</PLACE> <YEAR>1576</YEAR>. <FORMAT>fol.</FORMAT> der Liebhaber ist im Berichthaus ohnentgeldtlich zu vernehmen.</BIBL></ITEM>",
+    "number_of_fixes": 1,
+    "explanation": "The second <BIBL> tag was not properly closed. A closing </BIBL> tag was added at the end of the second bibliographic citation."
+}

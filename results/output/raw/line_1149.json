@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>114 Bey Jeremias Stupanus, Buchbinder, auf der Rheinbrucke, ist in Commission zu haben: <BIBL><TITLE>Vollst√§ndige Sammlung der Ailgemeinen Zeitung</TITLE> vom 1. Juli 182. bis Ende 1825, in <VOLUME>18 Bden.</VOLUME> in <FORMAT>Carton.</FORMAT></BIBL> <BIBL><AUTHOR>Friedrichs, K√∂nig von Preu√üen</AUTHOR>, <TITLE>hinterlass sene Werke</TITLE>, <VOLUME>19 Bde.</VOLUME></BIBL> <BIBL><AUTHOR>K√∂rners</AUTHOR> <TITLE>s√§mtliche Werke</TITLE>, <VOLUME>4 Thle.</VOLUME></BIBL> - <BIBL><AUTHOR>Wentz</AUTHOR> <TITLE>Rechenkunst.</TITLE></BIBL> <BIBL><AUTHOR>Pfenningers</AUTHOR> <TITLE>judische Briefe</TITLE>, <VOLUME>1√† Thle.</VOLUME> in <VOLUME>6 B√§nden.</VOLUME></BIBL> <BIBL><AUTHOR>Zwinggers</AUTHOR> <TITLE>sicherer u. geschminder Arzt.</TITLE></BIBL> <BIBL><TITLE>L'Art du parsumeur.</TITLE> <YEAR>1801.</YEAR></BIBL> <BIBL><TITLE>Miperalogie.</TITLE> <VOLUME>2 T.</VOLUME> par <AUTHOR>J J. Wallerius</AUTHOR>, tenl. de l'allemand <YEAR>1753.</YEAR></BIBL> <BIBL><TITLE>Description de la machine a√©rostatique de M. de Montgolner.</TITLE> <YEAR>1784.</YEAR>, <VOLUME>2de √©dition,</VOLUME></BIBL> <BIBL><TITLE>Bemerkungen auf einer Alpenreise √ºb. den Susten, Gotthard.</TITLE> <AUTHOR>Beruardin</AUTHOR>, und √ºber die Oberalp Furcau Grimsel &o. von <AUTHOR>E. Kasthofer</AUTHOR> <YEAR>1822.</YEAR></BIBL> <BIBL><TITLE>Synonymes frant gais &c.</TITLE> par <AUTHOR>Abb√© Girard.</AUTHOR> <VOLUME>Seme √©dit.</VOLUME> <YEAR>1790</YEAR></BIBL> - <BIBL><TITLE>Irait√© des manoeuvres du Canon,</TITLE> par <AUTHOR>Pr√©bois.</AUTHOR> <YEAR>1805.</YEAR></BIBL> <BIBL><TITLE>Princi- pes de Physique,</TITLE> par <AUTHOR>Btisson.</AUTHOR> <VOLUME>4 Thie-</VOLUME></BIBL> <BIBL><AUTHOR>Wielands</AUTHOR> <TITLE>Militair-Unterricht.</TITLE></BIBL></ITEM>\",\n  \"number_of_fixes\": 1,\n  \"explanation\": \"There was a missing opening bracket for the TITLE tag in the second BIBL. This was added to correct the XML.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 787,
+        "output_tokens": 780,
+        "total_tokens": 1567
+    },
+    "duration": 33.74477195739746,
+    "timestamp": "2025-11-05T15:05:57.398425"
+}

@@ -1,0 +1,13 @@
+{
+    "text": "{\n\"fixed_xml\": \"<ITEM>2. Die vollst√§ndige Sammlung des Basler Kantonsblattes von 1798 an, bis und inclusive der ersten Abtheilung von 1827, in Carton gebunden, wird hiemit um den √§usserst biligen Preis von 24 Franken zum Verkauf angeboten von dem Flick'schen Gesch√§fts-Bureau No. 165 beym Storchen. Ferner ist alldorten zu haben: <BIBL><TITLE>Zollikofers Predigten</TITLE>, nach seinem Tode herausgegeben. <VOLUME>5 Bde.</VOLUME> <FORMAT>gr. 8.</FORMAT> <PLACE>Leipzig</PLACE> <YEAR>788.</YEAR> √† <PRIZE>4 Fr. Halbfribd.</PRIZE></BIBL> <BIBL><TITLE>Virgili Maronis Opera</TITLE>; Interpret. ¬¨is illustr. <AUTHOR>C. Ruaeus</AUTHOR> ad usum Delphini. cum fig. <FORMAT>8. mas.</FORMAT> <PLACE>Hagae comit.</PLACE> √† <PRIZE>36 Btz.</PRIZE> <YEAR>723.</YEAR> <FORMAT>Perg.</FORMAT></BIBL> <BIBL><AUTHOR>J. J. Walters</AUTHOR> <TITLE>Prakt. Anleitung zur Gartenkunst</TITLE>, mit Kpf. <VOLUME>2te verb. Aufl.</VOLUME> <FORMAT>gr. 8.</FORMAT> <PLACE>Stutt-</PLACE> √† <PRIZE>24 Btz.</PRIZE> <YEAR>792.</YEAR> <FORMAT>Cart.</FORMAT></BIBL> <BIBL><AUTHOR>M√ºllers</AUTHOR> <TITLE>Anweisung zur zweckm√§√üigen Behandlung des Obsts- und Gem√ºsegartens</TITLE>, nebst einem Anhang von Blumen. <VOLUME>2 Thle in 1 Bd.</VOLUME> <FORMAT>gr. 8.</FORMAT> <PLACE>Wien</PLACE> <YEAR>796.</YEAR> <FORMAT>Cart.</FORMAT> <PRICE>18 Bt</PRICE></BIBL> <BIBL><TITLE>Niemevers Timotheus</TITLE>; zur Erweckung und Bef√∂rderung der Andacht nachdenkender Christen. <VOLUME>3 Thle.</VOLUME> in <VOLUME>1 Band</VOLUME>. <FORMAT>gr. 8.</FORMAT> <PLACE>Leipz</PLACE> √† <PRIZE>20 Btz.</PRIZE> <YEAR>790.</YEAR> <FORMAT>br.</FORMAT></BIBL> <BIBL><AUTHOR>Schinzens</AUTHOR> <TITLE>Anleitung zu der Pflanzenkenntni√ü und derselben n√ºtzlichsten Anwendung</TITLE>, mit <VOLUME>100 illuminirten Tafeln</VOLUME>. <VOLUME>1 Band</VOLUME> in <FORMAT>folio</FORMAT> √† <PRICE>7 Fr.</PRICE> <PLACE>Z√ºrich</PLACE> <YEAR>774.</YEAR> <FORMAT>Halbfrzbd.</FORMAT></BIBL> <BIBL><AUTHOR>Ebendesselben</AUTHOR> <TITLE>erster Grundri√ü der Kr√§uter Wissenschaft</TITLE> aus den charakterist. Pflazentabellen <AUTHOR>Joh. Ge√üners</AUTHOR>, <VOLUME>1 Band</VOLUME>, mit √† <PRICE>2 Fr.</PRICE> <FORMAT>Kupf. fol.</FORMAT> <YEAR>774.</YEAR></BIBL></ITEM>\",\n\"number_of_fixes\": 2,\n\"explanation\": \"The XML was missing closing tags for <PRICE> in two places, which have been added to correct the structure.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 911,
+        "output_tokens": 897,
+        "total_tokens": 1808
+    },
+    "duration": 49.887211561203,
+    "timestamp": "2025-11-05T15:16:19.228887"
+}

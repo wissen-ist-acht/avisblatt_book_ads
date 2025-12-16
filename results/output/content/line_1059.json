@@ -1,0 +1,5 @@
+{
+    "fixed_xml": "<ITEM>Hillers <BIBL><TITLE>Liederk√§stlein</TITLE> in zwey Theilen, jeder <VOLUME>365 biblische Spr√ºche</VOLUME> enthaltend und mit sch√∂nen Liedern, so wie mit doppeltem Register begleitet, folglich f√ºr ein t√§gliches Andachtsbuch zu gebrauchen<TITLE>, in <FORMAT>gr. 12.</FORMAT> kostet ungeb. <PRIZE>8 Btz.</PRIZE> In <FORMAT>Carton</FORMAT> <PRIZE>13 Btz.</PRIZE> In <FORMAT>Halbfrzbd.</FORMAT> <PRIZE>18 Btz.</PRIZE></BIBL> Das <BIBL><TITLE>verborgene Leben mit Christo in Gott</TITLE>, verfa√üt von <AUTHOR>Louvigny</AUTHOR>, mit lithogr. Titel- <FORMAT>Kupfer</FORMAT>, in <FORMAT>Carton</FORMAT> geb. <PRIZE>14 Btz.</PRIZE></BIBL> Auch noch andere gute Schriften, bey M√ºller, Buchdrucker.</ITEM>",
+    "number_of_fixes": 1,
+    "explanation": "The XML was missing a closing </TITLE> tag after 'Andachtsbuch zu gebrauchen'. This has been added."
+}

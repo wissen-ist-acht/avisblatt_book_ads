@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>11. <BIBL><TITLE>Encyclop√©die on Dictionnaire raisonn√© ses s√©senses, des arts &c.</TITLE>, 34. <FORMAT>Fol.</FORMAT> dont 12. <VOLUME>Vol. fig.</VOLUME> <FORMAT>fol.</FORMAT> <PRIZE>240 Schweizerfranken</PRIZE></BIBL>. <BIBL><TITLE>Trait√© des grandes ap√©rations, militaires</TITLE>, par <AUTHOR>Jomini</AUTHOR>, 6 <VOLUME>J. &il atlas</VOLUME>. <PLACE>Par.</PLACE> <PRIZE>805-10. S. 24 Fr.</PRIZE></BIBL> <BIBL><TITLE>Dictionnaire anglais-francais & frang. angl.</TITLE> abr√©g√© de <AUTHOR>Boyer</AUTHOR>, <VOLUME>Asme √©dit 2 gros Vol.</VOLUME> <FORMAT>8. hr.</FORMAT> <PRIZE>Pav. 802. 6 Fr.</PRIZE></BIBL> <BIBL><TITLE>Con dillac, cours d'√©tude pr. leprince de Parme</TITLE>, <PLACE>Lond</PLACE> <PRIZE>776. 16N. 42. 8Fr.</PRIZE></BIBL> <BIBL><AUTHOR>Tschudi's</AUTHOR> <TITLE>Schweizer-Chronik</TITLE>, <PLACE>B√§s.</PLACE> <PRIZE>736. 2 Thle. fol. 6Fr.</PRIZE></BIBL> <BIBL><TITLE>Tableau de l'Espagne moderne</TITLE>, 3 <VOLUME>Vol.</VOLUME> und mehrere andere franz√∂sische, englische und deutsche B√ºcher; in No. 473 auf dem Heuberg.</BIBL></ITEM>\",\n  \"number_of_fixes\": 1,\n  \"explanation\": \"There was one tag <PRICE> which was not correctly written, it should be <PRIZE> as per the rest of the XML. This tag was fixed.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 505,
+        "output_tokens": 506,
+        "total_tokens": 1011
+    },
+    "duration": 17.647640228271484,
+    "timestamp": "2025-11-05T12:05:59.456316"
+}

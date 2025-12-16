@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>In der Schweighauserischen Buchhandlung ist zu haben: <BIBL><TITLE>Geschichte aller P√§bste vom Apostel Petrus an bis mit Plus des letzten</TITLE>, mit Anmerkungen und Kupfern, <FORMAT>8.</FORMAT> <PRICE>fl. 4.</PRICE></BIBL> <BIBL><AUTHOR>Martin Luthers</AUTHOR> <TITLE>Sittenbuch</TITLE>, aus seien Werken gezogen, <FORMAT>8.</FORMAT> <PRICE>fl. 1. 48 kr.</PRICE></BIBL> <BIBL><TITLE>Neues Stra√üburger-Gesangbuch</TITLE>, <FORMAT>8.</FORMAT> <PRICE>fl. 1.12kr.</PRICE></BIBL> <BIBL><AUTHOR>R√§hling</AUTHOR> <TITLE>physikal. Lesebuch f√ºr Anf√§nger in der latein. Sprache</TITLE>, <FORMAT>8.</FORMAT> <PRICE>48 kr.</PRICE></BIBL> <BIBL><TITLE>Mache & r√©sultat de la guerre soutenue par la france contre la coalition depuis 1792-1797</TITLE>. <PRICE>√† 24 xr.</PRICE></BIBL> <BIBL><TITLE>Charte von der Schweiz, nach der neuen Eintheilung von 1798</TITLE>. <PRICE>√† 20 kr.</PRICE></BIBL> <BIBL><AUTHOR>Schedels</AUTHOR> <TITLE>Taschenw√∂rterbuch der Waarenkunde f√ºr Kaufleute</TITLE>, <FORMAT>8.</FORMAT> <PRICE>fl. 2.</PRICE></BIBL> <BIBL><TITLE>Spanien, wie es gegenw√§rtig ist</TITLE>, <VOLUME>2 Theil.</VOLUME> <FORMAT>8.</FORMAT> <PRICE>fl. 5. 20 kr.</PRICE></BIBL></ITEM>\",\n  \"number_of_fixes\": 3,\n  \"explanation\": \"The 'PRIZE' tags were replaced with 'PRICE' tags in three places to correct the XML.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 536,
+        "output_tokens": 513,
+        "total_tokens": 1049
+    },
+    "duration": 20.89419984817505,
+    "timestamp": "2025-11-04T14:23:21.395575"
+}

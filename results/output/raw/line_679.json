@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>7. In der Serinischen Buchhandlung sind folgende B√ºcher zu haben: <BIBL><TITLE>Die K√ºche, ein Handbuch f√ºr junge K√∂che und Frauen zimmer</TITLE> <PRIZE>fl. 2.</PRIZE></BIBL> <BIBL><TITLE>Grundlicher Unterricht in der feinen Kochkunst</TITLE> <PRIZE>fl. 1. 48 kr.</PRIZE></BIBL> <BIBL><TITLE>Lami des parens, traduit de l'anglais</TITLE> <VOLUME>2 Vol.</VOLUME> <PRIZE>√† 1. 40 kr.</PRIZE></BIBL> <BIBL><TITLE>Relation abreg√©e du Voyage de laP√©rouse, pendant les ann√©es 1785.86. 87. 88.</TITLE> <FORMAT>portraits fig. & cartes</FORMAT> <PRIZE>fl. 6.</PRIZE></BIBL> <BIBL><TITLE>Manuel de Poffieier de sant√©</TITLE> <PRIZE>fl. 2.</PRIZE></BIBL> <BIBL><TITLE>Formulaire charmaceutique √† l'usage des h√∂pitaux militaires</TITLE> <PRIZE>f. 1.</PRIZE></BIBL> <BIBL><TITLE>Dicionnsire de physique</TITLE> <VOLUME>2 Vol.</VOLUME> <PRIZE>fl. 2. 40 kr.</PRIZE></BIBL> <BIBL><AUTHOR>Fordyce</AUTHOR> <TITLE>Sermons pour les jeunes demoiselles</TITLE> <VOLUME>2 Vol.</VOLUME> <PRIZE>K. 2.</PRIZE></BIBL></ITEM>\",\n  \"number_of_fixes\": 1,\n  \"explanation\": \"The PRIZE tag in the seventh BIBL tag was incorrectly closed as PRICE. This was corrected to PRIZE.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 493,
+        "output_tokens": 482,
+        "total_tokens": 975
+    },
+    "duration": 18.664039850234985,
+    "timestamp": "2025-11-04T14:41:48.740922"
+}

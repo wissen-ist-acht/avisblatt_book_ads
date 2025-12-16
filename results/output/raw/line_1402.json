@@ -1,0 +1,13 @@
+{
+    "text": "{\n\"fixed_xml\": \"<ITEM>In der Schweighauser'schen Buchhandlung ist zu erhalten: <BIBL><TITLE>La chute d'un ange, √©pisode</TITLE> par <AUTHOR>Alphonse de Lamartine</AUTHOR>. <VOLUME>2vol.</VOLUME> in <FORMAT>8.</FORMAT> √©dition originale de <PLACE>Paris</PLACE> de <PRIZE>SSse. Fr. 4.</PRIZE></BIBL> <BIBL><TITLE>Heduig reine de Pologne, roman historique</TITLE> par <AUTHOR>Mme. la Duchesse d'-Abrantes</AUTHOR>. <VOLUME>1 vol.</VOLUME> gr. in <FORMAT>8.</FORMAT> <PLACE>Paris</PLACE>. <PRIZE>Fr. 5 60 Rp.</PRIZE></BIBL> <BIBL><TITLE>M√©ducation progressive</TITLE> par <AUTHOR>Mme. Necker de Saussure</AUTHOR>. <VOLUME>Tome troisi√™me: √©tude de la vie des femmes</VOLUME>. <PLACE>Paris</PLACE> gr. in <FORMAT>8.</FORMAT> <PRIZE>Fr. 5. 40 Rp.</PRIZE></BIBL> <BIBL><TITLE>Arthur ou la transformation d'un homme incr√©dule et l√©ger, trouvant sa gu√©rison dans les Sourc√©s divines</TITLE>, par <AUTHOR>Mr. Guktinger</AUTHOR> <VOLUME>1 vol.</VOLUME> gr. in <FORMAT>8.</FORMAT> <PLACE>Paris</PLACE>. <PRIZE>Fr. S. 60 Rp.</PRIZE></BIBL></ITEM>\",\n\"number_of_fixes\": 2,\n\"explanation\": \"Two closing tags for 'PRIZE' were incorrectly labeled as 'PRICE'. These have been corrected to 'PRIZE'.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 451,
+        "output_tokens": 443,
+        "total_tokens": 894
+    },
+    "duration": 17.25313091278076,
+    "timestamp": "2025-11-06T10:41:20.670210"
+}

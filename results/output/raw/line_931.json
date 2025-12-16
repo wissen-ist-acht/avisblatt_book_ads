@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>10. <BIBL><AUTHOR>Titus Livins</AUTHOR>, <TITLE>R√∂mische Geschichte</TITLE> <VOLUME>2ter Bd.</VOLUME>, ist f√ºr die Herren Subseribenten um <PRICE>21 Btz.</PRICE> abzuholen in der Holdeneckerschen Leihbibliothek in kl. Basel.</BIBL></ITEM>\",\n  \"number_of_fixes\": 1,\n  \"explanation\": \"The 'PRIZE' tag was incorrect. It was replaced with the correct 'PRICE' tag.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 154,
+        "output_tokens": 140,
+        "total_tokens": 294
+    },
+    "duration": 5.77714467048645,
+    "timestamp": "2025-11-05T11:00:50.900456"
+}

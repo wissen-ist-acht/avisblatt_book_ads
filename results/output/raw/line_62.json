@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>22. In dem Christischen Buchladen auf der Eysengasse sind zu haben: <BIBL><AUTHOR>Maschenbauers (J. A. E.)</AUTHOR><TITLE>aus dem Reiche der Wissenschaften wohl versuchter Referendarius, oder auserlesene Sammlung von allerhand vermischten Schriften und Versuchen Íùõc.</TITLE>, <VOLUME>4. Theile</VOLUME>, mit <FORMAT>Kupf.</FORMAT> <FORMAT>4t√≤.</FORMAT> <YEAR>1752</YEAR>. √† <PRIZE>fl. 4. 30. kr.</PRIZE></BIBL> Ejusdem, <BIBL><TITLE>curioser und in allen n√∂thigen Wissenschafften nutzlicher Dollmetscher, oder allgemeines Zeitungs-Handbuch Íùõc. mit illuminirten Land-Karten.</TITLE>, <FORMAT>4t√≤.</FORMAT> <YEAR>1748</YEAR>. √† <PRIZE>fl. 4.</PRIZE></BIBL> <BIBL><TITLE>Austria sancta & beata; s. Acta & Vitae Sanctor.</TITLE> eorum qui austriam regionem olim illustrarunt, edita a <AUTHOR>Bertholdo Mellicensi, O. S. B. &c.</AUTHOR>, <VOLUME>Tom. L.</VOLUME> c. fig. <FORMAT>fol.</FORMAT> <YEAR>1750</YEAR>. √† <PRIZE>fl. 4. 15. kr.</PRIZE></BIBL> <BIBL><TITLE>T√§gliche Erbauung eines wahren Christen zu dem Vextrauen auf GOtt und dessen Dienstl in Betrachtung seiner Heiligen, auf alle Tage des Jahrs</TITLE> in auserlesenen Kupferen und deren Erk√§rung Íùõc. uc. von <AUTHOR>R. D. Joh. Giulini</AUTHOR>, <VOLUME>erster Monat</VOLUME> <FORMAT>8v√≤.</FORMAT> <YEAR>1753</YEAR>. √† <PRIZE>fl. 2. 15. kr.</PRIZE></BIBL> <BIBL><AUTHOR>Masculi (Joh. Bapt.)</AUTHOR> <TITLE>Encomia Ccelituum digesta per Singulos anni dies, una cum veterum fastis, recensentibus victorias, triumphos, sacrificia, ceterasque Res insignes Romanor.</TITLE> Graecorum, quibus Christ. Relig. praeponuntur fasti, <FORMAT>tabulis aneis ornata</FORMAT>, <VOLUME>mensis Januarius</VOLUME> <FORMAT>8v√≤.</FORMAT> <YEAR>1753</YEAR>. √† <PRIZE>fl. 1. 45. kr.</PRIZE></BIBL> <BIBL><TITLE>Testament politique du Cardinal Jules Alberoni;</TITLE> traduit de IItalien, <FORMAT>12m√≤.</FORMAT> <YEAR>1753</YEAR>. √† <PRIZE>54. kr.</PRIZE></BIBL> Allerhand Kupferst√ºcke, voystellende Mahlereyen und Statuen der beruhmtesten frantz. und Itali√§nischen Virtuosen. Wie auch Rei√ü- Bucher, f√ºr junge Anf√§nger die Zeichnung daraus zu erlernen, in billichem Preis. Frantz√∂sische und deutsche Fracht-Brieffe, das Buch √† 4. bz.</ITEM>\",\n  \"number_of_fixes\": 1,\n  \"explanation\": \"There was a redundant '</TITLE>' tag in the second BIBL section. This was removed to fix the XML.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 921,
+        "output_tokens": 911,
+        "total_tokens": 1832
+    },
+    "duration": 33.48112678527832,
+    "timestamp": "2025-10-30T17:45:48.528880"
+}

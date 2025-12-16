@@ -1,0 +1,13 @@
+{
+    "text": "{\n\"fixed_xml\": \"<ITEM>5. Bey J Holdenecker ist zu haben: <BIBL><TITLE>Der Todtengr√§ber. Ein Gegenstuck zur Urne im einsamen Thale</TITLE>, <VOLUME>4 Thle</VOLUME> <YEAR>802</YEAR>. <PRIZE>2 fl. 24 kr.</PRIZE></BIBL> <BIBL><TITLE>Lina von Saalen, eine Anekbote aus ihren und andern Papieren</TITLE>, von <AUTHOR>Pfeffel</AUTHOR> mit <FORMAT>Kpf.</FORMAT> <YEAR>802</YEAR>. <PRIZE>48 kr.</PRIZE></BIBL> <BIBL><TITLE>Crminig, die Ein. fiedlerin unter Romas Euinen</TITLE>, mit <FORMAT>Kpf.</FORMAT> <YEAR>801</YEAR>. <PRIZE>48 kr.</PRIZE></BIBL> <BIBL><TITLE>Atala, oder die Liebe zweyerl Wilden in der W√ºste</TITLE>, <YEAR>802</YEAR> <PRIZE>24 kr.</PRIZE></BIBL> <BIBL><AUTHOR>Hubers, F. L.</AUTHOR> <TITLE>Erz√§hlungen</TITLE>, mit <FORMAT>Kpf</FORMAT> <YEAR>802</YEAR>. <PRIZE>1fl.</PRIZE></BIBL> <BIBL><TITLE>Eugenie, oder die Gefahren der Leidenschaft</TITLE>, mit <FORMAT>Kpf.</FORMAT> <YEAR>802</YEAR>. <PRIZE>1 fl. 12 kr.</PRIZE></BIBL> <BIBL><AUTHOR>Dr. E. Poungs</AUTHOR> <TITLE>Klagen oder Nachtgedankenl √ºber Leben, Tod und Unsterblichreit</TITLE>, <VOLUME>3 B√§nbe</VOLUME>, <PRIZE>1 fl. 48 kr.</PRIZE></BIBL> <BIBL><TITLE>Faustin, oder das ohilosophische Jahrhundert</TITLE>, <PRIZE>36 kr.</PRIZE></BIBL> <BIBL><AUTHOR>Gibvons</AUTHOR> <TITLE>Geschichte des Verfalls und Unter, gangs des r√∂mischen Reichs</TITLE>, <VOLUME>8 Thle</VOLUME>, <YEAR>800</YEAR>. <YEAR>802</YEAR>. <PRIZE>9 fl. 20 kr.</PRIZE></BIBL> <BIBL><AUTHOR>Voss</AUTHOR> <TITLE>Idyllen</TITLE>, <VOLUME>3te verb. Auflage</VOLUME>, <YEAR>802</YEAR>. <PRIZE>br. 1 fl.</PRIZE></BIBL> <BIBL><TITLE>Noth- und Hilfsb√ºchlein f√ºr alle, welche durch Onanie Íùõc. ausgeschweiset haben</TITLE>, <VOLUME>3ter Thl.</VOLUME>, welcher die Regeln der Milchkur Íùõc. Íùõc. enth√§lt. <YEAR>80 2</YEAR>. <PRIZE>br. 36 kr.</PRIZE></BIBL> <BIBL><TITLE>Handlungs-Addressen-Verzeichnis von N√ºrnberg</TITLE>, <YEAR>802</YEAR>. <PRIZE>br. 1 fl.</PRIZE></BIBL> <BIBL><TITLE>Theodor der geographische Kinderfreund</TITLE>, <PRIZE>48 kr.</PRIZE></BIBL></ITEM>\",\n\"number_of_fixes\": 0,\n\"explanation\": \"The xml is well-formed and valid. No fixes were necessary.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 870,
+        "output_tokens": 854,
+        "total_tokens": 1724
+    },
+    "duration": 41.01187300682068,
+    "timestamp": "2025-11-04T15:05:07.730524"
+}

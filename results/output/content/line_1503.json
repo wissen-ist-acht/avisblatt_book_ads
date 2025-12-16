@@ -1,0 +1,5 @@
+{
+    "fixed_xml": "<ITEM>3711. Die <BIBL><TITLE>Schweizer-Chronik</TITLE> von <AUTHOR>Henne</AUTHOR>, ganz neu.</BIBL> <BIBL><TITLE>Schillers Werke</TITLE> in Carlsruher Original-Ausgabe nebst <AUTHOR>Schillers Genius</AUTHOR>, und mehrere andere B√ºcher, um √§u√üerst billigen Preis; im Berichthaus zur Einsicht.</BIBL></ITEM>",
+    "number_of_fixes": 2,
+    "explanation": "The 'Schillers Werke' and 'Schillers Genius' tags were incorrectly labeled. 'Schillers Werke' should be under the 'TITLE' tag and 'Schillers Genius' should be under the 'AUTHOR' tag. The tags were adjusted accordingly."
+}

@@ -1,0 +1,5 @@
+{
+    "fixed_xml": "<ITEM>Ein Freund allhier suchet um billigen Preis oder gegen andern anst√§ndigen B√ºchern <BIBL><TITLE>Histoire Romaine</TITLE> par <AUTHOR>Rollin</AUTHOR>, <VOLUME>XVI. Voll.</VOLUME></BIBL> und <BIBL><TITLE>les Oeuvres de Montagne</TITLE></BIBL>. Das mehrere ist im Berichthaus zu vernehmen.</ITEM>",
+    "number_of_fixes": 0,
+    "explanation": "The provided XML is already well-formed and does not need any fixes."
+}

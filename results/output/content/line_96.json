@@ -1,0 +1,5 @@
+{
+    "fixed_xml": "<ITEM>Es verlangt jemand: <BIBL><AUTHOR>Suiceri</AUTHOR> <TITLE>Diction. graec.</TITLE> <FORMAT>4t√≤.</FORMAT></BIBL> und <BIBL><AUTHOR>Herodiani</AUTHOR> <TITLE>hist. cum not. Boecleri &amp; Ind. Scheidii</TITLE></BIBL> zu kaufen, der Liebhaber ist im Berichthaus zu erfragen.</ITEM>",
+    "number_of_fixes": 1,
+    "explanation": "The XML was almost well-formed, but I had to replace the '&' character with its equivalent entity reference '&amp;' to make it a well-formed XML. The '&' character is a reserved character in XML and it must be replaced with '&amp;' when it does not function as the beginning of an entity reference."
+}

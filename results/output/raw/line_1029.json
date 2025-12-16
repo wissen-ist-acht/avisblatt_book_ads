@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>17. <BIBL><TITLE>A ddre√ü buch der Kaufleute und Fabrikanten in Europa</TITLE>, in <VOLUME>3 Bden.</VOLUME> Fortgesetzt und berichtigt bis zum J. <YEAR>1820</YEAR>. gr. <FORMAT>8.</FORMAT> R√ºrnb. geb. <PRIZE>18 Fr.</PRIZE></BIBL> <BIBL><TITLE>Theorie und Praris des doppelten, des einfachen u. des N√ºrnb. Buchhaltens</TITLE>, mit <VOLUME>11 Handlungsb√ºchern als Mustern</VOLUME>, von <AUTHOR>J. M. Leuchs</AUTHOR>, <VOLUME>4.</VOLUME> <PLACE>N√ºrnberg</PLACE> <YEAR>1820</YEAR>. <PRIZE>8 Fr.</PRIZE></BIBL> <BIBL><TITLE>Vollst√§ndige Handelswissenschaft</TITLE> in <VOLUME>3 Theilen</VOLUME>, von <AUTHOR>Leuchs</AUTHOR>, geb. <PRIZE>12Fr.</PRIZE></BIBL> <BIBL><TITLE>Conversations-Lexikon</TITLE> in <VOLUME>7 B√§nden</VOLUME>, sind nun wieder Exemplare auf weissem und gr√∂√üerm Papier zu haben.</BIBL> <BIBL><TITLE>Kalender f√ºr 1820</TITLE>. sind in herabgesetzten Preisen noch eine kleine Parthie zu haben, n√§mlich: <TITLE>Der Rhelnl√§ndische Hausfreund</TITLE>, √† <PRIZE>6 kr.</PRIZE> <TITLE>Taschenkalender mit Schreibpp.</TITLE> √† <PRIZE>8kr.</PRIZE> <TITLE>Contorkalender</TITLE>, √† <PRIZE>4 kr.</PRIZE></BIBL> Ferner: <BIBL><TITLE>Kurze Geschichte des Grafen Rudolfv. Habsburg, nebst einer Romanze desselben</TITLE>, v. <AUTHOR>Fr. u. Schilles</AUTHOR>. <PRIZE>4 kfr.</PRIZE></BIBL> In der Holdeneckes'schen Leihbibliothek geym Kornhause.</ITEM>\",\n  \"number_of_fixes\": 1,\n  \"explanation\": \"One <PRICE> tag was replaced with <PRIZE> to maintain consistency across the document.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 600,
+        "output_tokens": 589,
+        "total_tokens": 1189
+    },
+    "duration": 7459.84916973114,
+    "timestamp": "2025-11-05T14:11:30.141266"
+}

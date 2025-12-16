@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>29. In der Flickischen Buchhandlung auf dem Fischmarkt findet man: <BIBL><AUTHOR>Heinzmann</AUTHOR>, <TITLE>meine Fr√ºhstunden in Paris; Beobachtungen, Anmerkungen und W√ºnsche, Frankreich und die Revolution betreffend, nebst Fragment einer kleinen Schweizer-Reise</TITLE>, <FORMAT>8.</FORMAT> <YEAR>1800</YEAR>. <PRIZE>fl. 2.</PRIZE></BIBL> <BIBL><TITLE>Allmanach f√ºr Schullehrer in Stadt und Landschulen, die Gutes wollen und gerne thun, f√ºr das Jahr 1800.</TITLE> von <AUTHOR>G. A. Horrer</AUTHOR>, <FORMAT>8.</FORMAT> <PRIZE>fl. 1.</PRIZE></BIBL> <BIBL><AUTHOR>Buse (G. A.)</AUTHOR> <TITLE>das Ganze der Handlung, oder vollst√§ndiges Handbuch der vorzuglichsten Handlungs- Kenntnisse</TITLE>, <VOLUME>2ter Bd.</VOLUME> <FORMAT>gr. 8.</FORMAT> <YEAR>1800</YEAR>. <PRIZE>fl. 4.</PRIZE></BIBL> <BIBL><AUTHOR>Emmert (J. H.)</AUTHOR> <TITLE>the flouers of the british diterature, oder prosaische und poetische Aufs√§tze der ber√ºhmtesten Schriftsteller der Engl√§nder, zum Selbstunterricht in der engl. Sprache</TITLE>, <VOLUME>2 Bde.</VOLUME> <EDITION>2te Aufl.</EDITION> <FORMAT>gr. 8.</FORMAT> <YEAR>799</YEAR> <PRIZE>fl. 3. 44 kr.</PRIZE></BIBL> <BIBL><AUTHOR>Ernesti C. C. H)</AUTHOR> <TITLE>Versuch einer allgemeinen lateinischen Synonimil</TITLE>, <VOLUME>3ter Thl.</VOLUME> <FORMAT>gr. 8.</FORMAT> <YEAR>1800</YEAR>. <PRIZE>fl. 3.</PRIZE></BIBL> <BIBL><TITLE>Die Seligkeit der Liebenden, ein Gedicht von H√∂lty, f√ºr Gesang und Clavier gesetzt</TITLE>, von <AUTHOR>B Hacker</AUTHOR>, <PRIZE>12 kr.</PRIZE></BIBL> <BIBL><TITLE>Drey Lieder f√ºr Herz und Empfindung, f√ºr Gesangu Clavier gesetzt</TITLE>, von <AUTHOR>B. Hacker</AUTHOR>, <PRIZE>18 kr.</PRIZE></BIBL> <BIBL><AUTHOR>Feuerhach (P J. A.)</AUTHOR> <TITLE>Revision der Grunds√§tze und Grundbegriffe des positipen peinlichen Rechts</TITLE>, <VOLUME>2ter Bd.</VOLUME> <FORMAT>gr. 8.</FORMAT> <YEAR>1800</YEAR>. <PRIZE>fl. 3. 30 kr.</PRIZE></BIBL> <BIBL><AUTHOR>Seilers</AUTHOR> <TITLE>Religion der Unm√ºndigen</TITLE>, <EDITION>15te Aust</EDITION> <PRIZE>36 kr.</PRIZE></BIBL></ITEM>\",\n  \"number_of_fixes\": 6,\n  \"explanation\": \"The tags <PRICE> were replaced with the correct <PRIZE> tags in six places. No additional tags were added.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 858,
+        "output_tokens": 859,
+        "total_tokens": 1717
+    },
+    "duration": 28.61156392097473,
+    "timestamp": "2025-11-04T14:53:41.858129"
+}

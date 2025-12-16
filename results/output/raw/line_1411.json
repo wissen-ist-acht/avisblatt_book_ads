@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>Im Berichthaus werden nachstehende Bucher um die beigesetzten billigen Preise abgegeben: <BIBL><AUTHOR>Raynal</AUTHOR>, <TITLE>histoire philos. et polit. de deux Indes</TITLE>. <PLACE>Gen√®ve</PLACE> <YEAR>1781</YEAR>. <VOLUME>9 vol.</VOLUME> <PRICE>C. Fr. 4.</PRICE></BIBL> <BIBL><TITLE>Lehrbuch der allgem. Ges.</TITLE>, <FORMAT>Halbfranzband</FORMAT>. <PRICE>Fr. 1. 50.</PRICE> <PLACE>Halle</PLACE> <YEAR>1811</YEAR>. <VOLUME>3 Bde.</VOLUME></BIBL> <BIBL><TITLE>Histoire des revolutions de la haute Allemagne</TITLE>. <YEAR>1741</YEAR>. <VOLUME>2vol.</VOLUME> <PRICE>C. Fr. 1.</PRICE></BIBL> <BIBL><TITLE>Briefwechsel dreier akadem. Freunde</TITLE>. <PLACE>Ulm</PLACE> <YEAR>1776</YEAR>. <VOLUME>2 Bde.</VOLUME> <PRICE>C. Fr. 1.</PRICE></BIBL> <BIBL><AUTHOR>Comelli</AUTHOR>, <TITLE>cuvres</TITLE>. <PLACE>Amsterd.</PLACE> <YEAR>1740</YEAR>. <VOLUME>5 vol.</VOLUME> <PRICE>Fr. 2. 8.</PRICE></BIBL> <BIBL><AUTHOR>Lamartine</AUTHOR>, <TITLE>meditations poet.</TITLE> <PLACE>Stuttg.</PLACE> <YEAR>1828</YEAR>. <FORMAT>16.</FORMAT> <PRICE>C. Fr. 1.</PRICE></BIBL> <BIBL><AUTHOR>Lamartine</AUTHOR>, <TITLE>harmonies poct.</TITLE> <PLACE>Stuttg.</PLACE> <YEAR>1830</YEAR>. <FORMAT>16.</FORMAT> <PRICE>C. Fr. 1.</PRICE></BIBL> <BIBL><AUTHOR>B√©ranger</AUTHOR>, <TITLE>Chansons poSt.</TITLE> <PLACE>Stuttg.</PLACE> <YEAR>1828</YEAR>. <FORMAT>16.</FORMAT> <PRICE>C. Fr. 1.</PRICE></BIBL> <BIBL><AUTHOR>Poppe</AUTHOR>, <TITLE>Lehrbuch d. Technologie</TITLE> <PLACE>Tubin-</PLACE><YEAR>1819</YEAR>. <FORMAT>8.</FORMAT> <PRICE>Fr. 2.</PRICE></BIBL> <BIBL><AUTHOR>Hempach</AUTHOR>, <TITLE>Lehrbuch d. Naturgesch.</TITLE> <PRICE>C. Fr. 1.</PRICE></BIBL> <BIBL><AUTHOR>Hufeland</AUTHOR>, <TITLE>Makrobiotik</TITLE> <FORMAT>8. br.</FORMAT> <PRICE>Fr. 1. 50.</PRICE></BIBL> <BIBL><TITLE>Verhandlungen der Schweizerischen Gemeinn√ºtzigen Gesellschaft</TITLE> <YEAR>1823</YEAR> <FORMAT>8. br.</FORMAT> <PRICE>50 Rp.</PRICE></BIBL></ITEM>\",\n  \"number_of_fixes\": 4,\n  \"explanation\": \"The XML tag for the price of the books was inconsistent, sometimes written as <PRIZE> and sometimes as <PRICE>. All instances of <PRIZE> were corrected to <PRICE>.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 841,
+        "output_tokens": 828,
+        "total_tokens": 1669
+    },
+    "duration": 35.33942174911499,
+    "timestamp": "2025-11-06T10:45:34.421484"
+}

@@ -1,0 +1,13 @@
+{
+    "text": "{\n\"fixed_xml\": \"<ITEM>In der Schweighauserschen Buchhandlung allhier ist zu haben: <BIBL><TITLE>Landwirthschaftskalender</TITLE> auf die Jahre <YEAR>1796</YEAR>. und <YEAR>1797</YEAR>. <FORMAT>4</FORMAT>. <PRIZE>32 kr</PRIZE></BIBL>. <BIBL><TITLE>Der graue Mann, eine Volksschrift</TITLE>, von <AUTHOR>Heinrich Stilling</AUTHOR>, <VOLUME>2 St√ºck</VOLUME>, <FORMAT>8</FORMAT>. <YEAR>1797</YEAR>. <PRIZE>32 kr</PRIZE></BIBL>. <BIBL><AUTHOR>Placidus</AUTHOR> <TITLE>Litteratur der Staatslehre</TITLE>, <VOLUME>iste Abtheilung</VOLUME>, <FORMAT>gr. 8</FORMAT>. <YEAR>1797</YEAR>. <PRIZE>fl. 1. 12 kr</PRIZE></BIBL>. <BIBL><AUTHOR>Volkmanns</AUTHOR> <TITLE>historisch-kritische Nachrichten von Italien</TITLE>, samt Zus√§tzen von <AUTHOR>Bernoulli</AUTHOR>, <VOLUME>6 Bd</VOLUME>. <FORMAT>gr. 8</FORMAT>. <YEAR>778</YEAR>. in Carton gebunden. <PRIZE>fl. 17</PRIZE></BIBL>. <BIBL><TITLE>Romantische Unterhaltungen</TITLE>, <VOLUME>3 Thl</VOLUME>. <FORMAT>8</FORMAT>. <YEAR>797</YEAR>. <PRIZE>fl. 5</PRIZE></BIBL>. <BIBL><TITLE>Historisch-geographische Beschreibung von ganz Frankreich</TITLE> nach seiner jetzigen Eintheilung, <FORMAT>gr. 8</FORMAT>. <PRIZE>fl. 2. 40 kr</PRIZE></BIBL>. <BIBL><TITLE>Bibliothek f√ºr das Merkw√ºrdigste aus der Natur- und V√∂lkergeschichte</TITLE>, <VOLUME>rster Thl</VOLUME>. <FORMAT>gr. 8</FORMAT>. <YEAR>1796</YEAR>. <PRIZE>fl. J. 30 kr</PRIZE></BIBL>. <BIBL><AUTHOR>Burkardts</AUTHOR> <TITLE>Anleitung zur B√ºcherkunde in allen Wissenschaften</TITLE>, <FORMAT>gr. 8</FORMAT>. <YEAR>797</YEAR>. <PRIZE>fl. 1. 48 kr</PRIZE></BIBL>. <BIBL><AUTHOR>Fordyce</AUTHOR> <TITLE>Anfangsgrunde der theoret. und prakt. Arzneywissenschaft</TITLE>, <FORMAT>gr. 8</FORMAT>. <YEAR>797</YEAR>. <PRIZE>fl. 2</PRIZE></BIBL>. <BIBL><TITLE>Isidor, Bauer zu Ried, eine Geschichte f√ºr bas Landvolk und f√ºr B√ºrger in St√§dten</TITLE>, <VOLUME>2 Theil</VOLUME>, <FORMAT>8</FORMAT>. <YEAR>797</YEAR>. <PRIZE>fl. 1. 36 kr</PRIZE></BIBL>. <BIBL><TITLE>Die neue Pamela in der Geschichte eines</TITLE></BIBL></ITEM>\",\n\"number_of_fixes\": 6,\n\"explanation\": \"The XML was missing closing PRIZE tags and instead had PRICE tags. These were replaced with the correct PRIZE tags. This was done in six places.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 848,
+        "output_tokens": 850,
+        "total_tokens": 1698
+    },
+    "duration": 33.410974979400635,
+    "timestamp": "2025-11-04T14:13:32.352069"
+}

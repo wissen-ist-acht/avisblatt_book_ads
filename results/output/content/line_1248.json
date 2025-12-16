@@ -1,0 +1,5 @@
+{
+    "fixed_xml": "<ITEM>7. Auf mehreres Begehren ist nun wieder angelangt und zu haben: <BIBL><TITLE>Der St. Galler Kalender</TITLE>, mit der sch√∂n u. deutlich lithogr. Karte der Kantone St. Gallen u. Appenzell, nebst der Ansicht u. Beschreib. der Stadt St. Gallen, auch enth√§lt solcher den Regierungs-Etat von beiden Kantonen, u. ein Lied, mit Melodie, von dem Toggenburger S√§ngerverein, nebst einem interessanten Allerley.<PRIZE>10 kr.</PRIZE></BIBL> bei den Herren Buchbindern u. in der Holdenecker'schen Leihbibliothek.</ITEM>",
+    "number_of_fixes": 1,
+    "explanation": "The closing TITLE tag was misplaced. It was moved to the end of the actual title."
+}

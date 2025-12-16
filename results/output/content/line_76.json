@@ -1,0 +1,5 @@
+{
+    "fixed_xml": "<ITEM>In dem Schorendorsischen Buchladen an der Hutga√ü ist zu haben: <BIBL><TITLE>Lillustie Paisan, on memoires & avantures de Daniel Mogini√©</TITLE>, natir du village de Chexales au Canton de Berne, Baillage de Moudon, mort √† Agra, le 2ame de Mai 1749. ag√© de 39. ans. Omrah de la premiere Classe, Commandant de la seconde Garde Mogole, Grand-Portier au Palais de IEmpereur & Gouverneur du Palngeab. on se trouvent plusieurs particularites anecdotes des dernieres revolutious de Perse & de Pldostan ,& du Regne de Thamas-Rulistan</BIBL>, <FORMAT>8v√≤.</FORMAT> <YEAR>1754</YEAR>. √† <PRIZE>24. xr.</PRIZE></ITEM>",
+    "number_of_fixes": 1,
+    "explanation": "There was an extra closing TITLE tag which was not required. The content within was actually part of the BIBL tag, so the TITLE tag was removed."
+}

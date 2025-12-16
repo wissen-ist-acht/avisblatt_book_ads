@@ -1,0 +1,13 @@
+{
+    "text": "{\n\"fixed_xml\": \"<ITEM>29. Wohlfeile medizinisch-chirurgische und pharmaceut. B√ºcher, welche im Flickschen Gesch√§fts-Bureau zu haben sind. <BIBL><AUTHOR>Ackermann</AUTHOR>, von der Natur des ansteckenden <TITLE>Typhus</TITLE>. gr. 8. geh. <PRICE>12 Btz.</PRICE></BIBL> <BIBL><AUTHOR>Altenburger</AUTHOR> allgemeine medizinische <TITLE>Annalen des 19ten Jahrhunderts</TITLE>, die Jahrg√§nge 1801 bis 1814mel. nebst 8 Supplement- Heften. Diese 14 Jahrg√§nge nebst den Suppl. welche im Ladenpreise <PRICE>200 Frken.</PRICE> kosten, werden f√ºr <PRICE>32 Fr.</PRICE> abgelassen.</BIBL> <BIBL><AUTHOR>Arnemans</AUTHOR> chirurg. <TITLE>Arzneymittellehre</TITLE>. <VOLUME>3te Aufl.</VOLUME> <FORMAT>Cart. u. Titel.</FORMAT> <PRICE>15 Btz.</PRICE></BIBL> <BIBL><AUTHOR>Arnemans</AUTHOR> prakt. <TITLE>Arzneymittellehre</TITLE>. <VOLUME>3te Aufl.</VOLUME> dito. <PRICE>18 Btz.</PRICE></BIBL> <BIBL><AUTHOR>Beckers</AUTHOR> <TITLE>Krankheiten der Kinder, ein Hausund H√ºlfsbuch f√ºr Eltern und Erzieher, die sich ohne Arzt befinden Íùõc.</TITLE> √†<VOLUME>2 Thle.</VOLUME> <FORMAT>8.</FORMAT> <PRICE>Fr. 2. C. u. T.</PRICE></BIBL> <BIBL><AUTHOR>Bernsteins</AUTHOR> <TITLE>Handbuch f√ºr Wund√§rzte</TITLE>. <VOLUME>8 Bde.</VOLUME> <PRICE>Fr. 6. 8. 786. C. u. T.</PRICE></BIBL> <BIBL><AUTHOR>Bernsteins</AUTHOR> prakt. <TITLE>Handbuch d. Geburts- h√ºlfe</TITLE>. <VOLUME>4 Bde.</VOLUME> <FORMAT>8.</FORMAT> <PRICE>791. C. u. T. Fr. 6.</PRICE></BIBL> <BIBL><AUTHOR>Dessaults</AUTHOR> auserl. chirurgische <TITLE>Wahrnehmungen</TITLE>. <VOLUME>10 Thle.</VOLUME> in <VOLUME>5 Bden.</VOLUME> gr. 8. <PRICE>791. Cart. Fr. 7. 5 Btz. u. T.</PRICE></BIBL> <BIBL><AUTHOR>Hildebrand</AUTHOR>, √ºber den ansteckenden <TITLE>Typhus</TITLE>. <PRICE>15 Btz gr. 8. 800. C. u. T.</PRICE></BIBL> <BIBL><AUTHOR>Vogels</AUTHOR> <TITLE>Handb. der prakt. Arzneywissenschaft</TITLE>. <VOLUME>3te Aufl.</VOLUME> <VOLUME>6 Thle.</VOLUME> gr. 8. <FORMAT>C. u. T.</FORMAT> <PRICE>Fr. 9.</PRICE></BIBL> <BIBL><AUTHOR>Salzburger medizinisch- chirurg. Zeitung</AUTHOR>, fortgesetzt von <AUTHOR>Ehrhardt</AUTHOR>, die Jahrg√§nge 1811-13, nebst 3 Erg√§nzungsb√§nden, zusammen <VOLUME>15 Bde.</VOLUME> geh. <PRICE>Fr. 12.</PRICE></BIBL></ITEM>\",\n\"number_of_fixes\": 8,\n\"explanation\": \"The XML tags for price were inconsistent, sometimes using 'PRIZE' and sometimes 'PRICE'. All instances were changed to 'PRICE' for consistency.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 984,
+        "output_tokens": 964,
+        "total_tokens": 1948
+    },
+    "duration": 37.00106883049011,
+    "timestamp": "2025-11-05T14:58:54.319529"
+}

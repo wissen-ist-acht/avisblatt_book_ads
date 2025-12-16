@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>2. Bey Herrn Z√§slin, Buchbinder, ist Czu haben: <BIBL><TITLE>Stunden der Andacht</TITLE> Jahrg. <YEAR>1811</YEAR>, <YEAR>13</YEAR> und <YEAR>14</YEAR>. <VOLUME>5 B√§nde</VOLUME>, <FORMAT>Halbfrzb.</FORMAT> und <FORMAT>Charte</FORMAT>, zusammen <PRICE>13 Fr.</PRICE></BIBL> <BIBL><AUTHOR>B√§ttiers</AUTHOR> <TITLE>Predigten</TITLE>, <VOLUME>2 Bde.</VOLUME> <FORMAT>Halbfrz.</FORMAT> <PRICE>2 1 Fr. 5 Btz.</PRICE></BIBL> <BIBL><TITLE>Numa Pompilins.</TITLE> <PLACE>Bas.</PLACE> m. <AUTHOR>K.</AUTHOR> <AUTHOR>C.</AUTHOR> u. <AUTHOR>Tit.</AUTHOR> √† <PRICE>8 Btz.</PRICE></BIBL> <BIBL><TITLE>Handbuch f√ºr Reisende durch die Schweiz.</TITLE> m. <FORMAT>1 Charte.</FORMAT> √† <PRICE>Th. 1 Bd.</PRICE> <PLACE>Z√ºrich</PLACE> <YEAR>799</YEAR>. <FORMAT>br.</FORMAT> √† <PRICE>15 Btz.</PRICE></BIBL> <BIBL><AUTHOR>Screvelii</AUTHOR> <TITLE>Lecicon.</TITLE> <FORMAT>Perg.</FORMAT> √† <PRICE>12 Btz.</PRICE></BIBL> <BIBL><AUTHOR>Pasoris</AUTHOR> <TITLE>Lecicon Nou. Test. gr.</TITLE> <FORMAT>8.</FORMAT> <FORMAT>Perg.</FORMAT> √† <PRICE>10 Btz.</PRICE></BIBL> <BIBL><AUTHOR>Dittons</AUTHOR> <TITLE>H. Wahrheit der christl. Religion.</TITLE> <FORMAT>Hlbfrb.</FORMAT> √† <PRICE>10 Btz.</PRICE></BIBL></ITEM>\",\n  \"number_of_fixes\": 3,\n  \"explanation\": \"Three XML tags were corrected. The 'PRIZE' tag was replaced with the correct 'PRICE' tag.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 560,
+        "output_tokens": 538,
+        "total_tokens": 1098
+    },
+    "duration": 15.797950983047485,
+    "timestamp": "2025-11-05T11:05:19.049037"
+}

@@ -1,0 +1,13 @@
+{
+    "text": "{\n\"fixed_xml\": \"<ITEM>In der Deckerischen Buchdruckerey sind folgende neue B√ºcher zu haben: <BIBL><TITLE>Louise von H xxx oder der Triumph der Unschuld; eine r√ºhrende Geschichte</TITLE>, <VOLUME>2 Theile</VOLUME>, <FORMAT>8.</FORMAT>, <PRIZE>fl. 1. kr. 8.</PRIZE></BIBL> <BIBL><AUTHOR>J. E. Bode</AUTHOR>, <TITLE>monatliche Anleitung zur Kenntni√ü des Standes und der Bewegung der Planeten und des Mondes, nebst Beschreibung der vorfallenden Himmels-Begebenheiten f√ºr das kr. 36. Jahr 1776.</TITLE>, <VOLUME>6te Fortsetzung</VOLUME>, <FORMAT>8.</FORMAT></BIBL> <BIBL><TITLE>Traduction libre en vers dunespartie des cufl.</TITLE>, <PRIZE>1. xr. 20.</PRIZE>, <AUTHOR>Mr. Gesner</AUTHOR>, <FORMAT>8.</FORMAT></BIBL> <BIBL><TITLE>Zwey neue Skonomische Abhandlungen zur Erspahrung des Holzes an denen H√§usern und auch bey Kalch√∂fen, mit Kupfern</TITLE>, <FORMAT>8.</FORMAT>, <PRIZE>kr. 12.</PRIZE></BIBL> <BIBL><TITLE>F√ºr Literatur und Herz; Eine Wochenschrifft, erstes und zweytes Quartal</TITLE>, <FORMAT>8.</FORMAT>, <PRIZE>fl. 1. kr. 4.</PRIZE></BIBL> <BIBL><AUTHOR>Opizen</AUTHOR>, <TITLE>Geschichte einer Epidemie Íùõc.</TITLE>, <FORMAT>8.</FORMAT>, <PRIZE>kr. 28.</PRIZE></BIBL> <BIBL><TITLE>Sammlungen merkw√ºrdiger Erfahrungen von der Pocken-Inoculation</TITLE>, <FORMAT>8vo</FORMAT>, <VOLUME>1. 2. und 3tes St√ºck</VOLUME>, <PRIZE>fl. 1.</PRIZE></BIBL> <BIBL><TITLE>Westph√§lische Alterthummer oder Bewei√ü, da√ü diejenigen, so Christum gekreuziget und Johannem den T√§ufer enthauptet, Westph√§linger gewesen</TITLE>, <FORMAT>8vo</FORMAT>, <PRICE>kr. 8.</PRICE></BIBL></ITEM>\",\n\"number_of_fixes\": 7,\n\"explanation\": \"There were 7 instances where commas were missing to separate XML tags within the same BIBL tag. The fixed XML now has these commas added.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 669,
+        "output_tokens": 662,
+        "total_tokens": 1331
+    },
+    "duration": 14.992431879043579,
+    "timestamp": "2025-11-02T09:39:33.341068"
+}

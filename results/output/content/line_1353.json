@@ -1,0 +1,5 @@
+{
+    "fixed_xml": "<ITEM>2. Von Sch√∂llers s√§mmtlichen Werken in 12 Octav-B√§nden auf Velinpapier, mit 12 Stahlstichen, sind Druckproben bei uns zu erhalten. <BIBL><TITLE>Sch√∂llers s√§mmtlichen Werken</TITLE>, in <VOLUME>12 Octav-B√§nden</VOLUME> auf Velinpapier, mit <FORMAT>12 Stahlstichen</FORMAT></BIBL>. Diese Prachtausgabe wird in 4 Lieferungen, jede von 3 B√§nden, und zwar die erste bis Ostern <YEAR>1835</YEAR>, die zweite im Herbst <YEAR>1835</YEAR>. und die dritte und vierte im Jahr <YEAR>1836</YEAR>. bestimmt erscheinen. Der Subscriptionspreis ist <PRIZE>Fr. 6. 3 Btz.</PRIZE> f√ºr jede Lieferung, der Pranumerationspreis f√ºr das Ganze <PRIZE>Fr. 20</PRIZE>. Die Ausstattung ist Schillers unsterblichen Namens w√ºrdig, und diese Ausgabe wird sich vor allen bis jetzt erschienenen in jeder Beziehung vortheilhaft auszeichnen. Zu Bestellungen empfiehlt sich die Schweighauser sche Buchhandlung.</ITEM>",
+    "number_of_fixes": 1,
+    "explanation": "The closing tag for 'PRIZE' was incorrectly written as 'PRICE'. This has been corrected to 'PRIZE' to match the opening tag."
+}

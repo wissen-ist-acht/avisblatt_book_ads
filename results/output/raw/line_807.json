@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>In der Samuel Flickschen Buchhandl. an der Schiffl√§nde sind zu haben: <BIBL><TITLE>Expos√© de la Methode √©l√©mentaire de H. Pestalozzi</TITLE>, par <AUTHOR>D. A. Chayannes</AUTHOR>. <FORMAT>gr. 8.</FORMAT> <PLACE>Vevey</PLACE></BIBL>. -<BIBL><TITLE>Leben des J. J. Dessalines oder Jacob's J. Kaisers von Haiti (St. Domingo)</TITLE> a. d. Franz. des <AUTHOR>Dubroca v. K. L. M. M√ºller</AUTHOR>, <FORMAT>8.</FORMAT> <PLACE>Leipz.</PLACE> <PRIZE>1 fl. 30 kr.</PRIZE></BIBL> <BIBL><AUTHOR>Steinm√ºller J. R.</AUTHOR> <TITLE>Lesebuch zur Bildung des Herzens und Uebung der Aufmerksamkeit f√ºr Kinder</TITLE>. <VOLUME>4te verb. Aufl.</VOLUME> <FORMAT>8.</FORMAT> <PLACE>Glarus</PLACE>, geb. <PRIZE>32 kr.</PRIZE></BIBL> <BIBL><AUTHOR>Wieland, L.</AUTHOR> <TITLE>Erz√§hlungen und Dialogen</TITLE>, herausgegeben v. <AUTHOR>L. M. Wieland</AUTHOR>, <VOLUME>2ter Bd.</VOLUME> <FORMAT>8.</FORMAT> <PLACE>Zurich</PLACE> <PRIZE>fl. 2.</PRIZE></BIBL> <BIBL><TITLE>Molieres Lustspiele u. Possen</TITLE>, f√ºr die deutsch. B√ºhne v. <AUTHOR>H. Zschokke</AUTHOR>, <VOLUME>2tr. Bd.</VOLUME> <FORMAT>8.</FORMAT> <PLACE>Z√ºr.</PLACE> <PRIZE>fl. 2.</PRIZE></BIBL> <BIBL><TITLE>Historisch polttische Miscellen aus dem Jahrhundert der Contraste</TITLE>, f√ºr unbefangene Leser, <FORMAT>8.</FORMAT> <PLACE>Germanien</PLACE> <PRIZE>2 fl.</PRIZE></BIBL> <BIBL><AUTHOR>Laubender, Dr. B.</AUTHOR> <TITLE>Grunds√§tze und Erfahrungen zur Erzielung einer reichen Milchwirthschaft nebst Abbildung eines Butterfasses</TITLE>. <FORMAT>8.</FORMAT> <PLACE>N√ºrnbrg.</PLACE> <PRIZE>1 fl.</PRIZE></BIBL> <BIBL><AUTHOR>Gotthard, J. C.</AUTHOR> <TITLE>die Bereitung des Obstweins oder Cyders</TITLE>. <FORMAT>8.</FORMAT> <PLACE>Erfurt</PLACE> <PRIZE>20 kr.</PRIZE></BIBL> <BIBL><AUTHOR>Gotthard, J. C.</AUTHOR> <TITLE>Anweisung zum wirthschaftlichen Gebrauche des Obstes in gro√üen und kleinen Haushaltungen</TITLE>. <FORMAT>8.</FORMAT> <PLACE>Erfurt</PLACE> <PRIZE>1fl.</PRIZE></BIBL> <BIBL><AUTHOR>Gotthard, J. C.</AUTHOR> <TITLE>die Benutzung des Obstes zu Mu√ü, Eingemachtem und andern genie√übaren S√§ften</TITLE>. <FORMAT>8.</FORMAT> <PLACE>Ebend.</PLACE> <PRIZE>40 kr.</PRIZE></BIBL></ITEM>\",\n  \"number_of_fixes\": 6,\n  \"explanation\": \"The XML tags <PRICE> were incorrectly used in 6 places. They were replaced with the correct <PRIZE> tags.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 916,
+        "output_tokens": 919,
+        "total_tokens": 1835
+    },
+    "duration": 49.37662410736084,
+    "timestamp": "2025-11-04T15:56:44.408946"
+}

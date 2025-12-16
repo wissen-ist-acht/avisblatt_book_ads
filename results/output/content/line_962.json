@@ -1,0 +1,5 @@
+{
+    "fixed_xml": "<ITEM>19. <BIBL><TITLE>Roos christliche Kirchengeschichte</TITLE>, <PRIZE>4 Fr.</PRIZE></BIBL> <BIBL><TITLE>Einleitung in die B√ºcher der heil. Schrift</TITLE>, v. Hrn. Pfr. <AUTHOR>Huber</AUTHOR>, <PRIZE>6 Btz.</PRIZE> mehrere Exempl.</BIBL> <BIBL><TITLE>Eine Sammlung von 22 Jahrg√§ngen, f√ºr Liebhaber christl. Wahrheit und Gottseligkeit</TITLE>, <PRIZE>br. 14Fr.</PRIZE></BIBL> <BIBL><AUTHOR>Ewald</AUTHOR>, <TITLE>√ºber Prediger-Besch√§ftigung u. Prediger-Betragen</TITLE>, <VOLUME>6 Hefte</VOLUME>, <PRIZE>br. 45 Btz.</PRIZE></BIBL> <BIBL><AUTHOR>Gottscheds</AUTHOR> <TITLE>Weltweisheit</TITLE>, mit <FORMAT>Kupf.</FORMAT> <PRIZE>3 Fr.</PRIZE></BIBL></ITEM>",
+    "number_of_fixes": 2,
+    "explanation": "Two PRIZE tags were incorrectly closed as PRICE. These have been corrected to PRIZE."
+}

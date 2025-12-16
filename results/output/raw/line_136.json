@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>Es sucht jemand folgende 2. Bucher zu kaufen: <BIBL><AUTHOR>Simonis Pauli</AUTHOR>, der H. Schrifft Dr. und Prof. und Superintendenten des Rostocker-Kraises <TITLE>Postilla, oder Auslegung der Evangelien</TITLE>, <PLACE>Magdeburg</PLACE> <YEAR>1575</YEAR></BIBL>. D Die schon einmal gesuchte <BIBL><AUTHOR>Conrado Dordato</AUTHOR>, Prediger zu Neinekh in Sachsen, <TITLE>Postilla</TITLE>. Dieses Buch ist in einem der Jahren <YEAR>1554; 55 oder 56</YEAR> ausgegangen; der Liebhaber ist in dem Berichthaus ohnentgeltlich zu vernehmen. Es k√∂nnten der suchenden Person vielleicht auch nur einzelne Theile dienen, indeme sie von jedem dieser zwey B√ºchern w√ºrcklich etliche Theile besitzet.</BIBL></ITEM>\",\n  \"number_of_fixes\": 1,\n  \"explanation\": \"The closing BIBL tag was missing after the second book details. It has been added at the end before the closing ITEM tag.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 294,
+        "output_tokens": 286,
+        "total_tokens": 580
+    },
+    "duration": 6.854681015014648,
+    "timestamp": "2025-11-02T09:33:24.929630"
+}

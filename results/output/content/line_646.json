@@ -1,0 +1,5 @@
+{
+    "fixed_xml": "<ITEM>52. Ein schöner Ladentisch mit 10 Schabladen, ein Ladencorpus mit 8 Schübladen, Eßig und Oehl-Maas, 2 Oehl-Standen von Blech, eine schöne kupferne Waag 40 bis tern auf alle Tage der Wochen, 8. Ä 6kr. ferner <BIBL><TITLE>Cicero von den menschlichen Pflichten</TITLE><VOLUME>2 Bd.</VOLUME><FORMAT>8.</FORMAT></BIBL><BIBL><AUTHOR>Broks</AUTHOR><TITLE>irdisches Vergnugen in Gott</TITLE><VOLUME>10 Bd.</VOLUME> sehr sauber, ganz Pergament. 50 tB. darauf zu wiegen, und ein sturzen Blech, alles soviel als neu und um billigen Preis.</BIBL></ITEM>",
+    "number_of_fixes": 1,
+    "explanation": "The xml-tags were not properly closed for the second BIBL tag. The closing tag was added at the end of the second BIBL content to fix the xml."
+}

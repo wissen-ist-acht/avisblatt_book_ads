@@ -1,0 +1,13 @@
+{
+    "text": "{\n\"fixed_xml\": \"<ITEM>64. Bey Hrn. Joh. Jakob Flick, Buchh√§nd- 2. ler allhier, ist zu haben: <BIBL><TITLE>Tagebuch einer Reise durch die Schweitz</TITLE>, von der <AUTHOR>Frau von la Roche</AUTHOR>, <FORMAT>8.</FORMAT> <YEAR>787.</YEAR> <PRICE>fl. 1. 36 kr.</PRICE></BIBL> <BIBL><TITLE>Gespr√§ch im Reiche der Todten zwischen Maria Theresia und Friederich dem U.</TITLE> <VOLUME>5tes und letztes Stuck</VOLUME>, <FORMAT>4.</FORMAT> <YEAR>787.</YEAR> <PRICE>24 kr.</PRICE></BIBL> <BIBL><TITLE>Kirchen- und Ketzer-Almanach 2tes Quinquennium</TITLE>, ausgefertiget im Jahr <YEAR>1787.</YEAR> <FORMAT>8.</FORMAT> <PRICE>fl. 1. 12 kr.</PRICE></BIBL> <BIBL><AUTHOR>Chr. Fr. Scherfs</AUTHOR> <TITLE>Anzeige der Rettungsmittel bey Leblosen und in pl√∂tzliche Lebensgefahr Gerathenen</TITLE>, <FORMAT>8.</FORMAT> <YEAR>787.</YEAR> <PRICE>40 kr.</PRICE></BIBL> <BIBL><TITLE>Almanach f√ºr Prediger, die lesen, forschen und denken, auf das Jahr 1787.</TITLE> <FORMAT>8.</FORMAT> <PRICE>45 kr.</PRICE></BIBL> <BIBL><AUTHOR>A. J. Toaldo</AUTHOR> <TITLE>Witterungslehre f√ºr den Feldbau</TITLE>, <VOLUME>3te Auflage</VOLUME>, <FORMAT>gr. 8.</FORMAT> <YEAR>786.</YEAR> <PRICE>36kr.</PRICE></BIBL> <BIBL><TITLE>Ueber Pre√üfreyheit und deren Gr√§nzen</TITLE>, <FORMAT>8.</FORMAT> <YEAR>787.</YEAR> <PRICE>45 kr.</PRICE></BIBL> <BIBL><AUTHOR>Franz Rud. Grossings</AUTHOR> <TITLE>Staatenjournal 1ter Jahrgang 1tes St√ºck</TITLE>, <FORMAT>8. broche.</FORMAT> <YEAR>787.</YEAR> <PRICE>30 kr.</PRICE></BIBL> <BIBL><TITLE>Biographien aus der Bibel, ein Gegenst√ºck zu Niemeyers Charakteristit von einem T√ºrken</TITLE>, <FORMAT>8.</FORMAT> <YEAR>787.</YEAR> <PRICE>fl. 1. 30 kr.</PRICE></BIBL> <BIBL><TITLE>Das galante und in der Oekonomie ge√ºbte Frauenzimmer</TITLE>, <VOLUME>2 Theile</VOLUME>, <FORMAT>8.</FORMAT> <YEAR>787.</YEAR> <PRICE>fl. 1. 36 kr.</PRICE></BIBL> <BIBL><AUTHOR>H. Stephani</AUTHOR> <TITLE>Lehrbuch der Religion f√ºr die Jugend der h√∂hern St√§nde</TITLE>, <FORMAT>8.</FORMAT> <YEAR>787.</YEAR> <PRICE>24 kr.</PRICE></BIBL> <BIBL><TITLE>Le Bon.Sens, ou ldees naturelles opposeeg aux idees furnaturelles</TITLE>, <FORMAT>12.</FORMAT> <YEAR>786.</YEAR> <PRICE>40 xr.</PRICE></BIBL></ITEM>\",\n\"number_of_fixes\": 8,\n\"explanation\": \"The XML was missing closing tags for PRICE. The PRIZE tags were replaced with PRICE tags to fix the XML.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 923,
+        "output_tokens": 899,
+        "total_tokens": 1822
+    },
+    "duration": 22.756993055343628,
+    "timestamp": "2025-11-02T20:26:05.867686"
+}

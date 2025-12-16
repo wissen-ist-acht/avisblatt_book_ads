@@ -1,0 +1,5 @@
+{
+    "fixed_xml": "<ITEM>7. Ein <BIBL><TITLE>italienisches Lexikon</TITLE></BIBL> und <BIBL><AUTHOR>Tassots</AUTHOR> <TITLE>befreytes Jerufalem</TITLE></BIBL>, italienisch; wer solches zu verkaufen hat, beliebe es nebst Prei√ü zur Einsicht ins Berichthaus zu senden.</ITEM>",
+    "number_of_fixes": 1,
+    "explanation": "The second <BIBL> tag was not properly closed. A closing </BIBL> tag was added after the <TITLE>befreytes Jerufalem</TITLE>."
+}

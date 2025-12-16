@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>Im Verlag von Chr. Fischer in Bern ist erschienen und in Bahnmaiers Buchhandlung (C. Detloff) vorr√§thig: <BIBL><TITLE>Wahrhafter Bericht √ºber die Vorf√§lle im Chor der Simultankirche zu Baldenheim, im Elsa√ü</TITLE>, <FORMAT>8.</FORMAT> <PRICE>4 Btz.</PRICE></BIBL></ITEM>\",\n  \"number_of_fixes\": 1,\n  \"explanation\": \"The 'PRIZE' tag was incorrect. It has been corrected to 'PRICE'.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 163,
+        "output_tokens": 147,
+        "total_tokens": 310
+    },
+    "duration": 5.986880779266357,
+    "timestamp": "2025-11-06T11:09:12.315975"
+}

@@ -1,0 +1,13 @@
+{
+    "text": "{\n\"fixed_xml\": \"<ITEM>5. Bey Hrn. Joh. Heinrich Z√§slin, Buchbinder an der Greifenga√ü ist zu haben: <BIBL><TITLE>entres de d'aguesseau</TITLE>, <VOLUME>24</VOLUME>rol. <PRIZE>Vverd. 563.</PRIZE> <FORMAT>Hlbfrzbd.</FORMAT> <PRIZE>9 Frken.</PRIZE></BIBL> <BIBL><AUTHOR>Schmid, C.</AUTHOR> <TITLE>Moralphilosophie</TITLE>, <PLACE>Jena</PLACE> <YEAR>792</YEAR>. <FORMAT>Hlbfr zbd.</FORMAT> <PRIZE>1Fr.</PRIZE></BIBL> <BIBL><TITLE>Einleitung in die sch√∂nen Wissenschaften</TITLE>, von <AUTHOR>W. Ramler</AUTHOR>. <VOLUME>4 Bde.</VOLUME> <PLACE>Lpz.</PLACE> <YEAR>774</YEAR>. <FORMAT>Cart.</FORMAT> <PRIZE>2Fr.</PRIZE></BIBL> <BIBL><TITLE>er rechtschaffene Naturalist</TITLE>, v. <AUTHOR>S. Ulber</AUTHOR>, <PLACE>Basel</PLACE> <YEAR>810</YEAR>. <FORMAT>C. u. Tit.</FORMAT> <PRIZE>1 Fr.</PRIZE></BIBL> <BIBL><AUTHOR>Renningers, F.</AUTHOR> <TITLE>bibl. Geschichten</TITLE>, <VOLUME>2 Thle.</VOLUME> <VOLUME>1Bd.</VOLUME> <PLACE>Bern</PLACE> <YEAR>775</YEAR>. <FORMAT>Hlbfrzbd.</FORMAT> <PRIZE>6 Btz.</PRIZE></BIBL> <BIBL><AUTHOR>Stolz, J. J.</AUTHOR> <TITLE>Fest- u. Kommunionspredigten</TITLE>. <PLACE>Winterth.</PLACE> <YEAR>788</YEAR>. <FORMAT>C. u. Tit.</FORMAT> <PRIZE>1 Fr. 5 Btz.</PRIZE></BIBL> <BIBL><AUTHOR>Stolz, J. J.</AUTHOR> <TITLE>Bergpred.</TITLE> <VOLUME>3 Bde.</VOLUME> <PLACE>Lemgo</PLACE> <YEAR>792</YEAR>. <FORMAT>C. u. Tit.</FORMAT> <PRIZE>2Fr.</PRIZE></BIBL> <BIBL><AUTHOR>Schlegels, A.</AUTHOR> <TITLE>Passionspred.</TITLE> <VOLUME>3 Thle.</VOLUME> in <VOLUME>5 Bd.</VOLUME> <PLACE>Leipz.</PLACE> <YEAR>773</YEAR>. <FORMAT>Hlbfzbd.</FORMAT> <PRIZE>2 Fr. 5 Btz.</PRIZE></BIBL> <BIBL><AUTHOR>Sturms, C.</AUTHOR> <TITLE>Predigten</TITLE>. <VOLUME>5 Bde.</VOLUME> <PLACE>Pest</PLACE> <YEAR>782</YEAR>. <FORMAT>Hlbfzbd.</FORMAT> <PRIZE>3 Fr.</PRIZE></BIBL></ITEM>\",\n\"number_of_fixes\": 3,\n\"explanation\": \"The XML tags <PRICE> were replaced with the correct <PRIZE> tags in 3 places.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 783,
+        "output_tokens": 773,
+        "total_tokens": 1556
+    },
+    "duration": 21.378662109375,
+    "timestamp": "2025-11-05T11:02:47.555785"
+}

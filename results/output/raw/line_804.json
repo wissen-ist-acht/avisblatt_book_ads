@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>Um beygesetzte √§u√üerst wohlfeile Prei√üe sind folgende B√ºcher im Berichths. Commissionsweise zu haben: <BIBL><TITLE>Museum Helveticum</TITLE> 28 Part. in <VOLUME>7 B√§nden</VOLUME>, <PRIZE>25 Btz.</PRIZE></BIBL> <BIBL><AUTHOR>Becker</AUTHOR><TITLE>Mildheimisches Liederbuch</TITLE> von, mit einem Bande <TITLE>Melodien</TITLE> dazu, <YEAR>1804</YEAR>. <PRIZE>25 Btz.</PRIZE></BIBL> <BIBL><AUTHOR>Gellert</AUTHOR><TITLE>Oden und Lieder</TITLE> mit <AUTHOR>K√§sermann</AUTHOR> Musick, sehr sch√∂n, <PRIZE>25 Btz.</PRIZE></BIBL> <BIBL><AUTHOR>Doles</AUTHOR> <TITLE>Singbare und leichte Choral-Vorspiele</TITLE>, <VOLUME>5 Hefte</VOLUME>, <PRIZE>30 Btz.</PRIZE></BIBL> <BIBL><AUTHOR>Gryn√§us</AUTHOR> <TITLE>Die H. Schrift</TITLE> √ºbersetzt, <VOLUME>3 Thl.</VOLUME> ganz neu halbfrzbd. <PRIZE>36 Btz.</PRIZE></BIBL> <BIBL><TITLE>Geographisch-statistisch-topographische Beschreibung vom Churf√ºrstenthum Baden</TITLE> m. einer <TITLE>Charte</TITLE>. <VOLUME>2 Bd.</VOLUME> <YEAR>1804</YEAR>. <PRIZE>30 Btz.</PRIZE></BIBL></ITEM>\",\n  \"number_of_fixes\": 2,\n  \"explanation\": \"The xml tags for 'price' were misspelled as 'PRIZE' in two places. They have been corrected.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 481,
+        "output_tokens": 475,
+        "total_tokens": 956
+    },
+    "duration": 19.70630383491516,
+    "timestamp": "2025-11-04T15:54:35.107616"
+}

@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>In Herrn Johan Pistorischen Buchdruckerey zu St. El√übethen ist sowohl in Te√ºtscher als Frantz√∂sischer Sprach zu haben, <BIBL><TITLE>die Antwort auf das wider Ihro Kayserl. Majest√§t ausgegebene Spannische Manifest</TITLE>, worinnen enthalten, was Ihro Cathol. Majest. bewogen dem Kayser den Krieg anzuk√ºnden; aus obiger Antwort aber dessen trifftige Widerlegung zu sehen ist</BIBL>, das Stuck √† <PRIZE>6. xr.</PRIZE></ITEM>\",\n  \"number_of_fixes\": 1,\n  \"explanation\": \"The closing TITLE tag was misplaced. It was moved to close the 'TITLE' element after the book title, before the description.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 210,
+        "output_tokens": 201,
+        "total_tokens": 411
+    },
+    "duration": 9.597892999649048,
+    "timestamp": "2025-10-30T16:55:00.362117"
+}

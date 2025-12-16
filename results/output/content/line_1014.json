@@ -1,0 +1,5 @@
+{
+    "fixed_xml": "<ITEM>24. Bey Neukirch, Buchh√§ndler, auf dem Fischmarkt, sind folgende Novit√§ten zu haben: <BIBL><TITLE>Einige Worte √ºber die Handels-Gewerbs- u. Capital-Abgabe in Basel</TITLE>, von einem zahlenden Steuerpflichtigen. <PRIZE>12 kr.</PRIZE></BIBL> <BIBL><AUTHOR>Jahn, Professor in Bern</AUTHOR>, <TITLE>√ºber einen rezen sirenden Bischoff</TITLE>, nebst Anhang √ºber das wohlbekannte Berner Duumvirat. <PRICE>10kr.</PRICE></BIBL> <BIBL><AUTHOR>St√∂ckels</AUTHOR> <TITLE>Handbuch f√ºr K√ºnstler, Lackirliebhaber, Vergolder und Anstreicher aller Oelfarben</TITLE> gr. <VOLUME>8.</VOLUME> <PRICE>fl 1. 30kr.</PRICE></BIBL> <BIBL><AUTHOR>St√∂ckels</AUTHOR> deutliche und grundliche <TITLE>Anweisung, Leder zu tackiren</TITLE>. br. in <FORMAT>8.</FORMAT> <PRICE>24kr.</PRICE></BIBL></ITEM>",
+    "number_of_fixes": 3,
+    "explanation": "The tag <PRIZE> was used incorrectly, it should be <PRICE> according to the rest of the XML structure. This mistake occurred three times."
+}

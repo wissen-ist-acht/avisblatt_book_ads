@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>14. Bey Lukas Mangold Buchbinder am B√§umlein sind folgende Schulb√ºcher haben: <BIBL><AUTHOR>Seilers</AUTHOR> <TITLE>Biblische Geschichten</TITLE> Reu- E. <FORMAT>Leder</FORMAT> √† <PRIZE>15 Btz.</PRIZE></BIBL> <BIBL><AUTHOR>Rochows</AUTHOR> <TITLE>Kinderfreund</TITLE>, <VOLUME>1ster u. 2ter Thl.</VOLUME> zusamengebunden Reu. E. <FORMAT>Perg.</FORMAT> √† <PRIZE>10 Btz.</PRIZE></BIBL> <BIBL><AUTHOR>Cellarii</AUTHOR> <TITLE>lateinische Grammatick</TITLE> R und E. <FORMAT>Perg.</FORMAT> √† <PRIZE>7 Btz.</PRIZE></BIBL> <BIBL><AUTHOR>Cordern</AUTHOR> <TITLE>Coloquia</TITLE> R. und E. <FORMAT>Perg.</FORMAT> <PRICE>7 Btz.</PRICE></BIBL> <BIBL><TITLE>Volkergeschichte</TITLE> <PRIZE>4 Btz.</PRIZE></BIBL> <BIBL><TITLE>Geographte</TITLE> <PRIZE>8 Btz.</PRIZE></BIBL> Diese beyden letztern planirt, in dauerhaften Carton gebunden, <BIBL><TITLE>Geograp.</TITLE> mit gutem Schreibpapier durchschossen R. u. E. <FORMAT>Perg.</FORMAT> √† <PRICE>12 Btz.</PRICE></BIBL></ITEM>\",\n  \"number_of_fixes\": 1,\n  \"explanation\": \"The XML tag <PRIZE> was incorrectly used instead of <PRICE> in the last book entry. This has been corrected.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 454,
+        "output_tokens": 446,
+        "total_tokens": 900
+    },
+    "duration": 23.798755884170532,
+    "timestamp": "2025-11-04T15:55:55.027612"
+}

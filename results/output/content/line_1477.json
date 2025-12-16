@@ -1,0 +1,5 @@
+{
+    "fixed_xml": "<ITEM>9. <BIBL><TITLE>Die 3 wi lling e, eine Erz√§hlung f√ºr die Jugend</TITLE>, von <AUTHOR>Dr. G. H. von Schubert</AUTHOR>, Hofrath und Professor.</BIBL> Diese Erz√§hlung, eine der gediegensten des gefeierten Verfassers, ist dem Rauhen Hause bei Hamburg (eine Anstalt f√ºr sittlich-verwahrloste Kinder, zum Geschenk gemacht worden. Der Erl√∂s kommt also der Anstalt zu gut. <BIBL><PRICE>Preis 7 1/2 Batzen.</PRICE></BIBL> Vorr√§thig in Bahnmaier's Buchhandlung (Freiestraße No. 1178).</ITEM>",
+    "number_of_fixes": 1,
+    "explanation": "The XML tag for 'PRIZE' was incorrect. It has been changed to 'PRICE' to correctly reflect the information it contains."
+}

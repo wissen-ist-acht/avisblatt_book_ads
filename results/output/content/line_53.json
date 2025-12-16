@@ -1,0 +1,5 @@
+{
+    "fixed_xml": "<ITEM>3. Bey Herrn Daniel Eckenstein, dem Buchdrucker in der Aeschemer-Vorstadt, ist gedruckt und zu haben <BIBL><TITLE>Die erbauliche Exhortations Rede</TITLE> welche Ihro Mohl-Ehrw√ºrden Herr <AUTHOR>Pfarrer Ramspeck</AUTHOR>, nach geschehener Execution zweyer hingerichteter Misseth√§teren, den 12ten dieses, bey dem Hochgericht an die Umstehende gehalten. <PRIZE>das Stuck √† vier Rappen.</PRIZE></BIBL></ITEM>",
+    "number_of_fixes": 1,
+    "explanation": "The closing </TITLE> tag was misplaced, causing the XML to be malformed. It was moved to the end of the actual title, before the <AUTHOR> tag."
+}

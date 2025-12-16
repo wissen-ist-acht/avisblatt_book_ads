@@ -1,0 +1,13 @@
+{
+    "text": "{\n\"fixed_xml\": \"<ITEM>In der Samuel Flickischen Buchhandlung an der Schifl√§nde ist √† 6 kr. zu haben: <BIBL><TITLE>Schreiben, der Verwaltungskammer des Kanton Sentis, an die Gesetzgebung und das Vollziehungs-Direktorium der helv. einen und untheilbaren Republik, √ºber die gegenw√§rtige Lage und Zustand dieses Kantons, nebst einem Schreiben an den fr√§nkischen General Gazan, in Betreff der von ihm gefoderten ungeheuren Requisitionen; eine sehr kernhafte Klagschrift gegen die mancherley Bedr√ºckungen der frankischen Generale.</TITLE> <AUTHOR>J. Schweizer, Pfr. zu Embrach</AUTHOR>, <TITLE>Fernerer Schreiben an das helvetische Vollziehungs-Direktorium, Namens der Z√ºrcherschen Geistlichkeit</TITLE>, <PLACE>Zurich</PLACE> <YEAR>1799</YEAR>. √† <PRIZE>6 kr.</PRIZE></BIBL> <BIBL><TITLE>Prophazeyhung und Neujahrswunsch von einem 70jahrigen Schweizer</TITLE>, in <FORMAT>4.</FORMAT> √† <PRIZE>2 kr.</PRIZE></BIBL></ITEM>\",\n\"number_of_fixes\": 1,\n\"explanation\": \"The opening <BIBL> tag was missing before the <AUTHOR> tag. This was the only fix required.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 371,
+        "output_tokens": 356,
+        "total_tokens": 727
+    },
+    "duration": 9.990817070007324,
+    "timestamp": "2025-11-04T14:49:07.709495"
+}

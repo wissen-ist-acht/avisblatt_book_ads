@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>31. Im Bischoffischen Buchladen kan der 2te Theil Herrn Dr. Lorenzens <BIBL><AUTHOR>Dr. Lorenzen</AUTHOR>s <TITLE>Predigten, √ºber die Sonnt√§gl. Eyangelien</TITLE>, gegen Zur√ºckgabe des Scheins und Bezahlung <PRICE>8 kr.</PRICE> Fracht, von den Herren Pr√§numeranten abgeholt werden.</BIBL> Auch dienet zu beliebiger Nachricht, da√ü gleicher Hr. Verfasser, auf inst√§ndiges Ansuchen hin, sich entschlossen, auch <BIBL><TITLE>Predigten √ºber die Sonn- und Festt√§gl. Episteln</TITLE></BIBL> herauszugeben, davon wird unter gottlichem Segen, bis Ostern <YEAR>1784</YEAR>. der <VOLUME>1te Theil</VOLUME> an das Liecht tretten, in <FORMAT>gro√ü med 8e</FORMAT>, mit eben denselben deutlichen Buchstaben, wie die Predigten √ºber die Evangelien, und wird ohngefehr auf <VOLUME>4 Alphabet</VOLUME> hinauslauffen, also bey nahe <VOLUME>10. Bogen</VOLUME> st√§rker seyn als erstere. Darauf kan bis Mich√§li dieses Jahrs mit <PRICE>fl. 2. kr. 16.</PRICE> auf ein Exemplar sch√∂n Schreibpapier, oder <PRICE>fl 1. kr. 48.</PRICE> Druckpap. pr√§numeriert werden, und zwar die erste Helfte sogleich, die andere aber beym Empfang des ersten Theils.</ITEM>\",\n  \"number_of_fixes\": 3,\n  \"explanation\": \"The xml tag <PRIZE> was incorrect and has been replaced with the correct tag <PRICE>. This was done three times in the xml.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 483,
+        "output_tokens": 475,
+        "total_tokens": 958
+    },
+    "duration": 13.59571385383606,
+    "timestamp": "2025-11-02T10:15:25.222136"
+}

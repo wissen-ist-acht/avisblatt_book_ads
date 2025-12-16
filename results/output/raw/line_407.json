@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>15. Bey Hrn. Joh. Jakob Flick, Buchh√§ndler allhier, ist zu haben: <BIBL><TITLE>Campe v√§terlicher Rath an meine Tochter, ein Gegenstuck zum Theophron</TITLE>, <PRICE>789. 36 kr.</PRICE></BIBL> <BIBL><TITLE>Johanna Gray, ein Trauerspiel in ; Abten</TITLE>, von <AUTHOR>Deimling</AUTHOR>, <PRICE>789. 30 kr.</PRICE></BIBL> <BIBL><TITLE>Der Ton, oder Thorheften nach der Mode, ein Londner-Sittengem√§lde f√ºr das Theater</TITLE> <PRICE>7789. 24 kr.</PRICE></BIBL> <BIBL><TITLE>Linar, oder die Geschichte eines deutschen Grafen</TITLE>, vom <AUTHOR>Winter</AUTHOR>, <PRICE>788.89. 54 kr.</PRICE></BIBL> <BIBL><TITLE>Ueber einige Gegenst√§nde in der Schweiz</TITLE>, von <AUTHOR>Plop√§net</AUTHOR>, <PRICE>789. 30kr.</PRICE></BIBL> <BIBL><TITLE>R√∂√ülers Handbuch der praktischen Astronomie, f√ºr Ant√§nger und Liebhaber</TITLE>, <VOLUME>2 Thle.</VOLUME> <FORMAT>gr. 8.</FORMAT> <PRICE>fl. 5. 32 kr.</PRICE></BIBL> <BIBL><TITLE>Pauli Brief an die Hebr√§er, erkl√§ret</TITLE>, von <AUTHOR>G. C. Storr</AUTHOR>, <PRICE>789. fl. 3. 16kr.</PRICE></BIBL> <BIBL><TITLE>Denkw√ºrdigkeiten der Gr√§fin von Valois de la Motte, enthaltend eine Aufklarung der Geschichte des diamantenen Halshandes, den Briefwechsel zwischen der K√∂nigin von Frankreich und des Cardinal Rohans</TITLE>, von <AUTHOR>ihr selbst herausgegeben</AUTHOR>, aus dem <PLACE>Englischen</PLACE>, <PRICE>fl. 1. 20 kr.</PRICE></BIBL></ITEM>\",\n  \"number_of_fixes\": 7,\n  \"explanation\": \"The XML tag <PRIZE> was incorrect and was replaced with the correct tag <PRICE> seven times.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 612,
+        "output_tokens": 588,
+        "total_tokens": 1200
+    },
+    "duration": 15.606655836105347,
+    "timestamp": "2025-11-02T20:48:45.005208"
+}

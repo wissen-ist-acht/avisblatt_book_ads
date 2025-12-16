@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>22. Bey Mstr. Biermann No. 331 in der Fr√∂schga√ü ist ein n√ºtzliches Buch zu haben, sehr interessant f√ºr Pferdliebhaber u. Pferdkenner, welches sich gewi√ü bey den Lesern selbsten empfehlen wird, betitelt <BIBL><TITLE>der allgemeine Pferdarzt oder der Pferdzweiger</TITLE>, <VOLUME>2 Thl.</VOLUME> der 1ste enth√§lt allerley Curen f√ºr Pferd- Frankheiten, der 2te Thl. enth√§lt: die Pferde einzeln ziehen od. reiten zu lernen.</BIBL> <PRIZE>2 fl. 20 kr.</PRIZE> Soeben kann man auch bey mir von der schon ber√ºhmten Salbe haben, f√ºr Pferde wann sie die Schwine haben.</ITEM>\",\n  \"number_of_fixes\": 1,\n  \"explanation\": \"The XML was faulty because there was an extra closing TITLE tag that was not needed. The TITLE tag was already closed earlier, so I removed the extra closing tag.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 290,
+        "output_tokens": 288,
+        "total_tokens": 578
+    },
+    "duration": 11.866007804870605,
+    "timestamp": "2025-11-04T15:51:46.590803"
+}

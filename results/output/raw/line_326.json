@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>41. In der Schweighauserischen Buchhandlung allhier, ist zu haben: <BIBL><AUTHOR>Monboddo</AUTHOR> <TITLE>Werk von dem Ursprung der Sprache</TITLE>, √ºbersetzt von <AUTHOR>Schmidt</AUTHOR>, <VOLUME>2 Theile</VOLUME>, gro√ü <FORMAT>8</FORMAT> <YEAR>1785</YEAR>. <PRIZE>fl. 5. kr. 20.</PRIZE></BIBL> <BIBL><AUTHOR>Rathsamhausen</AUTHOR>s <TITLE>Grillen- und Seufzerbuch f√ºr unsere Zeiten</TITLE>, <VOLUME>2 Theile</VOLUME>, <FORMAT>8.</FORMAT> <YEAR>1785</YEAR>. <PRIZE>kr. 30.</PRIZE></BIBL> <BIBL><AUTHOR>Hacquet</AUTHOR> <TITLE>physicalisch-politische Reise aus den Dinarischen, burch die Julischen, Carnischen, R√§thischen, in die nordischen Alpen, im Jahr 1781. und 1783;</TITLE> <VOLUME>2 Theile</VOLUME> mit <FORMAT>Kupfern</FORMAT>, gr. <FORMAT>8.</FORMAT> <YEAR>1785</YEAR>. <PRIZE>fl. 3.</PRIZE></BIBL> <BIBL><AUTHOR>Resewitz</AUTHOR> <TITLE>Regeln f√ºr junge Leute vom gesitteten Stande, bey ihrem Eintrit in die Welt</TITLE>, <FORMAT>8.</FORMAT> <YEAR>1785</YEAR>. <PRIZE>kr. 16.</PRIZE></BIBL> <BIBL><AUTHOR>Sack</AUTHOR>s <TITLE>Geologie oder Betrachtung der Erde</TITLE>, mit <FORMAT>Kupfern</FORMAT>, gr. <FORMAT>8.</FORMAT> <YEAR>1785</YEAR>. <PRIZE>fl. 1. kr. 24.</PRIZE></BIBL> <BIBL><AUTHOR>Schmidt</AUTHOR>s <TITLE>ausf√ºhrliche Tabellen √ºber die Polizey-Handlungs- und Finanzwissenschaft</TITLE>, <FORMAT>8.</FORMAT> <YEAR>1785</YEAR>. <PRIZE>fl. 1. kr. 12.</PRIZE></BIBL></ITEM>\",\n  \"number_of_fixes\": 3,\n  \"explanation\": \"The tags <PRICE> were incorrect and were replaced with the correct <PRIZE> tags in three places. No tags were missing.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 611,
+        "output_tokens": 608,
+        "total_tokens": 1219
+    },
+    "duration": 17.092511892318726,
+    "timestamp": "2025-11-02T20:18:56.246067"
+}

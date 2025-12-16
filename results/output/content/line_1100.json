@@ -1,0 +1,5 @@
+{
+    "fixed_xml": "<ITEM>12. Novit√§te n. Von dem sehr beliebten <BIBL><AUTHOR>Prastbergers</AUTHOR> <TITLE>Predigtbuch auf alle Sonn- und Festtage</TITLE></BIBL>. Neue sch√∂ne Ausg. mit gro√üem Schriftdruck in <FORMAT>4to.</FORMAT> ist ein Ex. zur Einsicht zu haben, wof√ºr, so wie auch f√ºr <BIBL><AUTHOR>Bossuets</AUTHOR> <TITLE>Bergpredigt</TITLE></BIBL>, Bestellung angenommen wird in der Holdenecker'schen Leihbibliothek beym Kornhause. Auch ist daselbst ein <BIBL><TITLE>Prospectus von einer Erziehungs Anstalt f√ºr Frauenzimmer</TITLE> unter der Leitung <AUTHOR>Herrn und Fraub Houriet</AUTHOR> in <PLACE>Lausanne</PLACE></BIBL>, zur Einsicht zu haben.</ITEM>",
+    "number_of_fixes": 1,
+    "explanation": "The closing BIBL tag was missing after the TITLE tag for 'Predigtbuch auf alle Sonn- und Festtage'. This has been fixed."
+}

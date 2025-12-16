@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM><BIBL><TITLE>La Bouteille de Nelion, √©clat√©e, ou les pieds de nex apres le combat d'Aboukir</TITLE>. Ein allesorischer <FORMAT>Kupferstich</FORMAT>, den General Buonaparte vorstellend, wie er aus der Bo√ºteille, in der ihn Pitt eingesperrt zu haben gl√§ubte, herausk√∂mmt und seine Feinde mit langen Nasen abziehen l√§√üt.</BIBL><BIBL> Dieser <FORMAT>Kupferstich</FORMAT> kostet <PRIZE>8 Btzn</PRIZE>. und ist zu haben in der <PLACE>Samusl Flickischen Buchhandlung an der Schifl√§nds</PLACE>.</BIBL></ITEM>\",\n  \"number_of_fixes\": 1,\n  \"explanation\": \"The XML was missing closing tag for the second <BIBL> element. This tag was added to fix the XML.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 250,
+        "output_tokens": 243,
+        "total_tokens": 493
+    },
+    "duration": 9.328198194503784,
+    "timestamp": "2025-11-04T14:48:57.715574"
+}

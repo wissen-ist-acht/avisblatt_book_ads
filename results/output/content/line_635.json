@@ -1,0 +1,5 @@
+{
+    "fixed_xml": "<ITEM>46. <BIBL><AUTHOR>Scapulee</AUTHOR> <TITLE>Lexicon graec. lat.</TITLE>, <FORMAT>fol.</FORMAT> <PLACE>Basilea</PLACE> <YEAR>725</YEAR></BIBL>. <BIBL><AUTHOR>Calepim</AUTHOR> <TITLE>Lexicon decem linguarum</TITLE>, <FORMAT>fol.</FORMAT> <PLACE>Lugd.</PLACE> <YEAR>585</YEAR></BIBL>. zusammen f√ºr <PRIZE>1 Rthlr.</PRIZE> <BIBL><AUTHOR>Fresenins</AUTHOR> <TITLE>Epistel-Predigten</TITLE>, und <AUTHOR>Gernlers</AUTHOR> <TITLE>Catechismus-Predigten</TITLE></BIBL>. <PRIZE>fl. 1.</PRIZE></ITEM>",
+    "number_of_fixes": 1,
+    "explanation": "The XML was missing a closing tag for the PRICE element. It was incorrectly labeled as </PRIZE> instead of the correct </PRICE>. This has been corrected in the 'fixed_xml'."
+}

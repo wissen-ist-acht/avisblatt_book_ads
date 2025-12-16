@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>33. Bey Hrn. Joh. Jakob Flick, Buchh√§ndler auf dem Fischmarkt, ist zu haben: <BIBL><TITLE>Revolutions-Allmanach von I793</TITLE>, enth√§lt verschiedene Karaktere und Anekdoten aus der Geschichte der √§ltern und neuern Revolutionen mit 12 sehr feinen Kupfern und vielen Vignetten.</BIBL> <BIBL><AUTHOR>Schillers</AUTHOR> <TITLE>kleinere prosaische Schriften</TITLE>. <VOLUME>erster Theil</VOLUME>. <YEAR>1792</YEAR>. </BIBL> <BIBL><TITLE>Weibertreue nach Beyspielen aus der Geschichte</TITLE>. <YEAR>1792</YEAR>. </BIBL> <BIBL><TITLE>Die Familie Wendelheim, Geschichte aus unsern Tagen</TITLE>. <YEAR>1792</YEAR>. </BIBL> <BIBL><TITLE>Die eiserne Maske, eine schottische Geschichte</TITLE>. <YEAR>1792</YEAR>. </BIBL> <BIBL><TITLE>Timon der H. Leben eines wohlwollenden Menschenfeinds</TITLE>. <YEAR>1792</YEAR>. </BIBL> <BIBL><TITLE>Margarethe, Gr√§fin von Hennegau, wahre Geschichte aus der mittlern Zeit</TITLE>. <YEAR>1792</YEAR>. </BIBL> <BIBL><TITLE>Erzehlungen aus der Urwelt</TITLE>. <YEAR>1792</YEAR>. </BIBL> <BIBL><TITLE>Gallerie von rotischen Gem√§lden, Arabesken, Grotesken und Catots</TITLE>. <VOLUME>erster Theil</VOLUME>. <YEAR>1790</YEAR>. </BIBL> 8. <PRICE>fl. 2. 40 kr.</PRICE> <PRICE>fl. 1. 30 kr.</PRICE> <PRICE>36 kr</PRICE> <PRICE>fl. 2. 24 kr.</PRICE> <PRICE>fl. 2. 42 kr.</PRICE> <PRICE>fl. 2. 42 kr.</PRICE> <PRICE>fl. 1. 30 kr.</PRICE> <PRICE>fl. 2.</PRICE> <PRICE>fl. 2. 6 kr.</PRICE></ITEM>\",\n  \"number_of_fixes\": 4,\n  \"explanation\": \"The tag <PRIZE> was replaced with the correct tag <PRICE> in 4 places.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 618,
+        "output_tokens": 598,
+        "total_tokens": 1216
+    },
+    "duration": 15.600629091262817,
+    "timestamp": "2025-11-07T15:45:15.101629"
+}

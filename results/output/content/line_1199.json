@@ -1,0 +1,5 @@
+{
+    "fixed_xml": "<ITEM>An;e ig e. Das auf Subscription erschienene Werkchen, betitelt: <BIBL><TITLE>Gedichte</TITLE> v ven <AUTHOR>F. G. Mende</AUTHOR>, ist nun bey Herrn Holdenecker und Hrn. Neukirch, Buchh√§ndler- um den bestimmten Laden-Preis von <PRICE>Fr. 1. 8 Btz.</PRICE> zu haben. Doch diejenigen E. Subseribenten, welche solches noch nicht erhalten haben, k√∂nnen es um den Subscriptions- Preis von <PRICE>Fr. 1. 2 Btz.</PRICE> in No. 687 am St. Leonhards-Berg empfangen.</BIBL></ITEM>",
+    "number_of_fixes": 1,
+    "explanation": "There was a misspelled tag <PRIZE> which was replaced with the correct <PRICE> tag."
+}

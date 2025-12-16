@@ -1,0 +1,5 @@
+{
+    "fixed_xml": "<ITEM>20. <BIBL><AUTHOR>Hallers, A.</AUTHOR>, <TITLE>Usong, Alfred, Fabius u. Cato</TITLE>, <VOLUME>3 Bdchen</VOLUME>. <PLACE>Bern</PLACE>. Halbfrzbd. <PRIZE>15 Btz</PRIZE></BIBL>. <BIBL><AUTHOR>Rlopstock</AUTHOR>, <TITLE>Hermannsschlacht u. Trauerspiele</TITLE>. <PLACE>Carlsruhe</PLACE>. Halbfrzbd. <PRIZE>2 Fr</PRIZE></BIBL>. <BIBL><TITLE>Chronik von Basel</TITLE>, v. <AUTHOR>M. Lutz</AUTHOR>. <FORMAT>Cart</FORMAT>. <PRIZE>12 Btz</PRIZE></BIBL>. <BIBL><TITLE>Etwas f√ºr's Herz auf dem Wege zur Ewigkeit</TITLE>. <PLACE>Basel</PLACE>. Halbfrzbd. neu. <PRIZE>2 Fr</PRIZE></BIBL>. <BIBL><TITLE>Sprachmeister, orient. und oceident</TITLE>. <PLACE>Leipz</PLACE>. <YEAR>748</YEAR>. Halbfrzbd. <PRIZE>15 Btz</PRIZE></BIBL>. <BIBL><TITLE>Eloges des querriers Jrancais</TITLE>. <PLACE>Strasb</PLACE>. <YEAR>797</YEAR>. <FORMAT>Cart</FORMAT>. <PRIZE>5 Btz</PRIZE></BIBL> bey Herrn Z√§slin, Buchbinder an der Greiffenga√ü in kl. Basel.</ITEM>",
+    "number_of_fixes": 0,
+    "explanation": "The provided XML is valid and well-formed. No fixes were needed."
+}

@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>6. Herabgesetzter Preis von <BIBL><AUTHOR>Joh. v. M√ºller</AUTHOR>s <TITLE>Schweizer- Geschichte</TITLE>. <VOLUME>s Theile</VOLUME> in <FORMAT>8l.</FORMAT> Reueste Originalausgabe.</BIBL> Um einem angel√ºndigten Nachdruckl dieses Werkes zu begegnen, hat sich die Verlagshandlung entschlossen, den Preis Ihrer rechtm√§√üigen Originalausgabel demjenigen des Nachdruckes gleich zu stellen. Es finden daber von jetzt an folgende √§u√üerst niedrige Preise Statt: <BIBL><TITLE>Die Ausgabe auf wei√üem Druckpapier</TITLE> kostet statt des bisherigen Preises v. <PRICE>Fr. 26</PRICE> jetzt nur <PRICE>Fr. 10</PRICE>.</BIBL> <BIBL><TITLE>Die Ausgabe auf engl. Druckpapier</TITLE> statt <PRICE>Fr. Z</PRICE> jetzt <PRICE>Fr. 18</PRICE>.</BIBL> <BIBL><TITLE>Die Ausgabe auf Velin-Papier</TITLE> statt <PRICE>Fr. Asf</PRICE> jetzt <PRICE>Fr. 20</PRICE>.</BIBL> In der Ueberzeugung, da√ü Mancheml die Gelegenheit erw√ºnscht seyn wird, sich dieses un√ºbertreffliche Geschichtswerk zu so wohlfeilem Preise anschaffen zu k√∂nnen, ertheilen wir diese Anzeige und empfehlen uns zur Annahme von Bestellungen. Schweighausersche Buchhandlung.</ITEM>\",\n  \"number_of_fixes\": 2,\n  \"explanation\": \"Two instances of the tag <PRIZE> were replaced with the correct tag <PRICE>.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 468,
+        "output_tokens": 449,
+        "total_tokens": 917
+    },
+    "duration": 16.060569047927856,
+    "timestamp": "2025-11-05T16:23:28.383888"
+}

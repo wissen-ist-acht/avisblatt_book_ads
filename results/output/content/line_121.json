@@ -1,0 +1,5 @@
+{
+    "fixed_xml": "<ITEM>42. Im Berichthaus ist eine eract- gehende Buffet-Uhr, welche Stunden schl√§gt, und repetirt, Stund und Minuten zeigt, √† 10 Nthaler zu haben; man gibt sie auf die Prob. Auch sind daselbst noch <BIBL><TITLE>die 7 Tomi von Merianischen Topographien</TITLE></BIBL>; auch <BIBL><TITLE>ein starcker Band in folio von ausgesuchten Stucken der besten Meistern nach dem Leben in Kupfer gestochen</TITLE><TITLE>bestehend in aller Arten von Flu√ü- und Sersischen, auch Muscheln- V√∂geln, wilde und zahme vierf√º√üige Thiere, Insecten, Blumen, und Fruchten, auch Pferdte nach ihrer Landes-Art, theils mit saubern Landschaften und Prospeckten gezieret</TITLE></BIBL>, zu sehen und in billigem Preis zu haben.</ITEM>",
+    "number_of_fixes": 1,
+    "explanation": "The XML was missing a closing tag for the second Title tag within the second Bibl tag. This has been fixed by closing the second Title tag before the third Title tag starts."
+}

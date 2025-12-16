@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>42. Zweyte Anzeige wohlfeiler B√ºcher, welche im Flick'schen Gesch√§fts-Bureau No. 165 zu haben sind. <BIBL><TITLE>Hist. de la d√©cadence et de la ch√ºte de l'Empire romain</TITLE>, trad. de l'Anglois de <AUTHOR>Gibhon</AUTHOR>. <VOLUME>18 vol.</VOLUME> <FORMAT>gr. in 8¬∞.</FORMAT> <PLACE>Paris</PLACE> <YEAR>788</YEAR>. Carton, ganz neu. <PRICE>Fr. 16.</PRICE></BIBL> <BIBL><AUTHOR>Zimmermanns</AUTHOR> <TITLE>historisch-geographisch-politischer Versuch √ºber Ostindien, nebst Schilderung von dessen Handel</TITLE>. <VOLUME>2 Bde.</VOLUME> mit <FORMAT>Kpf. 8.</FORMAT> <PLACE>Leipz.</PLACE> <YEAR>810</YEAR>. Cart. <PRICE>16 Btz.</PRICE></BIBL> <BIBL><TITLE>Les Po√©sies d'Horace</TITLE>, trad en francais, avec des remarques et des Dissert. critiques par le <AUTHOR>P. Sanadon</AUTHOR>. <VOLUME>8 vol.</VOLUME> <FORMAT>12.</FORMAT> <PLACE>Paris</PLACE> <YEAR>756</YEAR>. <PRICE>Fr. 6.</PRICE></BIBL> <BIBL><AUTHOR>Wolfs, Frhr. von</AUTHOR>, <TITLE>Anfangsgr√ºnde aller mathematischen Wissenschaften</TITLE>, neue verb. u. verm. Aufl. <VOLUME>7 Bde.</VOLUME> mit vielen <FORMAT>Kupf. gr. 8.</FORMAT> <YEAR>775</YEAR>. Cart. <PRICE>Fr. 6.</PRICE></BIBL> <BIBL><TITLE>Le voyageur francais ou la connaissance de l'ancien et du nouvoau monde pr. la Porte</TITLE>. <VOLUME>34 vol.</VOLUME> <FORMAT>12.</FORMAT> <PLACE>Paris</PLACE> <YEAR>769-91</YEAR>. <PRICE>Fr. 15.</PRICE></BIBL> <BIBL><TITLE>de la Philosophie de la Nature, ou trait√© de Morale pour le genre humain</TITLE>. <VOLUME>5e. √©d.</VOLUME> <VOLUME>7 vol.</VOLUME> <FORMAT>gr. in 8.</FORMAT> <PLACE>Londr.</PLACE> <YEAR>789</YEAR>. Halbfranzbd. <PRICE>Fr. 9.</PRICE></BIBL> <BIBL><AUTHOR>Archenholz</AUTHOR> <TITLE>Annalen d brittischen Geschichte, von den Jahren 1788-96</TITLE>. <VOLUME>18 Thle.</VOLUME> in <VOLUME>17 B√§nden</VOLUME> (der 14te fehld. <FORMAT>8.</FORMAT> <PLACE>Carlsruhe</PLACE>. Cart. u. Tit. <PRICE>Fr. 9.</PRICE></BIBL></ITEM>\",\n  \"number_of_fixes\": 4,\n  \"explanation\": \"The XML tags for the price of the books were inconsistent. Some were labeled as <PRIZE> and others as <PRICE>. All have been changed to <PRICE> for consistency.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 807,
+        "output_tokens": 804,
+        "total_tokens": 1611
+    },
+    "duration": 27.400975704193115,
+    "timestamp": "2025-11-05T15:13:11.475660"
+}

@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>40. In No. 405 auf dem Heuberg sind solgende B√ºcher zu haben: <BIBL><AUTHOR>Battiers</AUTHOR> <TITLE>Predigten</TITLE>, <VOLUME>1te Auflage, 2 Thle.</VOLUME> <FORMAT>8.</FORMAT> mit dem Portrait des Verfassers, sch√∂n gebunden, <PRICE>36 Batzen</PRICE></BIBL>. <BIBL><AUTHOR>Meidingers</AUTHOR> <TITLE>Grammaire</TITLE>, ganz neu geb. <PRICE>14 Btz.</PRICE></BIBL>. <BIBL><AUTHOR>H. Sander</AUTHOR> <TITLE>Von der G√ºte und Weisheit Gottes in der Natur</TITLE>, geb. <PRICE>10 Batz</PRICE></BIBL>. <BIBL><TITLE>Oden und Lieder in 5. B√ºchern, nebst einer Abhandlung von den Liedern der alten Griechen</TITLE>, mit Kupf. geb. <PRICE>8 Batz</PRICE></BIBL>. <BIBL><TITLE>Fragmente aus der Geschichte eines leidenden J√ºnglings</TITLE>, mit Kupf. <PRICE>7 Batz</PRICE></BIBL>. <BIBL><AUTHOR>Kotzebue</AUTHOR> <TITLE>Die Leiden der Ortenbergischen Familie</TITLE>, <VOLUME>2 Thle.</VOLUME> <FORMAT>8.</FORMAT> <PRICE>15 Batz</PRICE></BIBL>. <BIBL><AUTHOR>Erich Servati</AUTHOR> <TITLE>Warum soll ich ein Freymaurer werden</TITLE> <VOLUME>2</VOLUME>, <PRICE>6 Batz</PRICE></BIBL>. <BIBL><TITLE>Leben und Thaten des ber√ºchtigten R√§ubers Johannes B√ºckler genant Schinderhanns</TITLE>, <VOLUME>2 Thle.</VOLUME> <FORMAT>8.</FORMAT> geb. <PRICE>10 Batz</PRICE></BIBL>. <BIBL><TITLE>Geschichte der Republik Frankreich im Grundri√ü, eine sehr interessante Schrift</TITLE>, <PRICE>10 Batz</PRICE></BIBL>. <BIBL><TITLE>M√§rchen f√ºr junge Damen</TITLE>, geb. <PRICE>5 Batz</PRICE></BIBL>. <BIBL><TITLE>Gespr√§ch im Reiche der Todten</TITLE>, <PRICE>2 Batz</PRICE></BIBL>. <BIBL><AUTHOR>Nachtigall</AUTHOR> <TITLE>Historische Beschreibung der Stadt Basel</TITLE>, <PRICE>6 Batz</PRICE></BIBL>. <BIBL><TITLE>Sammlung einiger Dankpredigten √ºber den gro√üen Sieg, welchen die K. Preu√üischen Truppen bey Zorndorf erfochten</TITLE>, <PRICE>3 Batz</PRICE></BIBL>. <BIBL><TITLE>Komische Opern: Das Milchm√§dchen und die beyden J√§ger; der Deserteur; das redende Gem√§lde; der Kaufman v. Smyrna</TITLE>, <FORMAT>8.</FORMAT> geb. <PRICE>7 Batz</PRICE></BIBL></ITEM>\",\n  \"number_of_fixes\": 11,\n  \"explanation\": \"The XML tags for the price of the books were inconsistent. Some were labeled as <PRIZE> while others were labeled as <PRICE>. All tags have been corrected to <PRICE> for consistency.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 872,
+        "output_tokens": 859,
+        "total_tokens": 1731
+    },
+    "duration": 30.335769653320312,
+    "timestamp": "2025-11-05T10:56:08.927681"
+}

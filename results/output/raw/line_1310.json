@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>A n; e ig e von H√ºbners biblischen Historien. Bey Unterzeichnetem ist zu haben: zweymal zwey und f√ºnfzig auserlesene biblische Historien aus dem A und 1. Cestament, der Jugend zum Besten verfa√üt von <BIBL><AUTHOR>Johann- H√ºhner</AUTHOR>, Rector des Johanni zu Hamburg. <TITLE>zweymal zwey und f√ºnfzig auserlesene biblische Historien aus dem A und 1. Cestament, der Jugend zum Besten</TITLE> Mit <FORMAT>112 Kupfern</FORMAT> √† <PRIZE>1fl. 6 kr.</PRIZE> Dasselbe ohne Kupfer √† <PRIZE>2√† kr.</PRIZE></BIBL> Bey Abnahme von 20 Ex. werden solche mit 28 v9. Rabatt erlassen. Noch immer ist eine nicht unbedentende Nachfrage nach den biblischen Historien, wie sie <BIBL><AUTHOR>H√ºbner</AUTHOR> urspr√ºnglich verfa√üte, deren Werth und Nutzen -gan3z dem gem√§√ü, was der sel. Verfasser daruber in feiner sehr lesenswerthen Vorrede sagt - seit mehr als hundert Jahren anerkannt worden ist. - Unter allen Bearbeitern der biblischen Geschichten geb√ºhrt <AUTHOR>H√ºbnern</AUTHOR> eine der ersten Stellen. , Er , bleibt doch immer unser Lehrmeistert gestehen auch neuere Bearbeiter derselben; ohne die vielen neuern, durch das H√ºbnerische Werk veranla√üten Versuchel in ihrem Werth berabzusetzen, mu√ü man doch gestehen, da√ü <AUTHOR>H√ºbner</AUTHOR> die einfache, fa√üliche, bindige und durch erhabne Einfalt und Kindlichkeit ausprechende Bibelsprache vor vielen Andern getroffen hat. Daher die gute Aufnahme, die sein Buck √ºberall gefunden, der Nutzen mit dem es in Schulen gebraucht worden, das Vergn√ºgen und die Erbauung, mit welchen es von Kindern und Erwachsenen immer gelesen worden ist. Der Unterzeichnete, welcher sich im Besitz einer ganzen Auflage dieses sch√§tz. baren Buches mit und ohne Kupfer befindet, u. es zu obbenannten billigen Preisen erlassen kann, macht daher Eltern u. Lehrer darauf aufmerksam, u. empsiehlt es ihnen f√ºr ihre Kinder 1. Sch√ºler. Ronrad Seiler, Antiquar in Schaffhausen.</ITEM>\",\n  \"number_of_fixes\": 0,\n  \"explanation\": \"The XML provided does not have any missing or incorrect tags, so no fixes were made.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 715,
+        "output_tokens": 700,
+        "total_tokens": 1415
+    },
+    "duration": 37.212904930114746,
+    "timestamp": "2025-11-06T09:15:01.480209"
+}

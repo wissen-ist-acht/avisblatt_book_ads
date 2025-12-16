@@ -1,0 +1,13 @@
+{
+    "text": "{\n\"fixed_xml\": \"<ITEM>In Emanuel Thurneysens Buchhandlung ist zu haben: <BIBL><TITLE>Revolutions-Allmanach von 1793</TITLE>, handelnd von den gewaltsamen Ver- √§nderungen und den Erschutterungen, welche die Staaten und L√§nder in √§ltern und neuern Zeiten erlitten haben, mit <FORMAT>12 historischen Kupfern</FORMAT>, welche interessante Szenen sowohl aus der alten Schweitzergeschichte als aus den neuern und jetzigen Zeiten verschiedener Nationen vorstellen.<FORMAT>8.</FORMAT> <PRIZE>br. fl. 2. 40 kr.</PRIZE></BIBL></ITEM>\",\n\"number_of_fixes\": 1,\n\"explanation\": \"The XML was faulty because there was a closing TITLE tag that did not have a corresponding opening tag. This was fixed by removing the unnecessary closing TITLE tag.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 224,
+        "output_tokens": 216,
+        "total_tokens": 440
+    },
+    "duration": 7.263869047164917,
+    "timestamp": "2025-11-07T15:42:11.426675"
+}

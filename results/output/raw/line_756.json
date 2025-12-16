@@ -1,0 +1,13 @@
+{
+    "text": "{\n\"fixed_xml\": \"<ITEM>2. Bey Christ. Winckelblech zu St. Johann No. 102. sind folgende B√ºcher in Commission und billigem Preis zu haben: <BIBL><TITLE>Avis aux Voyageurs Suisses</TITLE>, <FORMAT>8.</FORMAT> nebst einer sch√∂nen Schweizerkarte, <PRIZE>Btz. 12.</PRIZE></BIBL> <BIBL><TITLE>Briefwechsel zwischen Lavatter und Erlacher Kiefermeister in Basel, als ein Vorlauf der Schweizerrevolution</TITLE>, <PRICE>Btz. 2.</PRICE></BIBL> <BIBL><TITLE>Neubekehrte malabarische Christen in Ostindien</TITLE>, <FORMAT>8.</FORMAT> <PRIZE>Btz. 1.</PRIZE></BIBL> <BIBL><TITLE>Alting methodus Theologiae cathetice</TITLE>, <FORMAT>8.</FORMAT> <PRIZE>Btz. 1.</PRIZE></BIBL> <BIBL><TITLE>Das Caff√© eine sehr wichtige Wochenschrift</TITLE>, <FORMAT>8.</FORMAT> <PRICE>Btz. 2.</PRICE></BIBL> <BIBL><TITLE>Rabners Briefe nach seinem Tode herausgegeben</TITLE>, <FORMAT>8.</FORMAT> <VOLUME>2. Band</VOLUME>, <PRIZE>Btz. 6.</PRIZE></BIBL> <BIBL><TITLE>Kurzes Erdbeschreibung der Schweiz</TITLE>, <FORMAT>8.</FORMAT> <YEAR>1782.</YEAR> <PRIZE>Batzen 2.</PRIZE></BIBL> <BIBL><TITLE>Rheinische Thalia von Schiller</TITLE>, <VOLUME>1. Heft</VOLUME>, darinnen das merkw√ºrdige Beyspiel einer Weiblichen Rache, <FORMAT>8.</FORMAT> <PRIZE>Batzen 3.</PRIZE></BIBL> <BIBL><TITLE>Ein ige Bl√§tter aus den Reise Tabletten eines schweiz erischen Geistlichen</TITLE>, <PRICE>Batzen 1.</PRICE></BIBL> <BIBL><TITLE>Einleitung zur Staats- und Erdbeschreibung von F√§sy</TITLE>, <FORMAT>8.</FORMAT> <PRIZE>Batzen 3.</PRIZE></BIBL> <BIBL><TITLE>Letzte Rede an den ungl√ºcklichen Hieronimu√ü Kohler</TITLE>, <FORMAT>4.</FORMAT> diese ist als ein wahres Muster der christlichen Lehre empfohlen.</BIBL></ITEM>\",\n\"number_of_fixes\": 3,\n\"explanation\": \"The XML was faulty in three places. In these places, the closing tag for the price was written as <PRIZE> instead of <PRICE>. This was corrected in the fixed XML.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 670,
+        "output_tokens": 669,
+        "total_tokens": 1339
+    },
+    "duration": 16.72696280479431,
+    "timestamp": "2025-11-04T15:23:11.628332"
+}

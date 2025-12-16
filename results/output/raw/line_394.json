@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>55. Bey Hrn. Joh. Jakob Flick, auf dem Fischmarkt allhier, ist zu haben: <BIBL><TITLE>Neujahrsgeschenk an J√ºnglinge, die in die Welt tretten</TITLE>, ge <FORMAT>Schreibpap.</FORMAT> <YEAR>1789</YEAR>. <PRIZE>40 kr.</PRIZE></BIBL> eben dieses ordin. Papier, <PRIZE>32kr.</PRIZE> <BIBL><TITLE>Neujahrsgeschenk f√ºr J√ºnglinge, die sich der Handelschaft wiedmen</TITLE>, <FORMAT>8.</FORMAT> <YEAR>1789</YEAR>. <PRIZE>16kr.</PRIZE></BIBL> <BIBL><TITLE>Empfindungen bey dem Schlusse des Jahrs, und Vors√§tze zum Antritte des Neuen</TITLE>, <FORMAT>8.</FORMAT> <YEAR>1789</YEAR>. <PRIZE>8kr.</PRIZE></BIBL> <BIBL><TITLE>Kriegs-Nachrichten von der Belagerung Wiens, durch die T√ºrken im Jahr 1683, und der Belagerung von Maltha, durch die T√ºrken im Jahr 1565</TITLE>, <FORMAT>8.</FORMAT> <YEAR>1789</YEAR>. <PRIZE>36kr.</PRIZE></BIBL> <BIBL><AUTHOR>Campe</AUTHOR> <TITLE>philantropische Rede uber die Reinigkeit des Herzeus</TITLE>, <FORMAT>8.</FORMAT> <YEAR>1789</YEAR>. <PRIZE>8 kr.</PRIZE></BIBL> <BIBL><AUTHOR>Franz Ehrenberg</AUTHOR> <TITLE>Almanach f√ºr die erwachsenere Jugend</TITLE>, auf <YEAR>1789</YEAR>. <PRIZE>fl. 1. 20 kr.</PRIZE></BIBL> <BIBL><TITLE>Theater-Calenden</TITLE> per <YEAR>1789</YEAR> <PRIZE>fl. 1. 20kr.</PRIZE></BIBL> Auch ist wiederuna zu haben: <BIBL><AUTHOR>Archenholz</AUTHOR> <TITLE>Geschichte des siebenj√§hrigen Krieges in Deutschland</TITLE>, mit dem Bildni√ü des K√∂nigs in Preussen, und einer Charte vom Kriegs-Theater.</BIBL> Aller Sorten <BIBL><TITLE>Almanacs hantants de Paris</TITLE>, pour <YEAR>1789</YEAR> √† <PRIZE>12 Er.</PRIZE> das St√ºck.</BIBL> Auch sind aller Sorten <BIBL><TITLE>A- B-C-B√ºcher</TITLE>, mit illuminierten Figuren und zu verschiedenen Preisen zu haben.</BIBL></ITEM>\",\n  \"number_of_fixes\": 2,\n  \"explanation\": \"There were two errors in the XML. The <PRICE> tags were replaced with the correct <PRIZE> tags.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 733,
+        "output_tokens": 729,
+        "total_tokens": 1462
+    },
+    "duration": 16.181715965270996,
+    "timestamp": "2025-11-02T20:44:06.641409"
+}

@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>29. Bey Hrn. Stupanus auf der Rheinbruck sind folgende B√ºcher um beygesetzte Preise zu haben: <BIBL><TITLE>Der Hamster mit dem Wolf</TITLE>, eine Oper in 5 Aufz√ºgen, Musik von <AUTHOR>Gretri</AUTHOR>. <PRIZE>fl. 1. 40 kr.</PRIZE></BIBL> <BIBL><TITLE>Der Zaubermantel</TITLE>, vom Verfasser der Zauberfl√∂te, ein neugefunden Werk in einem Aufzug. <PRIZE>fl. 1. 12 kr.</PRIZE></BIBL> <BIBL><TITLE>Die vermi√üten Taschenuhren</TITLE>, eine Oper in 2 Aufz√ºgen. <PRIZE>fl. 1. 36kr.</PRIZE></BIBL> <BIBL><TITLE>Der Mensch, Tod und Teusel</TITLE>, ein Nachspiel in einem Akt von <AUTHOR>Blumauer</AUTHOR>. <PRIZE>40 kr.</PRIZE></BIBL> <BIBL><TITLE>Reit nicht Galopp, oder der entfallene Degen</TITLE>, von <AUTHOR>Ifland</AUTHOR>. <PRIZE>24 kr.</PRIZE></BIBL> <BIBL><TITLE>Die Schminke, oder das gef√§rbte Angesicht</TITLE>. <PRIZE>16 kr.</PRIZE></BIBL> <BIBL><TITLE>Die st√§hlerne Epaukette</TITLE>, ein Nachspiel in einem Akt. <PRIZE>12 kr.</PRIZE></BIBL> <BIBL><TITLE>In 5 Tagen 10 Thorheiten</TITLE>, von <AUTHOR>S. Ricko</AUTHOR>. <PRIZE>fl. 1. 12 kr.</PRIZE></BIBL></ITEM>\",\n  \"number_of_fixes\": 1,\n  \"explanation\": \"The tag <PRICE> was fixed to <PRIZE> to make it consistent with other tags in the XML document.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 500,
+        "output_tokens": 492,
+        "total_tokens": 992
+    },
+    "duration": 13.631385803222656,
+    "timestamp": "2025-11-04T14:15:53.632223"
+}

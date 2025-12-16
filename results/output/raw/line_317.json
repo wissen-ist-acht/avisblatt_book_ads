@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>52. Bey Hrn. C. A. Serini, Buchh√§ndler allhier, ist zu haben: <BIBL><TITLE>Memoire fait par Mr. PAvocat Doillot, pour Dame Jeanne de Valois, Epouse du Comte de la Motte, pour Paffaire du fameuz Collier</TITLE>, <FORMAT>8.</FORMAT> <YEAR>1785</YEAR>. Íùõr. <PRIZE>20.</PRIZE></BIBL> <BIBL><AUTHOR>Michaelis (Joh. D.)</AUTHOR> <TITLE>Dogmatik</TITLE>, <FORMAT>8.</FORMAT> <YEAR>1785</YEAR>. <PRIZE>fl. 1.</PRIZE></BIBL> <BIBL><TITLE>Tugend und Laster gr√§nzen nah an einander, oder die beleidigte Unschuld, eine l√§ndliche Stene von 8 Aufz√ºgen</TITLE>, <FORMAT>8.</FORMAT> <YEAR>1785</YEAR>. <PRIZE>kr. 36.</PRIZE></BIBL> <BIBL><AUTHOR>Posselt</AUTHOR> <TITLE>wissenschaftliches Magazin , f√ºr Aufkl√§rung</TITLE>, <VOLUME>4tes Heft</VOLUME>, <FORMAT>8.</FORMAT> <YEAR>1785</YEAR>. <PRIZE>kr. 45.</PRIZE> wird fortgesetzt.</BIBL> <BIBL><TITLE>Theobald oder die Schw√§rmer, eine wahre Geschichte</TITLE>, von <AUTHOR>H. Stilling</AUTHOR>, <VOLUME>erster Band</VOLUME>, <FORMAT>8.</FORMAT> <YEAR>1785</YEAR>. <PRIZE>kr. 30.</PRIZE></BIBL> <BIBL><AUTHOR>Goldwitz</AUTHOR> <TITLE>neue Versuche zu einer wahren Phystologie der Galle</TITLE>, <FORMAT>gr. 8.</FORMAT> <YEAR>1785</YEAR>. <PRIZE>fl. 1. kr. 8.</PRIZE></BIBL></ITEM>\",\n  \"number_of_fixes\": 3,\n  \"explanation\": \"There were three instances where the 'PRICE' tag was used instead of 'PRIZE'. The 'PRICE' tag has been changed to 'PRIZE' in all three instances.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 554,
+        "output_tokens": 560,
+        "total_tokens": 1114
+    },
+    "duration": 24.030427932739258,
+    "timestamp": "2025-11-02T20:15:50.184240"
+}

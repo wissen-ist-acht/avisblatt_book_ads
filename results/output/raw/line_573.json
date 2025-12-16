@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>22. Bey J. Decker sind folgende neue B√ºcher zu haben: <BIBL><TITLE>Voyage de deux Francais en Allemagne, Danemarc, Su√©de, Russie & Pologne</TITLE> en <YEAR>1790 √† 92</YEAR>. <VOLUME>5 vol.</VOLUME> <FORMAT>8.</FORMAT> <PRICE>fl. 5, 20 Kr.</PRICE></BIBL> <BIBL><TITLE>Effais fur la peinture</TITLE>, par <AUTHOR>Diderot</AUTHOR>. <PRICE>F. 1. 36Kr.</PRICE></BIBL> <BIBL><TITLE>Flore francoise</TITLE>, par <AUTHOR>Lamarck</AUTHOR>, no√ºvelle √©dition, <VOLUME>3 gros volumes</VOLUME> in <FORMAT>8.</FORMAT> <PRICE>fl. 10. 40 Kr.</PRICE></BIBL> <BIBL><TITLE>Oeuvres politiques d'Harrington</TITLE>, <VOLUME>3 vol.</VOLUME> <FORMAT>8.</FORMAT> <PRICE>fl.3.</PRICE></BIBL> <BIBL><TITLE>Theorie de la Terre</TITLE>, par <AUTHOR>Lametherie</AUTHOR>, <VOLUME>3 vol.</VOLUME> <FORMAT>8.</FORMAT> <PRICE>fl. 4.</PRICE></BIBL> <BIBL><TITLE>Confessions de Rousseau, morceaux in√©dits & differences, qui se trouvent entre le manuscript, offert √† la Convention nationale, par Ther√©se Levasseur, √† toutes les anciennes √©ditions</TITLE>. <PRICE>20 Kr.</PRICE></BIBL> <BIBL><TITLE>Dorbeuil & C√©liane de Valran, leurs amours & leurs malheurs, pendant la tyrannie de Robespierre</TITLE>, <VOLUME>2 vol.</VOLUME> <FORMAT>12.</FORMAT> <PRICE>fl. r. 20. xr.</PRICE></BIBL></ITEM>\",\n  \"number_of_fixes\": 4,\n  \"explanation\": \"The XML tags <PRIZE> were incorrect and have been replaced with the correct XML tags <PRICE>.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 558,
+        "output_tokens": 537,
+        "total_tokens": 1095
+    },
+    "duration": 19.537611961364746,
+    "timestamp": "2025-11-04T13:47:06.373284"
+}

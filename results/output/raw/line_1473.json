@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>6. Wohlfeile B√ºcher, welche zum Verkauf angetragen werden, und im Berichthaus einzusehen sind: <BIBL><AUTHOR>Stark, J. F.</AUTHOR>, <TITLE>t√§gliches Handbuch in guten und b√∂sen Tagen</TITLE>, in Halbfranzband elegant gebunden. <PRIZE>14 Btz.</PRIZE></BIBL> <BIBL><TITLE>Wyst, der schweizerische Robinson, oder der schiffbr√ºchige Schweizerprediger</TITLE>, neue illustrirte Ausgabe. <PLACE>Z√ºrich</PLACE> <YEAR>1842</YEAR>, complett in <VOLUME>10 Lieferungen</VOLUME>, broschirt. <PRIZE>70 Btz.</PRIZE></BIBL> <BIBL><AUTHOR>Kaltschmidt, Dr. J. H.</AUTHOR> <TITLE>neues vollst√§ndiges W√∂rterbuch der englischen und deutschen Sprache</TITLE>, nebst einem kurzen Abrisse der englischen und der deutschen Sprachlehre, broschirt. <PRIZE>40 Btz.</PRIZE></BIBL> <BIBL><AUTHOR>Callisen, J. L.</AUTHOR>, <TITLE>die letzten Tage unsers Herrn Jesu Christi nach Markus</TITLE>, in Halbfranzband gebunden. <PRIZE>18 Btz.</PRIZE></BIBL> <BIBL><TITLE>Histoire du vieua et du nouvecu testament</TITLE>, r√©pr√©sent√©e en <VOLUME>466 sigusres</VOLUME> en taille douce auec deue cartes, cartonnirt. <PRIZE>20 Btz.</PRIZE></BIBL> <BIBL><AUTHOR>Weigl, J. B.</AUTHOR>, <TITLE>katholisches Gebet- und Gesangbuch f√ºr nachdenkende und innige Christen</TITLE>, nebst einem Vorwort von <AUTHOR>J. M. Sailer</AUTHOR>, in Hlbfrzbd. <PRIZE>20 Btz.</PRIZE></BIBL> <BIBL><TITLE>Fables de Lasontaine</TITLE>, <VOLUME>4 B√§nde</VOLUME>, sch√∂ne Ausgabe auf Velin-Papier, broschirt. <PRIZE>20 Btz.</PRIZE> S√§mmtliche Werke sind ganz neu und gut erhalten.</BIBL></ITEM>\",\n  \"number_of_fixes\": 1,\n  \"explanation\": \"The XML was mostly well formed, but there was a closing tag that said </PRICE> instead of </PRIZE>. This was the only fix needed.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 651,
+        "output_tokens": 650,
+        "total_tokens": 1301
+    },
+    "duration": 18.718740224838257,
+    "timestamp": "2025-11-06T11:06:02.957056"
+}

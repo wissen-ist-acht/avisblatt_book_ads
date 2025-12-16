@@ -1,0 +1,5 @@
+{
+    "fixed_xml": "<ITEM>In der Raw'schen Buchhandlung in Nurnberg ist erschienen und stets bei uns vorr√§thig: <BIBL><TITLE>Valentin Jamerai D√ºval's h√∂chstmerkw√ºrdige Lebensgeschichte</TITLE>. F√ºr die deutsche Jugend bearbeitet von <AUTHOR>Dr. Carl Dielitz</AUTHOR>. Mit einem Stahlstich. <PRICE>Preis 9 Btz.</PRICE></BIBL> F. Spittler und Comp. Freiestra√üe No. 1178.</ITEM>",
+    "number_of_fixes": 1,
+    "explanation": "The xml tag <PRIZE> was incorrect. It was replaced with the correct tag <PRICE>."
+}

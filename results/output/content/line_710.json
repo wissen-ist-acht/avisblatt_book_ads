@@ -1,0 +1,5 @@
+{
+    "fixed_xml": "<ITEM>9. Bey J. Decker ist zu haben: <BIBL><TITLE>Projet de code</TITLE>, present√© par la c√∂mmission nomm√©e par le gouvernement le 24 Thermidor VIH.</BIBL>, un vol. in <FORMAT>8.</FORMAT> √† <PRIZE>fl. 2. 40 xr.</PRIZE> <BIBL><TITLE>Das Bildni√ü des General Moreau</TITLE> in <FORMAT>4to.</FORMAT>, nach der Natur von <AUTHOR>Guerin</AUTHOR> gemalt, gestochen von <AUTHOR>Nettling</AUTHOR>. √† <PRIZE>fl.</PRIZE></BIBL></ITEM>",
+    "number_of_fixes": 2,
+    "explanation": "There were two errors in the xml. The first one was an extra </TITLE> tag which was removed. The second one was a missing '>' in the opening <BIBL> tag."
+}

@@ -1,0 +1,5 @@
+{
+    "fixed_xml": "<ITEM>Neue B√ºcher bey Neukirch. Alm anach helvetischer, f√ºr das Jahr 1821. <BIBL><TITLE>Alm anach helvetischer, f√ºr das Jahr 1821</TITLE>, <FORMAT>12.</FORMAT> <PLACE>Z√ºrich</PLACE>, geb. <PRIZE>fl 2. 40 kr.</PRIZE></BIBL> <BIBL><AUTHOR>Matthisson, Fr. v.</AUTHOR>, <TITLE>Gedichte</TITLE>. Ausgabe letzter Hand, <FORMAT>12.</FORMAT> <PLACE>Ebend.</PLACE> br. <PRIZE>fl 1. 15.</PRIZE></BIBL> <BIBL><AUTHOR>Matthisson, Fr. v.</AUTHOR>, <TITLE>Gedichte</TITLE>. Ausgabe letzter Hand, auf Postpapier. <PRICE>fl 1. 45 kr.</PRICE></BIBL> Auch sind wieder Exemplare zu haben von: <BIBL><TITLE>Die Dunder-Sch√∂pfung Gottes</TITLE>. Ein nutzbares, neu bearbeitetes <TITLE>Sonnen- und Planeten-B√ºchlein</TITLE> u. s. w. <PRICE>48 kr.</PRICE></BIBL></ITEM>",
+    "number_of_fixes": 2,
+    "explanation": "The XML was missing closing tags for <PRICE> in two places. These have been added to correctly close the tags."
+}

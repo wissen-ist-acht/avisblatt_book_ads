@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>In der Schweighauserschen Buchhandlung allhier ist zu haben: <BIBL><TITLE>Christliche Beherzigung der gegenw√§rtigen bedenklichen Zeitumst√§nde, in zwo Predigten</TITLE>, von <AUTHOR>Hrn. Pfarrer Sp√∂rlin</AUTHOR> in Diekten gehalten; 1) Ein Wort zur Beruhigung und Belehrung. 2 Was fordern die gegenw√§rtigen Zeitumst√§nde von jedem rechtschaffenen Unterthanen: 3) Das Gl√ºck der Schweizer und Zuruf an alle lieben Eidsgenossen, <FORMAT>8.</FORMAT> <YEAR>792</YEAR>. <PRIZE>8 kr.</PRIZE></BIBL> <BIBL><AUTHOR>Gilpins</AUTHOR> <TITLE>Bemerkungen, vorzuglich √ºber malerische Naturschonheit auf Reisen durch England und Schottland</TITLE>, <VOLUME>1ter Thl.</VOLUME> <FORMAT>gr. 8.</FORMAT> <YEAR>792</YEAR>. <PRIZE>fl. 2. 24 kr.</PRIZE></BIBL> <BIBL><TITLE>Sammlung auserlesener Abhandlungen zum Gebrauch f√ºr praktische Aerzte</TITLE>, in einen Auszug gebracht von <AUTHOR>Koch</AUTHOR>, <VOLUME>Bde.</VOLUME> <FORMAT>gr. 8.</FORMAT> <YEAR>792</YEAR>. <PRIZE>fl. 10. 48 kr.</PRIZE></BIBL> <BIBL><TITLE>Unterricht in der Festungsbaukunst, nach Gla√üerschen Grunds√§tzen ausgearbeitet</TITLE> von <AUTHOR>Fr. L. Aster</AUTHOR>, mit <VOLUME>20 Kupfertafeln</VOLUME>, <VOLUME>4 Hefte</VOLUME>, <FORMAT>4.</FORMAT> <YEAR>792</YEAR>. <PRIZE>fl. 6. 40 kr.</PRIZE></BIBL> <BIBL><TITLE>Geschichte des letzten schwedisch-ru√üischen Krieges</TITLE>, <FORMAT>8.</FORMAT> <YEAR>792</YEAR>. <PRIZE>fl. 1. 30 kr.</PRIZE></BIBL> <BIBL><TITLE>Menschenschicksale √§lterer und neuerer Zeiten</TITLE>, vom Verfasser der Lebensscenen; <VOLUME>Thle.</VOLUME> <FORMAT>8.</FORMAT> <YEAR>792</YEAR>. <PRIZE>fl. 4.</PRIZE></BIBL></ITEM>\",\n  \"number_of_fixes\": 2,\n  \"explanation\": \"The XML was missing closing tags for <PRIZE> in two instances. These have been corrected.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 689,
+        "output_tokens": 678,
+        "total_tokens": 1367
+    },
+    "duration": 29.99249577522278,
+    "timestamp": "2025-11-07T15:40:37.964028"
+}

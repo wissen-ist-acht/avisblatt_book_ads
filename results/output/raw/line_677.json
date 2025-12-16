@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>22. <BIBL><TITLE>Kleines Schweizer-Chroniklein</TITLE>, <PLACE>Bern</PLACE> <YEAR>795</YEAR>. <PRIZE>1 Pfund 10 √ü.</PRIZE></BIBL> <BIBL><AUTHOR>Sprengens</AUTHOR> <TITLE>Alterthum der Stadt Bafel</TITLE>, <PRIZE>17 √ü.</PRIZE></BIBL> <BIBL><AUTHOR>Scrivees</AUTHOR> <TITLE>Seelenschatz</TITLE> <PRIZE>3 Pf. 6 B. 8 Den.</PRIZE></BIBL> <BIBL><AUTHOR>Corn. Schrevelii</AUTHOR> <TITLE>Lexicon graec.</TITLE> <PRIZE>1 Pf. 10√ü.</PRIZE></BIBL> <BIBL><AUTHOR>Langii</AUTHOR> <TITLE>Gram. graec.</TITLE> <PRIZE>16√ü.</PRIZE></BIBL> <BIBL><AUTHOR>Langii</AUTHOR> <TITLE>gram. Latina</TITLE>, <PRIZE>14 √ü.</PRIZE></BIBL> <BIBL><AUTHOR>Eutropi</AUTHOR> <TITLE>breviarium Hist. Rom.</TITLE> <PRIZE>10√ü.</PRIZE></BIBL> <BIBL><AUTHOR>Ovidii</AUTHOR> <TITLE>metamorphol-</TITLE> <PRIZE>10√ü.</PRIZE></BIBL> <BIBL><TITLE>Pracepta artis rhatorica</TITLE>, diese B√ºcher sind zu verkaufen oder zu vertauschen.</BIBL></ITEM>\",\n  \"number_of_fixes\": 1,\n  \"explanation\": \"The XML was missing a closing BIBL tag for the last book entry 'Pracepta artis rhatorica'. All other tags were correctly opened and closed.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 452,
+        "output_tokens": 458,
+        "total_tokens": 910
+    },
+    "duration": 12.436861991882324,
+    "timestamp": "2025-11-04T14:41:03.171734"
+}

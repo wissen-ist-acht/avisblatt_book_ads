@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>Bey Hrn. Emanuel Schardt, Buchbinder am Spahlenberg, sind folgende B√ºcher zu haben: <BIBL><AUTHOR>Kotzebue</AUTHOR> kleine gesammelte Schriften, <VOLUME>4 Bde.</VOLUME> in <FORMAT>halb Frzbd.</FORMAT> <PRICE>fl. 8.</PRICE></BIBL> <BIBL><AUTHOR>Kotzebue</AUTHOR> die j√ºngsten Kinder meiner Laune, <VOLUME>4 Bde.</VOLUME> in <FORMAT>halb Frzbd.</FORMAT> <PRICE>fl. 5.</PRICE></BIBL> <BIBL><AUTHOR>Philippine Gatterer</AUTHOR> <TITLE>Gedichte</TITLE> <PRICE>20 kr.</PRICE></BIBL> <BIBL><AUTHOR>Fr. Schillers</AUTHOR> <TITLE>Trauerspiele</TITLE>, <VOLUME>1ter Bd.</VOLUME> in <FORMAT>halb Frzbd.</FORMAT> <PRICE>fl. 1. 48 kr.</PRICE></BIBL> <BIBL><AUTHOR>Schillers</AUTHOR> <TITLE>Dom Karlos</TITLE>, in <FORMAT>halb Frzbd.</FORMAT> <PRICE>fl. 2.</PRICE></BIBL> <BIBL><AUTHOR>Schillers</AUTHOR> <TITLE>kleine gesammelte Schriften</TITLE>, in <FORMAT>halb Frzbd.</FORMAT> <PRICE>fl. 1.</PRICE></BIBL> <BIBL><AUTHOR>Kotzebue</AUTHOR> <TITLE>vom fdel.</TITLE> <PRICE>fl. 2.</PRICE></BIBL> <BIBL><AUTHOR>Posselt</AUTHOR> <TITLE>Archiv f√ºr √§ltere und neuere, vorz√ºglich deutsche Geschichte</TITLE> <PRICE>24 kr.</PRICE></BIBL> <BIBL><TITLE>Les principaux √©v√©nemens de la r√©volution de Paris</TITLE> <PRICE>20 Kr.</PRICE></BIBL> <BIBL><TITLE>Principes les plus g√©n√©raux de la langue francoise, mis en vers</TITLE> <PRICE>26 xr.</PRICE></BIBL></ITEM>\",\n  \"number_of_fixes\": 3,\n  \"explanation\": \"The XML tags <PRIZE> were incorrect. They were replaced with the correct <PRICE> tags.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 622,
+        "output_tokens": 596,
+        "total_tokens": 1218
+    },
+    "duration": 26.60638689994812,
+    "timestamp": "2025-11-04T13:55:51.825155"
+}

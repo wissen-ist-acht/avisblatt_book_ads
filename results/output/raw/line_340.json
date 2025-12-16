@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>29. In der Schweighauserischen Buchhandlung ist zu haben: <BIBL><TITLE>Pages Reisen um die Welt und nach den beyden Polen zu Lande und zur See</TITLE>, in den Jahren <YEAR>1767</YEAR> bis <YEAR>1776</YEAR> aus dem Franz√∂s. ubersetzt, mit sieben Charten, <FORMAT>gr. 8.</FORMAT> <YEAR>1786</YEAR>. <PRIZE>fl. 4. 30 kr.</PRIZE></BIBL> <BIBL><TITLE>Onomatologia medico-practica</TITLE>, enehyklop√§disches Handbuch f√ºr aus√ºbende Aerzte, in alphabetischer Ordnung, <VOLUME>4 B√§nde</VOLUME>, <FORMAT>gr. 8.</FORMAT> <YEAR>1786</YEAR>. <PRIZE>fl. 16. 36 kr.</PRIZE></BIBL> <BIBL><TITLE>Lettres critiques, morales & politignes de Mr. le Comte de Lamberg</TITLE>, <VOLUME>2. Part.</VOLUME> <FORMAT>8.</FORMAT> <YEAR>1786</YEAR>. <PRIZE>fl. 2.</PRIZE></BIBL> <BIBL><AUTHOR>Schnee (G. H.)</AUTHOR> <TITLE>Gedichte</TITLE>, <FORMAT>8.</FORMAT> <YEAR>1786</YEAR>. <PRIZE>fl. 1.</PRIZE></BIBL> <BIBL><TITLE>Kerfolin, oder das Gl√ºck sucht ihn; ein Pendant zu Kandide</TITLE>, <FORMAT>8.</FORMAT> <YEAR>1786</YEAR>. <PRIZE>24 kr.</PRIZE></BIBL> <BIBL><AUTHOR>Trillers D. W.</AUTHOR> <TITLE>Abhandlung vom Seitenstich und der Heilung desselben</TITLE>, herausgegeben von <AUTHOR>J. Chr. Gottl. Ackermann</AUTHOR>, <VOLUME>yr Theil</VOLUME>, <FORMAT>gr. 8.</FORMAT> <YEAR>1786</YEAR>. <PRIZE>fl. 1.</PRIZE></BIBL> <BIBL><TITLE>Anhang zu dem Andenken, welches Aepli seinem Freund Oschwald gestiftet</TITLE>, verfa√üt von <AUTHOR>Oschwalds Br√ºder</AUTHOR>, <FORMAT>8.</FORMAT> <YEAR>1786</YEAR>. <PRIZE>8 kr.</PRIZE></BIBL> <BIBL><AUTHOR>Bourrits, M. Th.</AUTHOR> <TITLE>Beschreibung der Savoyischen Eisgeb√ºrge. Fortsetzung der Beschreibung der Penninischen und Rh√§tischen Alpen</TITLE>, <FORMAT>gr. 8.</FORMAT> <YEAR>1786</YEAR>. <PRIZE>48 kr.</PRIZE></BIBL> <BIBL><AUTHOR>Lapaters; (J. C.)</AUTHOR> <TITLE>Nathanael oder die G√∂ttlichkeit des Christenthums f√ºr Menschen von truglosem Wahrheitssinne</TITLE>, <FORMAT>gr. 8.</FORMAT> <YEAR>1786</YEAR>. auf Schreibpapier <PRIZE>fl. 1. 36kr.</PRIZE> und auf Druckpap. <PRIZE>fl. 1. 12 kr.</PRIZE></BIBL></ITEM>\",\n  \"number_of_fixes\": 3,\n  \"explanation\": \"The XML was faulty due to incorrect tag naming for the item price. The tag 'PRICE' was used instead of 'PRIZE'. This was corrected in the last three BIBL sections.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 866,
+        "output_tokens": 879,
+        "total_tokens": 1745
+    },
+    "duration": 26.981026887893677,
+    "timestamp": "2025-11-02T20:23:43.965118"
+}

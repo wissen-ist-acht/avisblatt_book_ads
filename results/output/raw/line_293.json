@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>In der Schweighauserischen-Buchhandlung allhier, ist zu haben; <BIBL><TITLE>Des Ritters Papacino d'Antoni Abhandlung √ºber den Artilleriedienst im Kriege</TITLE> √ºbersetzt von <AUTHOR>Mal-Herbe</AUTHOR>, mit Kupfern, <FORMAT>8.</FORMAT> <YEAR>1782</YEAR>. <PRICE>fl. 2. kr. 16.</PRICE></BIBL> <BIBL><TITLE>F√ºr Hamburgst√∂chter, eine Wochenschrift f√ºr junge M√§dchen</TITLE>, <VOLUME>4 B√§nde</VOLUME>, <FORMAT>8.</FORMAT> <YEAR>1780</YEAR>. <PRICE>fl. 3.</PRICE></BIBL> <BIBL><TITLE>Der politische Kannengiesser, ein Lustspiel</TITLE>, <FORMAT>80.</FORMAT> <YEAR>1754</YEAR>. <PRICE>kr. 8.</PRICE></BIBL> <BIBL><TITLE>Handbuch zur practischen Vieharzneykunst</TITLE>, <FORMAT>8.</FORMAT> <YEAR>1782</YEAR>. <PRICE>fl. 1.</PRICE></BIBL> <BIBL><TITLE>G√∂ttingischer Musenalmanach manach auf 1783</TITLE>, herausgegeben von <AUTHOR>B√ºrger</AUTHOR>, sauber gebunden <PRICE>fl. 1. kr. 12.</PRICE></BIBL> <BIBL><AUTHOR>Sanders</AUTHOR> <TITLE>√∂konomische Naturgeschichte f√ºr den Landmann und die Jugend</TITLE>, <VOLUME>3 Theile</VOLUME>, <FORMAT>8.</FORMAT> <YEAR>1782</YEAR>. <PRICE>fl. 4. kr. 20.</PRICE></BIBL> <BIBL><TITLE>Das Forschen nach Licht und Recht, Schreiben an Mendelssohn</TITLE>, <FORMAT>8.</FORMAT> <YEAR>1782</YEAR>. <PRICE>kr. 16.</PRICE></BIBL></ITEM>\",\n  \"number_of_fixes\": 7,\n  \"explanation\": \"The tag <PRIZE> was consistently misspelled as <PRIZE> instead of <PRICE>. This was corrected in all 7 instances.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 576,
+        "output_tokens": 560,
+        "total_tokens": 1136
+    },
+    "duration": 14.018908262252808,
+    "timestamp": "2025-11-02T10:17:55.417730"
+}

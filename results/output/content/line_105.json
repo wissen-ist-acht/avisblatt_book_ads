@@ -1,0 +1,5 @@
+{
+    "fixed_xml": "<ITEM>11. Sollten diejenigen Liebhaber, welche die 5. ersten Theil der <BIBL><TITLE>Kiburzischen Kinder-Bibel</TITLE>, welcher bereits die Presse verlassen</BIBL>, besitzen, sich den 6ten Theil, als welcher nicht mehr wird kommen lassen, als sich dazu Liehhabere melden. Das Exempl. auf <FORMAT>Schreib- Papier</FORMAT> √† <PRIZE>2 fl. 30 xr.</PRIZE> Auf <FORMAT>wei√ü Papier</FORMAT> √† <PRIZE>2 fl. 16 xr.</PRIZE> Auf <FORMAT>ordinari</FORMAT> √† <PRIZE>2 fl.</PRIZE></ITEM>",
+    "number_of_fixes": 1,
+    "explanation": "The XML tag <PRICE> was incorrectly spelled at the end of the XML. It was corrected to <PRIZE> to match the opening tag."
+}

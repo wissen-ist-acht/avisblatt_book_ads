@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>37. <BIBL><TITLE>Eine Tossanische Bibel</TITLE></BIBL></ITEM>\",\n  \"number_of_fixes\": 1,\n  \"explanation\": \"The opening tag for 'TITLE' was missing its closing bracket '>'. This has been added to fix the XML.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 83,
+        "output_tokens": 74,
+        "total_tokens": 157
+    },
+    "duration": 5.26023006439209,
+    "timestamp": "2025-10-30T16:46:37.204891"
+}

@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>A nz e ige. 11. In der Unterzeichneten ist erschienen und bei Tschopp und Comp. in Basel zu haben: <BIBL><TITLE>Christlicher Seelenschatz</TITLE> in f√ºnf und vierzig Predigten √ºber die ganze evangelische Glaubens- und Sittenlehre von <AUTHOR>M. Chr. Scriver</AUTHOR>, einst Prediger in Magdeburg, zuletzt Oberhofprediger und Consistorialrath in Quedlinburg. Auf's Neue vollst√§ndig herausgegeben und dem jetzigen Sprachgebrauch gem√§√ü bearbeitet von dem Herausgeber des Thomas von Kempis. <VOLUME>1- 4te Lfg.</VOLUME> <PRICE>Preis der Lieferung 9 Btz.</PRICE></BIBL> Scrivers Seelenschatz ist religibsen Familien schon l√§ngst als einer der kostbarsten Edelsteine des √§chten Christenthums bekannt, und wird von ihnen mit Recht Thomas von Rempis Nachfolge Christi und Arndts wahrem Christenthum gleichgesch√§tzt, wo nicht wegen seiner gr√∂√üeren Reichhaltigkeit und lebendigen Darstellungsweise noch vorgezogen. ‚Äì Es sind inde√ü jetzt nur Wenige im Besitze dieses herrlichen Kleinods; ein solch unvergleichliches Werk aber, das die tiefste Frommigkeit athmet und die reichsten Kenntnisse und Lebenserfahrungen in sich schlie√üt, w√ºnscht jede christliche Familie ihr eigen zu nennen. Darum haben wir gegenw√§rtige vollst√§ndige, aus sechs, h√∂chstens sieben Lieferungen bestehende Ausgabe veranstaltet, deren Bearbeitung der Herausgeber mehrerer ausgezeichneten Erbauungsschriften, √ºbernahm. Jeder, ohne Unterschied des Standes und der Bildung, wird finden, da√ü nicht leicht aus einem andern Buche so viel Belehrung und Erbauung gesch√∂pft werden k√∂nne, wie aus dem Seelenschatz; es wird ihm daher eine freundliche Aufnahme nicht fehlen. Stuttgart. <PUBLISHER>Buchhandlung von C. F. Etzel.</PUBLISHER></ITEM>\",\n  \"number_of_fixes\": 1,\n  \"explanation\": \"The XML tag <PRIZE> was incorrectly written, it was corrected to <PRICE>.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 621,
+        "output_tokens": 606,
+        "total_tokens": 1227
+    },
+    "duration": 19.331815004348755,
+    "timestamp": "2025-11-06T10:53:58.105036"
+}

@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>37. Bey Em. Thurneisen, Buchh√§ndlerl. an der Freyenstra√üe, ist zu haben: <BIBL><AUTHOR>Virgils</AUTHOR> <TITLE>Aeneis im Versmaas der Urschrift</TITLE>, neu verdeutscht von <AUTHOR>C. L. Neuffer</AUTHOR>, <VOLUME>2 Thle.</VOLUME> <FORMAT>gr. 8.</FORMAT> <PRIZE>3 fl. 36kr.</PRIZE></BIBL> <BIBL><AUTHOR>Heller, W. F. Albrecht von Wallenstein</AUTHOR> <TITLE>Leben und Thaten</TITLE>, <FORMAT>8.</FORMAT> <PRIZE>18 kr.</PRIZE></BIBL> <BIBL><TITLE>Theetisch, der elegante, oder die Kunst einen gl√§nzenden Zirkel auf eine geschmackvolle und anst√§ndige Art ohne gro√üen Aufwand zu bewirthen</TITLE>, von <AUTHOR>F. Goullon</AUTHOR>, <FORMAT>8. br.</FORMAT> <PRIZE>48 kr.</PRIZE></BIBL> <BIBL><AUTHOR>Hackl√§nder, J. V.</AUTHOR> <TITLE>Wandfibel f√ºr die Lautmethode des Lesenlehrens</TITLE>, <FORMAT>fol.</FORMAT> <PRIZE>48 kr.</PRIZE></BIBL> Auch ist wieder zu haben: <BIBL><AUTHOR>Reinhards, F. V.</AUTHOR>, <TITLE>Predigten √ºber d. Sonnund festt√§gigen Evangelien des ganzen Jahres, zur h√§uslichen Erbauung</TITLE>, <VOLUME>4 Thle.</VOLUME> <FORMAT>gr. 8.</FORMAT> <PRIZE>8fl.</PRIZE> jetzt <PRIZE>4fl.</PRIZE> Originalausgabe.</BIBL> <BIBL><TITLE>Gest√§ndnisse seiner Predigten u. seine Bildung zum Prediger betreffend</TITLE>, <FORMAT>8.</FORMAT> <PRIZE>1fl. 15.</PRIZE> jetzt <PRIZE>45 kr.</PRIZE> Originalausgabe.</BIBL></ITEM>\",\n  \"number_of_fixes\": 1,\n  \"explanation\": \"The last prize tag in the xml was incorrectly labelled as 'PRICE'. It has been corrected to 'PRIZE'.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 588,
+        "output_tokens": 579,
+        "total_tokens": 1167
+    },
+    "duration": 16.783982753753662,
+    "timestamp": "2025-11-05T11:06:08.379258"
+}

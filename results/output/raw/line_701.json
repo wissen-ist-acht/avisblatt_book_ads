@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>31. In der Flickischen Buchhandlung auf dem Fischmarkt findet man: <BIBL><TITLE>Taschenkalender auf das Jahr 1800 f√ºr Natur und Gartenfreunde</TITLE>, mit Kupfern, gebunden in Futeral <PRIZE>2fl. 24 kr.</PRIZE></BIBL> <BIBL><TITLE>Taschenkalender auf das Jahr 1800, f√ºr Pferde Liebhaber, Reuter, Pferdez√ºchter, Pferd√§rzte Íùõc.</TITLE> herausgegeben v. <AUTHOR>F. W. Freyherrn Bouwinghausen</AUTHOR>, gebunden in Futteral <PRIZE>2 fl. 12kr.</PRIZE></BIBL> <BIBL><TITLE>Taschenbuch f√ºr Freunde und Freundinnen des Tanzes</TITLE> von <AUTHOR>J. H. Kattsu√ü</AUTHOR>, ur Thl. gebunden in Futteral <PRIZE>2 fl. 16kr.</PRIZE></BIBL> <BIBL><TITLE>Lotpourri des Dami√©s, eine Auswahl vorz√ºglicher Aufs√§tze aus Taschenb√ºchern f√ºr 1800</TITLE>, <FORMAT>8.</FORMAT> gebunden in Futteral. <PRIZE>1 fl. 20 kr.</PRIZE></BIBL> <BIBL><TITLE>Demokratisches Taschenbuch, oder Scherz nach dem Ernste, f√ºr das Jahr 1800</TITLE> <FORMAT>8.</FORMAT> broch√©. <PRIZE>2 fl. 12 kr.</PRIZE></BIBL> <BIBL><TITLE>Allgemeines Handlungsund Fabriken-Adre√übuch von Obersachsen</TITLE> <FORMAT>8.</FORMAT> <YEAR>1800</YEAR> geheftet. <PRIZE>3 fl. 12 kr.</PRIZE></BIBL> <BIBL><TITLE>Versuch ei nes kleinen Spicker-Buchs f√ºr Damen</TITLE>, <FORMAT>4.</FORMAT> <YEAR>1800</YEAR>. geheftet <PRIZE>3 fl.</PRIZE></BIBL> <BIBL><TITLE>Sammlung von Zeichnungen der neuesten englischen, franz√∂sischen und deutschen Staats- oder Stadtwagen, und eines neu erfundenen leichten Rennschlittens, der nie umf√§llt</TITLE>, <FORMAT>4.</FORMAT> <YEAR>1800</YEAR> geheftet <PRIZE>10 fl. 40 kr.</PRIZE></BIBL> <BIBL><TITLE>Sammlung der neuesten englischen Pferdgeschirre und Z√§umungen</TITLE>, Querfolio <YEAR>1800</YEAR>. geheftet <PRIZE>4 fl.</PRIZE></BIBL></ITEM>\",\n  \"number_of_fixes\": 3,\n  \"explanation\": \"The XML was missing closing tags for PRIZE in three instances. These were replaced with the correct PRIZE tags.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 758,
+        "output_tokens": 755,
+        "total_tokens": 1513
+    },
+    "duration": 31.697126150131226,
+    "timestamp": "2025-11-04T14:51:34.960807"
+}

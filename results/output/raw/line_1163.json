@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>An k √ºn digun g. In der Chr. Fr. M√ºller'schen Hof Buchdruckerey in Carlsruhe hat so ebe die Presse verlassen, und ist gegen portofreye Einsendung des Betrags zu erhalten: istens <BIBL><TITLE>Das Gesetz vom 21. Juni 1821 √ºber die Ein- und Ausgangs-Z√∂lle im Gro√üherzogthum Baden, nebst Zoll-Tarif</TITLE>. <PRIZE>Preis 18 kr.</PRIZE>, broschirt.</BIBL> 2teus <BIBL><TITLE>das zu obigem Zolltarif geh√∂rige alphabetische Register</TITLE>, welches jedem Besitzer des neuen Zolltarifs, so wie den Abonnenten des Gro√üherzoglich Badischen Staats- und Regierungsblattet zum Nachschlagen der s√§mtlich zollbaren Gegenst√§nde unentbehrlich ist. - <FORMAT>Dasselbe umfa√üt 11 gedruckte Bogen in Quart</FORMAT>, und kostet broschirt <PRIZE>48 kr.</PRIZE></BIBL>. Exemplare hievon befinden sich bey Buchh√§ndler G Neukerch u in der Schweighauser'schen Buchhandlung in Basel, so wie in s√§mtlichen Buchhandlungen der Umgegend, vorr√§thig.</ITEM>\",\n  \"number_of_fixes\": 0,\n  \"explanation\": \"The provided XML was already correctly formatted. No fixes were required.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 411,
+        "output_tokens": 389,
+        "total_tokens": 800
+    },
+    "duration": 17.712834119796753,
+    "timestamp": "2025-11-05T15:12:25.633719"
+}

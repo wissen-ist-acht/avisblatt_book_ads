@@ -1,0 +1,13 @@
+{
+    "text": "{\n\"fixed_xml\": \"<ITEM>8. <BIBL><AUTHOR>Mayrs</AUTHOR> <TITLE>Reise nach Konstantinopel, Aegypten, Jerusalem und auf den Libanon.</TITLE> <FORMAT>8.</FORMAT> Mit <FORMAT>Kupfern.</FORMAT> <PLACE>St. Gallen</PLACE> <YEAR>1820</YEAR>. <FORMAT>Halbfranzband.</FORMAT> <PRIZE>Btz 88.</PRIZE></BIBL> <BIBL><AUTHOR>R√∂hr</AUTHOR>, <TITLE>Beschreibung von Pal√ºsting,</TITLE> mit <FORMAT>iKarte.</FORMAT> <PLACE>s Zeitz</PLACE> <YEAR>1826</YEAR>. <FORMAT>Hlbfrzbd.</FORMAT> <PRIZE>Btz.</PRIZE></BIBL> <BIBL><AUTHOR>Campes</AUTHOR> <TITLE>Entdeckung v. Amerika,</TITLE> in <VOLUME>s Theilen.</VOLUME> <FORMAT>82.</FORMAT> Mit <FORMAT>Karten.</FORMAT> <PLACE>Reutlingen</PLACE> <YEAR>1826</YEAR> <PRIZE>Btz 2 brosch.</PRIZE></BIBL> <BIBL><AUTHOR>Riegers</AUTHOR> <TITLE>Betrachtungen √ºber das Neue Testament.</TITLE> √† <VOLUME>Theile.</VOLUME> <PLACE>T√ºbingen</PLACE> <YEAR>1826</YEAR>. <PRICE>Btz. 66.</PRICE> <FORMAT>Carton.</FORMAT></BIBL> <BIBL><TITLE>Die Papiermacher-Kunst</TITLE> in ihrem ganzen Umfang. <VOLUME>4.</VOLUME> Mit <FORMAT>16Kupfern.</FORMAT> <PLACE>Leipzig.</PLACE> <PRIZE>Btz. 2√†.</PRIZE> <FORMAT>Carton.</FORMAT></BIBL> <BIBL><AUTHOR>Bogue</AUTHOR>, <TITLE>Versuch √ºber das g√∂ttliche Ansehen des Neuen Testaments.</TITLE> <PLACE>Basel</PLACE> <YEAR>1606</YEAR>. <FORMAT>Halbfranzband.</FORMAT> <PRIZE>Btz. 16.</PRIZE></BIBL> <BIBL><AUTHOR>Ewalds</AUTHOR> <TITLE>Christliches Hand-1. Haus-Buch.</TITLE> <VOLUME>2 Bde.</VOLUME> <PLACE>Hannover</PLACE> <YEAR>1806</YEAR>. <FORMAT>Cart.</FORMAT> <PRIZE>Btz. 22.</PRIZE></BIBL> <BIBL><TITLE>Gespr√§ch √ºber Vorurtheile gegen das Christenthum.</TITLE> <VOLUME>2 Bde.</VOLUME> <PLACE>Schaffh.</PLACE> <YEAR>1779</YEAR> <PRIZE>Btz 10.</PRIZE></BIBL> In No. V8il an der Steinen-Vorstadt.</ITEM>\",\n\"number_of_fixes\": 1,\n\"explanation\": \"There was one error in the XML. The error was in the tag for price in the fourth <BIBL> element. The opening tag was <PRICE> but the closing tag was <PRIZE>. The closing tag has been corrected to <PRICE>.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 743,
+        "output_tokens": 759,
+        "total_tokens": 1502
+    },
+    "duration": 44.62879490852356,
+    "timestamp": "2025-11-05T16:20:37.567983"
+}

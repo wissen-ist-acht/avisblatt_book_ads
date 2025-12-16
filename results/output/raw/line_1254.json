@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>18. Neue Schriften. <BIBL><TITLE>Was ist Schuld an den heillosen G√§hrungen und Unruhen in unsern Tagen, und wodurch kann ihnen abgeholfen werden</TITLE><AUTHOR>Dr. G. Schilling</AUTHOR><PRIZE>16kr.</PRIZE></BIBL>: Von <BIBL><TITLE>Der blutige Freyheitskampf in Paris im Juli d. J.</TITLE><TITLE>Anekdoten, die sich dabei ereignet haben.</TITLE><TITLE>Lebensbeschreibung des General Lafayette.</TITLE><PRIZE>12 kr</PRIZE></BIBL> Ferner als 2te wohlf. Aufl. von: <BIBL><TITLE>Vergleichende Darstellung zwischen den franz. Revolntionen von 1789 und 1830.</TITLE><TITLE>histor dram. Szenen aus d. letzten Woche des Juli 1830.</TITLE><PRIZE>8 kr.</PRIZE></BIBL> br. <BIBL><TITLE>Getreue Lebensbeschreibungen der franz√∂s. Generalen Gerard u. Sebastiani-</TITLE><TITLE>Der Patriot, wie es viele gibt.</TITLE><TITLE>polit. Posse vom 29 Juli d. J.</TITLE><PRIZE>4 kr.</PRIZE></BIBL> Ferner: <BIBL><TITLE>Rheinbayern.</TITLE><TITLE>Nur keine Revolution in Deutschland u. s.w.</TITLE><PRICE>24kr.</PRICE></BIBL> Eine vergleichende Zeitschrift, <VOLUME>1stes Heft.</VOLUME> Enth√§lt: <BIBL><TITLE>Vertheidigung d. F√ºrst. Polignac.</TITLE><PRIZE>14 kr.</PRIZE></BIBL> <BIBL><TITLE>Das M√§dchen von E√ülingen.</TITLE><TITLE>Erz√§hlung v. Trommlitz.</TITLE><PRIZE>15 kr.</PRIZE></BIBL> br. <BIBL><TITLE>Somers Odysse.</TITLE><AUTHOR>Prof. Wiedasch.</AUTHOR><PRIZE>24kr.</PRIZE></BIBL> br. <BIBL><TITLE>Virgil's Aeneis.</TITLE><AUTHOR>Dr. L. Reuffer,</AUTHOR><VOLUME>1stes Heft,</VOLUME><PRICE>24kr.</PRICE></BIBL> br. <BIBL><TITLE>Taschenb√ºcher f√ºr 1831,</TITLE><PRIZE>4 bis 8 Fr.</PRIZE></BIBL> <BIBL><TITLE>Taschenkalender f√ºr 1831.</TITLE><TITLE>Kupf.</TITLE><PRICE>24, 28 u. 40 kr.</PRICE></BIBL> In der Holdenecker'schen Leihbibliothek zun√§chst dem Kornhause.</ITEM>\",\n  \"number_of_fixes\": 4,\n  \"explanation\": \"The 'BIBL' tag was not properly closed in four instances. 'BIBL' tags were added to close these sections properly.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 871,
+        "output_tokens": 735,
+        "total_tokens": 1606
+    },
+    "duration": 30.11050796508789,
+    "timestamp": "2025-11-05T15:59:37.230539"
+}

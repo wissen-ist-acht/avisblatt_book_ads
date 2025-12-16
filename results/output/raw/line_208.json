@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>2. Bey den Buchbindern, Hrn. Ge√üler an der Gerberga√ü und Hrn. Bolli hinter der School, sind folgende B√ºcher zu haben : <BIBL><TITLE>Neues System der Theologie</TITLE>, <VOLUME>2 Theil</VOLUME>, √† <PRIZE>12 Btzn.</PRIZE></BIBL>. <BIBL><TITLE>Das selige Reich der Liebe</TITLE> <VOLUME>2 Theil</VOLUME>, √† <PRIZE>12 Btzn.</PRIZE></BIBL>. <BIBL><TITLE>Die herrliche Monarchin</TITLE>, √† <VOLUME>Theil</VOLUME>, √† <PRIZE>12 Btzn.</PRIZE></BIBL>. <BIBL><TITLE>Das k√ºnftige Reich Christi auf Erden</TITLE>, √† <PRIZE>3 Btzn.</PRIZE></BIBL>. <BIBL><TITLE>L'amour glorifi√© vraie sagesse</TITLE>,; <PRIZE>Btzn.</PRIZE></BIBL>. <BIBL><TITLE>Die wahre Gl√ºckseligkeit</TITLE>, <PRIZE>1 Btzn.</PRIZE></BIBL>. <BIBL><TITLE>Das N√∂thige zur Seligkeit</TITLE>, <PRIZE>1 Btzn.</PRIZE></BIBL>. <BIBL><TITLE>Der seligmachende Br√§utigam</TITLE>; √† <PRIZE>2 kr.</PRIZE></BIBL>. <BIBL><TITLE>Der geistliche Rathgeber</TITLE>; √† <PRIZE>2 kr.</PRIZE></BIBL>. <BIBL><TITLE>Der 2te, 3te und 4te Theil des Reichs der Liebe</TITLE>, jeder <VOLUME>Theil</VOLUME> √†<PRIZE>2 Btzn.</PRIZE></BIBL></ITEM>\",\n  \"number_of_fixes\": 2,\n  \"explanation\": \"Two corrections were made. In two instances, the closing tag for PRIZE was incorrectly written as PRICE. This was corrected to PRIZE.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 525,
+        "output_tokens": 522,
+        "total_tokens": 1047
+    },
+    "duration": 12.37987494468689,
+    "timestamp": "2025-11-02T09:53:12.042895"
+}

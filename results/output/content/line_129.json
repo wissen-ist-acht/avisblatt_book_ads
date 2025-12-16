@@ -1,0 +1,5 @@
+{
+    "fixed_xml": "<ITEM>Ein Gem√§hld, einen Kopf vorstellend, von dem ber√ºhmten <BIBL><AUTHOR>Bartholom√®</AUTHOR><TITLE>Handlungs-Schreib-B√ºcher</TITLE><FORMAT>folio</FORMAT><FORMAT>Schweins-Leder</FORMAT></BIBL> verfertiget, und zwey, in billichem Preis im Berichthaus zu erfragen.</ITEM>",
+    "number_of_fixes": 1,
+    "explanation": "The second BIBL tag was removed and its contents were included in the first BIBL tag to ensure that all the related information is grouped together in a single tag."
+}

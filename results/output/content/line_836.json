@@ -1,0 +1,5 @@
+{
+    "fixed_xml": "<ITEM>2. Wer die <BIBL><TITLE>Pestalozischen Elementer-B√ºcher</TITLE>nebst <TITLE>Lienhard und Gertrnd</TITLE> erste Ausgabe von <AUTHOR>demselben Verfasser</AUTHOR> besitzt, und um bill. Prei√ü wegzugeben willens ist, beliebe 1 Theil nebst Prei√ü ins Berichthaus zur Einsicht zu senden.</BIBL></ITEM>",
+    "number_of_fixes": 1,
+    "explanation": "The 'AUTHOR' tag was misplaced and was not properly encapsulating the author's name. It was fixed by moving the 'AUTHOR' tag so it correctly surrounds 'demselben Verfasser'."
+}

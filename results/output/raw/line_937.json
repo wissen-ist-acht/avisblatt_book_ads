@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>20. Bey C. Hindenlang in No. 1421 an der obern Freyenstra√üe, sind aussert denen schon bekannten B√ºichern annoch folgende in Commission zu haben: <BIBL><TITLE>Kinder-Bibel, oder die Heil. Geschichte des alten Testaments, in 140 Erz√§hlungen, ausf√ºhrlich und gemeinverst√§ndlich vorgetragen und mit Anmerkungen begleitet</TITLE> v. Hrn. <AUTHOR>Prof. Schulthe√ü</AUTHOR> in <PLACE>Z√ºrich</PLACE>, <VOLUME>1r Bd.</VOLUME> <FORMAT>8.</FORMAT> <YEAR>814.</YEAR> ungeb. <PRICE>12 Btz.</PRICE></BIBL> <BIBL><TITLE>Das von Gott gerichtete und das von Gott gerettete Volk in einer Predigt vorgestellt</TITLE> von Hrn. <AUTHOR>Conrad von Orell</AUTHOR>, Pfr. an der Predigerkirche u. Chorherr in <PLACE>Z√ºr.</PLACE> <FORMAT>8.</FORMAT> <YEAR>815.</YEAR> <PRICE>6kr.</PRICE></BIBL> <BIBL><TITLE>Versuche einer franz√∂s. Sprachlehre f√ºr deutsche Kinder , die ihre Muttersprache noch nicht nach Grunds√§tzen gelernt haben.</TITLE> <AUTHOR>P. Witz</AUTHOR>, Abgek√ºrzte und ganz verbesserte Ausgabe, <FORMAT>8.</FORMAT> <YEAR>812.</YEAR> ungeb. <PRICE>22 Btz.</PRICE></BIBL> <BIBL><TITLE>Gebethe f√ºr Kinder, in einer fa√ülichen hrem Alter angemessenen, aber doch r√ºhrenden und christl. Schreibart aufgesetzt</TITLE>, <FORMAT>8.</FORMAT> <YEAR>814.</YEAR> ungeb. <PRICE>3 Btz.</PRICE></BIBL> Auch sind noch einige Exemplare von der <BIBL><TITLE>Beschreibung der Insel St. Helena</TITLE> samt einem artigen Kupfer, gedachte Insel vorstellend, f√ºr <PRICE>4 Btz.</PRICE> zu haben, so wie auch der <BIBL><TITLE>Z√ºrcher Kalender auf das J. 1816</TITLE>, f√ºr <PRICE>6kr.</PRICE></BIBL></ITEM>\",\n  \"number_of_fixes\": 4,\n  \"explanation\": \"The 'PRIZE' tag was not correctly named, it should be 'PRICE'. This mistake was repeated 4 times and was corrected in each instance.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 654,
+        "output_tokens": 642,
+        "total_tokens": 1296
+    },
+    "duration": 27.341492891311646,
+    "timestamp": "2025-11-05T11:03:28.530031"
+}

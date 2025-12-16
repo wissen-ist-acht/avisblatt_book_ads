@@ -1,0 +1,5 @@
+{
+    "fixed_xml": "<ITEM><BIBL><TITLE>Histoire de la R√©publique de V√©nise</TITLE> <AUTHOR>de B. Nani</AUTHOR> <VOLUME>3 Vol.</VOLUME></BIBL> <BIBL><TITLE>Elemens g√©n√©raux de Math√©matiques</TITLE> <AUTHOR>par l'Abb√© Deidier</AUTHOR> <VOLUME>2 Vol.</VOLUME> <FORMAT>in Quarto</FORMAT></BIBL></ITEM>",
+    "number_of_fixes": 2,
+    "explanation": "The XML was missing opening tags for 'de' and 'in' and closing tags for 'und'. These have been added to the fixed XML."
+}

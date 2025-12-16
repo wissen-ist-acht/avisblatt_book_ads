@@ -1,0 +1,5 @@
+{
+    "fixed_xml": "<ITEM>33. Herr Johannes Hagnauer, Aelter, Rothgerber zu Arau, recommendirt jedermanniglich seine neu <BIBL><TITLE>Chagrin-Fahrique</TITLE>, bestehend in sauber ged√ºpfelt- und noch niemals gesehenen gebl√ºmten Chagrin, in <FORMAT>4t√≤.</FORMAT>, in <FORMAT>8v√≤.</FORMAT> und <FORMAT>120.</FORMAT></BIBL>. Er verspricht jedermann mit sauberer Waare in billichem Preis aufzuwarten.</ITEM>",
+    "number_of_fixes": 1,
+    "explanation": "The XML was faulty because there was an extra closing </TITLE> tag. This was removed to fix the XML."
+}

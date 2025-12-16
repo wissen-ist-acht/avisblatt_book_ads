@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>In der Schweighauser'schen. Buchhandlung sind folgende neue B√ºicher zu haben: <BIBL><TITLE>Stunden der Andacht, zur Bef√∂rderung wahren Christenthums u. h√§uslicher Gottesverehrung</TITLE>, <VOLUME>8 Bde.</VOLUME>, mit dem Bildnisse Jesu Christi, <VOLUME>6te verbesserte Original-Ausgabe</VOLUME>, in <FORMAT>grobem Druck, gr. 8.</FORMAT> <PLACE>Aarau</PLACE>, auf ordin√§re Papier <PRICE>12 Fr.</PRICE> Dasselbe auf weissem Druckpapier <PRICE>16 Fr.</PRICE></BIBL> <BIBL><TITLE>Geographisch-statistisches Handlerikon der Schweiz, f√ºr Reisende und Gesch√§ftsm√§nner.</TITLE> Enthaltend vollst√§ndige Beschreibungen der 22 Kantone, deren Bizirke, Kreise und Aemter, so wie aller St√§dte, Flecken, D√∂rfer, Weiler, Schl√∂ser und Kl√∂ster, auch aller Berge, Th√§ler, W√§lder, Seen, Fl√ºsse und Heilquellen, in alphabetischer Ordnung.Rebst einem <TITLE>Wegweiser durch die Eidsgenossenchaft</TITLE>, samt Nachrichten f√ºr Reisende √ºber Postenlauf, Geldeswerth und Gasth√∂fe.- Im Vereine mit Vaterlandsfreunden herausgegeben von <AUTHOR>Markus Lutz</AUTHOR>, Pfarrer zu L√§ufelsingen, <VOLUME>2 Theile</VOLUME>, <FORMAT>8.</FORMAT> <PLACE>Aarau</PLACE>, <PRICE>6 Fr. 7 btz. 5rp.</PRICE> broschirt</BIBL> <BIBL><TITLE>Lehrbuch zum ersten Unterricht in der Geographie der Schweiz</TITLE>, von <AUTHOR>Markus Lutz</AUTHOR>, Pfarrer in L√§ufelfingen, <FORMAT>gr. 8.</FORMAT> <PLACE>Basel</PLACE>, in Ruck- und Eck-Pergament ge- <PRICE>1Fr. 3 bt</PRICE> bunden.</BIBL> <BIBL><TITLE>Ueber die Philosophie des Staatsrechts, mit besonderer Beziehung auf die Haller'sche Restauration, und einem Vorwort √ºber Hrn. C. L. v. Hallers Uebertritt zur r√∂m. kath. Kirche und dessen Ausschliessung von den √∂ffentlichen Aemtern der Stadt und Republik Bern</TITLE>, von <AUTHOR>H. Escher</AUTHOR>. <PRICE>9btz.</PRICE></BIBL></ITEM>\",\n  \"number_of_fixes\": 3,\n  \"explanation\": \"The XML was missing closing tags for the 'PRICE' element in three places. These have been added to correctly close the element.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 750,
+        "output_tokens": 738,
+        "total_tokens": 1488
+    },
+    "duration": 31.346658945083618,
+    "timestamp": "2025-11-05T14:19:42.378853"
+}

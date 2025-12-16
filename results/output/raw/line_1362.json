@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>24. Bei Unterzeichnetem sind folgende B√ºcher zu haben: <BIBL><TITLE>Stillings Leben</TITLE>, <VOLUME>3 Bde.</VOLUME> noch neu, <PRIZE>Btz. 45.</PRIZE></BIBL> <BIBL><AUTHOR>Valentini</AUTHOR> <TITLE>italienische Grammatit</TITLE>, neu, <PRIZE>Btz. 30.</PRIZE></BIBL> <BIBL><TITLE>The Poems of Osian</TITLE>, <VOLUME>4 Bde.</VOLUME> <PRIZE>Btz. 30.</PRIZE></BIBL> <BIBL><AUTHOR>John Gay</AUTHOR> <TITLE>Fables</TITLE>, <PRIZE>Btz. 6.</PRIZE></BIBL> <BIBL><TITLE>The Life of Captain James Cook</TITLE>, <PRIZE>Btz. 12.</PRIZE></BIBL> <BIBL><AUTHOR>Penther</AUTHOR> <TITLE>Praxis Geometriee</TITLE>, <PRIZE>Btz. 20.</PRIZE></BIBL> <BIBL><AUTHOR>G√ºtle</AUTHOR> <TITLE-Zaubermechanik</TITLE> mit vielen Kupfern, <PRIZE>Btz. 20.</PRIZE></BIBL> <BIBL><TITLE>Zauber-Lexikon (nat√ºrlicher)</TITLE>, <PRIZE>Btz. 15.</PRIZE></BIBL> <BIBL><AUTHOR>Denzel</AUTHOR> <TITLE>Erziehungsund Unterrichtslehre</TITLE>, <PRIZE>Btz. 30.</PRIZE></BIBL> <BIBL><AUTHOR>Homer</AUTHOR>, √ºbersetzt von <AUTHOR>Zauper</AUTHOR>, <VOLUME>2 Bde.</VOLUME> <PRIZE>Btz. 30.</PRIZE></BIBL> <BIBL><AUTHOR>Sch√∂ners</AUTHOR> <TITLE>Predigten</TITLE>, <PRIZE>Btz. 15.</PRIZE></BIBL> <BIBL><AUTHOR>Storrs</AUTHOR> <TITLE>Predigten</TITLE>, <VOLUME>2 Bde.</VOLUME> <PRIZE>Btz. 15.</PRIZE></BIBL> <BIBL><AUTHOR>Krafts</AUTHOR> <TITLE>Predigten</TITLE>, <VOLUME>2 Bde.</VOLUME> <PRIZE>Btz. 20.</PRIZE></BIBL> <BIBL><TITLE>Der Hausfreund auf dem Lande</TITLE>, <VOLUME>2 Bde.</VOLUME> <PRIZE>Btz. 18.</PRIZE></BIBL> <BIBL><AUTHOR>Hebels</AUTHOR> <TITLE>biblische Geschichten</TITLE>, <PRIZE>Btz. 8.</PRIZE></BIBL> <BIBL><TITLE>Der Baumg√§rtner auf dem Dorfe</TITLE>, <PRIZE>Btz. 10.</PRIZE></BIBL> <BIBL><AUTHOR>Helmuth's</AUTHOR> <TITLE>Volksnaturlehre</TITLE>, <PRIZE>Btz. 12.</PRIZE></BIBL> <BIBL><AUTHOR>Valerius Maximus</AUTHOR>, <PRIZE>Btz. 8.</PRIZE></BIBL> <BIBL><AUTHOR>Hugonis Grotii</AUTHOR>, <VOLUME>3 Bde.</VOLUME> <PRIZE>Btz. 45.</PRIZE></BIBL> <BIBL><TITLE>Alt Br√ºdergesangbuch</TITLE>, <AUTHOR>Ch. Munzinger</AUTHOR>, <PRIZE>Btz. 15.</PRIZE></BIBL> <BIBL><TITLE>St. Martin</TITLE></BIBL></ITEM>\",\n  \"number_of_fixes\": 1,\n  \"explanation\": \"The last BIBL-TAG was not closed properly. It was fixed by adding a closing BIBL-TAG at the end of the last book title 'St. Martin'.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 947,
+        "output_tokens": 966,
+        "total_tokens": 1913
+    },
+    "duration": 23.36160111427307,
+    "timestamp": "2025-11-06T09:47:15.323611"
+}

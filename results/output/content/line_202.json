@@ -1,0 +1,5 @@
+{
+    "fixed_xml": "<ITEM>9. <BIBL><TITLE>Scrwvers Seelen-Schatz</TITLE>, √† <PRIZE>2 N. Thaler</PRIZE>, <FORMAT>fol.</FORMAT> <PLACE>Ba√üler.Edition</PLACE></BIBL>; desselben <BIBL><TITLE>Sonnt√§gliches Evangelium</TITLE>, in <FORMAT>4to.</FORMAT></BIBL> <BIBL><AUTHOR>Poungs</AUTHOR> <TITLE>Klagen und Nacht-Gedanken und Satyren</TITLE>, <VOLUME>5 Theile</VOLUME>, <FORMAT>8.</FORMAT></BIBL> <BIBL><AUTHOR>Nardin</AUTHOR> <TITLE>Sermons de Nardin, pour tous les Dimanohes</TITLE>, √† <PRIZE>5 N. Thlr.</PRIZE></BIBL> und <BIBL><TITLE>Lebens-Geschichte Friedrichs des aten, K√∂nigs in Preussen</TITLE>, wie auch eine gute <TITLE>Hlutetravers</TITLE> √† <PRIZE>2 N. Thaler</PRIZE></BIBL>, im Berichthaus zu 10. Bey erfragen.</ITEM>",
+    "number_of_fixes": 1,
+    "explanation": "The XML was corrected by changing the <PRICE> tag to <PRIZE> to match the opening tag in the Nardin's sermons section. This was the only fix needed."
+}

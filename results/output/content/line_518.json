@@ -1,0 +1,5 @@
+{
+    "fixed_xml": "<ITEM>In der Serinischen Buchhandlung ist zu haben: <BIBL><TITLE>Zu gut ist nicht gut</TITLE>, ein <FORMAT>Lustspiel</FORMAT> in <VOLUME>5 Aufz√ºgen</VOLUME> von <AUTHOR>Schmidt</AUTHOR>. <PRIZE>8. br. 30 kr.</PRIZE></BIBL> <BIBL><TITLE>Der gl√ºckliche Tausch</TITLE>, ein <FORMAT>Lustspiel</FORMAT> in einem <VOLUME>Aufzug</VOLUME>. <FORMAT>broschirt</FORMAT> <PRIZE>12 kr.</PRIZE></BIBL> <BIBL><TITLE>Die belesenen Jungfern</TITLE>, eine <FORMAT>Posse</FORMAT> in einem <VOLUME>Aufzug</VOLUME>. <FORMAT>8. broschirt</FORMAT> <PRIZE>16 kr.</PRIZE></BIBL> <BIBL><TITLE>So macht man kranke Weiber gesund</TITLE>, ein <FORMAT>Lustspiel</FORMAT> in einem <VOLUME>Aufzug</VOLUME>. <PRIZE>12 kr.</PRIZE></BIBL> <BIBL><TITLE>Weiberkan√§le die be√üten Kan√§le</TITLE>, ein <FORMAT>Lustspiel</FORMAT> in <VOLUME>Aufz√ºgen</VOLUME>. <PRIZE>24 kr.</PRIZE></BIBL></ITEM>",
+    "number_of_fixes": 1,
+    "explanation": "There was a typo in the third <BIBL> section where the closing tag for <PRIZE> was written as </PRICE>. This has been corrected to </PRIZE>."
+}

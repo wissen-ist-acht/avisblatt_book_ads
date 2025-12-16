@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>17. G. F. Meyers (ehmals Lohnherrn), <BIBL><AUTHOR>G. F. Meyers</AUTHOR> <TITLE>Lehre von der Messung der Triangeln, samt dem Gebrauch der Tab. Sinuum, Tangentium et Secantium</TITLE> quer 121/ B√§s.<YEAR>1672</YEAR>. <FORMAT>Pergam.</FORMAT> <PRIZE>10 Btz.</PRIZE></BIBL> Ebendesselben <BIBL><AUTHOR>G. F. Meyers</AUTHOR> <TITLE>Stcrcometria oder Visirkunst</TITLE>. <PLACE>Bazel</PLACE> <YEAR>1775</YEAR>. <FORMAT>Perg.</FORMAT> Nebst desselben <BIBL><AUTHOR>G. F. Meyers</AUTHOR> <TITLE>Unter richt vom Feldmessen u. Feldtheilen</TITLE>. <PLACE>Basel</PLACE> <YEAR>1684</YEAR>. in <VOLUME>1 Band</VOLUME> zusammen <PRIZE>12 Btz.</PRIZE></BIBL> <BIBL><AUTHOR>Vignola</AUTHOR> <TITLE>Grundregeln der f√ºnf S√§ulen-Ordnung</TITLE>, mit <FORMAT>50 Rissen in Kupfer</FORMAT> erl√§utert <YEAR>26. geh.</YEAR> <PRIZE>12 Btz.</PRIZE></BIBL> <BIBL><AUTHOR>Des Arques</AUTHOR> <TITLE>k√ºnstrichtige u. probm√§√üige Zeichnung zum Steinhauen in der Baukunst</TITLE>, mit vielen <FORMAT>Kupf.</FORMAT> <YEAR>8. N√ºrnb. 699</YEAR>. <FORMAT>Leder.</FORMAT> <PRIZE>15 Btz.</PRIZE></BIBL> <BIBL><TITLE>Stercometrie oder die Me√ü- oder Erw√§gung der k√∂rperlichen Gr√∂√üen, welche in L√§nge, Breite u. H√∂he bestehen Íùõc.</TITLE> <YEAR>40. Man.</YEAR> <PRIZE>6 Btz.</PRIZE></BIBL> <BIBL><AUTHOR>Sch√ºbleks, J J.</AUTHOR> <TITLE>Zimmermannskunst</TITLE>. Mit vielen <FORMAT>Kupfertaf.</FORMAT> <YEAR>fol. N√ºrnb. 763</YEAR>. <PRIZE>30 Btz.</PRIZE></BIBL> <BIBL><AUTHOR>Peuthers, J. F.</AUTHOR> <TITLE>Bauanschlag oder Anweisung, wie alle Baumaterialien und alle √ºbrigen Baukosten zu berechnen sind Íùõc.</TITLE> mit vielen <FORMAT>Kupf.</FORMAT> <YEAR>fol. Augsb. 1743</YEAR>. <PRIZE>30 Btz.</PRIZE></BIBL> <BIBL><TITLE>Vues pittoresques des principaux √©d√©. fices de Paris</TITLE> in <FORMAT>72 sch√∂n ausgemalten Kupfern</FORMAT>. <YEAR>8. Paris 792</YEAR>. <PRIZE>12 Fr.</PRIZE></BIBL> Obige B√ºicher sind im Flick'schen Gesch√§fts-Pureau No. 179 am Herbrigberg zu haben.</ITEM>\",\n  \"number_of_fixes\": 4,\n  \"explanation\": \"The XML had missing closing tags for <PRIZE> and used <PRICE> instead. This was corrected in 4 places.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 869,
+        "output_tokens": 868,
+        "total_tokens": 1737
+    },
+    "duration": 32.09758424758911,
+    "timestamp": "2025-11-05T14:33:02.787946"
+}

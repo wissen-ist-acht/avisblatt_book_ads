@@ -1,0 +1,13 @@
+{
+    "text": "{\n\"fixed_xml\": \"<ITEM>In der Deckerschen Buchhandlung allhier ist in beygesetzten sehr wohlfeilen Preisen zu haben: <BIBL><AUTHOR>Friedrichs H. K√∂nigs von Preussen</AUTHOR> hinterlassene Werke, in <VOLUME>15 Theilen</VOLUME> mit sch√∂nen Titel-Vignetten. <FORMAT>gr. 8.</FORMAT> <PRIZE>Schrbppr. fl. 7.</PRIZE></BIBL> Dieselben ohne Vignetten <BIBL><VOLUME>15 Theile</VOLUME>. <FORMAT>gr. 8.</FORMAT> <PRIZE>Schr√∂ppr. fl. 5. 30 kr.</PRIZE></BIBL> <BIBL>Die besagten Werke in franz. Sprache <VOLUME>15 Thl.</VOLUME> <FORMAT>gr. 8.</FORMAT> <PRIZE>fl. 6.</PRIZE></BIBL> Ebendieselben in deutscher Sprache, ord. <BIBL><FORMAT>8.</FORMAT> <VOLUME>15 Thl.</VOLUME> <PRIZE>Schrbypr. fl. 3. 12 kr.</PRIZE></BIBL> auf <PRIZE>Druckppr. fl. 2. 40 kr.</PRIZE> <BIBL><AUTHOR>Friedrichs des H. K√∂nigs von Preussen</AUTHOR> Regierungszeit, von ihm selbst beschrieben, <VOLUME>5 Thle.</VOLUME> (dies sind die ersten <VOLUME>5 Thle.</VOLUME> obiger Werke franz. oder deutsch <PRICE>fl. 1. 12 kr.</PRICE>)</BIBL> <BIBL>Gesetzbuch Callgemeines f√ºr die preu√üischen Staaten, compl. samt Register. <FORMAT>gr. 8.</FORMAT> <PRICE>fl. 8. 30 kr.</PRICE></BIBL> das Register einzeln <BIBL><PRICE>fl. 1. 12 kr.</PRICE></BIBL> <BIBL><TITLE>Oeuvres de Fr√©d√©ric L. publi√©s du vivant de P'auteur.</TITLE> <VOLUME>4 Fol.</VOLUME> <FORMAT>gr. 8.</FORMAT> <PRICE>fl. 3.</PRICE></BIBL> <BIBL><TITLE>Handbuch √ºber den k√∂nigl. preu√üischen Hof und Staat, f√ºr das Jahr 1794.</TITLE> <FORMAT>gr. 8.</FORMAT> <PRICE>fl. 1. 36 kr.</PRICE></BIBL> Ferner folgende Kupferstiche: <BIBL><TITLE>Fr√©d√©ric le Grand retournant √† Sans-Soucy,</TITLE> gro√ü, von Clemens nach Cuningham, <PRICE>Preis 5 Neuethaler.</PRICE></BIBL> <BIBL><AUTHOR>Friedrichs des H.</AUTHOR> Tod von Henne, <PRICE>Preis fl. 5. 40 kr.</PRICE></BIBL> Sodann ist ganz neu herausgekommen: <BIBL><AUTHOR>Girtanners (D. Ehr.)</AUTHOR> Abhandlung √ºber die Krankheiten der Kinder und √ºber die physische Erziehung derselben. <FORMAT>gr. 8.</FORMAT> <YEAR>1794.</YEAR> <PRICE>fl. 2. 16 kr.</PRICE></BIBL> <BIBL><TITLE>Lami des enfans, par Berquin.</TITLE> <VOLUME>12.</VOLUME> <FORMAT>8.</FORMAT> <VOLUME>Vol.</VOLUME> <YEAR>1794.</YEAR> <PRICE>fl. 5. 20 Krn</PRICE></BIBL></ITEM>\",\n\"number_of_fixes\": 6,\n\"explanation\": \"There were 6 instances where the <BIBL> tag was missing and needed to be added to properly encapsulate the bibliographic information.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 953,
+        "output_tokens": 966,
+        "total_tokens": 1919
+    },
+    "duration": 32.61185812950134,
+    "timestamp": "2025-11-04T13:27:23.125343"
+}

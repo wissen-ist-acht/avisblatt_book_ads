@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>21. Bey Hrn. Joh. Jakob Freyler, Buchbinder an der Schneiderga√ü, ist zu haben: <BIBL><TITLE>Deutsche Bibeln</TITLE> in <FORMAT>fol.</FORMAT> ganz neu, in Leder und Schlo√ü, <PRICE>fl. 4.</PRICE></BIBL> <BIBL><TITLE>Das neue Testament</TITLE>, ganz neu, in Ruck und Eck Leder, <PRICE>28 kr.</PRICE></BIBL> <BIBL><AUTHOR>H√ºbners</AUTHOR> <TITLE>bibl. Historien</TITLE>, in Ruck und Eck Leder, ganz neu <PRICE>28 kr.</PRICE></BIBL> <BIBL><TITLE>Ditol mit Kpf.</TITLE> in Leder und Schlo√ü, <PRICE>fl. 1.</PRICE></BIBL> <BIBL><TITLE>Ganzs grobe Psalmb√ºcher</TITLE>, in Leder und Schlo√ü, neu, <PRICE>fl. 1.</PRICE></BIBL> <BIBL><TITLE>Oedinare Psalmenb√ºcher</TITLE>, <VOLUME>12.</VOLUME> in Leder und Schlo√ü, <PRICE>24 kr.</PRICE></BIBL> <BIBL><TITLE>Liederb√ºchlein</TITLE>, in dito, <PRICE>20 kr.</PRICE></BIBL> <BIBL><AUTHOR>Schmoltens</AUTHOR> <TITLE>Gebetbuch</TITLE>, in dito, ganz neu, <PRICE>fl. 1. 12 kr.</PRICE></BIBL> <BIBL><AUTHOR>Zollikofers</AUTHOR> <TITLE>Gebetbuch</TITLE>, <PRICE>fl. 1.</PRICE></BIBL> <BIBL><AUTHOR>Starkensl</AUTHOR> <TITLE>Gebetbuch</TITLE>, <PRICE>56 kr.</PRICE></BIBL> <BIBL><TITLE>Fr√§nz√∂sisches Testament</TITLE>, in Franzbd. <PRICE>40 kr.</PRICE></BIBL> Aller Sorten Schreibpapier, Schreibb√ºcher von unterschiedlichem Format, fol. 4d und 8e. und Postpapier, auch gebl√ºmtes dito, wie aucht grosse und kleine Schachteln von Carton.</ITEM>\",\n  \"number_of_fixes\": 3,\n  \"explanation\": \"The XML tags for price were inconsistent, sometimes using 'PRIZE' and other times 'PRICE'. All instances were corrected to 'PRICE'.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 640,
+        "output_tokens": 617,
+        "total_tokens": 1257
+    },
+    "duration": 15.775181770324707,
+    "timestamp": "2025-11-02T21:01:35.616714"
+}

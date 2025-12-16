@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>Bei Tschopp und Comp. in Basel ist zu haben: <BIBL><TITLE>Die zweite Auflage Ceder radikalen Heilung der Muttermale, Sommerflecken, des Kupferhandels, der Finnen, Mitesser und Leberflecken</TITLE>. Von dem praktischen Arzt und Hofrath <AUTHOR>Berg</AUTHOR>. <PRICE>Preis 13 1/2 Batzen</PRICE></BIBL></ITEM>\",\n  \"number_of_fixes\": 1,\n  \"explanation\": \"The tag <PRIZE> was incorrect. It was replaced with the correct tag <PRICE>.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 167,
+        "output_tokens": 153,
+        "total_tokens": 320
+    },
+    "duration": 4.460789918899536,
+    "timestamp": "2025-11-06T11:14:34.037481"
+}

@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>22. A n; e iig e. Der , christliche Volksbote f√§hrt fort unter derselben Redaktion, wie fr√ºher, und mit derselben Tenden;, w√∂chentlich einmal, alle Donnerstage, einen Bogen stark, zu erscheinen. ‚Äì In einer Zeit, welche von Extremen zu Extreien getrieben wird: zu welcher der Menschengeist in seiner religibsen Grundlage und Tiefe von allen Seiten her und nach allen Seiten hin immer mehr noch untergraben wird, m√∂chte es nicht unzweckm√§√üig sein, auf diese christliche Zeitschrift aufs Neue aufmerksam zu machen. Der Geist des Volksboten ist streng protestantisch-evangelisch. Es ist nur Ein Heil dem Menschen gegeben: in Christo; es ist nur Ein Wort, in dem die ewige G√∂ttlichkeit und Wahrheit niedergelegt ist: das Wort Gottes in der Schrift; ‚Äì das ist der Leitstern, das der unentweglicke Glaube und das Streben des Volksboten. In schlichter Sprache, hald in par√§netisch- abhandelnder Weise, hald durch Darstellungen denkw√ºrdig-christlicher historischer Erscheinungen, besonders der neuesten Zeit, hald auch durch christliche Gedichte sucht er an Geist und Herz des Lesers zu sprechen. Zugleich wird unter der Rubrik:, Politisches in gedr√§ngter K√ºrze √ºber die in dem Laufe jeder Woche vorgefallenen Ereignisse in der politischen Welt eine Uebersicht gegeben, und hie und da auf die Zeichen der Zeit aufmerksam gemacht. - Da der Preis des Volksboten sehr m√§√üig spr. 1 Quartal √† 10 Btz.) gestellt ist, so hofft der Verleger jede Anspr√ºche befriedigt zu sehen. <BIBL><TITLE>Der christliche Volksbote</TITLE>, w√∂chentlich einmal, alle Donnerstage, einen Bogen stark, <PRICE>1 Quartal √† 10 Btz.</PRICE></BIBL> Felix Schneider, Buchdrucker.</ITEM>\",\n  \"number_of_fixes\": 1,\n  \"explanation\": \"The opening tag <PRIZE> was incorrect. It was changed to <PRICE> to match the closing tag.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 592,
+        "output_tokens": 581,
+        "total_tokens": 1173
+    },
+    "duration": 26.287034034729004,
+    "timestamp": "2025-11-06T09:36:53.905494"
+}

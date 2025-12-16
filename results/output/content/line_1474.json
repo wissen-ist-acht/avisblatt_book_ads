@@ -1,0 +1,5 @@
+{
+    "fixed_xml": "<ITEM>Bei G. Winter in N√ºrnberg ist erschienen und in J. G. Bahnmaier's Buchhandlung in Basel vorr√§thig: <BIBL><TITLE>Die flei√üige Hausfrau in R√ºche und Keller. R√ºtzliche Unterhaltungen √ºber die K√ºche und deren Einrichtung, die Speisekammer. den Keller, und andere bkonomische Gegenst√§nde. F√ºr junge Frauenzimmer, insonderheit f√ºr angehende Hauswirthinnen.</TITLE> Preis <PRICE>10 Batzen</PRICE></BIBL></ITEM>",
+    "number_of_fixes": 1,
+    "explanation": "The tag <PRIZE> was closed with </PRICE>. The opening and closing tags should be the same. So, I replaced <PRIZE> with <PRICE>."
+}

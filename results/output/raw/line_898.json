@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>Massini et Valaperta, auf der Spinnwettern-Zunft, haben neuerdings folgende Artikel erhalten: <BIBL><TITLE>Violin-Saiten von Neaples</TITLE></BIBL>, <BIBL><TITLE>das wahre Eau Dispahan</TITLE>, welches schon mehreremal unter dem Namen <TITLE>Brevets d'invention de M. M. Laugier, p√®re et fils √† Paris</TITLE>, im Wochenblatt erschienen ist</BIBL>, <BIBL><TITLE>das Eau de Levande</TITLE> in Schoppen, mit doppeltem und einfachem Geruch</BIBL>, <BIBL><TITLE>Pommade √† la moelle de baeuf</TITLE>, in 1/2 T√∂pfchen</BIBL>, <BIBL><TITLE>Savonnette √† fin herbes</TITLE></BIBL>, <BIBL><TITLE>Oriental-Saife</TITLE></BIBL>, <BIBL><TITLE>Gesundheits-Chocolat</TITLE></BIBL>, <BIBL><TITLE>das wahre Eau de Cologne</TITLE></BIBL>, ferners: <BIBL><TITLE>schiltkrottene Chignon- und Pappillote-Strehle</TITLE></BIBL>; so wie auch verschiedene neue <BIBL><TITLE>Qumcaillerie- und Bijouterie-Artikel</TITLE>, als: <BIBL><TITLE>Stecknadeln</TITLE></BIBL>, <BIBL><TITLE>Ringe</TITLE></BIBL>, <BIBL><TITLE>Uhrenschl√ºssel</TITLE></BIBL>, <BIBL><TITLE>Petschaft</TITLE></BIBL>, <BIBL><TITLE>silberne Brillen</TITLE></BIBL>, auch einzelne <BIBL><TITLE>Gl√§ser</TITLE></BIBL> nach jedem Gesicht; <BIBL><TITLE>elfenbeinerne Perspektive</TITLE></BIBL> f√ºrs Theater, desgleichen auch <BIBL><TITLE>gedruckte Dessin</TITLE></BIBL> zum sticken.</ITEM>\",\n  \"number_of_fixes\": 9,\n  \"explanation\": \"The XML was missing 'BIBL' tags for each item in the list after 'Qumcaillerie- und Bijouterie-Artikel', which were added to fix the XML.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 512,
+        "output_tokens": 583,
+        "total_tokens": 1095
+    },
+    "duration": 20.777721881866455,
+    "timestamp": "2025-11-05T10:41:53.475891"
+}

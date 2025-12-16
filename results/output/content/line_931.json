@@ -1,0 +1,5 @@
+{
+    "fixed_xml": "<ITEM>10. <BIBL><AUTHOR>Titus Livins</AUTHOR>, <TITLE>R√∂mische Geschichte</TITLE> <VOLUME>2ter Bd.</VOLUME>, ist f√ºr die Herren Subseribenten um <PRICE>21 Btz.</PRICE> abzuholen in der Holdeneckerschen Leihbibliothek in kl. Basel.</BIBL></ITEM>",
+    "number_of_fixes": 1,
+    "explanation": "The 'PRIZE' tag was incorrect. It was replaced with the correct 'PRICE' tag."
+}

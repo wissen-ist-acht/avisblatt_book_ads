@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>11. Pr√§n. u. Subscriptions-Anzeigen. <BIBL><TITLE>Herrenners Methodenbuch f√ºr Schullehrer</TITLE> Íùõc. Inhalt desselben: 1. Vom Lesen. 2. Verstandes- oder Denk√ºbungen. 3. Schreiben, Rechtschreiben, eigener Gedankenaufsatz. 4. Deutsche Sprachlehre. 5. Rechenkunst. 6. Religionsunterricht. 7. Formenlehre u. Zeichnen. 8. Gemeinn√ºtzige Kenntnisse. 9. Gesangunterricht.</BIBL> Dieses f√ºr jeden Schulmann Íùõc. dem es daran gelegen ist, zum bessern Gedeihen des gro√üen heiligen Werkes der Jugendbildung mitzuwirken- sehr empfehlende Werk, wird bis im Sept. d. J. erscheinen. Es kann inzwischen bey Unterzeichnetem hief√ºr mit <PRIZE>24 Btz.</PRIZE> pr√§n. oder mit <PRIZE>30 Btz.</PRIZE> subserth. werden. Nachher ist der Ladenpreis <PRIZE>30 Batzen</PRIZE>. Bey Pr√§n. und Subscript f√ºr 12 Ex wird das 13te Ex. gratis erlassen. <BIBL><TITLE>Cypog. Vorlagen zum Sch√∂nschreiben der neuen, von Firmin Didot versch√∂nerten u. gravirten Caracteres d'√©criture, als: Anglaise, Batarde, Gothique et Ronde</TITLE>. Diese 4 div. kalligraphischen Vorlagen werden nicht nur Schreibsch√ºlern, sondern vorz√ºgl. auch Zeichnern, Malern, Graveurs, Kupferstechern, Lithographiern und s√§mtl. Freunden der Kalligraphie, welche etwas in besonders geschmackvollen Schriftz√ºgen Íùõc. pr√§sentiren wollen, eine angenehme Erscheinung seyn.</BIBL> Dieselben erscheinen bey Unterzeichnetem auf 2 gr. Foliobl√§ttern auf feinstem Kupferpap. bis Endes Nov. d. J., wof√ºr bis Endes Aug. mit <PRIZE>6 Btz.</PRIZE> pr√§n. oder mit <PRIZE>9 Btz.</PRIZE> subseribirt werden kann. Bey Pr√§n. u. Subscript. f√ºr 12 Ex. liefert er das 13te Ex. gratis. Schul-u. Erziehungsanstalten werden 50 Ex. auf Pr√§n. f√ºr <PRIZE>24 Fr.</PRIZE> u. auf Subscript. f√ºr <PRIZE>32 Fr.</PRIZE> erlassen. J. Holdenecker, beym Kornhause.</ITEM>\",\n  \"number_of_fixes\": 1,\n  \"explanation\": \"The closing tag for the last <PRIZE> was incorrect. It was written as </PRICE> but has been corrected to </PRIZE>.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 773,
+        "output_tokens": 771,
+        "total_tokens": 1544
+    },
+    "duration": 27.33999276161194,
+    "timestamp": "2025-11-05T14:12:29.151128"
+}

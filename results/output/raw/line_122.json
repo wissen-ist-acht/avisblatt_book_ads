@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>31. Im Bischoffischen Buchladen ist zu haben: <BIBL><AUTHOR>Bogazky</AUTHOR> <TITLE>geistliche Kranken-Pflege, oder heilsamer Unterricht, Geb√§te und Lieder f√ºr Gefunde, Kranke und Sterbende</TITLE>, <FORMAT>8vo</FORMAT> <PLACE>Halle</PLACE>. √† <PRIZE>50. kr.</PRIZE></BIBL> -- <BIBL><TITLE>Beicht- und Communion-Buch</TITLE>, <FORMAT>12mo</FORMAT> <PLACE>Halle</PLACE>. √† <PRIZE>24 kr.</PRIZE></BIBL> -- <BIBL><TITLE>Einiger und schmaler Himmels- und breiter Hollen-Weg</TITLE>, <FORMAT>8vo</FORMAT> <PLACE>Halle</PLACE>. √† <PRIZE>20 kr.</PRIZE></BIBL> <BIBL><AUTHOR>Curas</AUTHOR> <TITLE>Einleitung in die Universal-Historie</TITLE>, √† <PRIZE>36 kr.</PRIZE></BIBL> <BIBL><TITLE>Die C√∂thnische Lieder</TITLE>, <VOLUME>2 Theil</VOLUME>. <FORMAT>1amo</FORMAT> <PLACE>Stuttgard</PLACE>. <YEAR>1767</YEAR> √† <PRIZE>16 kr.</PRIZE></BIBL></ITEM>\",\n  \"number_of_fixes\": 1,\n  \"explanation\": \"There was a missing '>' in the 'TITLE' tag in the fourth 'BIBL' tag. This has been fixed.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 396,
+        "output_tokens": 390,
+        "total_tokens": 786
+    },
+    "duration": 12.416509866714478,
+    "timestamp": "2025-10-31T11:58:44.710925"
+}

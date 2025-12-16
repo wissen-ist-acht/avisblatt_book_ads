@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>14. Die achte Original-Auflage des <BIBL><TITLE>Brockhausischen Conversations-Lexicon</TITLE> ist so eben im Druck vollender und f√ºr <PRICE>Fr. 43. 2 Btz.</PRICE> zu erhalten</BIBL> in der Schweighauser'schen Buchhandlung.</ITEM>\",\n  \"number_of_fixes\": 1,\n  \"explanation\": \"The 'PRICE' tag was incorrectly closed as 'PRIZE'. This has been corrected to 'PRICE'.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 139,
+        "output_tokens": 127,
+        "total_tokens": 266
+    },
+    "duration": 4.598254203796387,
+    "timestamp": "2025-11-06T10:34:30.038120"
+}

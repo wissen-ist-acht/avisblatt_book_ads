@@ -1,0 +1,13 @@
+{
+    "text": "{\n\"fixed_xml\": \"<ITEM>34. Neues Abonnemen t. Vamen-Conuer Ta kiun R- &eFteon in <BIBL><VOLUME>10 B√§nden</VOLUME> mit <FORMAT>10 Stahlstichen</FORMAT>. Zweiter unver√§nderter Abdruck. Man abonnirt in allen Buchhandlungen in monatlichen Bandlieferungen √† <PRIZE>27 Batzen</PRIZE>. Das ungeheure Aufsehen, welches dieses Prachtwerk bei seinem Erscheinen in der gebildeten Welt erregte, machte, da√ü trotz einer Auflage von 10000 Exemplaren, ein zweiter unver√§nderter Abdruck unternommen werden mu√üte. - Das Buch ist f√ºr Frauen und M√§dchen, die nur auf einige Bildung Anspruch machen, unentbehrlich, denn mit demselben und durch dasselbe, wird es ihnen m√∂glich seyn, den Anspr√ºchen zu begegnen, welche die Welt jetzt an das weibliche Geschlecht macht. Ein solcher Rathgeber, ein solches Hilfsbuch, kann nur will. kommen seyn! Ueber 100 Recensionen haben sich dahin ausgesprochen, da√ü noch nie ein Buch f√ºr Frauen erschien, von dem sich mit so vollkommenem Rechte sagen lie√üe: Es ist ein wahrer Schatz f√ºr Alle die, welche es besitzen. Um nun vielseitigen W√ºnschen zu entsprechen, bieten wir denen, die sich dieses Werk noch anzuschaffen w√ºnschen, nochmals den vortheilhaften Weg der Subscription an. Alle Buchhandlungen liefern monatlich p√ºnktlich einen Band und es liegt der erste Band zur Abgabe bereit. Wer dagegen das Werk complet auf einmal haben will, erh√§lt dasselbe auch jetzt noch zu dem Subscriptionspreise in allen Buchhandlungen. Bestellungen auf obgenanntes Werk nimmt an: Die Schweighauser'sche Buchhandlung.</BIBL> 35. In der Schweighauser'schen Buchhandlung ist zu erhalten: <BIBL><TITLE>Geschichts-Bibliothek f√ºrs Volk</TITLE>. Das B√§ndchen f√ºr <PRICE>10 Kreuzer</PRICE>. l. <TITLE>Allgemeine Weltgeschichte</TITLE> von <AUTHOR>K. Fried</AUTHOR>. 11. <TITLE>Geschichte Napoleons</TITLE> von <AUTHOR>J. Sporschil</AUTHOR>. 111. <TITLE>Leben des Benj. Franklin</TITLE> von <AUTHOR>ihm selbst</AUTHOR> geschrieben.</BIBL></ITEM>\",\n\"number_of_fixes\": 1,\n\"explanation\": \"The opening <PRIZE> tag was not closed properly. It was written as </PRICE> instead of </PRIZE>. This was the only error found and fixed in the XML.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 705,
+        "output_tokens": 705,
+        "total_tokens": 1410
+    },
+    "duration": 24.372344970703125,
+    "timestamp": "2025-11-06T10:47:05.135484"
+}

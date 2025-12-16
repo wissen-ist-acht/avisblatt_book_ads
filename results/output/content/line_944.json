@@ -1,0 +1,5 @@
+{
+    "fixed_xml": "<ITEM>Von der interessanten Schrift: <BIBL><TITLE>Drey Hauptz√ºge im Charakter eines wahren Christen</TITLE>, dargestellt von <AUTHOR>C. F. A. Steinkopf</AUTHOR>, Prediger der evangel. lutherisch- Savoykirche zu London. Mit einer kurzen Nachricht von der Entstehung u. den Fortschritten der Brittisch- u. ausl√§nd. Bibelgesellschaft in London</BIBL> - sind noch Exempl. <PRIZE>2 15 kr.</PRIZE> bey <PLACE>M√ºller, Buchdrucker</PLACE>, zu haben.</ITEM>",
+    "number_of_fixes": 1,
+    "explanation": "There was a misplaced closing TITLE tag that was closed after the BIBL tag. This has been fixed by closing the TITLE tag before the BIBL tag."
+}

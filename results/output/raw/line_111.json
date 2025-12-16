@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>Im Berichthaus sind zu sehen und um nachfolgenden Preis zu haben: 1) <BIBL><AUTHOR>Salom. Glassii</AUTHOR> <TITLE>Philologia facra</TITLE>, <PLACE>Lipfiz</PLACE> <YEAR>1705</YEAR>. √† <PRIZE>3 fl. 30 Kr.</PRIZE></BIBL> 2) <BIBL><AUTHOR>Dachselii</AUTHOR> <TITLE>Biblia hebraica accentuata</TITLE>, <PLACE>Lipsia</PLACE> <YEAR>1729</YEAR>. √† <PRIZE>3 fl.</PRIZE></BIBL> 3) <BIBL><AUTHOR>Pfanneri</AUTHOR> <TITLE>Theologia gentilis</TITLE>, <PLACE>Bafilea</PLACE> <YEAR>1679</YEAR>. <PRIZE>1 fl. 36 xr.</PRIZE></BIBL> 4) <BIBL><AUTHOR>Francisci B√ºrmanni</AUTHOR> <TITLE>Disputationes theologica</TITLE>, <PLACE>Roterodami</PLACE> <YEAR>1688</YEAR>. <PRIZE>1 fl. 36 Kr.</PRIZE></BIBL> 5) <BIBL><AUTHOR>Christiam Stockii</AUTHOR> <TITLE>Clavis lingux sandta Novi Testamenti</TITLE>, <PLACE>Jefae</PLACE> <YEAR>1730</YEAR>. <PRIZE>2 fl. 24 xr.</PRIZE></BIBL></ITEM>\",\n  \"number_of_fixes\": 2,\n  \"explanation\": \"The closing tag for PRIZE was incorrectly written as PRICE in two places. These have been corrected to PRIZE.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 410,
+        "output_tokens": 402,
+        "total_tokens": 812
+    },
+    "duration": 10.660205125808716,
+    "timestamp": "2025-10-31T11:55:42.334379"
+}

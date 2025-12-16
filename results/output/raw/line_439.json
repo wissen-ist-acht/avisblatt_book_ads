@@ -1,0 +1,13 @@
+{
+    "text": "{\n\"fixed_xml\": \"<ITEM>1. Bey Hrn. Joh. Jakob Freyler, Buchbinder an der Schneiderga√ü, ist gebunden zu haben: <BIBL><AUTHOR>dem Herrn von Marmontel</AUTHOR> <TITLE>Belisar</TITLE>, Wien <YEAR>1768</YEAR>. mit Kpf. in halb Frzbd. <PRIZE>fl. 1.</PRIZE></BIBL> <BIBL><TITLE>Wahlmann, oder durch dier Eine ward er b√∂se, und durch die Andre wieder gut</TITLE>, Leipzig <YEAR>778</YEAR>. <VOLUME>2 B√§nde beysammen</VOLUME>, <PRIZE>fl. 1.</PRIZE></BIBL> <BIBL><TITLE>Gl√ºckseligkeit des unverheuratheten Frauenzimmers, in der Geschichte einer Standesperson des sch√∂nen Geschlechts abgebildet</TITLE>, Leipzig <YEAR>748</YEAR>. <PRIZE>fl. 1.</PRIZE></BIBL> <BIBL><AUTHOR>Nehrings</AUTHOR> <TITLE>Handbuch der Notarien</TITLE>, Leipz. <YEAR>740</YEAR>. <PRIZE>fl. 1. 20 kr.</PRIZE></BIBL> <BIBL><TITLE>Seiner Churf√ºrstlichen Gnaden zu Main; Verordnung, die Kl√∂ster betreffend</TITLE>, Main; <YEAR>771</YEAR>. Nebst einem Anhang kurzgefa√üter Reflexiones uber obgemeldte Verordnung, <YEAR>772</YEAR>. zusammen <PRIZE>20 kr.</PRIZE></BIBL> <BIBL><TITLE>Anweisung zur Malerkunst, nebst einem gr√ºndlichen Unterricht von der Rei√ü. und Zeichnungs-wie auch Illuminirkunst</TITLE>, Leipz. <YEAR>750</YEAR>. <PRIZE>40 kr.</PRIZE></BIBL> <BIBL><TITLE>Beschaffenheit und Gr√∂sse der Wohlthat, welche Maria Theresig durch die Verbesserung der deutschen Schulen, ihren Unterthanen erwiesen, hat eine Vorlesung von Felbiger</TITLE>, Prag <YEAR>781</YEAR>. <PRIZE>16 kr.</PRIZE></BIBL></ITEM>\",\n\n\"number_of_fixes\": 3,\n\n\"explanation\": \"There were 3 corrections made. In the 3rd, 6th and 7th BIBL tags, the closing PRICE tag was replaced with the correct PRIZE tag.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 603,
+        "output_tokens": 611,
+        "total_tokens": 1214
+    },
+    "duration": 19.595744848251343,
+    "timestamp": "2025-11-02T20:59:46.130218"
+}

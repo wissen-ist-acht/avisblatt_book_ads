@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>46. In der Schweighauserischen Buchhandlung allhier, ist zu haben, <BIBL><AUTHOR>Quintilians</AUTHOR> <TITLE>P√§dagogik und Didaktit</TITLE>, mit Anmerkungen von <AUTHOR>Andre</AUTHOR>, <FORMAT>8.</FORMAT> <YEAR>1783.</YEAR> <PRIZE>fl.1. kr. 16.</PRIZE></BIBL> <BIBL><AUTHOR>Albini</AUTHOR> <TITLE>Historia museulorum hominis</TITLE>, cum <FORMAT>Vll- figuris</FORMAT>, <TITLE>Editio altera</TITLE>, <FORMAT>4.</FORMAT> <YEAR>1784.</YEAR> <PRIZE>fl. 4. Kr. 30.</PRIZE></BIBL> <BIBL><TITLE>Du Gouvernement des Meeurs</TITLE> <FORMAT>gr. 8.</FORMAT> <YEAR>1784.</YEAR> <PRIZE>fl. 1. Kr. 20.</PRIZE></BIBL> <BIBL><AUTHOR>Hagedorns</AUTHOR> <TITLE>poctische Werke</TITLE>, <VOLUME>5 Theile</VOLUME> mit <FORMAT>Kpf.</FORMAT> <FORMAT>8.</FORMAT> <YEAR>1766.</YEAR> <PRIZE>fl. 4.</PRIZE></BIBL> <BIBL><AUTHOR>Gellerts</AUTHOR> <TITLE>Fabeln</TITLE>, mit saubern <FORMAT>Kupfern</FORMAT>, <FORMAT>8.</FORMAT> <YEAR>1769.</YEAR> <PRIZE>fl.1.</PRIZE></BIBL> <BIBL><TITLE>Adelheid u. Theodor, oder Briefe √ºber die Erziehung</TITLE>, von der <AUTHOR>Frau von Genlis</AUTHOR>, <VOLUME>2 Theile</VOLUME>, <FORMAT>Schreibp. 8.</FORMAT> <YEAR>1783.</YEAR> <PRIZE>fl. 4.</PRIZE></BIBL> <BIBL><TITLE>Die Liebe auf den ersten Anblick, oder Geschichte der Caroline Stanhope</TITLE>, <FORMAT>8.</FORMAT> <YEAR>1781</YEAR> <PRIZE>kr. 40.</PRIZE></BIBL> <BIBL><TITLE>Schw√§bische Blumenlese auf 1784</TITLE>, von <AUTHOR>St√§ndlin</AUTHOR>, <PRIZE>kr. 48.</PRIZE></BIBL> <BIBL><TITLE>Das √∂ffentliche Geheimni√ü, ein Schauspiel</TITLE> von <AUTHOR>Gotter</AUTHOR>, <FORMAT>8.</FORMAT> <YEAR>1782.</YEAR> <PRIZE>kr. 24.</PRIZE></BIBL> <BIBL><TITLE>Die B√ºrgersch√ºle, ein Lustspiel</TITLE>, <FORMAT>8.</FORMAT> <YEAR>1771.</YEAR> <PRIZE>kr. 20.</PRIZE></BIBL></ITEM>\",\n  \"number_of_fixes\": 3,\n  \"explanation\": \"The 'PRIZE' tags were incorrectly spelled as 'PRICE' in three instances. These have been corrected to 'PRIZE'.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 766,
+        "output_tokens": 763,
+        "total_tokens": 1529
+    },
+    "duration": 25.78970503807068,
+    "timestamp": "2025-11-02T20:12:26.866237"
+}

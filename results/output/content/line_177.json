@@ -1,0 +1,5 @@
+{
+    "fixed_xml": "<ITEM>51. <BIBL><AUTHOR>Iselins</AUTHOR> <TITLE>Lexicon</TITLE> mit oder ohne Supple. ment.</BIBL> <BIBL><AUTHOR>Gottfrieds</AUTHOR> <TITLE>Chronick</TITLE> mit Merianischen Kupfern.</BIBL> <BIBL><AUTHOR>R. Thoyras</AUTHOR> <TITLE>Histoire d'Angleterre</TITLE></BIBL> <BIBL><AUTHOR>Herrlibergers</AUTHOR> <TITLE>Ceremonien- Werck</TITLE></BIBL> <BIBL><AUTHOR>Imhofs</AUTHOR> <TITLE>Historien-Saal</TITLE></BIBL> <BIBL><AUTHOR>Brockes</AUTHOR> <TITLE>s√§mmtliche Wercke</TITLE>, nebst andern sch√∂nen B√ºchern mehr, bey Herrn Lucas Mangold Buchbinder zu erfragen.</BIBL></ITEM>",
+    "number_of_fixes": 1,
+    "explanation": "The last <BIBL> tag was missing around the last book entry. This has been fixed to ensure each book entry is correctly encapsulated within <BIBL> tags."
+}

@@ -1,0 +1,13 @@
+{
+    "text": "{\n\"fixed_xml\": \"<ITEM>In Emanuel Thurneysens Buchhandlung allhier sind nebst andern neuen B√ºchern folgende zu haben: <BIBL><AUTHOR>Loschge</AUTHOR> <TITLE>Commentatio anatomica de Sceleto Hominis Symmetrico</TITLE>. <FORMAT>8.</FORMAT> <YEAR>795</YEAR>. <PRIZE>48 Kr.</PRIZE></BIBL> <BIBL><AUTHOR>Hildebrandt</AUTHOR> √ºber die <TITLE>Arzneykunde</TITLE>. <FORMAT>8.</FORMAT> <YEAR>795</YEAR>. <PRIZE>24 kr.</PRIZE></BIBL> <BIBL><AUTHOR>Eulers</AUTHOR> <TITLE>allgemeine Wechsel-Encyelop√§die</TITLE>, <VOLUME>2te</VOLUME> mit Zus√§tzen vermehrte Auflage, von <AUTHOR>Stricker</AUTHOR>. <FORMAT>gr. 8.</FORMAT> <YEAR>795</YEAR>. <PRIZE>fl. 1. 30 kr.</PRIZE></BIBL> <BIBL><TITLE>die Menschheit</TITLE> in besondern Z√ºgen, zur Bef√∂rderung des wahren Menschengl√ºcks aufgesetzt, als Pendant zu <AUTHOR>Salzmanns Carl von Carlsberg</AUTHOR>, √† <VOLUME>Thle.</VOLUME> <FORMAT>8.</FORMAT> <YEAR>795</YEAR>. <PRIZE>fl. 1. 12 kr.</PRIZE></BIBL> <BIBL><AUTHOR>Parmentier</AUTHOR> √ºber die <TITLE>Kultur der Erd√§pfel</TITLE>. <FORMAT>8.</FORMAT> <YEAR>795</YEAR>. <PRIZE>20 kr.</PRIZE></BIBL> <BIBL><TITLE>Reisen nach der nordwestlichen K√ºste von Amerika</TITLE> von den Kapitainen <AUTHOR>Meares, Diron, Portlak und andern</AUTHOR>. <FORMAT>8.</FORMAT> <YEAR>795</YEAR>. <PRIZE>fl. 1. 46 kr.</PRIZE></BIBL> <BIBL><TITLE>das curi√∂se Traumbuch</TITLE> nebst einigen sonderbaren <TITLE>Geister-Erscheinungen</TITLE>. <FORMAT>8.</FORMAT> <YEAR>794</YEAR>. <PRIZE>4 kr.</PRIZE></BIBL> <BIBL><TITLE>La Science des Negociants & Teneurs de livres</TITLE>, par <AUTHOR>de la Porte</AUTHOR>. <FORMAT>gr. 4. oblong.</FORMAT> <VOLUME>A. 2.</VOLUME> <PRIZE></PRIZE></BIBL></ITEM>\",\n\"number_of_fixes\": 1,\n\"explanation\": \"There was a misspelled tag <PRICE> which has been corrected to <PRIZE> in the fourth <BIBL> tag. There was also a missing <PRIZE> tag in the last <BIBL> tag which has been added, but it's left empty because there was no information about the prize in the original xml.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 709,
+        "output_tokens": 752,
+        "total_tokens": 1461
+    },
+    "duration": 26.45159387588501,
+    "timestamp": "2025-11-04T13:46:12.812887"
+}

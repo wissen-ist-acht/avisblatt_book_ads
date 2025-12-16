@@ -1,0 +1,13 @@
+{
+    "text": "{\n\"fixed_xml\": \"<ITEM>In der Schweighauserschen Buchhandlung ist zu haben: <BIBL><AUTHOR>Tiedemanns (D. F.)</AUTHOR> <TITLE>Anatomie und Naturgeschichte der V√∂gel</TITLE>, <VOLUME>1r Bd.</VOLUME> <FORMAT>gr. 8.</FORMAT> <PRIZE>5fl. 42 kr.</PRIZE></BIBL> <BIBL><TITLE>Omar</TITLE> ein <TITLE>Andachtsbuch f√ºr die Jugend auch f√ºr das Alter</TITLE> von <AUTHOR>K. Hahn</AUTHOR>, <VOLUME>1 Kupf.</VOLUME> <VOLUME>2 Bde.</VOLUME> <FORMAT>8.</FORMAT> <PRIZE>1fl. 48 kr.</PRIZE></BIBL> <BIBL><AUTHOR>Beck (J. B. G.)</AUTHOR> <TITLE>nouveaumanuel du voyageur en Europe et dans le nord de l'Asie, avec une grande carte routi√®re de l'Europe</TITLE>, <FORMAT>br. gr. 8.</FORMAT> <PRIZE>6fl.</PRIZE></BIBL> <BIBL><AUTHOR>Kotzebue (A. v.)</AUTHOR> <TITLE>Clios Blumenk√∂rbchen</TITLE>, <FORMAT>br. 8.</FORMAT> <PRIZE>3 fl.</PRIZE></BIBL> <BIBL><AUTHOR>Woltmann (K. L. v.)</AUTHOR> <TITLE>Johann v. M√ºller</TITLE>, <FORMAT>br. 8.</FORMAT> <PRIZE>3fl. 40kr.</PRIZE></BIBL> <BIBL><TITLE>Arabesques mythologiques, ou les attributs de toutes les divinit√©s de la table</TITLE>, par <AUTHOR>Madame de Genlis</AUTHOR>, <FORMAT>8. br.</FORMAT> <PRIZE>2 fl. 40 kr.</PRIZE></BIBL> <BIBL><AUTHOR>Heinsius C.)</AUTHOR> <TITLE>kleine theoretisch-praktische deutsche Sprachlehre</TITLE>, <FORMAT>8.</FORMAT> <PRIZE>1fl.</PRIZE></BIBL> <BIBL><AUTHOR>Kosegarten (L. T.)</AUTHOR> <TITLE>das heil. Nachtmahl</TITLE>, <FORMAT>8.</FORMAT> <PRIZE>30kr.</PRIZE></BIBL> <BIBL><AUTHOR>K√ºntzle und Vetsch</AUTHOR> <TITLE>Bericht an die hochl√∂bliche Regierung des K. St. Gallen √ºber die Landwirthschaftliche Anstalt zu Hoffwil.</TITLE> <VOLUME>18. Heft</VOLUME>, <FORMAT>8.</FORMAT> <PRIZE>40kr.</PRIZE></BIBL> <BIBL><AUTHOR>Herrenschwand</AUTHOR> <TITLE>√ºber die Mittel den √∂ffentlichen Credit in einem Staate herzustellen dessen politische Oekonomie zerst√∂rt worden ist</TITLE> √ºbersetzt von dem <AUTHOR>Obrist Massenbach</AUTHOR>, <FORMAT>8.</FORMAT> <PRIZE>1fl. 30kr.</PRIZE></BIBL> <BIBL><TITLE>Einige Worte √ºber den Geist des Chrisienthums und der Litteratur im Verh√§ltni√ü zu den Tadd√§us M√ºllerschen Schriften</TITLE>, <FORMAT>8.</FORMAT> <PRIZE>1fl.</PRIZE></BIBL> Auch sind wieder von dem <BIBL><TITLE>22. St√ºck des grauen Manns</TITLE> zu haben.</BIBL></ITEM>\",\n\"number_of_fixes\": 1,\n\"explanation\": \"The XML was mostly well-formed, but there was one instance where a closing tag for <PRIZE> was incorrectly written as </PRICE>. This has been corrected to </PRIZE>.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 968,
+        "output_tokens": 971,
+        "total_tokens": 1939
+    },
+    "duration": 25.737849950790405,
+    "timestamp": "2025-11-05T10:27:01.805788"
+}

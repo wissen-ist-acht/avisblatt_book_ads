@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>In der Schweighauserischen Buchhandlung ist zu haben: <BIBL><TITLE>ltineraire du Pays-de- Vaud, du Gouvernement d'Aigle & du Comt√© de Neuchatel & Vallengin</TITLE>, <FORMAT>8.</FORMAT> <YEAR>794.</YEAR> avec la Carte <PRIZE>48 xr.</PRIZE> sans la Carte <PRIZE>36. xr.</PRIZE></BIBL> <BIBL><TITLE>Betrachtung √ºber den jetzigen Krieg und die Ursachen seiner falschen Beurtheilung</TITLE>, von einem Schweizer, <FORMAT>8.</FORMAT> <YEAR>794.</YEAR> <PRIZE>36 kr.</PRIZE></BIBL> <BIBL><TITLE>Historisches Taschenbuch der Wahl und Kr√∂nung der Kaiser</TITLE>, mit vielen Portraits, <FORMAT>8.</FORMAT> <YEAR>792.</YEAR> gebunden <PRIZE>fl. 1. 12 kr.</PRIZE></BIBL> <BIBL><AUTHOR>Michaelis Denissii</AUTHOR> <TITLE>Carmina</TITLE>, <FORMAT>4.</FORMAT> <PLACE>Vindobonz.</PLACE> <YEAR>794.</YEAR> <PRIZE>fl. 3. 36xr.</PRIZE></BIBL> <BIBL><AUTHOR>Lery</AUTHOR> <TITLE>Reise in Brasilien</TITLE>, mit Anmerkungen und Erl√§uterungen, <FORMAT>gr. 8</FORMAT> <YEAR>794.</YEAR> <PRIZE>fl. 2. 8 kr.</PRIZE></BIBL> <BIBL><AUTHOR>Sch√§ffers</AUTHOR> <TITLE>Briefe auf einer Reise durch Frankreich, England, Holland und Italien</TITLE>, <VOLUME>2 Bde.</VOLUME> <FORMAT>8.</FORMAT> <YEAR>794.</YEAR> <PRIZE>fl. 3. 36 kr.</PRIZE></BIBL> <BIBL><TITLE>Taschenbuch f√ºr Jagd- und Forstliebhaber f√ºr 1794</TITLE>, mit illum. Kpf. geb. <PRIZE>fl. 1. 12 kr.</PRIZE></BIBL> <BIBL><TITLE>Arndtisch und Riemisches Acker-System oder Feldbestellung zu eintr√§glicherm Ackerhau</TITLE>, und <VOLUME>3 Kpf.</VOLUME> <FORMAT>8.</FORMAT> <YEAR>794.</YEAR> <PRIZE>fl. 1. 12 kr.</PRIZE></BIBL></ITEM>\",\n  \"number_of_fixes\": 3,\n  \"explanation\": \"Three <PRICE> tags were incorrect and have been changed to <PRIZE> to match the rest of the document.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 671,
+        "output_tokens": 667,
+        "total_tokens": 1338
+    },
+    "duration": 22.30034112930298,
+    "timestamp": "2025-11-04T13:36:18.107740"
+}

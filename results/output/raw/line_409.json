@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>Bey Hrn. C. A. Serini, Buchh√§ndler allhier, ist zu haben: <BIBL><TITLE>Memoire gui a remporte le prix au jugement de la Societe ceconomique de Berne sur une question proposes par ordre du Souverain concernant Petablissement d√ºne caisse dassuran ce contre les incendies dans le Canton de Berne</TITLE>, par <AUTHOR>Mr. J. A. Bruckner</AUTHOR>, gr. <PRIZE>8.</PRIZE> <FORMAT>789.</FORMAT> <PRIZE>45 xr.</PRIZE></BIBL> <BIBL><TITLE>Orateur des Etats gen√©raux</TITLE>, <VOLUME>2de Partie</VOLUME>, <YEAR>789.</YEAR> br. <PRIZE>32 xr.</PRIZE></BIBL> Die neue Einrichtung, so der Verleger von der beliebten Zeitung des Kehler Hinkendenbotes veranstaltet hat, und wovon anstatt ; anjetzo 6 Bl√§tter herauskommen, und welche auf nachfolgende Art bey mir zu haben sind; nemlich Montags ; St√ºcke, Dienstags1 und Donnerstags 2. Der ganze Jahrgang kostet <PRIZE>fl. 5. 20 kr.</PRIZE> franco allhier, und wird voraus bezahlt. Meine gehabten Ahonnenten werden h√∂flichst ersucht, sich zu erkl√§ren, ob sie solche per 1790 fortsetzen wollen, damit man sich wegen der Bestellung darnach richten kann. Ein Prospectus avon, wird gratis ausgegeben , gleichwie auch von der Fortietzung: <BIBL><TITLE>Ma Correspondance, die ins k√ºnftige unter dem Titel: Courrier politique & litteraire de deux Nations</TITLE>, wovon wochentlich ebenfalls 6 Stucke herauskommen, j√§hrlich <PRIZE>fl. 12.</PRIZE></BIBL></ITEM>\",\n  \"number_of_fixes\": 1,\n  \"explanation\": \"The xml tag <PRICE> was not closed properly. It is corrected to <PRIZE>.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 536,
+        "output_tokens": 524,
+        "total_tokens": 1060
+    },
+    "duration": 12.707006216049194,
+    "timestamp": "2025-11-02T20:49:12.950351"
+}

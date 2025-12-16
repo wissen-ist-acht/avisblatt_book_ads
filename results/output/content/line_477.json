@@ -1,0 +1,5 @@
+{
+    "fixed_xml": "<ITEM>25. Unter dem Titel <BIBL><TITLE>Unterhaltungen aus der Naturgeschichte</TITLE></BIBL> wird mit Anfang k√ºnftigen Jahres wochentlich ein halber Bogen Textb mit einem flei√üig ausgemalten Kupfer, auf dem immer zwey verwandte Thiere vorgestellt seyn werden, zu <PLACE>Augspurg</PLACE> in einer bekannten K√ºnsthandlung herauskommen. Textb und Vorstellung werden sich immerl an die vorzuglichsten Lehrer der Naturgeschichte halten, und aus den bew√§hrtesten Quellen gesch√∂pft sehn. Um solches um den m√∂glichst niedrigsten Preis liefern zu k√∂nnen, und recht allgemein brauchbar zu machen, schl√§gt man den Weg der Subscription ein. Der Preis jeder wochentlichen Lieferung soll frey hier geliefert <PRICE>6 kr.</PRICE> betragen Subscription; nimmt hier an Hrn. Daniel Haag sel. Wittib, wo der ausf√ºhrliche Plan einzusehen ist.</ITEM>",
+    "number_of_fixes": 1,
+    "explanation": "The tag <PRIZE> was misspelled and has been corrected to <PRICE>."
+}

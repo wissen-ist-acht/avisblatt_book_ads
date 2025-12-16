@@ -1,0 +1,13 @@
+{
+    "text": "{\n\"fixed_xml\": \"<ITEM>42. Bey Hr. Bolli, Buchbinder, sind nebst andern Sorten Sack-Calender, wiederum zu haben : <BIBL><TITLE>Compendieuses Sack- und Futral-Calenderlein</TITLE>, samt einer poetischen Bl√ºmenlose auf das Jahr <YEAR>1781</YEAR>, mit sehr fein gemahlten und ohngemahlten geistlichund weltlichen K√ºpfergen-</BIBL> <BIBL><TITLE>Helvetischer Calender</TITLE> auf das Jahr <YEAR>1731</YEAR>, mit <FORMAT>Kupf.</FORMAT> in verschiedenen B√§nden und Preisen.</BIBL> - <BIBL><TITLE>Frauenzimmer Hand- und Taschencalender</TITLE> auf das Jahr <YEAR>1781</YEAR>, mit <FORMAT>Kupf.</FORMAT></BIBL>- <BIBL><TITLE>Historisches Calenderlein</TITLE> mit und ohne <FORMAT>Kupf.</FORMAT></BIBL> <BIBL><TITLE>Gothaische Calend</TITLE>, deutsch oder franz. <PRIZE>fl. 1.</PRIZE> <TITLE>Pr.</TITLE> <PRIZE>20</PRIZE> <TITLE>Etrennes mignones, curieuses & utiles, pour Vannet 178i</TITLE></BIBL>, wie auch von den commoden Sack-Calendern, wo zwischen jeden Tag kan geschrieben werden -<BIBL><AUTHOR>Feddersen</AUTHOR> <TITLE>Leben und Ende gutgesinnter Menschen</TITLE>, <VOLUME>3ter Theil</VOLUME>, <PRIZE>kr. 36.</PRIZE></BIBL> F√ºr Liebhaber ssind noch alle ; <VOLUME>Theile</VOLUME> √† <PRIZE>fl. 1. kr. 48.</PRIZE> zu haben. - <BIBL><AUTHOR>Poungs</AUTHOR> <TITLE>Klagen oder Nachtgedanken √ºber Leben, Tod und Unsterblichkeit</TITLE>, <VOLUME>3ter und letzter Band</VOLUME>, <PRIZE>kr. 30.</PRIZE></BIBL> wie auch alle <VOLUME>3 Theile</VOLUME> √† <PRIZE>fl. 1. kr. 30.</PRIZE> <BIBL><AUTHOR>Gleims</AUTHOR> <TITLE>s√§mtliche Schriften</TITLE>, <VOLUME>6 Theile</VOLUME>, <PRIZE>kr. 52.</PRIZE></BIBL> <BIBL><AUTHOR>Silbermanns</AUTHOR> <TITLE>Local-Geschichte der Stadt Stra√üburg</TITLE>, <FORMAT>fol.</FORMAT> mit viel. <FORMAT>Kupf.</FORMAT> <PRICE>fl. 5. kr. 20.</PRICE></BIBL> <BIBL><AUTHOR>Starkens</AUTHOR> <TITLE>Synopsis oder Auslegungen √ºber alle B√ºcher des Alt- und Neuen Testaments</TITLE>, <VOLUME>s Theile</VOLUME>, sauber geb <PRICE>fl. 16.</PRICE></BIBL></ITEM>\",\n\"number_of_fixes\": 1,\n\"explanation\": \"One PRIZE tag at the end was not closed properly, it should have been PRICE. This was the only fix required.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 799,
+        "output_tokens": 787,
+        "total_tokens": 1586
+    },
+    "duration": 19.041656017303467,
+    "timestamp": "2025-11-02T09:58:44.644327"
+}

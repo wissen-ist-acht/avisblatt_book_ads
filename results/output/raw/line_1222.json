@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>Kunst-Anzeige. 1. Birmann und S√∂hne nehmen Subacription an auf; <BIBL><TITLE>Die Buste von Hnn. Pesrato</TITLE> in gro√üen Gipsabg√ºssen, deren Orig. von Bildhauer Bodenm√ºller s. getreu nach der Natur ausgef√ºhrt wurde <PRIZE>8 Fr.</PRIZE> pr. Expl. Folgende Novit√§ten sind bey uns 3. Einsicht angelangt: </BIBL><BIBL><TITLE>Portrait von Hebel u. eines Bauern M√§dchens</TITLE>, lithogr. von <AUTHOR>Hurter</AUTHOR>, √† <PRIZE>Fr. 3.</PRIZE></BIBL> <BIBL><TITLE>Der Dom in Antverpen</TITLE>, gr fol. lith. <PRICE>82 Btz.</PRICE></BIBL> <BIBL><TITLE>Ansicht von Baden</TITLE>, gr. fol. lith. v. <AUTHOR>Scheuchzer</AUTHOR>. <PRIZE>Fr. 6.</PRIZE></BIBL> <BIBL><TITLE>Plan des alten Schlosses zu Baden</TITLE>. <PRIZE>Fr. 3.</PRIZE></BIBL> <BIBL><TITLE>Merkw√ºrdigkeiten von Carlsruh</TITLE>, auf einem Blatt. <PRICE>Fr. 2.</PRICE></BIBL> <BIBL><TITLE>Bujets de chasse</TITLE>, lithogr. von <AUTHOR>Adam</AUTHOR>, 2te Lieferung, gr. fol. <PRIZE>Fr. 5. 6 Btz</PRIZE> fd. id. color. pr. Blt. <PRICE>Fr. 3. 5 Btz</PRICE></BIBL> <BIBL><TITLE>Malerische Reise in Brasilien</TITLE>, von <AUTHOR>Rugen</AUTHOR>. <PRIZE>Fr. 4. 2 Btz.</PRIZE> das. 9te Lieferung.</BIBL> <BIBL><TITLE>Cath√©drales francaises</TITLE> 12te bis 19te Lieferung, pr. Cafner <PRICE>Fr. 4. 2 Btz.</PRICE></BIBL> <BIBL><TITLE>F√ºnf Supplementlafeln zum Atlas von Le Sage</TITLE>, pr. Blt. <PRIZE>Fr. 1. 5 Btz.</PRICE></BIBL> Complete Exemplare dieses Werks melusive obiger 5 Supplementtafeln, k√∂nnen nun zu <PRIZE>Fr. 45</PRIZE> abgegeben werden. <BIBL>Zwey neue Tafeln, <TITLE>Griecnenland & T√ºrkey</TITLE>, die wegen den politischen Verh√§ltnissen noch nicht vollendet wurden werden nach geliefert. Praenum. darauf pr. Bl. <PRICE>15 Btz</PRICE></BIBL></ITEM>\",\n  \"number_of_fixes\": 1,\n  \"explanation\": \"There was one error in the XML. The closing '</TITLE>' tag was misplaced after 'Bodenm√ºller s. getreu nach der Natur ausgef√ºhrt wurde' and it was moved to the right place after 'Hnn. Pesrato'.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 769,
+        "output_tokens": 798,
+        "total_tokens": 1567
+    },
+    "duration": 43.008211851119995,
+    "timestamp": "2025-11-05T15:44:12.134079"
+}

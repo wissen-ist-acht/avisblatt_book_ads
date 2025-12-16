@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>35. In der Deckerischen Buchhandlung allhier, ist zu haben: <BIBL><TITLE>Anekdoten und Denkw√ºrdigkeiten der morgenl√§ndischen Litteratur und historische Gem√§hlde</TITLE>, aus dem Franz√∂s. <FORMAT>8o</FORMAT> <YEAR>1788</YEAR>. <PRIZE>16kr.</PRIZE></BIBL> <BIBL><TITLE>Ausstellungen</TITLE>, von <AUTHOR>J. F. Schink</AUTHOR>, <FORMAT>8.</FORMAT> <YEAR>1788</YEAR>. <PRIZE>fl. 1. 40 kr.</PRIZE></BIBL> <BIBL><TITLE>Ernst von Thalburg</TITLE>, <VOLUME>2 Theile</VOLUME>, <FORMAT>8.</FORMAT> <YEAR>1788</YEAR>. <PRIZE>fl. 2. 8 kr.</PRIZE></BIBL> <BIBL><TITLE>Hieronymus Flappert, oder Geschichte eines f√ºnfmal verheyrathet gewesenen Ehemanns</TITLE>, aus seinem Tagebuch gezogen, <FORMAT>8.</FORMAT> <YEAR>1788</YEAR>. <PRIZE>40 kr.</PRIZE></BIBL> <BIBL><TITLE>Geschichte des Krieges zwischen Ru√üland und der Pforte</TITLE>, von <YEAR>1768</YEAR> bis <YEAR>1774</YEAR>. <FORMAT>8.</FORMAT> <YEAR>1788</YEAR>. <PRIZE>fl. 1. 4 kr.</PRIZE></BIBL> <BIBL><AUTHOR>G√∂thes</AUTHOR> <TITLE>Schriften</TITLE>, <VOLUME>5ter Band</VOLUME>, mit Kupf. <FORMAT>8.</FORMAT> <YEAR>1788</YEAR>. <PRIZE>fl. 1. 48 kr.</PRIZE></BIBL> <BIBL><AUTHOR>Friedrich Leopold, Graf zu Stollberg</AUTHOR>, <TITLE>Die Insel</TITLE>, gr. <FORMAT>8e</FORMAT> <YEAR>1788</YEAR>. <PRIZE>fl. 1. 30 kr.</PRIZE></BIBL> <BIBL><AUTHOR>S. L. E. de Mar√™es</AUTHOR>, <TITLE>Briefe √ºber die neuen W√§chter der protestantischen Kirche</TITLE>, <VOLUME>i und 2tes Heft</VOLUME>, gr. <FORMAT>8.</FORMAT> <YEAR>1787</YEAR>. <PRIZE>fl. 1. 12 kr.</PRIZE></BIBL> <BIBL><AUTHOR>S. L. E. de Mar√™es</AUTHOR>, <TITLE>Desselben Gottes vertheidigung √ºber die Zulassung des B√∂sen auf unserer Erde</TITLE>, <VOLUME>1ter Theil</VOLUME>, gro√ü <FORMAT>8.</FORMAT> <YEAR>1784</YEAR>. <PRIZE>fl. 1. 48 kr.</PRIZE></BIBL></ITEM>\",\n  \"number_of_fixes\": 3,\n  \"explanation\": \"The XML tag <PRICE> was incorrectly used instead of <PRIZE> in three instances. These have been corrected to <PRIZE>.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 787,
+        "output_tokens": 788,
+        "total_tokens": 1575
+    },
+    "duration": 21.204379320144653,
+    "timestamp": "2025-11-02T20:34:42.257219"
+}

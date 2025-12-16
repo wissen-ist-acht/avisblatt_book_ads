@@ -1,0 +1,5 @@
+{
+    "fixed_xml": "<ITEM>28. In der Schweighauser'schen Buchhandlung ist zu haben: <BIBL><TITLE>M√ºlheimer Lesebuch</TITLE>, geb., <PRICE>1 Fr. 2 Btz.</PRICE></BIBL> <BIBL><TITLE>Franz√∂sisches Lesebuch zum Gebrauch der Schulen</TITLE>, geb. <PRICE>5 Btz.</PRICE></BIBL> <BIBL><TITLE>Frankfurter Handl. und Adres-Calender f√ºr 1815</TITLE>, <PRICE>7 1/2 Btz.</PRICE></BIBL> <BIBL><TITLE>Peter der Gro√üe</TITLE> (von <AUTHOR>Pflaum</AUTHOR>) eine <TITLE>Lebensbeschreibung</TITLE>, f√ºr J√ºnglinge, <PRICE>1rThl. 1fr. 3btz.</PRICE></BIBL> <BIBL><TITLE>Carl der Gro√üe</TITLE>, von obigem eine <TITLE>Lebensbeschreibung f√ºr J√ºnglinge und angenehmes Leser buch</TITLE>, <VOLUME>2ter Theil</VOLUME>, <PRICE>1 Fr. 4 Btz.</PRICE></BIBL> <BIBL><TITLE>Das deutsche Feyerkleid, zur Erinnerung des Einzugs der Deutschen in Paris am 31. Merz 1814</TITLE> eingef√ºhrt von deutschen Frauen mit <FORMAT>2 sch√∂n illum Kupfern und Beschreibung brosch.</FORMAT>, <PRICE>Preis 1 Fr.</PRICE></BIBL></ITEM>",
+    "number_of_fixes": 3,
+    "explanation": "The XML tag <PRIZE> was incorrectly used in place of the correct <PRICE> tag in three instances. These instances have been corrected."
+}

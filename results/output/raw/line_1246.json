@@ -1,0 +1,13 @@
+{
+    "text": "{\n\"fixed_xml\": \"<ITEM><BIBL><TITLE>13. Neue Schriften.</TITLE><TITLE>Pantheon</TITLE>, <VOLUME>11r u 12r Bd.</VOLUME> Enthaltend: <TITLE>Das Ideal</TITLE>. Nach <AUTHOR>G. Fiorentino</AUTHOR>. <TITLE>Der junge Maler</TITLE>. Von <AUTHOR>C. Vichler</AUTHOR>. <TITLE>Die R√§uberschenke</TITLE>. Nach <AUTHOR>T. Hood</AUTHOR>. <TITLE>Der todte Gast</TITLE>. Erz√§hlung v. <AUTHOR>Zschokke</AUTHOR>. <TITLE>Die Amazonen-K√∂nigin</TITLE>. Von <AUTHOR>Ebert</AUTHOR>. pr. Band, br. √† <PRIZE>30kr.</PRIZE> Mit Ausw. √† <PRIZE>48 kr.</PRIZE></BIBL> <BIBL><AUTHOR>Hauffs</AUTHOR> s√§mtl. Werke, <VOLUME>1r Bd.</VOLUME> <PRICE><PRIZE>12 kr.</PRIZE></PRICE></BIBL> <BIBL><TITLE>Erheiterungen f√ºr 1830</TITLE> <VOLUME>3tes Heft.</VOLUME> <PRIZE>Wintergarten, 5r u. 6r. Bd. 15 kr.</PRIZE></BIBL> <BIBL><TITLE>Unsere Zeit</TITLE>, <VOLUME>106tes Heft.</VOLUME> NB. Auf den 2 ersten Bl. dieses Hefts finden sich Prospektus von 4 √§u√üerst interessanten Werken. Mit dem 120stem Heft wird dieses Werk geschlossen, gibt also nur noch 14 Hefte.</BIBL> <BIBL><TITLE>Museum der Geschichte, Natur u. Kunst</TITLE>, <VOLUME>1stes bis 8tes Blatt,</VOLUME> jedes mit einem Kupfer in gr. 4.</BIBL> <BIBL><TITLE>Nationalbibliothek der Deutschen</TITLE>. Auswahl des Sch√∂nsten u. Gediegensten aus Deuschl. Dichtern u. Prosaisten. Herausgeg. von <AUTHOR>Hofr. Dr. Gebauer</AUTHOR>, <VOLUME>1ster Band,</VOLUME> gr. 8. br. <PRIZE>27 kr.</PRIZE></BIBL> <BIBL><TITLE>Geogr. stat. Comtoir- und Zeitungs- Lexikon</TITLE>, gr. med. 8. eleg. br. <PRIZE>4 fl.</PRIZE></BIBL> <BIBL><AUTHOR>Gertels</AUTHOR> grammatisches W√∂rterbuch in <VOLUME>4 Abtheilungen,</VOLUME> gr. 8. <PRICE><PRIZE>8 fl.</PRIZE></PRICE></BIBL> <BIBL><AUTHOR>Chelius</AUTHOR> Handbuch der Chirurgie, in <VOLUME>4 Abtheilungen,</VOLUME> gr. 8. <PRICE><PRIZE>4 fl. 40 kr.</PRICE></PRICE></BIBL> Alle diese Werke Íùõc. sind zur Einsicht zu haben in der Holdenecker'schen Leihbibliothek.</ITEM>\",\n\"number_of_fixes\": \"1\",\n\"explanation\": \"The opening tag for the first title in the XML was missing. I added a <TITLE> tag before '13. Neue Schriften.' to fix the XML.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 827,
+        "output_tokens": 828,
+        "total_tokens": 1655
+    },
+    "duration": 29.462213039398193,
+    "timestamp": "2025-11-05T15:56:07.516112"
+}

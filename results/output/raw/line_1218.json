@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>26. Taschenb√ºcher f√ºr das J. 1830. <BIBL><TITLE>Alpenrosen</TITLE>, mit Kupf. u. Musik. <PRIZE>5 Fr.</PRIZE></BIBL> <BIBL><TITLE>Cornelia</TITLE>. Von <AUTHOR>A Schreiber</AUTHOR>. <PRIZE>6 Fr.</PRIZE></BIBL> <BIBL><TITLE>Selitha</TITLE>. F√ºr religi√∂s-gebildete Frauen und T√∂chter, mit Kupf. <PRIZE>4 1/2 Fr.</PRIZE></BIBL> <BIBL><TITLE>Taschenbuch der Liebe und Freundschaft gewidmet</TITLE>, mit Kupf. u. Vign. <PRIZE>4 Fr.</PRIZE></BIBL> <BIBL><TITLE>Vergi√ümeinnicht</TITLE>. Von <AUTHOR>C. Spindler</AUTHOR>, mit 7 Stahlplatten. <PRIZE>6 Fr. 7 1/2 Btz.</PRIZE></BIBL> <BIBL><TITLE>Taschenkalender</TITLE>, mit schw. u. illum. Kpfr. in ord. Einb. u. in Saf. <PRIZE>von 5 bis 15 Btz</PRIZE></BIBL> <BIBL><TITLE>Taschen-Schreibkalender</TITLE>, <PRIZE>v. 2 bis 6 Btz.</PRIZE></BIBL> <BIBL><TITLE>Octan-Schreibkalender</TITLE>, in welche zwischen jeden Tag geschrieben werden kann. <PRIZE>von 6 bis 20 Btz.</PRIZE></BIBL> <BIBL><TITLE>Historische Hauskalender</TITLE>, aller Sorten.</BIBL> <BIBL><TITLE>Contor-Kalender</TITLE>, zu <PRIZE>6, 8 und 10 kr.</PRIZE></BIBL> <BIBL><TITLE>A BC- und Leseb√ºcher</TITLE>, in deutscher und franz. Sprache, mit schw. u. illum. Kpfr. <PRIZE>von 3 Btz. bis zu 8 Fr.</PRIZE></BIBL> <BIBL><TITLE>Die Erdrugel</TITLE>, auf eine neue Art zweck m√§√üig einger. in einem Kistchen. <PRIZE>4 Fr</PRIZE></BIBL> <BIBL><TITLE>Gallerie authentischer Portraits der merkw√ºrdigsten u. interessantesten M√§nner n Frauen der Tagesgeschichte.</TITLE> 1stes Heft mit 4 Portr. in gr. fol. in Umschl. <PRIZE>5 Btz.</PRIZE></BIBL> <BIBL><TITLE>Napol√©on en Egypte</TITLE>, par <AUTHOR>Barth√©lemy et M√©ry rel.</AUTHOR> <PRIZE>15 Btz.</PRIZE></BIBL> <BIBL><TITLE>Die 5 franz√∂sischen Gesetzb√ºcher in deutscher Sprache.</TITLE>gr. 8. <YEAR>1829</YEAR>. br. <PRIZE>5 Fr.</PRIZE></BIBL> Verzeichnisse von div. neuen interessanten Schriften Íùõc. welche sich ferner zu Neujahrs-Geschenken Íùõc. eignen, sind zu haben in der Holdenecker'schen Leihbibliothek zun√§chst dem Kornhause.</ITEM>\",\n  \"number_of_fixes\": 0,\n  \"explanation\": \"The XML structure is already correct. No fixes were needed.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 902,
+        "output_tokens": 891,
+        "total_tokens": 1793
+    },
+    "duration": 36.18541598320007,
+    "timestamp": "2025-11-05T15:41:28.441643"
+}

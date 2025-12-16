@@ -1,0 +1,5 @@
+{
+    "fixed_xml": "<ITEM>13. <BIBL><TITLE>Eine T√ºbingische Bibel</TITLE> mit <AUTHOR>Herrn Cantzler Pfaffen</AUTHOR> Anmerckungen und Auslegungen uc. <FORMAT>gro√ü Folio</FORMAT>, vol gebunden.</BIBL></ITEM>",
+    "number_of_fixes": 1,
+    "explanation": "The 'TITLE' tag was missing its opening tag. This was the only fix needed."
+}

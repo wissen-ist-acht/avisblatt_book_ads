@@ -1,0 +1,5 @@
+{
+    "fixed_xml": "<ITEM>2. <BIBL><TITLE>Schafh√§userische Jahrb√ºcher von 1519 bis 1529</TITLE> von <AUTHOR>Melchior Kirchhofer, Pfr. zu Stein am Rhein</AUTHOR>, <FORMAT>8.</FORMAT> <PLACE>Schafhausen</PLACE> <YEAR>1819</YEAR>, <PRICE>Preis 18 Btz.</PRICE></BIBL> bey Felix Schneider, Buchdrucker am M√ºnsterplatz.</ITEM>",
+    "number_of_fixes": 1,
+    "explanation": "The tag <PRIZE> was incorrect. It has been corrected to <PRICE>."
+}

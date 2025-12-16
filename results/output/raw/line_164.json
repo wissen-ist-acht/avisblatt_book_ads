@@ -1,0 +1,13 @@
+{
+    "text": "{\n\"fixed_xml\": \"<ITEM>47. Bey Herrn Buchbinder Scholer auf der Rheinbruck ist zu haben: <BIBL><AUTHOR>Lavaters</AUTHOR> <TITLE>6. Predigten √ºber Apost. Gesch. Cap. 10. v. 43.</TITLE> mit einer Zugabe der Predigt, in Chur und St. Gallen vor kurzem gehalten √ºber <TITLE>Math. 11. v. 28.</TITLE> zusammen gedruckt, ungebunden, anstatt ehmals 6, dato √† <PRIZE>2. Batzen</PRIZE>, und gebunden <PRIZE>3. Batzen</PRIZE>.</BIBL> <BIBL><AUTHOR>Scrivers</AUTHOR> <TITLE>Seelenschaz</TITLE>, <VOLUME>2. Theile</VOLUME> sauber gebunden, √† <PRIZE>fl. 6.</PRIZE></BIBL> <BIBL><TITLE>Eine Landkarten samt Beschreibung aller im N. Testam. gedachter Oerter</TITLE> √† <PRIZE>3. Btzn.</PRIZE></BIBL></ITEM>\",\n\"number_of_fixes\": 1,\n\"explanation\": \"The third <BIBL> tag's <TITLE> was missing an opening bracket. It was added to fix the XML.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 323,
+        "output_tokens": 316,
+        "total_tokens": 639
+    },
+    "duration": 7.692018985748291,
+    "timestamp": "2025-11-02T09:40:44.530506"
+}

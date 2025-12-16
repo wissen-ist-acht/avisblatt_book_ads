@@ -1,0 +1,5 @@
+{
+    "fixed_xml": "<ITEM>(653.) Sehr interessante Neuigkeit. Bei G. G. Lange in Darmstadt ist so eben erschienen und in Bahnmaiers Buchhandlung (C. Detloff) zu haben: <BIBL><AUTHOR>Mallets</AUTHOR> <TITLE>Bericht √ºber die atmosph√§rische Eisenbahn von Dublin nach Dalkey in Irland.</TITLE> Ausgef√ºhrt und in Betrieb gesetzt von den Herren <AUTHOR>Clegg</AUTHOR> und <AUTHOR>Samuda</AUTHOR>. Mit einer Ansicht dieser atmosph√§rischen Eisenbahn in Stahlstich in <FORMAT>gr. Folio</FORMAT> geh. in Umschlag. <PRICE>7 1/2 Btz.</PRICE> Der vorliegende Bericht nebst Stahlstich giebt ein klares und vollst√§ndiges Bild von dieser h√∂chst merkw√ºrdigen Eisenbahn und wird daher jedem wi√übegierigen Leser eine willkommene Erscheinung seyn.</BIBL></ITEM>",
+    "number_of_fixes": 1,
+    "explanation": "The tag <PRIZE> was incorrectly spelled and has been corrected to <PRICE>."
+}

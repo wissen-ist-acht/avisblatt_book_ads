@@ -1,0 +1,5 @@
+{
+    "fixed_xml": "<ITEM>33. Bey Hrn. C. A. Serini, Buchh√§ndler allhier, ist zu haben: <BIBL><TITLE>Geschenk f√ºr die Jugend, auf das Jahr 1784</TITLE>, <PRICE>128 kr.</PRICE></BIBL> 40. Et il donne gratis un <BIBL><TITLE>Prospectus d'une Portefeuille historique, ou Recueil de Pi√®ces rares & int√©ressantes, & de Particularit√©s peu connues, concernant la Politique, l'Histoire ec.</TITLE></BIBL> il en paroitra un Cahier chaque semaine de 2 feuilles, ge, 12 Nros. composeront un Volume, lequel sera orn√© d'un portrait d'une Personne distingu√©e, les Nros.1, 2 & 3 paroissent, le No. 2. √†√† t√®te le portrait du brave G√©n√©ral Elliot; le prix de Souscription pour toute l'ann√©e, est de <PRICE>18 Livres de France</PRICE>, y compris le port franc√∂ Bale, & qui se payent d'avance.</ITEM>",
+    "number_of_fixes": 2,
+    "explanation": "The XML tags for price were incorrectly written as <PRIZE> instead of <PRICE>. Two instances of this error were found and fixed."
+}

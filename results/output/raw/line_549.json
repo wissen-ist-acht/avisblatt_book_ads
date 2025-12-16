@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>14. Bey Hrn. J. Jakob Flick, Buchh√§ndler auf dem Fischmarkt, ist zu haben: <BIBL><AUTHOR>Hrn. Pfarrer Gryn√§us</AUTHOR> <TITLE>Communionbuch frommer Christen, die sich des heil. Abendmahls bedienen wollen, zur stillen Unterhaltung gewiedmet, nebst angef√ºgter Andachtsubung f√ºr junge Christen, die das erstemal zum heil. Abendmahl gehen wollen</TITLE>, <FORMAT>8.</FORMAT> <YEAR>790.</YEAR> in Leder gebunden <PRICE>30 kr.</PRICE></BIBL> <BIBL><TITLE>Josephe in Frankfurt und Main; w√§hrend der franz√∂sischen Invasion, ein komischer Roman</TITLE>, <FORMAT>8.</FORMAT> <YEAR>794.</YEAR> <PRICE>fl. 1. 12 kr.</PRICE></BIBL> <BIBL><AUTHOR>Archenholz</AUTHOR> <TITLE>Annalen der brittischen Geschichte des Jahrs 1792</TITLE>, <VOLUME>8ter Bd.</VOLUME> <FORMAT>8.</FORMAT> <YEAR>764.</YEAR> <PRICE>42 kr.</PRICE></BIBL> <BIBL><TITLE>Mathilde von Altenstein, oder die B√§renh√∂le, ein Ritter-Schauspiel</TITLE>, <YEAR>794.</YEAR> <PRICE>30 kr.</PRICE></BIBL> <BIBL><TITLE>Recueil des phrases sentences & proverbes francais les plus choilis & u√üites</TITLE>, <FORMAT>8.</FORMAT> <YEAR>794.</YEAR> <PRICE>20 xr.</PRICE></BIBL> <BIBL><TITLE>Druckst√ºcke aus dem 15ten Jahrhundert in der Kloster-Bibliothek zu Beuerburg, herausgegeben von Hupfauerg</TITLE> mit Holzschnitten, <FORMAT>8.</FORMAT> <YEAR>794.</YEAR> <PRICE>fl. 2.</PRICE></BIBL></ITEM>\",\n  \"number_of_fixes\": 5,\n  \"explanation\": \"The tag <PRIZE> was used instead of <PRICE> in 5 places. The tag <PRICE> is the correct one to use in this context.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 565,
+        "output_tokens": 558,
+        "total_tokens": 1123
+    },
+    "duration": 17.84378981590271,
+    "timestamp": "2025-11-04T13:35:55.803836"
+}

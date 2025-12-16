@@ -1,0 +1,5 @@
+{
+    "fixed_xml": "<ITEM>41. Bey Hrn. Buchbinder Scholer auf der Rheinbruck, sind zu haben: <BIBL><AUTHOR>Bartholo. maei Casteli</AUTHOR> <TITLE>Lexicon medicum, graeco-lat.</TITLE> Editio nova in med. <FORMAT>Quarto.</FORMAT> <PLACE>Geneva</PLACE> <YEAR>1746.</YEAR></BIBL> <BIBL><AUTHOR>Suiceri</AUTHOR> <TITLE>Lesicon, graeco-latinum & latinum-graecum</TITLE><FORMAT>4t√≤.</FORMAT></BIBL> <BIBL><AUTHOR>Wursteisens</AUTHOR> <TITLE>Basler-Chronick</TITLE></BIBL>; alle wol-conditioniert und in billigem Preis. 42. Bey Emanuel Th√ºrneysen an der Freyenstra√ü, seynd noch einige Pieces von alten ohnverf√§lschten Burgunderweinen zu 51, und eine Feuillette zu 3 Neuen Louisd'ors zu haben.</ITEM>",
+    "number_of_fixes": "1",
+    "explanation": "The comma after the TITLE tag in the second BIBL tag was misplaced. It should be placed inside the closing TITLE tag. The rest of the XML structure seems fine."
+}

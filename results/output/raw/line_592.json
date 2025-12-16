@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>23. In Emanuel Thurneysens Buchhandlung allhier ist zu haben: <BIBL><TITLE>Revolutions,Almanach auf das Jahr 1797</TITLE>, mit saubern Kpf. <FORMAT>8.</FORMAT> br. <PRIZE>fl. 2. 40 kr.</PRIZE></BIBL> <BIBL><TITLE>G√∂ttinger Taschen- Kalender f√ºr 1797</TITLE>, mit Kpf. gebunden in Futeral, <PRIZE>fl. 1. 24 kr.</PRIZE></BIBL> <BIBL><TITLE>G√∂ttinger Musen- Allmanach f√ºr 1797</TITLE>, mit Kpf. <PRIZE>fl. 1. 30 kr.</PRIZE></BIBL> <BIBL><TITLE>Unterricht √ºber die Pflanzung der Wasserweiden, Errichtung der Weidenz√§une und Verd√§mmung eines aus seinem Bett zu treten drohenden Baches</TITLE>, mit 1 Kpf. <FORMAT>gr. 8.</FORMAT> <YEAR>1796</YEAR>. <PRIZE>16 kr.</PRIZE></BIBL> <BIBL><TITLE>K√∂nigl. Gro√übritanischer historischer Kalender f√ºr 1797</TITLE>. mit Kpf. von Schubart und Schule, sauber geb. in Futeral, <PRIZE>fl. 1. 20 kr.</PRIZE></BIBL> <BIBL><TITLE>Frankfurter Taschenkalender auf das Jahr 1797</TITLE>. mit der neufr√§nkischen Zeitrechnung und mit 12 Monatskupfern aus Kotzebne <AUTHOR>Graf Benjowsky</AUTHOR>, geb. in Futeral. <PRIZE>36 kr.</PRIZE></BIBL> Auch ist eine Ank√ºndigung eines immerw√§hrenden Kalenders, in welchem durchgehends die gew√∂hnliche Zeitrechnung mit der neuen frankischen verglichen ist, zu haben; er soll bis Ende dieses oder Anfangs k√ºnftigen Jahres erscheinen. Der Preis mit Inbegriff des Porti ist <PRIZE>40 kr.</PRIZE></ITEM>\",\n  \"number_of_fixes\": 1,\n  \"explanation\": \"The XML was missing a closing tag for the last <PRIZE> element. It was incorrectly written as </PRICE> instead of </PRIZE>. This was the only error, so one fix was made.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 600,
+        "output_tokens": 610,
+        "total_tokens": 1210
+    },
+    "duration": 18.903208017349243,
+    "timestamp": "2025-11-04T13:56:10.733655"
+}

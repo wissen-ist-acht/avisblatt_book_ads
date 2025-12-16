@@ -1,0 +1,5 @@
+{
+    "fixed_xml": "<ITEM>5. Bey Herrn Scholer Buchbinder auf der Eisenga√ü ist in beygesetzten Preisen zu haben: <BIBL><AUTHOR>J. Leucht</AUTHOR> <TITLE>Catechismus-Predigten</TITLE> <YEAR>1713</YEAR>. <FORMAT>4t√≤</FORMAT> <PRICE>10. bz.</PRICE></BIBL> <BIBL><AUTHOR>Zinzendorfs</AUTHOR> <TITLE>Reden an die Mannsund Frauenspersohnen</TITLE> <YEAR>1740</YEAR>. <PRICE>3. bz.</PRICE></BIBL> <BIBL><AUTHOR>P. de Wit.</AUTHOR> <TITLE>te gr√ºndliche Erkl√§rung des Heidelbergischen Tatechismi</TITLE> <FORMAT>87√≤.</FORMAT> <YEAR>1661</YEAR>. <PRICE>3. b3.</PRICE></BIBL></ITEM>",
+    "number_of_fixes": 3,
+    "explanation": "Three 'PRIZE' tags were replaced with 'PRICE' tags to correct the XML structure."
+}

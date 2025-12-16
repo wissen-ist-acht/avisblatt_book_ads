@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>11. In dem Berichthaus ist ein Entwurf und Plan zu sehen, von einem auf Prenumeration zu druckenden neuen Werck: <BIBL><AUTHOR>Johann Ludwig Gottfrids</AUTHOR> fortgesetzte <TITLE>HistorischeChronick</TITLE> <VOLUME>3ter und letster Theil</VOLUME>, darinnen die Geschichte von √†0. 1660. bis auf die neuesten gegenwartige Zeiten mit vielen Merianischen Kupfern gezieret, beschrieben sind, von <AUTHOR>Friedrich Carl von Moser</AUTHOR> Hochf√ºrstlichen Darmst√§ttischen Legations-Rath- <PLACE>Franckfurt am Mayn</PLACE> bey <AUTHOR>Philipp Heinrich Hutter</AUTHOR> <YEAR>1755</YEAR></BIBL>. Im Berichthaus werden Pr√§numerations-Schein ausgetheilt, gegen Erlegung <PRIZE>3. Reichsthaler</PRIZE> auf diesen dritten Theil, und bey Lieferung des Wercks noch <PRIZE>3. Reichsthaler 16. Groschen</PRIZE>, also zusammen <PRIZE>fl. 10</PRIZE>. und sollte jemand die 2. erstern Theile auch noch darzu verlangen, so k√∂nnen sie aussert Fracht und Briefporto √† <PRIZE>fl. 20</PRIZE>. und also alle 3. Theil zusammen √† <PRIZE>fl. 30</PRIZE>. verschaffet, das mehrere aber aus dem Plan selbsten ersehen werden. Brieff und Geldt bittet man francs einzusenden.</ITEM>\",\n  \"number_of_fixes\": 1,\n  \"explanation\": \"The opening tag for the 'PLACE' element was malformed. It should be '<PLACE>' instead of '<PLACE '.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 447,
+        "output_tokens": 439,
+        "total_tokens": 886
+    },
+    "duration": 14.003538846969604,
+    "timestamp": "2025-10-30T17:49:30.679705"
+}

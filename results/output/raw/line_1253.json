@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>17. Wohlfeile B√ºcher, welche im Flick¬∞. schen Gesch√§fts-Bureau zu haben sind: <BIBL><AUTHOR>B√ºschs</AUTHOR> <TITLE>theoret. praktische Darsiellung der Handlung</TITLE> <VOLUME>5 Thle.</VOLUME> <YEAR>1800</YEAR> <PLACE>Hamb.</PLACE> <PRIZE>50 Btz</PRIZE></BIBL> <BIBL><TITLE>Das goldene A BC f√ºr Herren 1. Damen, in u. ausser der Ehe.</TITLE> <FORMAT>12.</FORMAT> <YEAR>1809</YEAR> <PRIZE>7 1/2 Btz.</PRIZE></BIBL> <BIBL><AUTHOR>Vavaters</AUTHOR> <TITLE>Jesus Messtias;</TITLE> <VOLUME>4 Bde.</VOLUME> nebst <VOLUME>1 Band Kupfer</VOLUME> von <AUTHOR>Chodowieky, Lips Schellenberg, Pfenninger und mehrern andern vorz√ºglichen K√ºnstlern</AUTHOR> in <FORMAT>Halb-</FORMAT> <PRIZE>15 Fr.</PRIZE> <FORMAT>franzband.</FORMAT></BIBL> <BIBL><AUTHOR>Lafontaine</AUTHOR> <TITLE>Sagen aus dem Alterthum,</TITLE> <VOLUME>2 Thle.</VOLUME> <FORMAT>8.</FORMAT> <PLACE>Berlin</PLACE> <YEAR>1799</YEAR> <PRICE>10 Btz.</PRICE></BIBL> <BIBL><AUTHOR>Schellers</AUTHOR> <TITLE>Handw√∂rterbuch (NB. nicht Handlexikon) der latein. Sprache,</TITLE> mit <AUTHOR>Verm. und Zus√§tzen von Klocker</AUTHOR> <FORMAT>gr. 8.</FORMAT> <PRICE>10 Btz.</PRICE> <YEAR>1817</YEAR> <PRICE>R. u. E. Ldr.</PRICE></BIBL> <BIBL><AUTHOR>A√ºders</AUTHOR> <TITLE>vollst√§nd. Inbegriff aller bey dem Stra√üenbau vorkommenden F√§lle Íùõc.</TITLE> mit <AUTHOR>Kpfrn.</AUTHOR> <FORMAT>gr. 8.</FORMAT> <PLACE>Frkft.</PLACE> <YEAR>1779</YEAR> <PRICE>Cart. 9 Btz.</PRICE></BIBL> <BIBL><AUTHOR>Girtanners</AUTHOR> <TITLE>historische Nachrichten u. politische Betrachtungen √ºber die franz√∂sische Nevolution,</TITLE> <VOLUME>17 Bte.</VOLUME> <FORMAT>gr.8.</FORMAT> <PRICE>Hfrzbd. 12Fr.</PRICE></BIBL> <BIBL><AUTHOR>Iselins</AUTHOR> <TITLE>historisch-geographisches Lexikon,</TITLE> mit <AUTHOR>einger√ºckt. Supplementen</AUTHOR> <VOLUME>3te Aufl.</VOLUME> <PRICE>18 Fr.</PRICE> <VOLUME>6 Bde.</VOLUME> <FORMAT>folio.</FORMAT> <YEAR>1742</YEAR> <PRICE>Cart.</PRICE></BIBL></ITEM>\",\n  \"number_of_fixes\": 3,\n  \"explanation\": \"The XML was missing closing tags for the PRICE element in three BIBL elements. The closing tags have been added to fix this.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 843,
+        "output_tokens": 835,
+        "total_tokens": 1678
+    },
+    "duration": 34.796942710876465,
+    "timestamp": "2025-11-05T15:59:07.115474"
+}

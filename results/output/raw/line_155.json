@@ -1,0 +1,13 @@
+{
+    "text": "{\n\"fixed_xml\": \"<ITEM>21. Bey Herrn J. J. Flick allhier ist zu haben : <BIBL><TITLE>Theater-Kalender auf das Jahr 1775.</TITLE> mit Musick und sehr angenehmen Inhalts, <FORMAT>8.</FORMAT> <PLACE>Gotha</PLACE>, broche, <PRIZE>fl. 1. kr. 12.</PRIZE></BIBL> <BIBL><AUTHOR>Jagemanns</AUTHOR> <TITLE>geographische Beschreibung des Herzogthums Toskana</TITLE>, <FORMAT>8.</FORMAT> <YEAR>1775</YEAR>. <PRIZE>fl. 1. kr. 24.</PRIZE></BIBL> <BIBL><AUTHOR>Von Linne</AUTHOR> <TITLE>Gattungen der Pflanzen und ihre naturliche Merkmale, nach der Anzahl, Gestalt, Lage und Verh√§ltni√ü aller Blumentheile</TITLE>, <FORMAT>8.</FORMAT> <YEAR>1775</YEAR>. <PRIZE>fl. 3.</PRIZE></BIBL> <BIBL><AUTHOR>Lo√üins, Joh. Chr.</AUTHOR> <TITLE>Physische Ursachen des Wahren</TITLE>, <FORMAT>8.</FORMAT> <YEAR>1775</YEAR>. <PRIZE>fl. 1. kr. 6.</PRIZE></BIBL> Auch wird eine Fortsetzung des Verzeichnis von dentschen, franzosischen und lateinischen B√ºchern gratis ausgegeben. Ferners : <BIBL><TITLE>Histoire 6: Maurice Comte de Saxe</TITLE> par <AUTHOR>Mr. le Baron dEspagnac</AUTHOR>, nouvelle Edition considerabl. augmentee, <VOLUME>2 Vol.</VOLUME> <FORMAT>12.</FORMAT> <PLACE>Paris</PLACE> <YEAR>1775</YEAR>. <PRIZE>fl. 2. xr. 15.</PRIZE></BIBL> <BIBL><TITLE>Le meme Livre</TITLE>, <FORMAT>8r. 4to</FORMAT>, <VOLUME>3 Tomes</VOLUME>, avec des superbes Cartes & Plans, <PLACE>Paris</PLACE> <YEAR>1775</YEAR>. <PRIZE>fl. 21.</PRIZE></BIBL> <BIBL><TITLE>Ueber die Leiden des jungen Werthers, Gespr√§che</TITLE>, <FORMAT>8.</FORMAT> <YEAR>1775</YEAR>. <PRIZE>kr. 15.</PRIZE></BIBL> <BIBL><TITLE>Conclave del 1774.</TITLE> <SUBTITLE>Dramma</SUBTITLE>, <FORMAT>8.</FORMAT> <PRIZE>xr. 24.</PRIZE></BIBL> <BIBL><TITLE>Eben dieses mit der deutschen Uebersetzung bey Seiten</TITLE>, <FORMAT>8.</FORMAT> <PRIZE>kr 368 2</PRIZE></BIBL> <BIBL><TITLE>LEsprit des Journaun Janv. 1775.</TITLE> <SUBTITLE>Collection complette des Oeuvres de Mr. de Voltaire</SUBTITLE>, <VOLUME>18 Voll.</VOLUME> avec belles fig. <FORMAT>12.</FORMAT> <PRIZE>fl. 24. xr. 10.</PRIZE></BIBL> Diese Auflage ist nach der in Paris in 4to gemachten nachgedruckt und eben so vollst√§ndig.</ITEM>\",\n\"number_of_fixes\": 0,\n\"explanation\": \"The provided XML is correctly formatted and does not require any fixes. All tags are properly opened and closed.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 865,
+        "output_tokens": 855,
+        "total_tokens": 1720
+    },
+    "duration": 17.3336398601532,
+    "timestamp": "2025-11-02T09:38:43.609680"
+}

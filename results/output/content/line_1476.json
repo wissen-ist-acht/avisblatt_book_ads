@@ -1,0 +1,5 @@
+{
+    "fixed_xml": "<ITEM>Von dem allgemein beliebten Werk: <BIBL><TITLE>Sch√ºbert Altes und Neues</TITLE> ist unl√§ngst die <VOLUME>2te Abtheilung des 18. Bandes</VOLUME> erschienen. <PRICE>Preis: 13 1/2 Btz.</PRICE></BIBL> Vorr√§thig in Bahnmaier's Buchhandlung.</ITEM>",
+    "number_of_fixes": 1,
+    "explanation": "The closing tag for 'PRICE' was incorrectly spelled as 'PRIZE'. It has been corrected to 'PRICE'."
+}

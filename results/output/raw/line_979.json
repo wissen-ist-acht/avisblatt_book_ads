@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>Neuer Komptoir-Kalender auf das Jahr 1819, entworfen von J. H. Vollenweider. In diesem, ganz allein f√ºr den Kanton Basel verfa√üten Kalender, findet man das getreue Verzeichni√ü E. E. u. W. W. Kantonsraths und dessen Statthaltern auf der Landschaft, so wie des hiesigen Hochk√∂bl. Stadtraths, nebst jenem der ankommenden und abgehenden Posten, Diligencen, Fourgons, G√ºterfuhren, so wie der Wasserverkadung und s√§mtlicher Boten des Kantons und der Nachbarschaft. RB. Allen verehrlichen Beh√∂rden u. G√∂nnern, welche mich in diesem Unternehmer so wohlwollend durch Ihre gef√§llige Mitwirkung unterst√ºtzt haben, statte ich hiemit √∂ffentlich meinen aufrichtigsten und w√§rm- J. H. B. sten Dank ab. Obiger Kalender ist um den Preis von 10kr. zu haben bey Reukirch, Buchh√§ndler auf dem Fischmarkt, so wie bey s√§mtlichen Herren Buchbindern. <BIBL><TITLE>Neuer Komptoir-Kalender auf das Jahr 1819</TITLE>, entworfen von <AUTHOR>J. H. Vollenweider</AUTHOR>. <PRICE>10kr.</PRICE></BIBL></ITEM>\",\n  \"number_of_fixes\": 1,\n  \"explanation\": \"The XML tag <PRIZE> was incorrect. It was replaced with the correct tag <PRICE>.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 421,
+        "output_tokens": 408,
+        "total_tokens": 829
+    },
+    "duration": 10.760257959365845,
+    "timestamp": "2025-11-05T11:26:25.599260"
+}

@@ -1,0 +1,13 @@
+{
+    "text": "{\n\"fixed_xml\": \"<ITEM>2. Bey H. R. Sauerl√§nder in Aarau ist erschienen: <BIBL><TITLE>Maltens Bibliothek der neuesten Weltkunde</TITLE>, <YEAR>1829</YEAR>. ir u. <VOLUME>2r Thl.</VOLUME> gr. <FORMAT>8.</FORMAT> gebeftet, <VOLUME>12 Theile</VOLUME>. √† <PRIZE>12 fl.</PRIZE> od. <PRIZE>8 Thlr</PRIZE></BIBL> <BIBL><AUTHOR>Fschokkes</AUTHOR> auserlesene Schriften, <VOLUME>35r u. 36r Theil</VOLUME> in <FORMAT>Taschenformat</FORMAT>; der <VOLUME>37.</VOLUME>, <VOLUME>38.</VOLUME> u. <VOLUME>40.</VOLUME> Thl. erscheinen im Febr. n√§chstens.</BIBL> <BIBL><AUTHOR>Fschokke</AUTHOR>, <TITLE>Baierische Geschichte</TITLE>, <VOLUME>7r u. 8t Theil</VOLUME> in <FORMAT>Taschenformat</FORMAT>.</BIBL> Es ist diese Ausgabe in <FORMAT>Taschenformas</FORMAT> nun im Druck vollendet, und in allen Buchhandlungen vollst√§ndig √† <PRIZE>4 fl.</PRIZE> f√ºr <VOLUME>acht Theile</VOLUME> zu haben. - <BIBL><TITLE>Die zw√∂lfte Auflage von den Stunden der Andacht</TITLE> in grobem Druck auf ord. Papier</BIBL> ist bereits wieder vergriffen; es ist dermalen nur noch <BIBL><TITLE>die gute Ausgabe</TITLE> auf weissem Papier</BIBL> √† <PRIZE>11 fl.</PRIZE> im Buchhandel zu haben. ‚Äì Von <BIBL><TITLE>der dreyzehnten Auflage</TITLE> in <FORMAT>Taschenformat</FORMAT></BIBL> erscheinen die ersten <VOLUME>sechs Theile</VOLUME> im k√ºnftigen Monat Juli, die √ºbrigen im November d. J. Von <BIBL><TITLE>der eilften Auflage f√ºr katholische Christen</TITLE></BIBL> erscheint ehestens der <VOLUME>f√ºnfte u. sechste Theil</VOLUME>, und so werden die noch √ºbrigen Theile bef√∂rderlichst nachfolgen. Aaran den <DATE>18. Jan. 1829.</DATE> H R. Sauerl√§nder.</ITEM>\",\n\"number_of_fixes\": 1,\n\"explanation\": \"The XML was missing a closing tag for the PRIZE element. The tag was incorrectly written as PRICE. It has been corrected to PRIZE.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 705,
+        "output_tokens": 699,
+        "total_tokens": 1404
+    },
+    "duration": 26.642205953598022,
+    "timestamp": "2025-11-05T15:48:27.010460"
+}

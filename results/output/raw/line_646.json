@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>52. Ein schöner Ladentisch mit 10 Schabladen, ein Ladencorpus mit 8 Schübladen, Eßig und Oehl-Maas, 2 Oehl-Standen von Blech, eine schöne kupferne Waag 40 bis tern auf alle Tage der Wochen, 8. Ä 6kr. ferner <BIBL><TITLE>Cicero von den menschlichen Pflichten</TITLE><VOLUME>2 Bd.</VOLUME><FORMAT>8.</FORMAT></BIBL><BIBL><AUTHOR>Broks</AUTHOR><TITLE>irdisches Vergnugen in Gott</TITLE><VOLUME>10 Bd.</VOLUME> sehr sauber, ganz Pergament. 50 tB. darauf zu wiegen, und ein sturzen Blech, alles soviel als neu und um billigen Preis.</BIBL></ITEM>\",\n  \"number_of_fixes\": 1,\n  \"explanation\": \"The xml-tags were not properly closed for the second BIBL tag. The closing tag was added at the end of the second BIBL content to fix the xml.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 270,
+        "output_tokens": 256,
+        "total_tokens": 526
+    },
+    "duration": 11.871581077575684,
+    "timestamp": "2025-11-04T14:24:36.786063"
+}

@@ -1,0 +1,13 @@
+{
+    "text": "{\n\"fixed_xml\": \"<ITEM>Bey Christ. Winckelblech zu St. Johann No. 102 sind folgende gebundene B√ºcher in Commission und bill. Preis zu haben: <BIBL><TITLE>Voyage d'un Allemand √† Paris, & retour par la Suisse</TITLE>, <FORMAT>8.</FORMAT> <YEAR>1800.</YEAR> von <AUTHOR>Heinzmann</AUTHOR>, <PRIZE>Btz. 10.</PRIZE></BIBL> <BIBL><TITLE>Wohlmeinende Erinnerung an die Ehren Burgerschaft der Stad Basel zum Besten des Vaterlands</TITLE>, <FORMAT>4to</FORMAT> <PRIZE>Btz. 2.</PRIZE></BIBL> <BIBL><TITLE>Die ber√ºhmte Froschauer Bibel</TITLE>, <FORMAT>8.</FORMAT> <YEAR>1538,</YEAR> mit Holzschnitten, fehlt das Titelblat, sonst ganz, <PRIZE>Batz. 10.</PRIZE></BIBL> <BIBL><TITLE>Gespr√§ch zwischen 2 B√ºrgern der Gro√ü, u. mindern Stad Basel, wegen Umkauf der 3 Thiere</TITLE>, <YEAR>1755,</YEAR> <FORMAT>4to.</FORMAT> <PRIZE>Batz. 2.</PRIZE></BIBL> <BIBL><TITLE>Ein gutes Gebetbuch mit grobem Druck</TITLE>, <FORMAT>8.</FORMAT> <PRIZE>Batz. 1.</PRIZE></BIBL> <BIBL><TITLE>Auszug von Fritschen, gewissenhafte Polizey</TITLE>, <FORMAT>4.</FORMAT> <YEAR>1762,</YEAR> <PRIZE>Btz. 1.</PRIZE></BIBL> <BIBL><TITLE>Publii Terentii Comcdiz 5ex superstites</TITLE>, lateinisch und deutsch, <FORMAT>8.</FORMAT> <YEAR>1658,</YEAR> <PRIZE>Batz. 1.</PRIZE></BIBL> <BIBL><TITLE>Durchzug der kayserlichen und spanischen Armee</TITLE>, <FORMAT>4.</FORMAT> <YEAR>1633,</YEAR> von <AUTHOR>Iselin</AUTHOR>, <PRIZE>Batz. 3.</PRIZE></BIBL> <BIBL><TITLE>Dilucida & pia explynatio samboli catechesis & Pr√©catio dommnica per Erasmum</TITLE>, <FORMAT>Rot. 8.</FORMAT> <YEAR>1533,</YEAR> <PRIZE>Batz. 1.</PRIZE></BIBL> <BIBL><TITLE>Ueber den Pa√ü zu Augst, in Frag und Antworth</TITLE> <FORMAT>4.</FORMAT> <PRIZE>Batz 4.</PRIZE></BIBL> <BIBL><TITLE>Von Lohney√ü √ºber die Pferdzucht, ihre Tugend- und Fehler, Mittel zu deren Verbesserung und ihre Krankheiten zu heben. Von den alten Turnier und Ritterspielen</TITLE>, <FORMAT>fol.</FORMAT> <YEAR>1624,</YEAR> durchaus mit sch√∂nen Holzschnitten, worunter das Modell, von mehr als 50 Renn- und Hausschlitten von edlem Geschmak, die Pferdte von Kenner- Hand, alle Arten Gebis Íùõc., der Textb selbsten sehr gut nur etwas schadhaft, <PRIZE>fl. 2. 40 kr.</PRIZE></BIBL> <BIBL><TITLE>Andenken f√ºr Frauenzimmer</TITLE>, <FORMAT>8.</FORMAT> <PRIZE>Batz. 1.</PRIZE> sehr gut.</BIBL></ITEM>\",\n\"number_of_fixes\": 7,\n\"explanation\": \"The XML was missing closing tags for the PRIZE elements in 7 instances. These have been added.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 933,
+        "output_tokens": 929,
+        "total_tokens": 1862
+    },
+    "duration": 44.60330390930176,
+    "timestamp": "2025-11-04T15:28:56.016936"
+}

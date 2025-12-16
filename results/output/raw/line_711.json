@@ -1,0 +1,13 @@
+{
+    "text": "{\n\"fixed_xml\": \"<ITEM>40. Bey Heinrich Haag ist zu haben: <BIBL><TITLE>Taschenbuch f√ºr Geschichte und Unterhaltung</TITLE>, auf <YEAR>1802</YEAR>. <PRIZE>fl. 1. 48 kr.</PRIZE></BIBL> <BIBL><TITLE>Taschenkalender f√ºr 1802</TITLE>, enthaltend die Fortsetzung des Auszugs aus Salzmanns Elementarbuch mit illum. Kupfern <PRIZE>36 kr.</PRIZE>, mit schwarzen Kupf. <PRIZE>30 kr.</PRIZE></BIBL> <BIBL><TITLE>Almanach f√ºr 1802</TITLE>. mit Kupfern aus Robinson, illum. mit dopp. Futteral und Spiegel <PRIZE>fl. 1.</PRIZE>, einfach Fut. teral <PRIZE>36 kr.</PRIZE> schwarze Kupfer dopp. Futt. <PRIZE>52 kr.</PRIZE> einfach Futteral <PRIZE>30 kr.</PRIZE></BIBL> <BIBL><TITLE>Kompendi√∂ser Almanach f√ºr 1802</TITLE>. mit artigen Kupf. illum. mit doppel. Futteral und Spiegel <PRIZE>fl. 1.</PRIZE> schwarze Kupfer dito <PRIZE>52 kr.</PRIZE> illum. in einfach Futteral <PRIZE>36 kr.</PRIZE> dito schwarz <PRIZE>30 kr.</PRIZE> dito in Saffian mit Umschlag <PRIZE>48 kr.</PRIZE> dito illum. <PRIZE>56 kr.</PRIZE></BIBL> <BIBL><TITLE>Kleine Finger-Kalenderli</TITLE> mit Spiegel <PRIZE>30 kr.</PRIZE> einfach <PRIZE>12 kr.</PRIZE></BIBL> <BIBL><TITLE>G√∂ttinger Taschenkalender</TITLE>, franz√∂sisch und deutsch. <PRIZE>fl. 1. 48 kr.</PRIZE></BIBL> <BIBL><TITLE>Romanen-Kalender</TITLE>, <PRIZE>fl. 2. 40 kr.</PRIZE></BIBL> <BIBL><TITLE>Taschenbuch f√ºr Pferdeliebhaber</TITLE> <PRIZE>fl. 2. 24 kr.</PRIZE></BIBL> nebst mehrern andern Sorten Almanachs und Taschenb√ºcher, auch gef√§rbt und wei√ü Papier mit artigen Einfassungen in Enveloppen, und mancherley gepr√§gte Visiten-Karten in verschiedenen Preisen. <BIBL><TITLE>Handbuch f√ºr Regenten</TITLE> <PRIZE>32 kr.</PRIZE></BIBL> <BIBL><TITLE>Ueber senatorische und gesetzgeberische Zeitungsschreiberey</TITLE>, <PRIZE>12 kr.</PRIZE></BIBL></ITEM>\",\n\"number_of_fixes\": 5,\n\"explanation\": \"The xml was faulty in five places where the closing tag for <PRIZE> was incorrectly written as </PRICE>. This has been corrected in the 'fixed_xml'.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 760,
+        "output_tokens": 769,
+        "total_tokens": 1529
+    },
+    "duration": 25.22546076774597,
+    "timestamp": "2025-11-04T14:56:35.954951"
+}

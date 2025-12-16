@@ -1,0 +1,5 @@
+{
+    "fixed_xml": "<ITEM>Bei Friedrich Schulthe√ü, Buchh√§ndler in Z√ºrich, ist so eben erschienen und in allen Buchhandlungen zu haben: <BIBL><TITLE>Die Stellung der ungl√§ubigen Welt zum Gekreuzigten.</TITLE> Predigt gehalten am hohen Donnerstag <YEAR>1839</YEAR> im Gro√üm√ºnster von <AUTHOR>Aler Schweizer, Prof. der Theologie.</AUTHOR> Nebst einer Zuschrift an Herrn Prof. Hagenbach in Basel. <FORMAT>32 S. 8.</FORMAT> geh. <PRICE>12kr.</PRICE></BIBL></ITEM>",
+    "number_of_fixes": 2,
+    "explanation": "The xml-tag <PRIZE> was incorrect and has been fixed to <PRICE>. Also, the word 'Predigt' was broken into two parts 'Pr ed ig t', which has been corrected."
+}

@@ -1,0 +1,5 @@
+{
+    "fixed_xml": "<ITEM>11. <BIBL><TITLE>Reise auf dem Harz</TITLE></BIBL>, <BIBL><TITLE>Description de l'Am√©rique</TITLE><AUTHOR>Don Ulca</AUTHOR></BIBL>, <BIBL><AUTHOR>Stapfers</AUTHOR><TITLE>Theologie</TITLE></BIBL>, um billigen Preis. Von noch vielen andern wohlfeilen B√ºchern kann ein Catalog eingesehen werden.</ITEM>",
+    "number_of_fixes": 1,
+    "explanation": "The XML was missing closing tags for the BIBL element in the second and third instances. Each BIBL element should encapsulate both the TITLE and AUTHOR elements, if they exist."
+}

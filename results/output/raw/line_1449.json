@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>9. Bei Tr. Bromme in Dresden ist erschienen und in allen Buchhandlungen, in Basel bei J. G. Vahnmaier, (fr√ºher Spittler und Comp.) zu haben: <BIBL><TITLE>Meine Erfahrungen in Bezug auf WarCer-DeiLan ckalten, den Betrieb der Kur und die Behandlung der verschiedenen Krankheiten in denselben.</TITLE> Gesammelt w√§hrend meines langen Aufenthalts zu Gr√§fenberg von <AUTHOR>Rudolph Freiherrn von Falkenstein</AUTHOR>. <FORMAT>8. brosch.</FORMAT> <PRICE>22 1/2 Btz.</PRICE></BIBL></ITEM>\",\n  \"number_of_fixes\": 1,\n  \"explanation\": \"The 'PRICE' tag was misspelled as 'PRIZE'. This typo was fixed.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 226,
+        "output_tokens": 211,
+        "total_tokens": 437
+    },
+    "duration": 7.1620519161224365,
+    "timestamp": "2025-11-06T10:57:53.227228"
+}

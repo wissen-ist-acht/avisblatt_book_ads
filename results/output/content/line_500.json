@@ -1,0 +1,5 @@
+{
+    "fixed_xml": "<ITEM>28. In Emanuel Thurneysens Buchhandlung allhier ist zu haben: <BIBL><AUTHOR>Hrn. Rabauts de St. Etienne</AUTHOR> <TITLE>Taschenbuch der Franken, enthaltend die Geschichte der franz√∂sischen Revolution, nebst der Constitutions-Akte, und politische Betrachtungen √ºber die gegenw√§rtigen Zeitl√§ufte</TITLE>, als ein Anhang dazu, mit <PLACE>Kpf.</PLACE> <YEAR>792</YEAR>. auf Postppr. √† <PRIZE>fl. 1. 40 kr.</PRIZE> und auf ord. Schrbppr. √† <PRIZE>fl. 1. 20 kr.</PRIZE> ohne Kupfer aber auf ord. Ppr. √† <PRIZE>36 kr.</PRIZE></BIBL> Dessen <BIBL><TITLE>politische Betrachtungen</TITLE> besonders, fein Schreibppr. √† <PRIZE>16 kr.</PRIZE> und auf braun Papier √† <PRICE>8 kr.</PRICE></BIBL></ITEM>",
+    "number_of_fixes": 1,
+    "explanation": "The last PRIZE tag in the second BIBL tag was incorrectly labeled as PRICE. This has been corrected to PRIZE."
+}

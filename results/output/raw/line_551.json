@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>26. Bey Hrn. Bolli, Buchbinder auf dem Kornmarkt, ist zu haben: <BIBL><TITLE>das Augsburgiische ev√§ngelische Ministerium in Bilder und Schriften</TITLE>. <PLACE>Augsburg</PLACE> <YEAR>1749</YEAR>. <VOLUME>2 Franzb√§nde</VOLUME> <FORMAT>in-4.</FORMAT> mit <FORMAT>200 sch√∂nen Portraits</FORMAT>, worunter auch etliche, die in Basler-Sammlung geh√∂ren, nebst einwpen andern <FORMAT>Kupfern</FORMAT>. <PRIZE>fl. 8.</PRIZE></BIBL> <BIBL><TITLE>M√©langes d'histoire naturelle</TITLE>, par <AUTHOR>Mr. All√©on du Lac</AUTHOR>. <PLACE>√† Lyon</PLACE> <YEAR>1765</YEAR>. <FORMAT>8.</FORMAT> <VOLUME>6 Vol.</VOLUME> mit <FORMAT>fig.</FORMAT> sehr interessant f√ºr einen Liebhaber der Naturgeschichte. <PRIZE>fl. 6.</PRIZE></BIBL> <BIBL><TITLE>De Porta historia reformationis ecolesiarum Raticarum</TITLE>. <PLACE>Lib. Hl. Cur. Rat.</PLACE> <YEAR>1771</YEAR><YEAR>1777</YEAR>. <FORMAT>4.</FORMAT> compl. <PRIZE>fl. 4. 30 Kr.</PRIZE></BIBL> <BIBL><TITLE>Museum Helveticum</TITLE>. <PLACE>Turic.</PLACE> <YEAR>1746</YEAR><YEAR>258</YEAR>. <VOLUME>Part. 28.</VOLUME> in <VOLUME>7 B√§nden</VOLUME>. <FORMAT>in-8.</FORMAT> <PRIZE>fl. 6.</PRIZE></BIBL> <BIBL><AUTHOR>M. H. Herolds</AUTHOR>, <TITLE>dem M√ºnzvergn√ºgen gewiedmete Nebenstunden</TITLE>. <PLACE>N√ºrnberg</PLACE> <YEAR>1774</YEAR>. <FORMAT>4.</FORMAT> mit <FORMAT>Kpf.</FORMAT> <PRIZE>fl. 2. 24 kr.</PRIZE></BIBL> <BIBL><AUTHOR>Liebknecht Hassie</AUTHOR> <TITLE>subterranex specimen</TITLE>. <PLACE>Giefl. & Francf.</PLACE> <YEAR>1730</YEAR>. <FORMAT>4.</FORMAT> c. <FORMAT>fig.</FORMAT> besonders n√ºtzlich f√ºr einen Liebhaber von Versteinerungen. <PRIZE>fl. 2.</PRIZE></BIBL></ITEM>\",\n  \"number_of_fixes\": 3,\n  \"explanation\": \"The XML was faulty at three places. The closing tags for PRIZE were written as PRICE. The correct closing tag for PRIZE is </PRIZE>. This error was found and corrected in 3 instances.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 707,
+        "output_tokens": 719,
+        "total_tokens": 1426
+    },
+    "duration": 34.331514835357666,
+    "timestamp": "2025-11-04T13:36:52.444592"
+}

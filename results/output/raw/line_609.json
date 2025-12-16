@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>29. In Emanuel Thurneysens Buchhandlung allhier ist zu haben: <BIBL><AUTHOR>R√∂schens</AUTHOR> <TITLE>Feyerstun, den, enthaltend: die neuesten Lieder mit Masit, Pf√§nderspiele, Stammbuch-Aufs√§tze, Charaden Íùõc.</TITLE>, <FORMAT>8.</FORMAT> geb. <PRIZE>30 kr.</PRIZE></BIBL> <BIBL><TITLE>Taschenbuch f√ºr Blumen-Kuchen-Feld-G√§rtenund Landwirthschafts-Freunde, auf all- Monat im Jahr</TITLE>, <FORMAT>8.</FORMAT> <YEAR>796.</YEAR> br. <PRIZE>20 kr.</PRIZE></BIBL> <BIBL><TITLE>Raide, oder das m√§dchen aus dem Morgenlande, eine Geschichte der Vorzeit</TITLE>, iter <VOLUME>Thl.</VOLUME>, <FORMAT>8.</FORMAT> <YEAR>796.</YEAR> <PRIZE>fl. 1. 20 kr.</PRIZE></BIBL> <BIBL><TITLE>Vellchenbl√§tter zur angenehmen Unterhaltung</TITLE>, <FORMAT>8.</FORMAT> <YEAR>796.</YEAR> <PRIZE>48 kr.</PRIZE></BIBL> <BIBL><AUTHOR>Heinemanns (J. C.)</AUTHOR> <TITLE>Karl und Henriette, eine wahre Geschichte</TITLE>, <FORMAT>8.</FORMAT> <YEAR>796.</YEAR> <PRIZE>48 kr.</PRIZE></BIBL> <BIBL><TITLE>Nachgeahmte Meisnerische Skizzen</TITLE>, <VOLUME>1ter Bd.</VOLUME>, <FORMAT>8.</FORMAT> <YEAR>796.</YEAR> <PRIZE>fl. 1. 30 kr.</PRIZE></BIBL> Subscription wird. √§ngenommen auf <BIBL><TITLE>Magazin zur Bildung des Verstandes und zur lehrreichen Unterhaltung f√ºr die Jugend, Eltern, Lehrern und Erziehern gewiedmet; wechselsweite erscheinen Erz√§hl√ºngen, vaterl√§ndische Geschichten, Reisebeschreibungen durch die Schweiz Íùõc.</TITLE></BIBL> Prospectus sind davon zu haben. Ferners von <BIBL><AUTHOR>Burgdorfs</AUTHOR> <TITLE>Anleitung zur sichern Erziehung und zweckm√§√üigen Anpflanzung der einheimischen und fremden Holzarten, welche in Deutschland und unter √§hnlichem Klima im Freyen fortkommen</TITLE>, mit <FORMAT>Kpf. gr. 8.</FORMAT> <YEAR>796.</YEAR> <PRIZE>fl. 2.</PRIZE></BIBL></ITEM>\",\n  \"number_of_fixes\": 1,\n  \"explanation\": \"The XML tag <PRICE> was incorrect. It was fixed to <PRIZE>.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 744,
+        "output_tokens": 730,
+        "total_tokens": 1474
+    },
+    "duration": 30.179033041000366,
+    "timestamp": "2025-11-04T14:04:39.576469"
+}

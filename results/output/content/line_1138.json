@@ -1,0 +1,5 @@
+{
+    "fixed_xml": "<ITEM>15. <BIBL><TITLE>Predigt √ºber das rechte Verhalten des Christen beym Gottesdienste, 4 nach Jac. 4, 8.</TITLE> gehalten aus Anla√ü von der verbesserten Kirchen-Agende zu machenden Anzeige, in der Kirche des Spitals, den 26. Winterm. von <AUTHOR>Johannes He√ü</AUTHOR>, Spital-Prediger. Nebst einem den √∂ffentlichen Gottesdienst betreffenden Nachworte.</BIBL> <BIBL><FORMAT>Brosch.</FORMAT> <PRICE>10 kr.</PRICE></BIBL> Felix Schneider, bey No. 1196 am B√§umlein, und Hrn. Frie√ü, Buchbinder, bey der Post.</ITEM>",
+    "number_of_fixes": 1,
+    "explanation": "The tag <PRIZE> was incorrect and has been replaced with the correct tag <PRICE>."
+}

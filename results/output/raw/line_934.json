@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>20. Bey Buchbinder Stupanus auf d. Rhein- 2. br√ºcke, ist um billige Preise zu haben: <BIBL><AUTHOR>Campes</AUTHOR> <TITLE>verschiedene Reisen</TITLE>, √†<BIBL><VOLUME>Thle.</VOLUME> in <VOLUME>1 Bd.</VOLUME> <FORMAT>8.</FORMAT> <FORMAT>Halbfrzbd.</FORMAT> <PLACE>Frkfrt. und Leipz.</PLACE> <YEAR>804</YEAR></BIBL>. <BIBL><AUTHOR>iArnolds</AUTHOR> <TITLE>engl. Grammatit</TITLE>, <FORMAT>gr. 8.</FORMAT> <FORMAT>Halbfrzbd.</FORMAT> <PLACE>Jena</PLACE> <YEAR>8o9</YEAR></BIBL>. <BIBL><AUTHOR>Veneroui</AUTHOR> <TITLE>Grammaire ital. &frang.</TITLE>, <VOLUME>gi.6.</VOLUME> <FORMAT>demi-veau.</FORMAT> <PLACE>Basle</PLACE> <YEAR>8os</YEAR></BIBL>. <BIBL><TITLE>Der Geist des Brunnens, od. Reinsteins Fall</TITLE>, mit <TITLE>Titelkupf.</TITLE> <FORMAT>8.</FORMAT> <PLACE>C. T. Wien</PLACE> <YEAR>801</YEAR></BIBL>. <BIBL><TITLE>Robert von Amiens</TITLE>, mit <TITLE>Titelkupf.</TITLE> <FORMAT>8.</FORMAT> <PLACE>C. T. Berlin</PLACE> <YEAR>803</YEAR></BIBL>. <BIBL><AUTHOR>Guthvie</AUTHOR> <TITLE>G√©ografh. univ. trad. del'Angl.</TITLE> avec <TITLE>cart.</TITLE> <FORMAT>demi-veau, gr. 8.</FORMAT> <PLACE>Paris</PLACE> <YEAR>800</YEAR></BIBL>. <BIBL><TITLE>Romantische Skizzen.</TITLE> ‚Äì <BIBL><AUTHOR>Marmont.</AUTHOR> <TITLE>Belisarius</TITLE>, a. d. <AUTHOR>Franz.</AUTHOR> <TITLE>Teutsches Lesebuch f√ºr die Jugend.</TITLE> - <TITLE>Tartare, m√©lodramme en Sactes.</TITLE></BIBL>. <BIBL><TITLE>Sophiens Reise von Memel nach Sachsen</TITLE>, <VOLUME>5 Thle.</VOLUME> mangelt der <VOLUME>2te Bd.</VOLUME></BIBL>. <BIBL><TITLE>Die Wittwe aus Marseilles</TITLE>, mit <TITLE>Titelkpf.</TITLE></BIBL>. <BIBL><AUTHOR>Caniz</AUTHOR> <TITLE>Gedichte.</TITLE></BIBL>. <BIBL><AUTHOR>Gellerts</AUTHOR> <TITLE>Oden u. Lieder.</TITLE></BIBL>. <BIBL><TITLE>Fabeln von Aesopus</TITLE>, deutsch u. franz. mit <TITLE>Holzschnitten.</TITLE></BIBL>. - <BIBL><AUTHOR>Barters</AUTHOR> <TITLE>Gewi√üheit der Geister</TITLE>, aus dem <AUTHOR>Engl.</AUTHOR></BIBL>. <BIBL><TITLE>Baslerisch neues Gesangb√ºchlein.</TITLE></BIBL></ITEM>\",\n  \"number_of_fixes\": 1,\n  \"explanation\": \"The XML was missing a closing '>' for the <TITLE> tag for the book by the author Veneroui. The fixed XML now has this closing '>'.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 857,
+        "output_tokens": 864,
+        "total_tokens": 1721
+    },
+    "duration": 38.07312798500061,
+    "timestamp": "2025-11-05T11:02:26.175638"
+}

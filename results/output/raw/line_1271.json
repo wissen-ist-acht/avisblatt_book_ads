@@ -1,0 +1,13 @@
+{
+    "text": "{\n\"fixed_xml\": \"<ITEM>5. <BIBL><TITLE>Karte von Polen</TITLE>. <PRIZE>Preis 7 1/2 Btz.</PRIZE></BIBL> Diese illuminirte Karte, welche das Königreich nach der jetzigen Gränze, dann wie es vor seiner Zerstücklung 1772 war und in seiner Glanzperiode darstellt, ist allen Zeitungslesern für die jetzigen Zeitereignisse vorzüglich zu empfehlen. Zu haben in der Schweighauser'schen Buchhandlung. 9. <BIBL><TITLE>Einladung zur Pränumeration auf Dr. Johann Albrecht Bengels Leben und Wirken</TITLE>, meist nach handschriftlichen Materialien bearbeitet von <AUTHOR>N. Johann Christian Friedrich Burk</AUTHOR>, Pfarrer in Thailfingen u. Nebringen. <AUTHOR>Prälat Bengel</AUTHOR>, geb. 1687, gest. 1782, einer der gelehrtesten und zugleich frömmsten Männer seiner Zeit, ist berühmt durch seine populären Schriften über die Offenbarung Johannis, in welchen er die merkwürdigen Ereignisse unserer Tage beynahe 100 Jahre früher auf eine Art vorausgesagt hat, die auch noch die für die nächsten Jahre (bis 1836) von ihm perkündigten großen Dinge erwarten lässt. Die obige Schrift giebt unter vielem andern Merkwürdigen eine allgemein verständliche Darstellung des ganzen apokalyptischen, von dem sel. <AUTHOR>Bengel</AUTHOR> aufgestellten Systems, das aus dessen nachgelassenen Handschriften höchst interessante Zusätze und Erläuterungen erhalten hat. Der für den Umfang des Buchs äußerst billige Pränumerations-Preis ist auf <PRIZE>2fl. 24 kr.</PRIZE> festgesetzt. Späterhin tritt ein beträchtlich erhöhter Ladenpreis ein. Bestellungen hierauf werden angenommen in der Buchhandlung von <AUTHOR>Felix Schneider</AUTHOR>, No. 1196 am Bäumlein, allwo auch ausführlichere Anzeigen dieses Werks gratis abgegeben werden.</BIBL></ITEM>\",\n\"number_of_fixes\": 1,\n\"explanation\": \"The closing tag for the PRIZE element was incorrect. It was written as </PRICE> but it should be </PRIZE>.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 681,
+        "output_tokens": 574,
+        "total_tokens": 1255
+    },
+    "duration": 22.21435809135437,
+    "timestamp": "2025-11-05T16:07:26.112308"
+}

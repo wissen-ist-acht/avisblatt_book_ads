@@ -1,0 +1,5 @@
+{
+    "fixed_xml": "<ITEM>Endsunterschriebener glaubt den Freunden der Gelehrsamkeit, sch√∂nen K√ºnsten u. Wissenschaften , die Anzeige schuldig zu seyn, da√ü er auf den 27. und 28. Novemb. dieses Jahrs, seine 61ste Steigerung von B√ºchern, merkw√ºrdigen schweitzer Manuseripten, Kunst- und Kupferwerken und andern Seltenheiten, worunter sich der √§u√üerst rare <BIBL><TITLE>Talmud Babilonicus</TITLE><VOLUME>13 Folio B√§nden</VOLUME></BIBL>, und andern orientalischen Werken befinden, halten wird, welche seltene und Pracht-Werke, die Aufmerksamkeit der Gelehrten und K√ºnstler verdienen. Die Commissiones, zu welchen ich mich bestens empfehle und die ich gewissenhaft besorgen werde, kann man mit Bef√∂rderung entweder uns selbst franko einsenden, oder aber an Herrn Schmidt an der Steinen No. 799 in Basel gef√§lligst abgeben, bey welchem sowohl als im Berichthaus, gedruckte Verzeichnisse von dieser Auction zu haben sind. Salomon Fries, Buchh√§ndler zur Fortun in Z√ºrich.</ITEM>",
+    "number_of_fixes": 1,
+    "explanation": "The <BIBL> tag was opened but not closed. Therefore, the closing tag </BIBL> was added after the <VOLUME> tag."
+}

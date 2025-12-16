@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>An das philosophische Publikum. So eben erschien bey Metzler in Stuttgart: <BIBL><TITLE>conpus rmiosornonum optimae notae, qui ab restauratione litterarum ad Kantium usque floruerunt; continens Baconis, Car tesii, Spino 2 ae, Loekii, Humin opera xhilosophica omma, Leibnizii selecta</TITLE>. <AUTHOR>Edidit et praefationibus instruxit A. Gfr√©rer</AUTHOR>. <VOLUME>Tomus Hl. Sectio L.</VOLUME> Cals erste Lieferung.)</BIBL> 8. mas- Das Corpus Philosophorum, welches die oben genannten sechs Philosophen in einer sch√∂nen, korrekten und zugleich sehr billigen Gesammt- Au s ga be umfassen soll, wird die Zahl von 7 bis 8 B√§nden nicht √ºberschreiten. Jeder Band wird in zwey Lieferungen von etwa 20 Druckbogen ausgegeben, die sich viertelj√§hrig folgen. Der Subscriptionspreis ist bey der Verpflichtung zur Abnahme des ganzen Werks <PRICE>2 fl. 12 kr.</PRICE> f√ºr jede Lieferung von 20 Bogen, und verh√§ltni√üm√§√üig bey st√§rkern oder schw√§chern Lieferungen f√ºr die vorliegende erste Lieferung von 22 Bogen mithin <PRICE>2 fl. 24 kr.</PRICE> Bey Empfang der ersten Lieferung wird zugleich der Betrag der letzten entrichtet. Die obige erste Abtheilung des dritten Bandes enth√§lt die erste H√§lfte von Spinoza's Werken, deren Schlu√ü in der zweyten Abtheilung dieses dritten Bandes unter der Presse ist. <BIBL><TITLE>Baco und Cartesius</TITLE> werden den ersten u. zweyten Band des Corpus einnehmen, und erscheinen sp√§ter.</BIBL> Zu etwas erh√∂htem Preise wird auch jeder Philosoph des Corpus einzeln abgegeben. So <BIBL><TITLE>Spinoza</TITLE>, unter dem besondern Titel: <TITLE>peNgpicri on SpiNoz4 opera philosophica omma</TITLE>, <AUTHOR>edidit et praefationem adjecit A. Gfr6 rer</AUTHOR>. <PRICE>8. masund kostet die erschienene erste H√§lfte 3 fl.</PRICE> Der Preis der zweyten H√§lfte wird ungef√§hr der gleiche seyn, u. wird also diese sch√∂n ausgestattete Ausgabe zugleich biliger als jede bereits vorhandene Ausgabe von <AUTHOR>Spinoza's Werken</AUTHOR>. Vorr√§thig in allen guten Buchhand. lungen Deutschlands und der Schweiz, in Basel bey Neukirch.</ITEM>\",\n  \"number_of_fixes\": 1,\n  \"explanation\": \"The tag <PRIZE> was incorrect and was replaced with the correct tag <PRICE>.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 777,
+        "output_tokens": 761,
+        "total_tokens": 1538
+    },
+    "duration": 50.22006916999817,
+    "timestamp": "2025-11-05T16:03:17.942306"
+}

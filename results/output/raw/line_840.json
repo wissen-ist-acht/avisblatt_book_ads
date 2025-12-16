@@ -1,0 +1,13 @@
+{
+    "text": "{\n\"fixed_xml\": \"<ITEM>30. Im Bischoffischen Buchladen ist zu haben: <BIBL><TITLE>Jerusalems Betrachtungen √ºber die vornehmsten Wahrheiten der Religion</TITLE>, <VOLUME>3 Thle.</VOLUME> gr. <FORMAT>8.</FORMAT> <PRIZE>3 fl.</PRIZE></BIBL> <BIBL><AUTHOR>Kyburzens</AUTHOR> <TITLE>katechetische Kinder-Bibel</TITLE>, <VOLUME>2 Thle.</VOLUME> mit vielen Kupf. <FORMAT>8.</FORMAT> <PRIZE>2 fl. 24kr.</PRIZE></BIBL> <BIBL><AUTHOR>Desselben</AUTHOR> <TITLE>Knecht- und M√§gden- Bibel</TITLE>, <PRIZE>12 kr.</PRIZE></BIBL> <BIBL><AUTHOR>Desselben</AUTHOR> <TITLE>Lebens-Beschreibungen der heil. Patrtarchen</TITLE>, <PRIZE>4 kr.</PRIZE></BIBL> <BIBL><AUTHOR>Desselben</AUTHOR> <TITLE>kleine und heilsame Seelen-Waide</TITLE>, <PRIZE>8 kr.</PRIZE></BIBL> <BIBL><AUTHOR>Desselben</AUTHOR> <TITLE>s√º√üe und lautere Milch Íùõc.</TITLE>, <PRIZE>4 kr.</PRIZE></BIBL> <BIBL><AUTHOR>Desselben</AUTHOR> <TITLE>Lebens-Beschreibungen der Kinder Gottes und der Kinder der Welt</TITLE>, <PRIZE>6 kr.</PRIZE></BIBL> <BIBL><AUTHOR>Desselben</AUTHOR> <TITLE>Berg- und Hirten-Lieder</TITLE>, <PRIZE>10 kr.</PRIZE></BIBL> <BIBL><AUTHOR>Geistliche Gedichte der Frau v. Posadowski</AUTHOR> nebst ihrem <TITLE>Lebenslauf</TITLE>, <PRIZE>1 fl. 12 kr.</PRIZE></BIBL> <BIBL><AUTHOR>St√§helins</AUTHOR> <TITLE>Seligkeit der Gl√§ubigen in und so bald nach ihrem Tod</TITLE>, <PRIZE>10 kr.</PRIZE></BIBL> <BIBL><AUTHOR>Desselben</AUTHOR> <TITLE>Betrachtungen des himmlischen Kanaans</TITLE>, <PRIZE>24 kr.</PRIZE></BIBL> <BIBL><AUTHOR>Dito</AUTHOR> auf <TITLE>Schreibpap.</TITLE>, <PRIZE>34kr.</PRIZE></BIBL></ITEM>\",\n\"number_of_fixes\": 1,\n\"explanation\": \"There was one error in the XML. The tag <PRICE> was used instead of <PRIZE>. This was corrected.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 679,
+        "output_tokens": 669,
+        "total_tokens": 1348
+    },
+    "duration": 20.074184894561768,
+    "timestamp": "2025-11-05T10:12:48.032358"
+}

@@ -1,0 +1,13 @@
+{
+    "text": "{\n\"fixed_xml\": \"<ITEM>27. In der Serinischen Buchhandlung ist zu haben: <BIBL><TITLE>Biographie des Hrn. Jakob von Daniel Wegelins, Profesfor der Geschichte</TITLE>, von einem ihn verehrenden Mitb√ºrger, samt Portrait, <FORMAT>gr. 8.</FORMAT> <YEAR>792.</YEAR> <PRICE>48 kr.</PRICE></BIBL> <BIBL><TITLE>Reisen und Abentheuer der Br√ºder Robinsons</TITLE>, zur Unterhaltung f√ºr allerley Leser, <FORMAT>8.</FORMAT> <YEAR>791.</YEAR> <PRICE>fl. 1. 48 kr.</PRICE></BIBL> <BIBL><TITLE>Weiblicher Schutzgeis, oder Zuruf an M√ºtter √ºber Erziehung der T√∂chter</TITLE>, <FORMAT>8.</FORMAT> <YEAR>791.</YEAR> <PRICE>48 kr.</PRICE></BIBL> <BIBL><TITLE>Die Souver√§nit√§t des Pabstes hat keinen historischen Grund</TITLE>, <FORMAT>8.</FORMAT> <YEAR>791.</YEAR> broschirt <PRICE>fl. 1.</PRICE></BIBL> <BIBL><TITLE>Gedanken √ºber die Geheimnisse im Reich Gottes</TITLE>, <FORMAT>8.</FORMAT> <YEAR>791.</YEAR> broschirt <PRICE>fl. 1.</PRICE></BIBL> <BIBL><TITLE>Hat die katholische Messe, einen schriftm√§√üigen Grund, oder gr√ºndliche Widerlegung der p√§bstlichen Me√üirrth√ºmer</TITLE>, <FORMAT>8.</FORMAT> <YEAR>791.</YEAR> broschirt <PRICE>fl. 1. 12 kr.</PRICE></BIBL> <BIBL><TITLE>Memoire historique sur la vie & les ouvrages de J. Vernet</TITLE>, <FORMAT>8.</FORMAT> br. <PRICE>fl. 1.</PRICE></BIBL></ITEM>\",\n\"number_of_fixes\": 1,\n\"explanation\": \"The XML tag <PRIZE> was incorrectly spelled in some instances. It has been corrected to <PRICE>.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 566,
+        "output_tokens": 540,
+        "total_tokens": 1106
+    },
+    "duration": 23.04186201095581,
+    "timestamp": "2025-11-07T15:41:49.939240"
+}

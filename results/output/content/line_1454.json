@@ -1,0 +1,5 @@
+{
+    "fixed_xml": "<ITEM>5. Bei J. G. Vahnmaier (fr√ºher Spittler und Comp. ist bereits eingetroffen: <BIBL><TITLE>Weihnachtsbl√ºthen f√ºr</TITLE> √† <PRIZE>8 A2</PRIZE> von <AUTHOR>Gustav Plieninger</AUTHOR>. Mit Stahlstichen und Beitr√§gen von <AUTHOR>Barth, G√ºll, Nieriz, Hey, Eyth, Moser</AUTHOR>, und von der Verfasserin des <TITLE>garmen Martin</TITLE>. Der <PRIZE>Preis dieses Jahrgangs nur 18 Btz</PRIZE>.</BIBL> Diesen trefflichen und in Deutschland und der Schweiz einzigen Jugend- Almanach bieten wir hiemit auch heuer den Freunden der Jugend, und zwar zu einem Preise, der darauf berechnet ist, das freundliche und n√ºtzliche Taschenbuch auch in die H√§nde von S√∂hnen und T√∂chtern weniger bemittelter Familien gelangen zu lassen. Zur Gleichstellung mit diesem Jahrgange setzen wir auch die fr√ºhern, jeder <FORMAT>3 Stahlstiche</FORMAT> enthaltend, elegant gebunden mit Goldschnitt und Futteral, von <PRIZE>2 fl. 30 kr.</PRIZE> auf <PRIZE>1 fl. 20 kr.</PRIZE> herab.</ITEM>",
+    "number_of_fixes": 1,
+    "explanation": "There was a missing closing tag for <PRICE> which was corrected to <PRIZE> to match the opening tag."
+}

@@ -1,0 +1,13 @@
+{
+    "text": "{\n\"fixed_xml\": \"<ITEM>22. Novit√§ten bey Neukirch, Buchh√§ndler. <BIBL><TITLE>Der Fischfang ohne Netz, oder gr√ºndliche Anleitung zur Angelsischerey</TITLE>. <VOLUME>2te verbesserte Aufl.</VOLUME> <PRIZE>br. 30 kr.</PRIZE></BIBL> <BIBL><TITLE>Principes g√©n√©raux de lecture, appliqu√©s Sinultan√™ment √† la langue frangaise et √† l'allemande, ou m√©thode pour apprendre √† lire en m√™me teinps les deux langues</TITLE>, par <AUTHOR>Jean Mougin</AUTHOR>. <VOLUME>1vol.</VOLUME> <FORMAT>8.</FORMAT> <PRIZE>br. fl 2. 20 Er.</PRIZE></BIBL> <BIBL><AUTHOR>Er. Krafft, S. A.</AUTHOR>, <TITLE>juristisch-praktisches W√∂rterbuch, nebst angeh√§ngtem W√∂rterbuch √ºber die Jauner- oder Zigeuner- Sprache</TITLE>. <FORMAT>gr. 8.</FORMAT> <PRIZE>fl 2.</PRIZE></BIBL> <BIBL><AUTHOR>Steinkopf (aus London)</AUTHOR> <TITLE>Predigt √ºber das Evangelium, in Stuttgardt gehalten</TITLE>. <FORMAT>gr. 8.</FORMAT> <PRIZE>8 kr.</PRIZE></BIBL> <BIBL><TITLE>Kunst-Kabinet, physikalisch-bkonomisches und chemisch-technisches, f√ºr K√ºnstler, Fabrikanten, Professionisten und Jedermann</TITLE>. <VOLUME>5tes B√§ndchen</VOLUME>. <PRIZE>54kr.</PRIZE></BIBL> (Die ersten 4 B√§ndchen erschienen vor mehrern Jahren, und fanden eine sehr g√ºnstige Aufnahme. Den Besitzern derselben wird dieses Neue willkommen seyn.) <BIBL><TITLE>Stickmuster nach dem neuesten Geschmack gezeichn</TITLE>. <FORMAT>in 50 Bl√§tter</FORMAT>. <PRIZE>Jedes Blatt √† 12kr.</PRIZE></BIBL></ITEM>\",\n\"number_of_fixes\": 3,\n\"explanation\": \"Three XML tags were closed incorrectly. The closing tag for PRIZE was written as PRICE. This was corrected in three instances.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 629,
+        "output_tokens": 621,
+        "total_tokens": 1250
+    },
+    "duration": 16.33403491973877,
+    "timestamp": "2025-11-05T14:16:13.843977"
+}

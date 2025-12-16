@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>39. Bey Herrn Joh. I. Flick allhier ist zu haben: <BIBL><TITLE>Gellerts Briefe nebst einigen damit verwandten Briefen seiner Freunde</TITLE>; nach seinem Tode herausgegeben von <AUTHOR>J A. Schlegel</AUTHOR> und <AUTHOR>G. L. Heyern</AUTHOR>, nebst dessen <TITLE>Leben</TITLE> von <AUTHOR>J. A. Eramern</AUTHOR>, <FORMAT>gr. 8ro</FORMAT>, <YEAR>1774</YEAR></BIBL>. Ebendasselbe in; <BIBL><VOLUME>B√§nden</VOLUME>, oder dessen s√§mtl. <TITLE>Schrifften</TITLE>, <VOLUME>8</VOLUME>, <VOLUME>9</VOLUME> und <VOLUME>10ter Theil</VOLUME>, <FORMAT>kl. 8</FORMAT>. <YEAR>1774</YEAR></BIBL>. <BIBL><AUTHOR>Enderlins, J. F.</AUTHOR> <TITLE>nat√ºrliche Cameral-Wissenschafft</TITLE>, <VOLUME>Erster Band</VOLUME>, enth√§lt die <TITLE>Natur des Staats-Interesse</TITLE>, <FORMAT>8</FORMAT>. <YEAR>1774</YEAR>. <PRICE>fl. 1. kr. 16</PRICE></BIBL>. <BIBL><TITLE>Lobschrift auf den ohnl√§ngst verstorbenen Churf√ºrsten von Maintz</TITLE>, <FORMAT>8</FORMAT>. <YEAR>1774</YEAR>. <PRICE>kr. 12</PRICE></BIBL>. <BIBL><TITLE>Neues A,B, C-Buch</TITLE> nebst einigen kleinen <TITLE>Uebungen und Unterhalungen f√ºr Kinder</TITLE> mit sch√∂nen <TITLE>Kupfern</TITLE>, <FORMAT>8</FORMAT>. <YEAR>1773</YEAR>. <PRICE>kr. 24</PRICE></BIBL>. Ebendasselbe mit illuminirten <TITLE>Kpfern</TITLE> <PRICE>kr. 45</PRICE>. ‚Äî <BIBL><TITLE>Oraison funebre de Louis XV</TITLE>. prononcce par <AUTHOR>sr. e eau vais, Ev√©que de Senez</AUTHOR>, √† laqufele on √† joint le <TITLE>Mandement de Mr. PEvcque d Alais</TITLE>, <FORMAT>8</FORMAT>. <YEAR>1774</YEAR>. <PRICE>x. 12</PRICE></BIBL>. Die Herren Pr√§numeranten aus die <TITLE>Sammlung der besten deutschen prosaischen Schriffsteller</TITLE> sind ersucht den <VOLUME>2ten Theil</VOLUME> gegen Bezahlung <PRICE>2 kr. pro Porto</PRICE>, und <PRICE>24 kr.</PRICE> f√ºr den <VOLUME>3ten Theil</VOLUME>, ablangen zu lassen. Da sich die erste Auflage gedachter <TITLE>Sammlung</TITLE> v√∂llig vergriffen, so hat man eine Zweyte veranstaltet, worauf auf die nemliche Art als auf die erstere Pr√§numeration angenommen wird, es wird davon ein <TITLE>Avertissement</TITLE> gratis ausgegeben.</ITEM>\",\n  \"number_of_fixes\": 1,\n  \"explanation\": \"There was one error in the XML. The closing tag for <PRIZE> was written as </PRICE>. This has been corrected to </PRIZE>.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 850,
+        "output_tokens": 844,
+        "total_tokens": 1694
+    },
+    "duration": 28.095275163650513,
+    "timestamp": "2025-11-02T09:35:34.380280"
+}

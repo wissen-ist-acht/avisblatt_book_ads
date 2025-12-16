@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>15. Bey Hrn. Emanuel Schardt, Buchbinder ist zu haben: <BIBL><TITLE>Eine-S√§mmlun√§ der be√üten illuminirten Schwbeizer-Prospckte</TITLE>, mit dem gr√∂√üten Flei√ü bearbeitet, so da√ü sie den Beyfall von Kennern und Liebhabern verdienen.</BIBL> Diese Sammlung wird von Zeit zu Zeit mit neuen St√ºcken vermehrt werden. Von den interessantesten Bl√§ttern, welche vorhanden, sind folgende: <BIBL><TITLE>2 St√ºck Wasserf√§lle von Wei√ülingen und Erlenbach</TITLE>. √† <PRIZE>fl. 28.</PRIZE></BIBL> <BIBL><TITLE>2 dito bains e√©lebre dOebe</TITLE>. <PRICE><PRIZE>fl. 16 40 xr.</PRIZE></PRICE></BIBL> <BIBL><TITLE>2 dito von Ragaz und Pont-Rustique √† Mourg</TITLE>. <PRIZE>fl. 10. 40 Kr.</PRIZE></BIBL> <BIBL><TITLE>2 dito von Lugano und Lachen</TITLE>. <PRIZE>fl. 6. 40 kr.</PRIZE></BIBL> <BIBL><TITLE>2 dito bois de Schinznach & Bulach</TITLE>. <PRIZE>fl. 0--</PRIZE></BIBL> <BIBL><TITLE>2 dito Wasserfall von Balstal und Hauenstein</TITLE>. <PRIZE>fl. 6.</PRIZE></BIBL> <BIBL><TITLE>2 dite Schlo√ü Regensperg und Baaden</TITLE>. <PRIZE>fl. 4. 30 kr.</PRIZE></BIBL> <BIBL><TITLE>4 dito Baaden, St. Gallen, Konstanz und Rapperschwil</TITLE>. <PRIZE>fl. 6. 40 kr.</PRIZE></BIBL> <BIBL><TITLE>12 Stucke ch√§teaux differens, superbe enkumine, ovale</TITLE>. <PRICE><PRIZE>fl. 20;</PRIZE></PRICE></BIBL> nebst noch mehrern, welche hier zu weitl√§ufig zu nennen w√§ren. Auch ist zu haben <BIBL><TITLE>das Portr√§t des General Buonaparte in ganzer Figur</TITLE>. √† <PRIZE>fl. 1. 20 kr.</PRIZE></BIBL>, wie auch <BIBL><TITLE>der Prospekt und Sturm des Br√ºckenkopfs bey H√ºningen, in braunen Abdr√ºcken</TITLE>. <PRICE><PRIZE>2 fl. 2. 40 kr.</PRIZE></PRICE></BIBL></ITEM>\",\n  \"number_of_fixes\": 3,\n  \"explanation\": \"The xml was missing closing tags for three PRICE tags. These were added to fix the xml.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 750,
+        "output_tokens": 742,
+        "total_tokens": 1492
+    },
+    "duration": 31.68634295463562,
+    "timestamp": "2025-11-04T14:17:20.420409"
+}

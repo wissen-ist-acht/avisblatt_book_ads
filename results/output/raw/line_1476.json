@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>Von dem allgemein beliebten Werk: <BIBL><TITLE>Sch√ºbert Altes und Neues</TITLE> ist unl√§ngst die <VOLUME>2te Abtheilung des 18. Bandes</VOLUME> erschienen. <PRICE>Preis: 13 1/2 Btz.</PRICE></BIBL> Vorr√§thig in Bahnmaier's Buchhandlung.</ITEM>\",\n  \"number_of_fixes\": 1,\n  \"explanation\": \"The closing tag for 'PRICE' was incorrectly spelled as 'PRIZE'. It has been corrected to 'PRICE'.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 162,
+        "output_tokens": 152,
+        "total_tokens": 314
+    },
+    "duration": 7.110618829727173,
+    "timestamp": "2025-11-06T11:06:42.682560"
+}

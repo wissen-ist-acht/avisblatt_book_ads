@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>39. In der Serinischen Buchhandlung sind folgende B√ºcher zu haben: <BIBL><TITLE>B√§ttagspredigt, gehalten im grossen M√ºnster zu Bern</TITLE>, von <AUTHOR>David M√§slin Helfer</AUTHOR>, <PRICE>12 kr.</PRICE></BIBL> <BIBL><TITLE>Neue Reisebemerkungen in und √ºber Deutschland</TITLE>, <VOLUME>T Thle.</VOLUME> geb. <PRICE>fl. 3. 46 kr.</PRICE></BIBL> <BIBL><TITLE>Beschreibund einer Reise aus Deutschland, durch einen Theil von Frankreich, Engelland und Holland</TITLE>, <VOLUME>2 Thle.</VOLUME> geb. <PRICE>fl. 1. 12 kr.</PRICE></BIBL> <BIBL><TITLE>Beobachtungen. und Anmerkungen auf Reisen durch Deutschland in Fragmenten und Briefen</TITLE>, <PRICE>br. fl. 1.</PRICE></BIBL> <BIBL><TITLE>Vollst√§ndige theoretische und praktische Anleitung zur Handlungswissenschaft</TITLE>, von <AUTHOR>J. C. Peter</AUTHOR>, <PRICE>4. fl. 39.</PRICE></BIBL> <BIBL><TITLE>Franz√∂sische und deutsche Gespr√§che, ein Versuch durch prakt. Anweisung, Anf√§ngern im franzosischen das Sprechen zu erleichtern</TITLE>, <VOLUME>zweyte vermehrte Ausgabe</VOLUME></BIBL> auch sind in der nemlichen Buchhandlung folgende Calenderchen auf das 7te Jahr der fr√§nkischen Republik zu haben. <BIBL><TITLE>Etrennes curieuses univerfelles √ºtiles & agr√©ables</TITLE>, <PRICE>br. 24 xr.</PRICE></BIBL> <BIBL><TITLE>Etrennes mignones</TITLE>, <PRICE>br. 24 xr.</PRICE></BIBL> <BIBL><TITLE>Etrennes interessantes des quatres parties du monde & des tioupes de france</TITLE>, <PRICE>24 xr.</PRICE></BIBL> <BIBL><TITLE>L'almanach du plaisit, avec chanson</TITLE>, <PRICE>br. 24 xr.</PRICE></BIBL> <BIBL><TITLE>Les d√©lices de trivoli ou Etrennes aux jolies femmes, avec chansons</TITLE>, <PRICE>br. 24 Kr.</PRICE></BIBL> <BIBL><TITLE>Les Etrennes de F'amitl√© & de l'amour ou recueil amusant des plus jolies chansons du jour;</TITLE> <PRICE>br. 24 xr.</PRICE></BIBL> <BIBL><TITLE>Taschenkalender auf das 7te Jahr der fr√§nkischen Republik</TITLE>, <PRICE>8 kr.</PRICE></BIBL></ITEM>\",\n  \"number_of_fixes\": 11,\n  \"explanation\": \"All instances of the tag <PRIZE> were replaced with the correct tag <PRICE>, as it seems to be a typographical error. This was done 11 times.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 793,
+        "output_tokens": 779,
+        "total_tokens": 1572
+    },
+    "duration": 30.59894895553589,
+    "timestamp": "2025-11-04T14:34:09.223919"
+}

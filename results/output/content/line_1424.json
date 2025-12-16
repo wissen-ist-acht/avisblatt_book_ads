@@ -1,0 +1,5 @@
+{
+    "fixed_xml": "<ITEM>F√ºr Confirmanden. 2. Bei Perthes in Gotha ist eben erschienen und bei C. F. Spittler und Comp. vorr√§thig: <BIBL><TITLE>Lehrspruche des Glaubens. Ein Weih-Geschenk f√ºr die christliche Jugend zum Confirmations-Tage</TITLE>, von <AUTHOR>Dr. Friedr. Hesekiel</AUTHOR>. <FORMAT>Quarto</FORMAT> <PRICE>11 Btz.</PRICE></BIBL></ITEM>",
+    "number_of_fixes": 1,
+    "explanation": "The XML tag for 'PRICE' was incorrectly spelled as 'PRIZE'. This was corrected to 'PRICE'."
+}

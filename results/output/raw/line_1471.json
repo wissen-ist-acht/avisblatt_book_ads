@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>2. Einige hundert, noch gut conditionnirte B√ºcher, verschiedenen Inhalts, aus ganz alter und neuerer Zeit, mit und ohne Kupfer, -c. worunter sich auch solche befinden, welche sich zu Festgeschenken eignen w√ºrden, als: <BIBL><TITLE>Buchdrucker-Jubil√§ums-Festschriften</TITLE>, complett mit Medaille, <YEAR>840</YEAR></BIBL>. <BIBL><AUTHOR>G√∂tzinger, M. W.</AUTHOR>, <TITLE>deutsche Sprachlehre f√ºr Schulen</TITLE>, geb. <PLACE>Aarau</PLACE>, <YEAR>838</YEAR></BIBL>. <BIBL><AUTHOR>Schwab, Gustav</AUTHOR>, <TITLE>die Schweiz in ihren Ritterburgen und Bergschl√∂√üern</TITLE>, <VOLUME>2 Bd.</VOLUME> mit <FORMAT>Kupfern</FORMAT>, geb. <PLACE>Chur</PLACE> <YEAR>830</YEAR></BIBL>. <BIBL><AUTHOR>de Wette, Dr. W. M. L.</AUTHOR>, <TITLE>die heil. Schrift in gr.</TITLE> <VOLUME>8.</VOLUME> <YEAR>dritte verbesserte Ausgabe</YEAR>, elegant geb. mit <FORMAT>Titel</FORMAT>, <YEAR>839</YEAR></BIBL>. <BIBL><AUTHOR>Wackernagel W.</AUTHOR>, <TITLE>deutsches Lesebuch 1ter Bd. Altdeutsches Lesebuch</TITLE> mit einem <TITLE>W√∂rterbuche</TITLE>, <VOLUME>2. Auflage</VOLUME> <FORMAT>Royal 8.</FORMAT></BIBL>. <BIBL><AUTHOR>Wackernagel, W.</AUTHOR> <TITLE>Deutsches Lesebuch 2ter Band. Proben der deutschen Poesie seit dem Jahr 1500.</TITLE> <VOLUME>2te Auflage</VOLUME> u. s. w. S√§mmtliche B√ºcher k√∂nnen ganz billig abgegeben, und t√§glich besichtigt werden im Papierladen No. 1100 an der Streitgasse.</ITEM>\",\n  \"number_of_fixes\": 0,\n  \"explanation\": \"The provided XML is correctly formatted. There are no missing or incorrect tags.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 603,
+        "output_tokens": 585,
+        "total_tokens": 1188
+    },
+    "duration": 22.552073001861572,
+    "timestamp": "2025-11-06T11:05:28.113708"
+}

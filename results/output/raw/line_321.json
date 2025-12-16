@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>5. Im Bischoffischen Buchladen ist zu haben: <BIBL><TITLE>Luthers biblisches Spruch- und Schatzk√§stlein</TITLE>, ; Theile, <PRIZE>kr. 26.</PRIZE></BIBL> <BIBL><TITLE>Geb√§ttb√ºchlein f√ºr Kinder</TITLE>, <PRIZE>kr. 4.</PRIZE></BIBL> <BIBL><TITLE>Neue Kreutzschule, oder Anweisung zu einem christlichen Verhalten unter dem Leiden, in Ausz√ºgen aus erbaulichen Schrifften, Liedern und Geb√§ttern</TITLE>, <PRIZE>kr. 20.</PRIZE></BIBL> <BIBL><AUTHOR>Schmidlins</AUTHOR> <TITLE>musical. wochentliches Vergn√ºgen</TITLE>, ; Theile, <PRIZE>in 40 fl. 4. kr. 40.</PRIZE></BIBL> <BIBL><AUTHOR>Dessen</AUTHOR> <TITLE>Erg√∂tzungen</TITLE>, <PRIZE>fl. 2. kr. 40.</PRIZE></BIBL> <BIBL><AUTHOR>Burmanns</AUTHOR> <TITLE>leine Lieder f√ºr kleine M√§dchen und Knaben, zu 2 Stimmen</TITLE>, <PRIZE>fl. 1.</PRIZE></BIBL> <BIBL><TITLE>Hallische Bibel, wei√ü Pap.</TITLE> <PRIZE>40 fl. 3.</PRIZE></BIBL> <BIBL><TITLE>Dito in 8e</TITLE>, <PRIZE>fl. 1. kr. 44.</PRIZE></BIBL> Auch sind wiederum zu haben: <BIBL><AUTHOR>BacHosen und Schmidlins</AUTHOR> <TITLE>Gesangbuch</TITLE>, in bewu√ütem Preis.</BIBL></ITEM>\",\n  \"number_of_fixes\": 1,\n  \"explanation\": \"The XML tag <PRICE> was incorrect and has been replaced with the correct tag <PRIZE> for the 'Hallische Bibel, wei√ü Pap.' item.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 530,
+        "output_tokens": 534,
+        "total_tokens": 1064
+    },
+    "duration": 14.681039810180664,
+    "timestamp": "2025-11-02T20:17:04.421845"
+}

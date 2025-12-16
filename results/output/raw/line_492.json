@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>28. In der Serinischen Buchhandlung ist zu haben: <BIBL><TITLE>Plan de la situation du Regiment d Ernest √† Ain</TITLE>, <PRIZE>24 xr.</PRIZE></BIBL> Ebendasselbe deutsch, <PRIZE>24 kr.</PRIZE> <BIBL><TITLE>Suite de lAlmanach de la Revolution Frangoise, de Mr. Rabaud de St. Etienne</TITLE>, <PRIZE>16 xr.</PRIZE></BIBL> <BIBL><TITLE>Pezil Leben des Prinzen Eugens</TITLE>, <FORMAT>8.</FORMAT> <YEAR>790.</YEAR> <PRIZE>fl. 1. 30 kr.</PRIZE></BIBL> <BIBL><TITLE>Historisches Bilderbuch des Edlen und Sch√∂nen aus dem Leben w√ºrdiger Frauenzimmer</TITLE>, <FORMAT>gr. 8.</FORMAT> <PRIZE>fl. 1. 30 kr.</PRIZE></BIBL> <BIBL><TITLE>Tieger von Bengalen; ein Buch mit vielen Wahrheiten</TITLE> von <AUTHOR>Hrn. Hofrath von Eckartshausen</AUTHOR>, <FORMAT>8.</FORMAT> <PRIZE>fl. 1. 20 kr.</PRIZE></BIBL> <BIBL><TITLE>Etrennes, Drames & Contes moraun, √† Pusage des Enfans</TITLE>, par <AUTHOR>Mad. la Fite</AUTHOR>, <VOLUME>2 Vol.</VOLUME> <PRIZE>fl. 1. 40 xr.</PRIZE></BIBL></ITEM>\",\n  \"number_of_fixes\": 3,\n  \"explanation\": \"Three PRIZE closing tags were incorrectly written as PRICE. These have been corrected to PRIZE.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 434,
+        "output_tokens": 423,
+        "total_tokens": 857
+    },
+    "duration": 16.395594835281372,
+    "timestamp": "2025-11-07T15:39:39.991796"
+}

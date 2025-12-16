@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>43. Bey Felix Schneider, Buchdrucker, ist zu haben: <BIBL><TITLE>Eine neue Auflage der 40 Mechel'schen Kupferstiche zum Alten u. Neuen Testament</TITLE> √† <PRICE>50 Btz.</PRICE></BIBL> Dieselben sind anwend. bar zu klein und gro√ü <FORMAT>8¬∞. Bibeln</FORMAT>; auf mehrseitiges Begehren sind sie auch in gr. <FORMAT>4¬∞.</FORMAT> zur Ba√∂ler Quart-Bibel √† <PRICE>60 Btz.</PRICE> zu haben. <BIBL><TITLE>Biblische Geschichten aus dem Alten und Neuen Testament</TITLE> <AUTHOR>Bearbeitet von einigen Predigern im Kanton Basel</AUTHOR> Mit <AUTHOR>Mechel'schen Kupfern</AUTHOR> <FORMAT>Halbfrzbd.</FORMAT> <PRICE>65 Btz.</PRICE></BIBL> <BIBL><TITLE>Die Weihnachten</TITLE> Mit <FORMAT>1 Titelkpfr.</FORMAT> <PRICE>2 Btz.</PRICE></BIBL> <BIBL><TITLE>Ehrenged√§chtni√ü evangelischer Glaubenshelden und s√§nger zur dritten Jubelfeyer der Uebergabe des Augsburg</TITLE> <AUTHOR>Bekenntnisses, gewiedmet von J. Dan- V√∞rkel</AUTHOR> Mit einer <FORMAT>lith. Abbildung</FORMAT> <PRICE>30 Btz.</PRICE></BIBL> <BIBL><TITLE>Uebergabe der Augsb. Confession</TITLE>, in einem <FORMAT>lith. Blatt</FORMAT> dargestellt, samt einer Erkl√§rung zu demselben. <PRICE>24 Btz.</PRICE></BIBL> <BIBL><TITLE>Predigten auf alle Sonn- u. Festtage im Jahre</TITLE>, von <AUTHOR>Martin Boos</AUTHOR>; herausgegeben von <AUTHOR>J. Go√üner</AUTHOR> <VOLUME>Erster u. 2ter Thl.</VOLUME> <PLACE>Berlin</PLACE> <YEAR>1830</YEAR> <PRICE>8o Btz.</PRICE></BIBL> <BIBL><TITLE>Die Offenbarungen Gottes in Geschichte u. Lehre nach dem Alten u. Neuen Testament; oder Vom Reiche Gottes</TITLE> Von <AUTHOR>L. G. Lisco</AUTHOR> <PLACE>Hamburg</PLACE> <YEAR>1830</YEAR> <PRICE>42 Btz.</PRICE></BIBL> <BIBL><TITLE>Erhebungen des Herzens auf dem wege zur Heimath mit Gott</TITLE></BIBL></ITEM>\",\n  \"number_of_fixes\": 3,\n  \"explanation\": \"There were three instances where the tag <PRIZE> was used instead of the correct tag <PRICE>. These instances have been corrected.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 723,
+        "output_tokens": 704,
+        "total_tokens": 1427
+    },
+    "duration": 21.111521005630493,
+    "timestamp": "2025-11-05T16:00:59.036808"
+}

@@ -1,0 +1,5 @@
+{
+    "fixed_xml": "<ITEM>3. Bey Hrn. Samuel Haag- Buchbinder am Spahlenberg; sind nachstehende Calender in den gew√∂hnlichen Preisen zu haben: <BIBL><TITLE>deutsch- und franz√∂sische Gothaische Hofcalender</TITLE></BIBL>; <BIBL><TITLE>G√∂ttinger Taschencalender</TITLE></BIBL>; <BIBL><TITLE>Musenalmanach oder poetische Blumenlese</TITLE></BIBL>; <BIBL><TITLE>Etr√∂nnes mignones de Paris</TITLE></BIBL>; <BIBL><TITLE>Calendrier de la Cour de France</TITLE></BIBL>; <BIBL><TITLE>Historisches-Sackcalenderlein</TITLE><DESCRIPTION>, mit und ohne Kupf.</DESCRIPTION></BIBL> und noch andere <BIBL><TITLE>Sack- und Hauscalender</TITLE><DESCRIPTION> mehr.</DESCRIPTION></BIBL></ITEM>",
+    "number_of_fixes": 2,
+    "explanation": "The XML was mostly well-formed, but there were two instances where text was not enclosed in an appropriate tag. In both cases, I added a <DESCRIPTION> tag to enclose the text that followed the <TITLE> tag within the <BIBL> tag."
+}

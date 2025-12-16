@@ -1,0 +1,5 @@
+{
+    "fixed_xml": "<ITEM>In Emanuel Thurneysens Buchhandlung allhier, ist zu haben: <BIBL><AUTHOR>Joh. Casp. Lavaters</AUTHOR> <TITLE>Herzenserleichterung oder Verschiedenes an Verschiedene</TITLE>, mit dem Motto zur Pr√ºfung dieser Schrift: Ist alles wahr und klar ? Íùõc. Íùõc. <YEAR>1784</YEAR>. <FORMAT>broch√©</FORMAT> <PRIZE>kr. 56</PRIZE></BIBL>; <BIBL><TITLE>Lieder f√ºr's Clavier und Gesang</TITLE>; in Musik gesetzt und herausgegeben von <AUTHOR>S. G. Auberlen</AUTHOR>, <FORMAT>fol.</FORMAT> <YEAR>1784</YEAR>. <PRIZE>br. fl. 1. kr. 30</PRIZE></BIBL>. <BIBL><TITLE>Hans v√∂n Schwaben, oder Kayser Alberts Tod</TITLE>, vom Verfasser des Schweitzerbunds, <FORMAT>8.</FORMAT> <YEAR>1784</YEAR> <PRIZE>kr. 24</PRIZE></BIBL>. Auch ist ein klein Verzeichni√ü einiger neuer B√ºcher gratis zu haben.</ITEM>",
+    "number_of_fixes": 1,
+    "explanation": "The XML was missing a closing PRICE tag in the second BIBL tag. I added the closing PRICE tag to fix the XML."
+}

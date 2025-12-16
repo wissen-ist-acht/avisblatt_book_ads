@@ -1,0 +1,13 @@
+{
+    "text": "{\n\"fixed_xml\": \"<ITEM>40. Zu dem biliebten kleinen Schweitzer-Atlas sind wiederum zwey neue C√§rtlein herausgekommen, und k√∂nnen von denen Herren Besitzeren der ersteren bey Hrn. Bollt Buchbinder, das Stuck √† 6 kr. illum. bezogen werden, dieselben sind, das Thurgan und Bodensee, und ein sch√∂n Titulblat mit dem Wappen der L√∂bl. 13 Cantons. <BIBL><TITLE>Schweitzer-Atlas</TITLE>, complete Exemplaria von <VOLUME>20 C√§rtlein</VOLUME>, illum. √† <PRIZE>fl. 2.</PRIZE></BIBL> sind auch noch etliche Exemplaria zu haben. Von denen lateinischen ela√üischen Schriftsteller Zweybr√ºcker Ausgabe sind heraus: <BIBL><AUTHOR>Tacitus</AUTHOR>, <VOLUME>1. Theil</VOLUME></BIBL>, <BIBL><AUTHOR>Terentius</AUTHOR>, <VOLUME>1. Theil</VOLUME></BIBL>, <BIBL><AUTHOR>Sallastius</AUTHOR></BIBL>, <BIBL><AUTHOR>Vellejus Paterculus</AUTHOR></BIBL>, <BIBL><AUTHOR>Plautus</AUTHOR>, <VOLUME>3 Theil</VOLUME></BIBL> und von der Manheimer Ausgabe: <BIBL><AUTHOR>Cornelius Nepos</AUTHOR></BIBL>, <BIBL><AUTHOR>Virgilius</AUTHOR>, <VOLUME>2 Theil</VOLUME></BIBL>, <BIBL><AUTHOR>Sallustius</AUTHOR></BIBL>, <BIBL><AUTHOR>Horatius</AUTHOR>, <VOLUME>2 Theil</VOLUME></BIBL>, <BIBL><AUTHOR>J. Caesar</AUTHOR>, <VOLUME>2 Thl.</VOLUME></BIBL>, <BIBL><AUTHOR>Lucanus</AUTHOR></BIBL>, <BIBL><AUTHOR>Florus</AUTHOR></BIBL>, <BIBL><AUTHOR>T. Livius</AUTHOR>, <VOLUME>5 Theil</VOLUME></BIBL>. Vonbeyden Ausgaben sind f√ºr Liebhaber noch einige Exemplaria vorr√§thig. <BIBL><TITLE>Versuch in Handlungs-Briefen und gr√∂sseren Kaufm√§nnischen Aufs√§tzen</TITLE>, <VOLUME>2 May</VOLUME>, geb. <PRIZE>44 kr.</PRIZE></BIBL>, <BIBL><TITLE>Reisen f√ºr das Herz</TITLE>, von <AUTHOR>C. Melmoth</AUTHOR>, <VOLUME>2 Theil</VOLUME> in einem Band, <PRICE>44 kr.</PRICE></BIBL>, <BIBL><TITLE>Das Leben und die Meynungen Tristram Shandy</TITLE>, <VOLUME>2te Auflage</VOLUME>, <PLACE>Berlin</PLACE> <YEAR>1744</YEAR>, <VOLUME>9 Theil</VOLUME> in <VOLUME>2 B√§nden</VOLUME>, Halbfrauzb. √† <PRIZE>fl. 2. 8 kr.</PRIZE></BIBL></ITEM>\",\n\"number_of_fixes\": 1,\n\"explanation\": \"The last prize tag was incorrectly spelled as 'PRICE', it has been corrected to 'PRIZE'.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 865,
+        "output_tokens": 851,
+        "total_tokens": 1716
+    },
+    "duration": 18.002767086029053,
+    "timestamp": "2025-11-02T09:59:02.650403"
+}

@@ -1,0 +1,5 @@
+{
+    "fixed_xml": "<ITEM>Novit√§ten 12. bey Neukirch, Buchh√§ndler: <BIBL><AUTHOR>De Wette</AUTHOR>, √ºber das Gleichni√ü vom un- gerechten Haushalter. <TITLE>Predigt in Weimar gehalten</TITLE>, <FORMAT>gr. 8.</FORMAT> <PRIZE>br. 4 Btz.</PRIZE></BIBL> <BIBL><TITLE>Theodor oder des Zweiflers Weihe</TITLE>. <VOLUME>1r. Band.</VOLUME> <FORMAT>8.</FORMAT> <PLACE>Beelin</PLACE> <PRIZE>Fr. S. 5 Btz.</PRIZE></BIBL> Da der w√ºrdige Hr. Verfasser sich auf dem Titel nicht selbst neunt, so erlauben wir ung nicht, seinen Ramen beyzuf√ºgen, der das Interesse des hiesigen Publikums sehr in Anspruch nehmen w√ºrde. <BIBL><AUTHOR>De Pradt</AUTHOR>, <TITLE>Griechenland in seinen Verh√§ltnissen zu Europa</TITLE>, <FORMAT>gr. 8.</FORMAT> <PRIZE>br. 21 Btz.</PRIZE></BIBL></ITEM>",
+    "number_of_fixes": 2,
+    "explanation": "There were two errors. The PRIZE tag was incorrectly closed as PRICE in two places. These have been corrected."
+}

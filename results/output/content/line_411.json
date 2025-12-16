@@ -1,0 +1,5 @@
+{
+    "fixed_xml": "<ITEM>9. Von Hrn. Hans Jakob Holzhalbs <BIBL><TITLE>Supplement zu dem beliebten Leuischen allgemeinen helvetischen Lexicon</TITLE> in 40. hat der <VOLUME>4te Theil</VOLUME> die Presse verlassen.</BIBL> Die hiesigen Herren Pr√§numeranten sind ersucht, ihre Exemplarien bey denen Herren Gebr√ºdern von Mechel in der Steinenvorstadt ablangen zu lassen. Sie bezahlen f√ºr diesen vierten Theil <PRIZE>fl. 1. 4 kr.</PRIZE> nebst eben so viel Vorschu√ü auf den folgenden Theil, und <PRIZE>4 kr</PRIZE> Porto, also zusammen <PRIZE>fl. 2. 12 kr.</PRIZE> hiesiges Geld. Es sind auch noch einige Exemplare von den ersten Theilen dieses Supplements zu haben. Von dem ganzen aus <VOLUME>20. Theilen</VOLUME> bestehenden <BIBL><TITLE>Lexicon des sel. Herrn Burgermeister Leuen</TITLE></BIBL> k√∂nnen noch Exemplare angeschaft werden, wie auch einzelne ungrade Theile; alles in billigen Preisen.</ITEM>",
+    "number_of_fixes": 1,
+    "explanation": "The PRIZE tag was incorrectly closed as PRICE. It was fixed to correctly close as PRIZE."
+}

@@ -1,0 +1,5 @@
+{
+    "fixed_xml": "<ITEM>4. Man sucht <BIBL><TITLE>Ulacg Tabellen der Sinuum & tangentium</TITLE>, deutsch, <FORMAT>8vo</FORMAT>, <YEAR>1738</YEAR></BIBL>. Item <BIBL><AUTHOR>Wolfens</AUTHOR> <TITLE>Anfangs-Grunde aller mathematischen Wissenschaften</TITLE>, <VOLUME>Theile</VOLUME>, <YEAR>1748</YEAR></BIBL>. der Liebhaber ist im Berichthaus zu erfragen.</ITEM>",
+    "number_of_fixes": 1,
+    "explanation": "The AUTHOR tag in the second BIBL tag was incorrectly formatted with an equals sign. It has been corrected to a standard XML tag."
+}

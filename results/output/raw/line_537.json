@@ -1,0 +1,13 @@
+{
+    "text": "{\n\"fixed_xml\": \"<ITEM>In der Schweighauserischen Buchhandlung allhier ist zu haben: <BIBL><TITLE>M√©molre pour fervir √† l'histoire de la vie & des ouvrages de M. C. Bonnet</TITLE>, <FORMAT>8.</FORMAT> broch√©, <PLACE>Berne</PLACE> <YEAR>794</YEAR>. <PRICE>40 Kr.</PRICE></BIBL> <BIBL><TITLE>Discours patriotique, pr√©ced√© d'une pri√®re, & prononc√© le jour de la solennite extraordinaire du 16. Mars 1794</TITLE>, par <AUTHOR>J. Wartmann</AUTHOR>, Pasteur de P√©glise fr. de St. Gall; <FORMAT>gr. 8.</FORMAT> <PRICE>12 xr.</PRICE></BIBL> <BIBL><TITLE>Sammlung der neuesten Kaufmanns- und anderer Briefe in deutsch, franz√∂sisch und itali√§nischer Sprache</TITLE>, <VOLUME>6te sehr verbefferte Auflage</VOLUME>, <FORMAT>8.</FORMAT> <PLACE>Augsb.</PLACE> <YEAR>792</YEAR>. <PRICE>fl. 1.</PRICE></BIBL> <BIBL><TITLE>Auswahl bkonomischer Abhandlungen, welche die bkonomische Gesellschaft in Petersburg erhalten hat</TITLE>, <VOLUME>3 Thle.</VOLUME> <FORMAT>gr. 8.</FORMAT> <YEAR>793</YEAR>. <PRICE>fl. 6. 40 kr.</PRICE></BIBL> <BIBL><AUTHOR>Walther</AUTHOR> <TITLE>Geschichte der R√∂mer in Helvetien</TITLE>, <FORMAT>gr. 8.</FORMAT> <PLACE>Bern</PLACE> <YEAR>793</YEAR>. <PRICE>fl. 2.</PRICE></BIBL> <BIBL><TITLE>Briefe √ºber die wichtigsten Gegenst√§nde der Menschheit</TITLE>, <VOLUME>1ter Thl.</VOLUME> <FORMAT>8.</FORMAT> <YEAR>794</YEAR>. <PRICE>fl. 1. 48 kr.</PRICE></BIBL></ITEM>\",\n\"number_of_fixes\": 3,\n\"explanation\": \"The xml-tags <PRIZE> were replaced with <PRICE> in order to maintain consistency throughout the document. This change was made three times.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 594,
+        "output_tokens": 578,
+        "total_tokens": 1172
+    },
+    "duration": 15.846107244491577,
+    "timestamp": "2025-11-04T13:31:14.445603"
+}

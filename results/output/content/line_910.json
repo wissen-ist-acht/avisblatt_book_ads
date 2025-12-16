@@ -1,0 +1,5 @@
+{
+    "fixed_xml": "<ITEM>Bey Sam. Flick sind folgende neue Schriften um beygesetzte Preise zu haben: <BIBL><TITLE>Europ√§isches Magazin, f√ºr Geschichte, Politik und Kriegskunst der Vorweit und Gegenwart</TITLE>, eine Zeitschrift in <VOLUME>12 Heften</VOLUME>, <FORMAT>8.</FORMAT> geh. <PRICE>8 fl. 15 kr.</PRICE></BIBL> <BIBL><AUTHOR>Henning, J. W. M.</AUTHOR> <TITLE>Leitfaden beym methodischen Unterricht in der Geographie</TITLE>, f√ºr fern, wovon der Kammarad im Bericht- Lehrer und Eltern, mit <VOLUME>12</VOLUME> Holzschnitten, <FORMAT>gr. 8.</FORMAT> <PRICE>2 fl. 40 kr.</PRICE></BIBL> <BIBL><TITLE>Esprit de la m√©thode d'√©ducation de Pestalozzi</TITLE>, Suivie et pratiqu√©e dans l'institut d'√©ducation d'Vverdun, par <AUTHOR>M. A. Jullien</AUTHOR>, <VOLUME>2vol.</VOLUME> <FORMAT>8.</FORMAT> br. <PRICE>5 fl. 20 kr.</PRICE></BIBL></ITEM>",
+    "number_of_fixes": 3,
+    "explanation": "The XML was incorrect due to the wrong tag used for price. The tag <PRIZE> was used instead of <PRICE>. This mistake was repeated 3 times, so the number of fixes is 3."
+}

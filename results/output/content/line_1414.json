@@ -1,0 +1,5 @@
+{
+    "fixed_xml": "<ITEM>31. So eben ist erschienen und in allen Buchhandlungen zu haben, in Basel bei C. F. Spittler und Comp. Freiestra√üe No. 1179: <BIBL><TITLE>Praktische Belehrungen und Recepte √ºber Seifen- und Lichterfabrikation.</TITLE> Ein Buch f√ºr Haushaltungen von <AUTHOR>Friedrich Stoltz</AUTHOR>. <PRICE>Preis 9 Btz.</PRICE></BIBL></ITEM>",
+    "number_of_fixes": 1,
+    "explanation": "The 'PRIZE' tag was incorrect. It was replaced with the correct 'PRICE' tag."
+}

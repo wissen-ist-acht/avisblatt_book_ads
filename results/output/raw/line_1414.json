@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>31. So eben ist erschienen und in allen Buchhandlungen zu haben, in Basel bei C. F. Spittler und Comp. Freiestra√üe No. 1179: <BIBL><TITLE>Praktische Belehrungen und Recepte √ºber Seifen- und Lichterfabrikation.</TITLE> Ein Buch f√ºr Haushaltungen von <AUTHOR>Friedrich Stoltz</AUTHOR>. <PRICE>Preis 9 Btz.</PRICE></BIBL></ITEM>\",\n  \"number_of_fixes\": 1,\n  \"explanation\": \"The 'PRIZE' tag was incorrect. It was replaced with the correct 'PRICE' tag.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 181,
+        "output_tokens": 167,
+        "total_tokens": 348
+    },
+    "duration": 6.880583763122559,
+    "timestamp": "2025-11-06T10:46:05.366867"
+}

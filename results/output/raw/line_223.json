@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>35. Bey Hrn. J. J. Flick, Buchhändler auf dem Fischmarckt allhier ist zu haben: <BIBL><TITLE>Magazin (Göttingisches) der Wissenschaften und Litteratur</TITLE>, herausgegeben von <AUTHOR>Georg Christoph Lichtenberg</AUTHOR> und <AUTHOR>Georg Forster</AUTHOR>: mit 2 Kupfern, <VOLUME>1ten Jahrgangs 2tes Stück</VOLUME>, <FORMAT>8.</FORMAT> <YEAR>1780</YEAR>. broschirt <PRIZE>54 kr.</PRIZE></BIBL> <BIBL><TITLE>Fritz von Elmenau, eine Geschichte aus unserm Jahrhunderte</TITLE>, mit Kupfern, <FORMAT>8.</FORMAT> <YEAR>1780</YEAR>. <PRIZE>fl. 1. kr. 30.</PRIZE> <AUTHOR>Linné CCar.</AUTHOR></BIBL> <BIBL><TITLE>Systema plantarum, secundum Classes, ordines, genera, species</TITLE>, curante <AUTHOR>Jo. Jac. Reichard</AUTHOR>, <VOLUME>Pars 3tia</VOLUME>, <FORMAT>8.</FORMAT> <YEAR>1780</YEAR>. <PRIZE>fl. 2. kr. 45.</PRIZE></BIBL> <BIBL><TITLE>Sammlung auserlesener Briefen aus Plinius, Cicero und Seneka</TITLE>, <FORMAT>8.</FORMAT> <YEAR>1780</YEAR>. <PRIZE>30 kr.</PRIZE></BIBL> <BIBL><TITLE>Liebhaber (der lahme)</TITLE> ein Lustspiel in <VOLUME>Aufzügen</VOLUME>, aus dem Englischen des <AUTHOR>Samuel Foote</AUTHOR>, <FORMAT>8.</FORMAT> <YEAR>1780</YEAR>. <PRIZE>24 kr.</PRIZE></BIBL> <BIBL><TITLE>Reisen nach Persten, nebst einer Beschreibung der wichtigsten Merkwürdigkeiten dieses Reichs</TITLE>, <VOLUME>1ter Band</VOLUME>, mit Kupfern, <FORMAT>8.</FORMAT> <YEAR>1780</YEAR>. <PRIZE>fl. 2. kr. 30.</PRIZE></BIBL> <BIBL><AUTHOR>Stillings (Heinr. , oder Joh. Heinr. Jungs,</AUTHOR> <TITLE>ascetische Schriften</TITLE>, <FORMAT>8.</FORMAT> <YEAR>1779</YEAR>. <PRIZE>fl. 1. kr. 12.</PRIZE></BIBL> <BIBL><AUTHOR>Titteke (Gottl. Aug.)</AUTHOR> <TITLE>uber Todesstrafen gegen Mörder</TITLE>, <FORMAT>8.</FORMAT> <YEAR>1780</YEAR>. <PRICE>20. kr.</PRICE></BIBL> <BIBL><AUTHOR>Weissensteins (M. J. F.)</AUTHOR> <TITLE>Fragmente zur Erziehung und zum Unterricht, Kindern und Kinderfreunden gewiedmet</TITLE>, <VOLUME>3tes Bändchen</VOLUME>, <FORMAT>8.</FORMAT> <YEAR>1780</YEAR>. <PRIZE>36kr.</PRIZE></BIBL> Auch kan man wieder <TITLE>Siegwart und Burgheims Geschichte</TITLE> complet haben.</ITEM>\",\n  \"number_of_fixes\": 4,\n  \"explanation\": \"The XML data was missing closing tags for some BIBL elements. Additionally, some of the characters were not correctly encoded, and the years were incorrect in some places. The XML data has been corrected by adding the missing closing tags, correcting the character encoding, and fixing the years.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 871,
+        "output_tokens": 872,
+        "total_tokens": 1743
+    },
+    "duration": 17.703256130218506,
+    "timestamp": "2025-11-02T09:57:37.881270"
+}

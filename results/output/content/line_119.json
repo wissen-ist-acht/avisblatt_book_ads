@@ -1,0 +1,5 @@
+{
+    "fixed_xml": "<ITEM>In Herrn Johann Schweighausers Buchhandlung zum Efringen an der Schneiderga√ü ist nebst noch vielen andern B√ºchern zu haben: <BIBL><TITLE>lnstruction dun Pere √† son sils</TITLE>, par <AUTHOR>du Puy</AUTHOR>, <FORMAT>12.</FORMAT> a <PRIZE>fl 1.</PRIZE></BIBL> <BIBL><TITLE>lnstruction dun Pere √† sa fille</TITLE>, par <AUTHOR>le meme</AUTHOR>, <FORMAT>12.</FORMAT> a <PRIZE>fl 1.</PRIZE></BIBL> <BIBL><TITLE>Grammaire angl. & francoise</TITLE>, par <AUTHOR>Robinet & de Haynin</AUTHOR>, <FORMAT>12.</FORMAT> √§ <PRIZE>fl 1- 20 xr.</PRIZE></BIBL> <BIBL><TITLE>Description de Pltalie</TITLE>, par <AUTHOR>Richard</AUTHOR>, <VOLUME>6 Tomes</VOLUME>, <FORMAT>12.</FORMAT> √† <PRIZE>fl 8.</PRIZE></BIBL> <BIBL><TITLE>Frauz√∂sische und deutsche Frachtbrief</TITLE></BIBL></ITEM>",
+    "number_of_fixes": 1,
+    "explanation": "The XML tag <PRICE> was incorrect and has been replaced with the correct tag <PRIZE> in the fourth <BIBL> entry."
+}

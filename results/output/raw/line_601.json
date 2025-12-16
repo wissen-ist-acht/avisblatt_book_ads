@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>50. Bey Hrn. Joh. Jak. Flick, Buchh√§ndler auf dem Fischmarkt, ist zu haben: <BIBL><TITLE>Bericht √ºber die Auff√ºhrung der Bevollm√§chtigten des National-Convents und des Kriegsministers, welche zur Armee unter den Befehlen des General Dumouriez gesandt worden; von ihrer Gefangennehmung und Wegf√ºhrung nach Mastricht</TITLE>, herausgegeben von einem Angenzeugen. <PLACE>Stra√üb.</PLACE> <YEAR>Nivose.</YEAR> <FORMAT>4.</FORMAT> brochirt <PRIZE>20 kr.</PRIZE></BIBL> <BIBL><TITLE>Taschenbuch f√ºr Liebhaber des Privattheakers.</TITLE> <YEAR>796</YEAR> brochirt <PRIZE>fl. 1. 12 kr.</PRIZE> und gebunden <PRIZE>fl. 1. 48 kr.</PRIZE></BIBL> <BIBL><TITLE>Taschenbuch f√ºr Reisende, welche gr√ºndliche Menschenkenntnisse erlangen und n√ºtzlich werden wollen.</TITLE> <YEAR>796.</YEAR> brochirt <PRIZE>fl. 1. 12 kr.</PRIZE></BIBL> <BIBL><TITLE>Blumenlese deutscher und verdeutschter Gedichte auf das Jahr 1796.</TITLE> brochirt <PRIZE>4 kr.</PRIZE></BIBL> <BIBL><TITLE>Zauberreise, ein unterhaltendes Gesellschafts-Spiel mit verschiedenen Ver√§nderungen, nebst einer illuminirten Kupfertafel.</TITLE> <PRIZE>54 kr.</PRIZE></BIBL> <BIBL><TITLE>Betragen der Franzosen in der Rheinischen Pfalz, unpartheyisch geschildert von einem Augenzeugen in Briefen an den Geheimen Hofrath Girtanner.</TITLE> <YEAR>795.</YEAR> <PRIZE>fl. 3. 20 kr.</PRIZE></BIBL> <BIBL><AUTHOR>F√§si</AUTHOR> <TITLE>Handbuch der Schweizerischen Erdbeschreibung, 1ster Theil.</TITLE></BIBL> <BIBL><AUTHOR>F√§st</AUTHOR> <TITLE>Versuch eines Handbuchs der Schweizerischen Staatskunde.</TITLE> <YEAR>796.</YEAR> <PRIZE>fl. 1. 30 kr.</PRIZE></BIBL> <BIBL><AUTHOR>Desselben</AUTHOR> <TITLE>Bibliothek der Schweizerischen Staatskunde, Erdbeschreibung und Litteratur.</TITLE> <YEAR>796.</YEAR> <PRIZE>30 kr.</PRIZE></BIBL></ITEM>\",\n  \"number_of_fixes\": 3,\n  \"explanation\": \"Three 'PRICE' tags were replaced with the correct 'PRIZE' tags.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 728,
+        "output_tokens": 715,
+        "total_tokens": 1443
+    },
+    "duration": 29.349843978881836,
+    "timestamp": "2025-11-04T14:00:53.793665"
+}

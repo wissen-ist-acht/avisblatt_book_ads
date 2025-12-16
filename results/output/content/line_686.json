@@ -1,0 +1,5 @@
+{
+    "fixed_xml": "<ITEM>27. In der Mechelischen Buchdruckerey in Nro. 790. ist zu haben: <BIBL><TITLE>Adre√üe des Bernerischen Kirchen-Raths an den Vollziehungs-Ausschu√ü der helv. Republik</TITLE>, <FORMAT>8.</FORMAT> <PRIZE>4 kr.</PRIZE></BIBL> <BIBL><TITLE>Einige Bemerkungen √ºber den Zustand der Religion und ihrer Diener in Helvetien</TITLE>, von <AUTHOR>P. A. Stapfer</AUTHOR>, Minister der K√ºnste und Wissenschaften <PRICE>√† 14 kr.</PRICE></BIBL> <BIBL><TITLE>Vorstellung des Bernerischen Kirchen- und Erziehungs- Raths an die helvetischen Gesetzgeber, √ºber die Wiedereinsetzung der Sittengerichte</TITLE>, <FORMAT>8.</FORMAT> <PRICE>√† 6 kr.</PRICE></BIBL></ITEM>",
+    "number_of_fixes": 1,
+    "explanation": "The XML had a mismatched closing tag in the third <BIBL> element. The opening tag was <PRIZE> but the closing tag was </PRICE>. The opening tag was changed to <PRICE> to match the closing tag."
+}

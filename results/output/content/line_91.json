@@ -1,0 +1,5 @@
+{
+    "fixed_xml": "<ITEM>10 Bey Herrn Johann Conrad M√ºller Kupferstecher in Schaffhausen ist zu haben: <BIBL><TITLE>Der wol erercierte Preu√üische Soldat, oder vollst√§ndiges Preu√üisches Erercitium</TITLE>, worinn, sowol bey den Handgriffen, als auch bey der Chargirung, jegliches Tempo, wie es in der Ordnung folgen, und wie es gemacht werden mu√ü, aufs genaueste beschrieben und mit saubern Kupfern erla√ºtert ist, in <FORMAT>4to.</FORMAT> <YEAR>1759</YEAR>. um <PRIZE>20kr.</PRIZE></BIBL> Ferner, <BIBL><TITLE>eine umst√§ndliche wahrhafte Beschreibung sowol des grausamen Unternehmens gegen J. M. den K√∂nig von Portugall/ als auch der darauf erfolgten schrecklichen Erecution</TITLE>, nebst einer <TITLE>Carta Regia wegen Confiscirung der Jesuitischen G√ºtern</TITLE>, mit <FORMAT>Kupfern</FORMAT>, in <FORMAT>4to.</FORMAT> <YEAR>1759</YEAR>. √† <PRIZE>10 kr.</PRIZE> Brief und Geld franco.</BIBL></ITEM>",
+    "number_of_fixes": 1,
+    "explanation": "The second <BIBL> tag was missing a <TITLE> tag at the beginning of the text. This has been added to correct the XML."
+}

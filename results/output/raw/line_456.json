@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>0. Bey Hrn. J. Jak Flick. Buchh√§ndler auf dem Fischmarkt allhier, ist zu haben; <BIBL><TITLE>Die blaue Biblothek aller Nationen</TITLE>, <VOLUME>e Bde.</VOLUME> mit <FORMAT>Kpf.</FORMAT> <YEAR>8 790</YEAR>. <PRIZE>fl 10. 8 kr.</PRIZE></BIBL> die nachfolgenden werden gratis nachgeliefert. <BIBL><TITLE>Unterricht f√ºr ein junges Frauenzimmer, das Kuche und Haushaltung selbst besorgen will</TITLE> <VOLUME>4ter Thl</VOLUME> <FORMAT>8 790</FORMAT></BIBL> <BIBL><TITLE>Lexicon latinum & theodiscum ad Formam Kirschiani Cornucopia</TITLE>, cura <AUTHOR>F G. Born</AUTHOR>, lateinisch und deutsch, und reutich und lateinisch, <VOLUME>2Thle.</VOLUME> <FORMAT>gr. 8 790</FORMAT>. <PRIZE>fl 6.</PRIZE></BIBL> <BIBL><AUTHOR>Schroekhs</AUTHOR> <TITLE>Lebensbeschreibungen be-√ºhmter Geiohrten</TITLE>, neue verbesserte Aufl. mit <FORMAT>Kpf.</FORMAT> <VOLUME>2 Thle.</VOLUME> <FORMAT>gr. 8.</FORMAT> <PRIZE>fl. 3. 36 kr.</PRIZE></BIBL> <BIBL><AUTHOR>Bernsteins</AUTHOR> <TITLE>praktisches Handbuch f√ºr Wund√§rzte und Geburtshelfer</TITLE>, <VOLUME>3 Thle.</VOLUME> Íùõc. neue umgearbeitete Aufl. <FORMAT>gr. 8. 790.</FORMAT> <PRIZE>fl. 6. 45 kr.</PRIZE></BIBL></ITEM>\",\n  \"number_of_fixes\": 4,\n  \"explanation\": \"The XML was faulty in four places where the closing tag for <PRIZE> was incorrectly written as </PRICE>. This has been corrected in the 'fixed_xml'.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 515,
+        "output_tokens": 519,
+        "total_tokens": 1034
+    },
+    "duration": 15.14943528175354,
+    "timestamp": "2025-11-03T09:46:39.376706"
+}

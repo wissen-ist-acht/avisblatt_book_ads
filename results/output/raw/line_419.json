@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>In Emanuel Thurnepsens Buchhandlung allhier, ist zu haben: <BIBL><AUTHOR>Friedrichs des Grossen</AUTHOR>, <TITLE>Merkw√ºrdigkeiten des siebenj√§hrigen Krieges</TITLE>, bestehend in Plans von 42 Hauptschlachten, Treffen und Belagerungen, w√§hrend diesem Krieg, aus den seltensten und gepr√ºftesten Quellen gezogen, und herausgegeben unter der Aufsicht des Hrn. Artillerie-Hauptmanns <AUTHOR>J. J. R√∂sch</AUTHOR>, erste Lieferung, mit ro illummniert. Plans, <FORMAT>fol.</FORMAT> auf holl√§nd. Postpap. <YEAR>1789</YEAR>. √† <PRIZE>fl. 5. 30kr.</PRIZE></BIBL> <BIBL><TITLE>Leben Friedrichs H. K√∂nigs von Preussen</TITLE>, f√ºr deutsche J√ºnglinge, bearbeitet von <AUTHOR>Joh. Georg Pabst</AUTHOR>, iste H√§lfte, <VOLUME>13 Bogen</VOLUME> start, mit sehr sch√∂n gestochenen Kupfern, vorstellend: 1) Den Eroberer Schlestens in seinem Spielzimmer. 2) Katts Enthauptung vor dem Fenster des Konigs. 3) Die St√§nde Schlestens vor dem K√∂nige versammlet, <FORMAT>8.</FORMAT> <YEAR>1789</YEAR>. Der <VOLUME>2te Band</VOLUME> <VOLUME>30. Bogen</VOLUME> stark und ebenfalls mit sch√∂nen Kupfern erscheint erst nach Ostern, und wird dann gratis geliefert. Der Preis beyder Theile ist <PRIZE>fl. 3.</PRIZE> und sie bezahlen sich erst nach g√§nzlicher Erhaltung des Buchs.</BIBL> <BIBL><TITLE>De PAutorite des deur Puissances</TITLE>, <FORMAT>8.</FORMAT> <VOLUME>4 Tomes</VOLUME>, <YEAR>788</YEAR>. broche √† <PRIZE>fl. 10. 40 xr.</PRIZE></BIBL></ITEM>\",\n  \"number_of_fixes\": 1,\n  \"explanation\": \"The XML tag <PRICE> was incorrect. It was changed to <PRIZE> to match the opening tag.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 609,
+        "output_tokens": 600,
+        "total_tokens": 1209
+    },
+    "duration": 16.709251165390015,
+    "timestamp": "2025-11-02T20:52:18.802653"
+}

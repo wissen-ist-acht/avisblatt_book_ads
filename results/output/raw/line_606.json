@@ -1,0 +1,13 @@
+{
+    "text": "{\n\"fixed_xml\": \"<ITEM>7. <BIBL><TITLE>Eine Tossanische Bibel</TITLE>, mit <FORMAT>Kpf. fol.</FORMAT> <VOLUME>729</VOLUME></BIBL>. <BIBL><AUTHOR>Mosheims</AUTHOR> <TITLE>Kirchengeschichte</TITLE>, <VOLUME>6 Thle</VOLUME>.</BIBL> <BIBL><AUTHOR>Dessen</AUTHOR> <TITLE>geistliche Reden</TITLE>, <VOLUME>6 Theile</VOLUME> in <VOLUME>3 B√§nden</VOLUME>.</BIBL> <BIBL><TITLE>Le nouveau Testament de notre Seigneur J√©sus Christ</TITLE>, par <AUTHOR>de Beausobre & Lenfant</AUTHOR>, <VOLUME>2 Tom</VOLUME>. in <FORMAT>4</FORMAT>.</BIBL> <BIBL><AUTHOR>Saurins</AUTHOR> <TITLE>Predigten</TITLE>, <VOLUME>12 Thle</VOLUME>. in <FORMAT>8</FORMAT>.</BIBL> <BIBL><AUTHOR>Spalding</AUTHOR> <TITLE>vom Werth der Gef√ºhle im Christenthum</TITLE>.</BIBL> <BIBL><AUTHOR>Ebenderselbe</AUTHOR> <TITLE>√ºber die Nutzbarkeit des Predigtamts und deren Bef√∂rderung</TITLE>.</BIBL></ITEM>\",\n\"number_of_fixes\": 1,\n\"explanation\": \"The opening TITLE tag in the first BIBL element was missing a closing angle bracket '>'\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 394,
+        "output_tokens": 378,
+        "total_tokens": 772
+    },
+    "duration": 23.653707027435303,
+    "timestamp": "2025-11-04T14:03:11.636815"
+}

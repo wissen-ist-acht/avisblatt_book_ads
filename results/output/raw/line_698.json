@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>In der Flickischen Buchhandlung aufm Fischmarkt findet man: <BIBL><AUTHOR>He√ü, J. J.</AUTHOR> <TITLE>christl. Erndte Predigt √ºber den Zehenten, als ein Erhaltungsmittel gemeinn√ºtziger Anstalten in unserm V√§terlande</TITLE>, <FORMAT>8</FORMAT> <YEAR>1800</YEAR>. <PRIZE>40 kr.</PRIZE></BIBL> <BIBL><TITLE>Allgemeine Sammlung auserlesener Aufs√§tze f√ºr Homiletik und Liturgek, zum Gebrauche f√ºr Prediger aller Religionspartheien</TITLE>, herausgegeben von einer Gesellschaft prakt. Theologen, <VOLUME>ister Thl. iste u. 2te Abtheilung</VOLUME>, <FORMAT>gr. 8.</FORMAT> <YEAR>1800</YEAR>. <PRIZE>fl. 1. 48 kr.</PRIZE></BIBL> <BIBL><AUTHOR>F. A. Marschall v. Bieberstein</AUTHOR> <TITLE>Beschre bung der L√§nder zwischen den Fl√ºssen Sterek und Kur am Caspeischen Meere</TITLE>, <FORMAT>gr. 8.</FORMAT> <YEAR>1800</YEAR>. <PRIZE>fl. 1. 15 kr.</PRIZE></BIBL> <BIBL><AUTHOR>B. Baumes</AUTHOR> <TITLE>kleine chem. Schriften, a d. franz</TITLE>, <FORMAT>gr. 8.</FORMAT> <YEAR>1800</YEAR> <PRIZE>fl 3.</PRIZE></BIBL> <BIBL><AUTHOR>J. H. von Wessenbergs</AUTHOR> <TITLE>Gedichte</TITLE>, <VOLUME>istes B√§ndchen</VOLUME>, <FORMAT>8.</FORMAT> <YEAR>1800</YEAR> <PRIZE>fl. 1. 30 kr.</PRIZE></BIBL> <BIBL><AUTHOR>J. H. Emmert</AUTHOR> <TITLE>fluswahl der besten ital Dichter, 2um Selbstunterricht</TITLE>, <FORMAT>8.</FORMAT> <PRICE>f. 2. 40 kr.</PRICE></BIBL> <BIBL><TITLE>Romulus, imit√© de P'allemand d'Aug, Lafontaine, par F. J.</TITLE>, <VOLUME>2 Tom.</VOLUME> <FORMAT>8</FORMAT> <YEAR>1800</YEAR>. <PRIZE>fl. 28 5 Rr.</PRIZE></BIBL> <BIBL><TITLE>Les chevaliers du Lion, Histoire du n2me fi√®cle d'apres l'allemand</TITLE>, <VOLUME>4 Tom.</VOLUME> <FORMAT>8.</FORMAT> <YEAR>1800</YEAR>. <PRIZE>4. 8.</PRIZE></BIBL> <BIBL><TITLE>Intere√üante Scenen aus der Geschichte der Menschheit</TITLE>, <VOLUME>3 Bde.</VOLUME> <VOLUME>2te Aufl.</VOLUME> <FORMAT>8.</FORMAT> <YEAR>1800</YEAR>. <PRICE>Nfl. 4. 30 kr.</PRICE></BIBL></ITEM>\",\n  \"number_of_fixes\": 0,\n  \"explanation\": \"The provided XML is already correctly formatted and no fixes were necessary.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 850,
+        "output_tokens": 829,
+        "total_tokens": 1679
+    },
+    "duration": 28.903577089309692,
+    "timestamp": "2025-11-04T14:50:26.397078"
+}

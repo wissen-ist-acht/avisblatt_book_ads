@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>3711. Die <BIBL><TITLE>Schweizer-Chronik</TITLE> von <AUTHOR>Henne</AUTHOR>, ganz neu.</BIBL> <BIBL><TITLE>Schillers Werke</TITLE> in Carlsruher Original-Ausgabe nebst <AUTHOR>Schillers Genius</AUTHOR>, und mehrere andere B√ºcher, um √§u√üerst billigen Preis; im Berichthaus zur Einsicht.</BIBL></ITEM>\",\n  \"number_of_fixes\": 2,\n  \"explanation\": \"The 'Schillers Werke' and 'Schillers Genius' tags were incorrectly labeled. 'Schillers Werke' should be under the 'TITLE' tag and 'Schillers Genius' should be under the 'AUTHOR' tag. The tags were adjusted accordingly.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 168,
+        "output_tokens": 197,
+        "total_tokens": 365
+    },
+    "duration": 8.576689958572388,
+    "timestamp": "2025-11-06T11:15:54.577925"
+}

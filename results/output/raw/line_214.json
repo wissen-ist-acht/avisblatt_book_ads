@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>Bey Hrn. J. Jakob Flick auf dem Fischmarckt ist zu haben: <BIBL><TITLE>Helvetischer Sack-Kalender f√ºr das Jahr 1780 mit Kupfern und Musick</TITLE>, er enth√§lt nebst dem Julian. und Gregor. Jahr, einen Helvetischen Naturund Geschichts-Kalender, und eine Anzeige des Regierungs-Kirchen- Kriegs- und Litterar-Etats in der Schweiz Íùõc.</BIBL> gebunden √† <PRIZE>fl. 1. kr. 4.</PRIZE> und ungebunden √† <PRIZE>kr. 48.</PRIZE> <BIBL><TITLE>Schreibtafel (die )7te Lieferung</TITLE>; <YEAR>12. 779.</YEAR> √† <PRIZE>kr. 24.</PRIZE></BIBL> <BIBL><TITLE>Lettres fur Pamour de la patrie, ou correspondance d'Anapistemon & de Philopatros</TITLE>, <FORMAT>8r.</FORMAT> <YEAR>8. 779.</YEAR> √† <PRIZE>xr. 28.</PRIZE></BIBL> <BIBL><TITLE>Ebendieses Buch, deutsch</TITLE>, √† <PRIZE>kr. 24.</PRIZE></BIBL> <BIBL><TITLE>Denkmale Clitterarische</TITLE> von verschiedenen Verfassern, <FORMAT>gr. 8.</FORMAT> <YEAR>779.</YEAR> √† <PRIZE>kr. 36.</PRIZE></BIBL> <BIBL><TITLE>Tim√§us Lokrus von der Welt-Seele</TITLE>, aus dem Griechischen von <AUTHOR>Schulthe√ü</AUTHOR>, <FORMAT>gr. 8.</FORMAT> <YEAR>779.</YEAR> √† <PRIZE>kr. 8.</PRIZE></BIBL> <BIBL><TITLE>freym√ºthige Gedanken √ºber Staatssachen</TITLE> von <AUTHOR>Ludwig von He√ü</AUTHOR>, <FORMAT>gr. 8.</FORMAT> <YEAR>778.</YEAR> √† <PRIZE>fl. 1. kr. 15.</PRIZE></BIBL> <BIBL><TITLE>Ortographie Callerneueste deutsche</TITLE> des <YEAR>18ten Jahrhunderts</YEAR>, erfunden von <AUTHOR>Klopfstock</AUTHOR>, <FORMAT>8.</FORMAT> <YEAR>779.</YEAR> √† <PRIZE>kr. 16.</PRIZE></BIBL> <BIBL><TITLE>Eriphile tragedie de Voltaire</TITLE>, <FORMAT>gr. 8.</FORMAT> <YEAR>779.</YEAR> √† <PRIZE>xr. 16.</PRIZE></BIBL> <BIBL><TITLE>Sulzers (J. G.) Beobachtungen und Anmerkungen auf einer im Jahr 1775 und 76 gethanen Reise, aus Deutschland nach der Schweiz und Ober-Italien</TITLE>, <FORMAT>8.</FORMAT> <YEAR>780.</YEAR> √† <PRIZE>kr. 54.</PRIZE></BIBL> <BIBL><TITLE>Gespr√§ch √ºber den Zustand der Protestanten. in Frankreich</TITLE>, <FORMAT>8.</FORMAT> <YEAR>779.</YEAR> √† <PRIZE>fl. 1.</PRIZE></BIBL></ITEM>\",\n  \"number_of_fixes\": 3,\n  \"explanation\": \"Three PRIZE tags were incorrectly closed as PRICE. These were corrected to PRIZE.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 885,
+        "output_tokens": 872,
+        "total_tokens": 1757
+    },
+    "duration": 18.988182067871094,
+    "timestamp": "2025-11-02T09:54:30.535132"
+}

@@ -1,0 +1,5 @@
+{
+    "fixed_xml": "<ITEM>17. Im Bischoffischen Buchladen ist nun wiedrum zu haben: <BIBL><TITLE>Die Baselische Gerichts-Ordnung</TITLE>, neue Auflag, auf gut Schreib-Papyr √† <PRIZE>fl. 1.</PRIZE></BIBL> desgleichen <BIBL><TITLE>eine erbauliche Vermahnung an die Bettler f√ºr diejenigen, welche gerne einem leiblichen Allmosen auch ein geistliches beylegen wollen</TITLE>, √† <PRIZE>4. kr.</PRIZE></BIBL></ITEM>",
+    "number_of_fixes": 1,
+    "explanation": "The second <BIBL> tag was missing a <TITLE> tag around the title of the book. I added the missing <TITLE> tag."
+}

@@ -1,0 +1,13 @@
+{
+    "text": "{\n\"fixed_xml\": \"<ITEM>In der Schweighauserischen Buchhandlung ist zu haben: <BIBL><TITLE>Gedanken zu einer stellvertretenden Volksregierung</TITLE>, <YEAR>1799</YEAR>. <PRIZE>4. 10 kr.</PRIZE></BIBL> <BIBL><TITLE>Vie du G√©n√©ral Hoche</TITLE>, <FORMAT>8.</FORMAT> <YEAR>1790</YEAR>. <PRIZE>24 kr.</PRIZE></BIBL> <BIBL><TITLE>Manuel de l'Officier de sant√©</TITLE>, par <AUTHOR>J. J. Martin</AUTHOR>. <FORMAT>8.</FORMAT> <YEAR>799</YEAR>. <PRIZE>fl. 1. 48 kr.</PRIZE></BIBL> <BIBL><TITLE>Formulaire pharmacen. tique √† l'usage des h√∂pitaux militaires de la R√®publique francaise</TITLE>, <FORMAT>8.</FORMAT> <YEAR>1799</YEAR>. <PRIZE>40 kr.</PRIZE></BIBL> <BIBL><TITLE>Zwo Bettags-Predigten</TITLE> von <AUTHOR>B. Pfarrer Huber</AUTHOR> in Riechen gehalten, <PRIZE>8 kr.</PRIZE></BIBL> <BIBL><TITLE>Andronikus, ein histor. Gem√§lde aus den Zeiten der Kreuzzuge</TITLE>, von <AUTHOR>Hennig</AUTHOR>; <VOLUME>2 Thle.</VOLUME> <FORMAT>8.</FORMAT> <YEAR>708</YEAR> <PRIZE>fl. 4.</PRIZE></BIBL> <BIBL><TITLE>Lurus u. Modesucht der jetzigen Welt, von ihrer l√§cherlichen Seite Íùõc.</TITLE>, <FORMAT>8.</FORMAT> <YEAR>399</YEAR>. <PRIZE>30 kr.</PRIZE></BIBL> <BIBL><AUTHOR>Chr. Schulz</AUTHOR> <TITLE>Unterhaltungen im traulichen Zirkel</TITLE>, <FORMAT>8.</FORMAT> <YEAR>799</YEAR>. <PRIZE>fl. 1. 12 kr.</PRIZE></BIBL> <BIBL><AUTHOR>Struvens</AUTHOR> <TITLE>Krankenbuch √ºber die Erhaltung des Lebens</TITLE>, <VOLUME>2 Thle.</VOLUME> <YEAR>799</YEAR>. <PRIZE>fl. 5.</PRIZE></BIBL></ITEM>\",\n\"number_of_fixes\": 1,\n\"explanation\": \"One PRIZE tag was incorrectly labeled as PRICE. This tag was corrected to PRIZE.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 648,
+        "output_tokens": 633,
+        "total_tokens": 1281
+    },
+    "duration": 38.99767017364502,
+    "timestamp": "2025-11-04T14:42:27.742529"
+}

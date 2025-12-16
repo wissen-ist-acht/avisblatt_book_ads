@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>34. Bey Hrn. Joh. Jakob Flick, auf dem Fischmarkt allhier, ist zu haben : <BIBL><AUTHOR>Raffs, G. C.</AUTHOR> <TITLE>Abri√ü der allgemeinen Weltgeschichte, f√ºr die Jugend und ihre Freunde</TITLE>, <VOLUME>3 Theile</VOLUME>, <FORMAT>8.</FORMAT> <YEAR>1788</YEAR>. <PRIZE>fl 2. 40 kr.</PRIZE></BIBL> <BIBL><AUTHOR>Meiners</AUTHOR> <TITLE>Briefe √ºber die Schweitz</TITLE>, zweyte durchaus verbesserte und vermehrte Auflage, <VOLUME>zwey Theile</VOLUME>, <FORMAT>8√†</FORMAT> <YEAR>1788</YEAR>. <PRIZE>fl. 4. 12 kr.</PRIZE></BIBL> <BIBL><AUTHOR>Mei√üners</AUTHOR> <TITLE>Skigzen</TITLE>, <VOLUME>9 und 10te Sammlung</VOLUME>, m. K. <FORMAT>8.</FORMAT> <YEAR>1788</YEAR>. <PRIZE>fl. 1. 48 kr.</PRIZE></BIBL> <BIBL><AUTHOR>Wendeborns</AUTHOR> <TITLE>Zu- Zustand des Staats, der Religion, der Gelehrsamkeit und der Kunst in Gro√übrittannien</TITLE>, <VOLUME>4ter und letzter Theil</VOLUME>, <FORMAT>8vo.</FORMAT> <YEAR>1788</YEAR>. <PRIZE>fl. 2. 40 kr.</PRIZE></BIBL> <BIBL><TITLE>Guide du Voyageur en Suisse</TITLE>, <YEAR>1788</YEAR>. <PRIZE>broch√© √† 40 Rr.</PRIZE></BIBL> <BIBL><AUTHOR>Ritter von Zimmermann</AUTHOR> <TITLE>Ueber Friedrich den Grossen, und meine Unterredungen mit Ihme vor Seinem Tode</TITLE>, <FORMAT>8vo.</FORMAT> <YEAR>1788</YEAR>. <PRIZE>broche 36 kr.</PRIZE></BIBL> <BIBL><AUTHOR>Volkmanns</AUTHOR> <TITLE>neueste Reisen durch Frankreich</TITLE>, <VOLUME>3ter Band</VOLUME>, mit Charten und einem- Plan von, Paris, <FORMAT>gr. 8.</FORMAT> <YEAR>11788</YEAR>. <PRIZE>fl. 6.</PRIZE></BIBL> <BIBL><AUTHOR>Krebels, GG. F.</AUTHOR> <TITLE>europ√§isches genealogisches Hand- Handbuch, in welchem die neuesten Nachrichten von allen H√§usern jetzt regierender Kayser und K√∂nige, und aller geist- und weltlichen Chur- und F√ºrsten befindlich, auf das Jahr 1788</TITLE>, <VOLUME>2 Theile</VOLUME>, <FORMAT>gro√ü 8vo.</FORMAT> <PRIZE>fl. 3. 45 kr.</PRIZE></BIBL></ITEM>\",\n  \"number_of_fixes\": 3,\n  \"explanation\": \"The XML tags <PRICE> were incorrectly spelled. They were replaced with the correct <PRIZE> tags in three places.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 807,
+        "output_tokens": 802,
+        "total_tokens": 1609
+    },
+    "duration": 23.351479053497314,
+    "timestamp": "2025-11-02T20:35:05.613631"
+}

@@ -1,0 +1,13 @@
+{
+    "text": "{\n\"fixed_xml\": \"<ITEM>13. An einem Ort alhier, welchen man im Berichthaus ohne Entgeld vernehmen kan, sind noch Billets zu haben von der artig eingerichteten <BIBL><TITLE>Bondelischen Geld- und Bibel-Lotterie</TITLE> die aus <VOLUME>5. Classen</VOLUME> besteht; und deren Ziehung auf den <YEAR>1ten Mart.</YEAR> festgestellt, und die Einlage in die erste Cla√ü <PRIZE>5. bz.</PRIZE> in die 2te <PRIZE>10. bz.</PRIZE> in die 3te. <PRIZE>15. bz.</PRIZE> in die 4te <PRIZE>20. bz.</PRIZE> und in die 5te <PRIZE>25. bz.</PRIZE> betragt, damit man von <PRIZE>100. Franken</PRIZE> bis <PRIZE>1000.</PRIZE> gewinnen kan, wie aus dem Plan mit mehrerm zu ersehen.</BIBL></ITEM>\",\n\"number_of_fixes\": 1,\n\"explanation\": \"There was a typo in the XML tag for the fourth prize. It was written as 'PRICE' instead of 'PRIZE'. This has been corrected.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 293,
+        "output_tokens": 289,
+        "total_tokens": 582
+    },
+    "duration": 16.004725217819214,
+    "timestamp": "2025-10-30T17:51:09.578377"
+}

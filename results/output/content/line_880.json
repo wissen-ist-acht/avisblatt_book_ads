@@ -1,0 +1,5 @@
+{
+    "fixed_xml": "<ITEM>Ank√ºndigung 16. zweyer Werke im hergogesetzten Prei√ü. Die unterzeichnete Buchhandlung hat sich entschlo√üen, folgende 2 Verlags-Werke, . zur Erleichterung des Ankaufs, im Prei√üe herabzusetzen: 4. <BIBL><TITLE>Almanach Coder Uebersicht der Fortschritte neuester Erfindungen und Entdeckungen in Wissenschaften, K√ºnsten, Manufacturen und Handwerken.</TITLE> Von mehreren Gelehrten bearbeitet, herausgegeben durch <AUTHOR>G. L. B. Busch</AUTHOR>, und fortgesetzt vom Professor <AUTHOR>J. B. Tromms dorf</AUTHOR>.</BIBL></ITEM>",
+    "number_of_fixes": 1,
+    "explanation": "The XML was faulty because there was an extra closing title tag '</TITLE>' in the middle of the text, which was not needed. This tag was removed to fix the XML."
+}

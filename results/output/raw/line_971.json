@@ -1,0 +1,13 @@
+{
+    "text": "{\n\"fixed_xml\": \"<ITEM>30. <BIBL><AUTHOR>Sander</AUTHOR>, √ºber das <TITLE>Gro√üe und Sch√∂ne in der Nutur</TITLE>, <VOLUME>2 Bde.</VOLUME> Halbfrzbd. <PRIZE>4 Fr.</PRIZE></BIBL> Ge√ül <BIBL><AUTHOR>ners</AUTHOR> s√§mtliche <TITLE>Schriften</TITLE>, <VOLUME>3 Thle.</VOLUME> in <VOLUME>1 Bd.</VOLUME> <PRIZE>2Fr.</PRIZE></BIBL> <BIBL><AUTHOR>Feddersen</AUTHOR>, <TITLE>Leben und Ende gutgesinnter Menschen</TITLE>, <VOLUME>4 Thle.</VOLUME> in <VOLUME>2 Bdn.</VOLUME> <PRIZE>4 Fr.</PRIZE></BIBL> <BIBL><AUTHOR>Knigge</AUTHOR>, √ºber den <TITLE>Umgang mit Menschen</TITLE>, <VOLUME>3 Thlei</VOLUME> in <VOLUME>1 Bd.</VOLUME> <PRIZE>15 Btz.</PRIZE></BIBL> <BIBL><AUTHOR>Pischons</AUTHOR> <TITLE>Moral in Beyspielen f√ºr Famtlien</TITLE>, <VOLUME>2 Bde.</VOLUME> <PRIZE>4 Fr.</PRIZE></BIBL> <BIBL><AUTHOR>Kapfs</AUTHOR> <TITLE>Gedichte</TITLE>, <PRIZE>15 Btz.</PRIZE></BIBL> <BIBL><AUTHOR>Marthissons</AUTHOR> <TITLE>Gedichte</TITLE>, <PRIZE>13 Btz.</PRIZE></BIBL> s√§mtl. sch√∂n gebunden, bey H. Z√§slin, Buchbinder in kl. Basel.</ITEM>\",\n\"number_of_fixes\": 2,\n\"explanation\": \"There were two errors in the XML. The PRIZE closing tag was misspelled as PRICE in two places, which has been corrected.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 503,
+        "output_tokens": 498,
+        "total_tokens": 1001
+    },
+    "duration": 16.310489177703857,
+    "timestamp": "2025-11-05T11:23:26.905677"
+}

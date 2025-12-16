@@ -1,0 +1,5 @@
+{
+    "fixed_xml": "<ITEM>529. In der Schweighauser'schen Buchhandlung ist zu haben: <BIBL><TITLE>Verzeiehniss der Leh√∂rden und Beamten des Kantons Basel-Stadttheil, so wie der eidgen√∂ssischen Bundes-Beh√∂rden auf das Jahr 18 3.</TITLE> <FORMAT>(Regimentsb√ºchlein.)</FORMAT> <PRICE>Preis: brosch. 7 1/2 Btz., mit Schreibpapier durchschossen 10 Btz.</PRICE></BIBL></ITEM>",
+    "number_of_fixes": 1,
+    "explanation": "There was a typo in one of the XML tags. The tag <PRIZE> was corrected to <PRICE>."
+}

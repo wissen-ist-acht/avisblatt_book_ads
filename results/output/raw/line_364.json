@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>62. Bey Hrn. Joh. Jacob Flick, auf dem Fischmarkt, ist zu haben: <BIBL><TITLE>Briefe √ºber Herrnhut, und andere Orte der Oberlausitz</TITLE>, <FORMAT>8.</FORMAT> <YEAR>1787.</YEAR> <PRICE>48 kr.</PRICE></BIBL> <BIBL><TITLE>Briefe von J. C. Lavater, und an ihn und seine Freunde, betreffend Lavaters Ruf nach Bremen, und die in Bremen versuchte Desorganisation zweyer jungen Frauenzimmer</TITLE>, <FORMAT>8.</FORMAT> <YEAR>1787.</YEAR> <PRICE>40kr.</PRICE></BIBL> <BIBL><TITLE>Platour Unterredungen √ºber die Ges√§tze</TITLE>, aus dem Griechischen √ºbersetzt und mit Anmerkungen begleitet von <AUTHOR>J. G. Schulthe√ü</AUTHOR>, <VOLUME>2ter Theil</VOLUME>, <FORMAT>8.</FORMAT> <YEAR>1787.</YEAR> <PRICE>fl. 1. 48 kr.</PRICE></BIBL> <BIBL><TITLE>Lienhard und Gertrud, ein Buch f√ºrs Volk</TITLE>, <VOLUME>4ter und letzter Theil</VOLUME>, <FORMAT>8.</FORMAT> <YEAR>1787.</YEAR> <PRICE>fl. 1. 24 kr.</PRICE></BIBL> <BIBL><TITLE>Dschinnistan, oder auserlesene Feen- und Geister-M√§rchen, theils neu erfunden, theils neu √ºberzetzt und umgearbeitet</TITLE>, <VOLUME>2ter Band</VOLUME>, <FORMAT>gr. 8.</FORMAT> mit Kupf <YEAR>1787.</YEAR> <PRICE>2 fl.</PRICE></BIBL> <BIBL><TITLE>Fl√©meut de la Langue francoise ou Grammaire francoise & allemand, avec un am√∂le Dictionnaire francois allemand</TITLE>, par <AUTHOR>J. B. Duboz</AUTHOR>, <FORMAT>gr. 8.</FORMAT> <YEAR>1787.</YEAR> <PRICE>fl. 2. 40 kr.</PRICE></BIBL> <BIBL><TITLE>Wernhard Hubers Funken vom Heerde seiner Laren, der Freundschaft der Wahrheit, dem Scherze</TITLE>, mit Kupfern in geduschter Manier und Melodien, <FORMAT>8.</FORMAT> <YEAR>1787.</YEAR> <PRICE>fl. 1. 30 kr.</PRICE></BIBL> <BIBL><TITLE>Erstlinge einer helvetischen Muse am rh√§tischen Geb√ºrge</TITLE>, <YEAR>1787.</YEAR> <PRICE>24 kr.</PRICE></BIBL></ITEM>\",\n  \"number_of_fixes\": 4,\n  \"explanation\": \"The XML tags for 'PRIZE' were incorrectly written. They have been corrected to 'PRICE' in four places.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 747,
+        "output_tokens": 725,
+        "total_tokens": 1472
+    },
+    "duration": 23.870205879211426,
+    "timestamp": "2025-11-02T20:32:36.231919"
+}

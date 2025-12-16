@@ -1,0 +1,5 @@
+{
+    "fixed_xml": "<ITEM>18. Die 4 B√§nd von <BIBL><AUTHOR>Chr. Iselin</AUTHOR> <TITLE>Lexicon</TITLE></BIBL> und <BIBL><VOLUME>2 B√§nd</VOLUME> von <AUTHOR>M. Chr. Serivers</AUTHOR> <TITLE>Seelenschatz</TITLE></BIBL> sind um billigen Preis sammethaft oder zertheillt, in No. 1235 zu haben.</ITEM>",
+    "number_of_fixes": 1,
+    "explanation": "The closing BIBL tag was misplaced in the first BIBL element. It was moved to correctly close the element."
+}

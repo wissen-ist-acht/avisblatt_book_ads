@@ -1,0 +1,5 @@
+{
+    "fixed_xml": "<ITEM>34. Ein schwarzer feiner t√ºchener Mantel, mit Seiden staffiert, und ein weisser tucheer dito. <BIBL><TITLE>Die Mangoldische Bibel</TITLE> mit <FORMAT>Kupfern und Auslegungen</FORMAT></BIBL>; <BIBL><AUTHOR>Serivers</AUTHOR> <TITLE>Seelenschatz</TITLE> <VOLUME>2 Theile</VOLUME>, <FORMAT>fol.</FORMAT> im Berichthaus zu erfragen.</BIBL></ITEM>",
+    "number_of_fixes": 1,
+    "explanation": "The second BIBL tag was not closed. I added a closing tag after 'erfragen.' to fix the XML."
+}

@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>Literarische Novit√§ten bey Reu ki rch, Buchh√§ndler. <BIBL><TITLE>Botl. Conr. Pfeffels Versuche</TITLE> Supplementhand. auf Druckpapier, <PRIZE>54 kr.</PRIZE> auf Schreibpap., <PRIZE>1. 12 kr.</PRIZE></BIBL> Die Verehrer des verewigten Dichters u. Besitzer seiner fr√ºher erschienenen Werke, werden ohne Zweifel diesen sich an dieselbe anschliessenden Band mit so h√∂herm Interesse aufnehmen, als er die Biographie Pfeffels liefert, von seinem vielj√§hrigen Freunde und fr√ºhern Hausgenossen <AUTHOR>J. Jac. Rieder</AUTHOR> entworfen. <BIBL><AUTHOR>J. G. v. Herders</AUTHOR> <TITLE>Werke</TITLE> iste Abtheilung zur Philosophte u. Geschichte in <VOLUME>15 Bden.</VOLUME> <PLACE>Carlsruhe</PLACE>, Bureau der Classiker. Subser. Preis <PRIZE>fl 15.</PRIZE></BIBL> Diese Abtheilung ist nun vollst√§ndig erschienen, und bildet f√ºr sich ein besonderes Ganzes. Die Lieferung der Schriften √ºber sch√∂ne Literatur und Runst, folgen n√§chstens. <BIBL><TITLE>Jugendkalender f√ºr das Jahr 1821</TITLE>, enthaltend eine Auswahl lehrreicher Geschichten und Erz√§hlungen mit <VOLUME>13 illum. Kupfern.</VOLUME> Auf dem Schnitt vergoldet in Futteral. <PRIZE>36kr.</PRIZE></BIBL> Derselbe mit schw. Kupfern <PRIZE>28 kr.</PRIZE> <BIBL><TITLE>Der Schweitzerische Robinson</TITLE> Ein Buch f√ºr Kinder, von <AUTHOR>J. Rudolf Wy√ü.</AUTHOR> Zweyte verbesserte Auflage. Mit <VOLUME>Kupf. und Karte, 2 Bde.</VOLUME> geb. <PRIZE>fl 4.</PRIZE></BIBL> <BIBL><TITLE>Ali und Ala oder die kleinen Insulaner.</TITLE> Versuch einer wahrscheinlichen Kulturgeschichte f√ºr die Jugend. <VOLUME>2Thle.</VOLUME> mit <VOLUME>Kupf.</VOLUME> <PLACE>Z√ºrich.</PLACE> <PRIZE>fl 4.</PRIZE></BIBL> <BIBL><TITLE>Neujahrsgeschenk auf 1821. f√ºr die Berner Jugend, betitelt: Die Landschaft Hasli kommt an Bern.</TITLE> in <VOLUME>40</VOLUME> mit <VOLUME>1 Kupf.</VOLUME> <PRIZE>40 kr.</PRIZE></BIBL></ITEM>\",\n  \"number_of_fixes\": 3,\n  \"explanation\": \"The XML was missing closing tags for <PRIZE> in two places, and instead had <PRICE>. This was corrected. Also, one <PRIZE> tag was incorrectly opened as <PRICE>. This was also corrected.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 762,
+        "output_tokens": 780,
+        "total_tokens": 1542
+    },
+    "duration": 27.951004028320312,
+    "timestamp": "2025-11-05T12:05:41.805069"
+}

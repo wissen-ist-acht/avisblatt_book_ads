@@ -1,0 +1,5 @@
+{
+    "fixed_xml": "<ITEM>In Bahnmaier's Buchhandlung ist so eben wieder angekommen: <BIBL><TITLE>Chr i st o ker pe. Ein Taschenbuch f√ºr christliche Leser auf das Jahr 18 43.</TITLE> Herausgegeben in Verbindung von mehrern Andern von <AUTHOR>Albert Knapp</AUTHOR>. Mit einem Kupfer. Preis <PRICE>40 1/2 Batzen</PRICE></BIBL>. Ferner: <BIBL><TITLE>Weibliche Lebensweisheit. Ein Lehrspiegel f√ºr strebsame Jungfrauen.</TITLE> <FORMAT>8. brosch.</FORMAT> <YEAR>18</YEAR> <PRICE>18 Btz.</PRICE></BIBL></ITEM>",
+    "number_of_fixes": 2,
+    "explanation": "The xml tag for 'PRIZE' was incorrect and has been changed to 'PRICE'. This error occurred twice in the xml."
+}

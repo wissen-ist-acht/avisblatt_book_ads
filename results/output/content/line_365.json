@@ -1,0 +1,5 @@
+{
+    "fixed_xml": "<ITEM>15. Bey Hrn. Bolli, Buchbinder, ist zu haben: <BIBL><TITLE>Taschenkalender der neuesten franz√∂sisch- und englischen Moden, auf das Jahr 1789</TITLE>, mit <FORMAT>12 fein gestochen- und nach der Natur illuminierten Modekupfern</FORMAT>, nebst <FORMAT>6 Frauenzimmerb√ºsten</FORMAT>, dem Bildni√ü des t√ºr kischen Kaysers, eines Frauenzimmers aus dem Serail, eines Janitscharen und Spahis, und dem Prospect des Serails, nebst ausf√ºhrlicher Beschreibung der zw√∂lf Modekupfern, wie auch ein sicheres Mittel, den Mund rein und die Z√§hne gesund zu erhalten, und √ºber die Sch√§dlichkeit der Schn√ºrleiber</FORMAT>, gebunden, vergoldt in Futeral √† <PRIZE>fl. 1. 12 kr.</PRIZE></BIBL></ITEM>",
+    "number_of_fixes": 1,
+    "explanation": "The closing TITLE tag was incorrectly placed. It was moved to enclose the actual title of the book, and a new FORMAT tag was added to enclose the description of the book, which was previously incorrectly enclosed within the TITLE tag."
+}

@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>19. Die gute Aufnahme und der allgemeine Beyfall, welche Ovids Verwandlungen, 3 Bde. erhalten h√§ben, veranlasset mich ein Werk noch herauszugeben, welches als- Anhang oder Supplement zu Op id angesehen werden kann, unter dem Titel: <BIBL><TITLE>Die Hauptg√∂tter der Fabel</TITLE>, in <FORMAT>24 Kupfern</FORMAT>, mit ihrer Geschichten und urspr√ºnglichen Bedeutung Íùõc. verfa√üt und historisch beschrieben von den Uebersetzern des Ovids Verwandlungen</BIBL>, <PLACE>Augsburg</PLACE> <YEAR>1803</YEAR>. Der Textb wird circa 10 bis 1. Bogen stat in gro√ü <FORMAT>4to</FORMAT>. bis Ende Febr. 1863 kann mit <PRIZE>2 fl. 45 kr.</PRIZE> darauf subs. werden, dieses Werk wird auch separat und ohne Ovid abgegeben. Die Kupfer stellen vor: 1) Aeolus, Gott der Winde. 2) Amor, Gott der Liebe. ) Amphitrite, eine Wasser-G√∂ttin. 4) Apol Gott d. Musen. 5) Bachus, der Gott des Weinbaues. 6) Bellona, G√∂ttin des Kriegs. 7) Ceres, G√∂ttin des Ackerbaues. 8) Diana, G√∂ttin der Jagd. 9) Evigone, die kindliche Liebe. 10) Ganymed, Jupiters Mundschenk. 11) Die Grazien; oder die Huld-G√∂ttinen. 12) Hebe die G√∂ttin der Jugend. 13) Jris, der Regenbogen, die B√∂thin der Juno. 14) Juno, die K√∂nigin der G√∂tter. 15) Jupiter, Vater der Gotter. 16) Mars der Kriegs-Gott. 17) Merkur der G√∂tter-Both. 18) Neptun, der Wasser-Gott. 19) Pallas Minerva, die G√∂ttin der Weisheit. 20. Pluto, Gott der Unterwelt. 20 Proserpina, die G√∂ttin der Unterwelt. 22) Saturn, der . Gott der Zeit. 23) Venus, die Wonne- 1. G√∂ttin. 24) Vulkan, der Gott des Feuers. 1. Subscription nimmt darauf an: J. Jac. Holdenecker in klein Basel, woselbst noch Exemplare von Ovids Verwandlungen 3 Bde. im Subscriptions Preis zu haben sind</ITEM>\",\n  \"number_of_fixes\": 1,\n  \"explanation\": \"The </TITLE> closing tag was misplaced. It was moved to close the <TITLE> tag correctly after 'Die Hauptg√∂tter der Fabel'. The rest of the sentence was not part of the title and hence was placed outside the <TITLE> tag.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 725,
+        "output_tokens": 747,
+        "total_tokens": 1472
+    },
+    "duration": 24.8051598072052,
+    "timestamp": "2025-11-04T15:21:07.276977"
+}

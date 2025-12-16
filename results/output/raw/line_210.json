@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>In der Deckerischen Buchdruckerey allhier ist in Commi√üion angelangt und zu haben: <BIBL><TITLE>Catechisme par Demandes &amp; par Reponses a Pusage du Diocese de Basle</TITLE>; gebunden √† <PRIZE>14 xr.</PRIZE></BIBL> Eben derselbe dentsch, gebunden in verschiedenen Preisen. Ferners <BIBL><TITLE>AIImanac du Palais, du Diocese de Basle</TITLE>, dans lequel on a marque en Rouge les Fetes de Commandement, contenant la Naissance des Souverains &amp; principaux Princes &amp; Princesses de lEurope; le Clerge de France; les Princes, Seigneurs &amp; Pairs; Pairs Ecclesiastiques &amp; Prelats; Ducs &amp; Pairs laiques, Ducs her√™ditaires non Pairs; Marechaux de Frane &amp;c. La Liste du Conseil Souverain d Alsace; P'Arrivee &amp; Depart des Postes &amp; Diligences, pour PAnnee Bissextile <YEAR>1780</YEAR>.</TITLE> in <FORMAT>24.</FORMAT> √† <PRIZE>10 xr.</PRIZE></BIBL></ITEM>\",\n  \"number_of_fixes\": 1,\n  \"explanation\": \"The XML was well formed and valid. The only issue was with the ampersand characters which needed to be escaped. They were replaced with '&amp;'.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 341,
+        "output_tokens": 358,
+        "total_tokens": 699
+    },
+    "duration": 8.613051176071167,
+    "timestamp": "2025-11-02T09:53:37.665417"
+}

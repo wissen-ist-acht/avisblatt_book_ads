@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>13. Bey B√ºrger Stupanus auf der Rheinbr√ºck sind extra feine englische Bleystift zu haben, von 3 bis7 Batzen, auch folgende B√ºcher: <BIBL><TITLE>Dictionarium latinum & gallicum</TITLE>, √† <PRICE>30 Btz.</PRICE></BIBL> <BIBL><TITLE>les prewi√®res principes de la langue latine</TITLE>, √† <PRICE>12 Btz.</PRICE></BIBL> <BIBL><TITLE>Fables de Ph√©dre francais & latin</TITLE>, √† <PRICE>21 Btz.</PRICE></BIBL> <BIBL><TITLE>Saluste</TITLE>, √† <PRICE>9 Btz.</PRICE></BIBL> <BIBL><TITLE>Historia e profanis scriptoribus selecta e veteri Testamento, Historiz, Specius emendatus & auckus</TITLE></BIBL> <BIBL><TITLE>maturini corderii coloquia puerilia</TITLE>, <FORMAT>latein.</FORMAT></BIBL> <BIBL><TITLE>Grammatit, deutsch und lateinisch W√∂rterbuch</TITLE>, letztere <PRICE>6</PRICE> zu biligem Preis.</BIBL></ITEM>\",\n  \"number_of_fixes\": 4,\n  \"explanation\": \"The XML tags for price were incorrectly labeled as <PRIZE>. They have been corrected to <PRICE>.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 377,
+        "output_tokens": 361,
+        "total_tokens": 738
+    },
+    "duration": 17.311809062957764,
+    "timestamp": "2025-11-04T14:32:57.799969"
+}

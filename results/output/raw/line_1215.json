@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>Kunst-Sachen. 1s. Zwey Tableaur, die St√§dte Basel und Z√ºrich vorstellend, fein col. unter Glas u. vergoldeten Rahmen, 20 1/2 Zoll breit u. 15 1/2 Zoll hoch; beyde f√ºr 30 Fr. <BIBL><TITLE>J. J. Hummels ausf√ºhrliche thepretischpraktische Anweisung zum Piano-Forte-Spiel, vom ersten Elementar-Unterricht an bis zur vollkommensten Ausbildung</TITLE></BIBL>. Immerw√§hrender Contorkalender unter Glas u. schwarzer, mit Goldh√∂rdchen gezierter Rahme, mit 4 Walzen, womit man die Monate 1. Datum ab√§ndern kann. <BIBL><TITLE>Dieser mechanisch eingerichtete Kalender</TITLE> enth√§lt ferner: die 22 Standes-Wappen u. derselben Farben; nebst Reduktions- u. Werth-Tabellen der ausu. inl√§ndischen M√ºnzen.</BIBL> <BIBL><PRICE>Subscriptions- Preis 8 Fr.</PRICE></BIBL> In der Holdenecker'schen Leihbibliother zun√§chst dem Kornhause.</ITEM>\",\n  \"number_of_fixes\": 1,\n  \"explanation\": \"One fix was made. The tag <PRIZE> was incorrect. It was changed to <PRICE> as it appears to be the correct term in the context.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 380,
+        "output_tokens": 379,
+        "total_tokens": 759
+    },
+    "duration": 14.812841892242432,
+    "timestamp": "2025-11-05T15:39:51.619171"
+}

@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>In der Holdenecker' schen Leihbibliothek ist neu zu haben: <BIBL><AUTHOR>Schwan's</AUTHOR> <TITLE>gro√ües W√∂rterbuch der deutschen und franz√∂sischen Sprache, nach dem W√∂rterbuche der franz. Akademie und dem Adelungschen bearbeitet</TITLE>, <VOLUME>4 B√§nde</VOLUME>, <FORMAT>gr. 8.</FORMAT> <PRICE>16fl.</PRICE></BIBL> Dessen <BIBL><TITLE>Dictionnaire abreg√© et portatif, allemand-francais, zuivi d'un vocabulaire francais-allemand</TITLE>, <VOLUME>2 tom</VOLUME> <FORMAT>gr. 8.</FORMAT> <PRICE>4 fl.</PRICE></BIBL> <BIBL><AUTHOR>Thibauts</AUTHOR> <TITLE>vollst√§nd. franz√∂sisch-deutsches und deutsch-franz√∂sisches Taschenw√∂rterbuch, neue g√§nzlich umgearbeitete Aufl.</TITLE>, <VOLUME>2 Theile</VOLUME> in <FORMAT>Frzbd.</FORMAT> <PRICE>5fl.</PRICE></BIBL> <BIBL><AUTHOR>Schedels</AUTHOR> <TITLE>neues und vollst√§nd. allgemeines Waaren-Lexikon, 4te ganz umgearb. und verbesserte Aufl.</TITLE>, <VOLUME>4 Bde</VOLUME> <FORMAT>go. 8.</FORMAT> <PRICE>9fl.</PRICE></BIBL> <BIBL><AUTHOR>Meidingers</AUTHOR> <TITLE>franz. Grammatit, aanz nach den besten bis jetzt erschienenen Sprachlehren, und vorz√ºglich nach Mozin Íùõc. umgearbeitet</TITLE>, samt einer gestochenen franz. Musterschrift von <AUTHOR>J. J. Deuter</AUTHOR>, <FORMAT>gr. 8.</FORMAT> <PRICE>1fl. 20 kr.</PRICE></BIBL> <BIBL><AUTHOR>Dr. Reinhard</AUTHOR> <TITLE>System der christlichen Moral, 4 Bde. 4te verb. und verm. Aufl.</TITLE>, <FORMAT>gr. 8.</FORMAT> <PRICE>8 fl.</PRICE></BIBL> <BIBL><AUTHOR>Tulla's</AUTHOR> <TITLE>Charte √ºber das Gro√üherzogth. Baden und den angr√§nzenden L√§ndern</TITLE>, in <FORMAT>Futeral</FORMAT>, <PRICE>1fl. 36kr.</PRICE></BIBL> <BIBL><TITLE>Repertorium und Karte aller Postationen von Deutschland und den angf√§nzendes L√§ndern</TITLE>, <PRICE>1fl. 36 kr.</PRICE></BIBL></ITEM>\",\n  \"number_of_fixes\": 4,\n  \"explanation\": \"The 'PRIZE' tag was incorrect and has been changed to 'PRICE' in four instances.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 775,
+        "output_tokens": 751,
+        "total_tokens": 1526
+    },
+    "duration": 25.773725986480713,
+    "timestamp": "2025-11-05T10:54:01.543055"
+}

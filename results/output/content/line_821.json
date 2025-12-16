@@ -1,0 +1,5 @@
+{
+    "fixed_xml": "<ITEM>42. In der Sam. Flickschen Buchhandl. ist zu haben: <BIBL><TITLE>Offenbacher Kalender auf 1807</TITLE>, geb. in Futteral, √† <PRICE>36kr.</PRICE></BIBL> <BIBL><TITLE>Jris, ein Taschenbuch f√ºr 1807</TITLE>; herausgegeben von <AUTHOR>Jacobi</AUTHOR>; geb. in Futt. √† <PRICE>2 fl. 45 kr.</PRICE></BIBL> <BIBL><TITLE>Fraite des Engrais tir√© des diff√©rents Rapports faits au D√©partement d'Agriculture d'Angleterre</TITLE> par <AUTHOR>Maurice</AUTHOR>, <YEAR>1806</YEAR>. <PRICE>5liv. 5S.</PRICE></BIBL> <BIBL><TITLE>Principes philosophiques politiques et moraux</TITLE> par le <AUTHOR>Colonel de Weiss</AUTHOR>. <VOLUME>2 vol.</VOLUME> <FORMAT>8.</FORMAT> <EDITION>7√™me √©dition.</EDITION> <YEAR>1806</YEAR>. <PRICE>7 liv. 108.</PRICE></BIBL></ITEM>",
+    "number_of_fixes": 4,
+    "explanation": "The XML tag <PRIZE> was incorrect. It was replaced with the correct tag <PRICE> in four places."
+}

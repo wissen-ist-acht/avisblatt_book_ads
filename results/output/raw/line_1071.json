@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>Im Flick'schen Gesch√§fts-Bureau ist zu haben: <BIBL><AUTHOR>Grafen C. von Sternberg</AUTHOR> <TITLE>Reise durch Throl ins Venezianische</TITLE>. <PLACE>Regensb.</PLACE> <YEAR>1806</YEAR>, in <FORMAT>4¬∞</FORMAT>. geb. in Carton mit Goldtitel, mit <VOLUME>4</VOLUME> Kupf. wovon <VOLUME>2</VOLUME> in gr. fol. <PRIZE>60 Batzen</PRIZE></BIBL>. <BIBL><TITLE>Noth- und H√ºlfsb√ºchlein f√ºr Landwirthe, Gewerbtreibende u. K√ºnstler</TITLE>. <PLACE>Leipz.</PLACE> <YEAR>1823</YEAR>, in <FORMAT>8</FORMAT>. brosch. <PRIZE>10 Btz.</PRIZE></BIBL>. <BIBL><AUTHOR>Durdent</AUTHOR> <TITLE>Beaut√©s du l'hist. du chev. de Malte et des Templiers</TITLE>, <PLACE>Paris</PLACE> <YEAR>1820</YEAR>. in <FORMAT>8</FORMAT>. brosch. mit <VOLUME>3</VOLUME> Kupf. <PRIZE>10 Btz.</PRIZE></BIBL>. <BIBL><TITLE>Von den Schweizerischen Jahrb√ºchern, Arau bey Sauerl.</TITLE> des ersten Jahrgangs erste H√§lfte. <PRIZE>20 Btz.</PRIZE></BIBL>. <BIBL><TITLE>Von der Allgem- Zeitung</TITLE> die Jahrg√§nge <YEAR>1820</YEAR>, <YEAR>1821</YEAR> u. <YEAR>1822</YEAR>. Nur fehlen von dem Jahrgang <YEAR>1820</YEAR> die Numern <VOLUME>242</VOLUME>. <VOLUME>292</VOLUME> u. <VOLUME>333</VOLUME>, und die Beyl. <VOLUME>176</VOLUME>, und von dem Jahrgg. <YEAR>1821</YEAR> die Beyl. <VOLUME>61</VOLUME>. <PRIZE>8o Btz.</PRIZE></BIBL></ITEM>\",\n  \"number_of_fixes\": 2,\n  \"explanation\": \"Two errors were found in the XML. The PRIZE tags were incorrectly written as PRICE in two places. These were corrected.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 594,
+        "output_tokens": 588,
+        "total_tokens": 1182
+    },
+    "duration": 22.110944747924805,
+    "timestamp": "2025-11-05T14:28:44.688196"
+}

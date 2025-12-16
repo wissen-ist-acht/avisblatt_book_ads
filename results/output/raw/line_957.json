@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>In der Holdeneckerschen Leihbibliothek ist neu zu haben: <BIBL><AUTHOR>Virgils</AUTHOR> <TITLE>Aeneis im Versmaas der Urschrift</TITLE>, nen verdeutscht von <AUTHOR>C. L. Neuffer</AUTHOR>, <VOLUME>2Thle.</VOLUME> <PRIZE>3 fl. 30 kr.</PRIZE></BIBL> <BIBL><TITLE>Vor√ºbungen zu schriftlichen Aufs√§tzen und Aufgaben zu Styl√ºbungen</TITLE>, von <AUTHOR>Baumgarten</AUTHOR>. <PRIZE>1 fl. 40 kr.</PRIZE></BIBL> <BIBL><AUTHOR>Adelungs</AUTHOR> <TITLE>deutsche Sprachlehre f√ºr Schulen</TITLE>, <VOLUME>6te Aufl.</VOLUME> <PRIZE>1fl. 30kr.</PRIZE></BIBL> <BIBL><AUTHOR>G√∂thes</AUTHOR> <TITLE>s√§mtl. Gedichte</TITLE>, <VOLUME>5 Bdchen.</VOLUME> <PRIZE>3fl.</PRIZE></BIBL> <BIBL><AUTHOR>Langbeins</AUTHOR> <TITLE>s√§mtl. Gedichte</TITLE>, <VOLUME>5 Bdchen.</VOLUME> <PRIZE>3fl.</PRIZE></BIBL></ITEM>\",\n  \"number_of_fixes\": 1,\n  \"explanation\": \"The 'PRIZE' tag in the last BIBL section was incorrectly spelled as 'PRICE'. This has been corrected to 'PRIZE'.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 397,
+        "output_tokens": 395,
+        "total_tokens": 792
+    },
+    "duration": 13.526371002197266,
+    "timestamp": "2025-11-05T11:09:53.966258"
+}

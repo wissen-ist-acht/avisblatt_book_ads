@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>1. Bey Herrn Bolli Buchbinder ist zu haben: <BIBL><TITLE>Christliches Jahrb√ºchlein, oder auserlesene erlesene Stellen der H. Schrift f√ºr alle Tage des Jahrs mit kurzen Anmerkungen und Versen begleitet</TITLE> von <AUTHOR>Joh. Caspar Lavater</AUTHOR>, zweyte verbesserte und mit <VOLUME>12. Kpfrn.</VOLUME> gezierte Auflage, √† <PRICE>32. kr.</PRICE> Druckpapir ohne Kupfer, <PRICE>14. kr.</PRICE></BIBL> <BIBL><TITLE>Unpartheyische Beurtheilung der von dem Magistrat der Stadt Worms neulich in Druck gegebenen so betittelten vollstandigen Nachricht von der Beschaffenheit des daselbstigen Reformirten Religionswesen, und des von solcher Gemeinde bey der Allerh√∂chsten Kayserl. Majestat bem√º√üigt angebrachten Klagwercks</TITLE>, <FORMAT>fol.</FORMAT> √† <PRICE>24. kr.</PRICE></BIBL> <BIBL><TITLE>Melodische Lieder f√ºr das sch√∂ne Geschlecht</TITLE> von <AUTHOR>Ernst Christoff Dre√üler</AUTHOR>, √† <PRICE>fl. 1. kr. 12.</PRICE></BIBL> <BIBL><TITLE>Von deutscher Baukunst</TITLE> <AUTHOR>Ervini √† Steinbach</AUTHOR> <YEAR>1773</YEAR> √† <PRICE>a kr. 6.</PRICE></BIBL> <BIBL><TITLE>Das Portrait des vormaligen Grafen Joh. Friedrich Struensee</TITLE>, √† <PRICE>6. kr.</PRICE></BIBL> <BIBL><TITLE>Le Moyen de devenir peintre en trois heures, & dexecuter au Pinceau les Quvrages des plus grands Maitres sans avoir appris le dessin</TITLE> <YEAR>1772</YEAR> √† <PRICE>30. xr.</PRICE></BIBL></ITEM>\",\n  \"number_of_fixes\": 1,\n  \"explanation\": \"The XML was not well-formed. The tag <PRIZE> was used incorrectly, it should be <PRICE>. This tag was replaced in 7 places.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 591,
+        "output_tokens": 577,
+        "total_tokens": 1168
+    },
+    "duration": 15.416115283966064,
+    "timestamp": "2025-11-02T09:32:58.780436"
+}

@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>4. Bey Hrn. Joh. Jakob Flick, auf dem Fischmarkt allhier, ist zu haben: <BIBL><TITLE>Brief. wechsel der Familie des Kinderfreundes</TITLE>, <FORMAT>Schreibpapier</FORMAT>, mit <FORMAT>Kupfern von Chodowiecki</FORMAT>, gr. <FORMAT>8.</FORMAT> <YEAR>1784</YEAR>. <PRIZE>fl. 1. kr. 48.</PRIZE></BIBL> Ebendieses Buch, <BIBL><TITLE>Brief. wechsel der Familie des Kinderfreundes</TITLE>, <FORMAT>Druckpapier</FORMAT>, ohne <FORMAT>Kupfer</FORMAT>, <PRIZE>fl. 1. kr. 4.</PRIZE></BIBL> <BIBL><TITLE>Nat√ºrliche Religi√∂n, nach Ursprung, Beschaffenheit und Schicifalen</TITLE>, <FORMAT>8.</FORMAT> <YEAR>1784</YEAR>. <PRIZE>fl. 1. kr. 4.</PRIZE></BIBL> <BIBL><TITLE>Liebe macht den Mann, ein Lustspiel in f√ºnf Aufz√ºgen</TITLE>, nach dem <AUTHOR>Englischen von Colley Cibber</AUTHOR>, <FORMAT>8.</FORMAT> <YEAR>1784</YEAR>. <PRIZE>kr. 40.</PRIZE></BIBL> <BIBL><TITLE>Der Hausvater, in systematischer Oednung</TITLE>, vom <AUTHOR>Verfasser der Hausmutter</AUTHOR>, <VOLUME>2 B√§nde</VOLUME>, gr. <FORMAT>8.</FORMAT> <YEAR>1784</YEAR>. <PRIZE>fl. 6.</PRIZE></BIBL> <BIBL><TITLE>Der Herren Stephan und Joseph von- Montgolfier, Versuche mit der von ihnen erfundenen √§rostatischen Maschine</TITLE>, ein Auszug aus der franz√∂sischen Beschreibung des <AUTHOR>Hrn. Faujas de Saint-Fond</AUTHOR>, von <AUTHOR>L. G. von Murr</AUTHOR>, mit <FORMAT>8 Kupfertafeln</FORMAT>, gr. <FORMAT>8.</FORMAT> <YEAR>1784</YEAR>. <PRIZE>fl. 1.</PRIZE></BIBL> <BIBL><TITLE>L'Homme sauvage</TITLE>, par <AUTHOR>M. Mercier</AUTHOR>, gr. <FORMAT>8.</FORMAT> <YEAR>1784</YEAR>. <PRIZE>kr. 48.</PRIZE></BIBL> <BIBL><TITLE>Neues Kartenspiel, bestehend in 50 Fragen und 50 Antworten, zur Unterhaltung des Vergn√ºgens in Gesellschaften</TITLE>, in einem <FORMAT>Futteral</FORMAT>. <PRIZE>kr. 48.</PRIZE></BIBL></ITEM>\",\n  \"number_of_fixes\": 1,\n  \"explanation\": \"The XML was faulty because there was a mismatched tag. The <PRICE> tag was closed with a </PRIZE> tag. The tag was corrected to <PRIZE> to match the opening tag.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 741,
+        "output_tokens": 751,
+        "total_tokens": 1492
+    },
+    "duration": 21.54102087020874,
+    "timestamp": "2025-11-02T20:11:25.628198"
+}

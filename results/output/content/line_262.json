@@ -1,0 +1,5 @@
+{
+    "fixed_xml": "<ITEM>4. Bey Hrn. Joh. Jak. Thurneysen, jgr. auf dem Graben, ist zu haben: <BIBL><TITLE>Kurze Erdbeschreibung der Schweitz</TITLE>, <PRIZE>8. kr. 18.</PRIZE></BIBL> -<BIBL><TITLE>Prospectus einer neuen Ausgabe der griechischen Schriftsteller, besonders Poeten</TITLE>, von <AUTHOR>Hrn. Prof. Seybold</AUTHOR></BIBL>. Und in Commi√üion: <BIBL><TITLE>Les Fastes de Louis XV, de ses Ministres &c.</TITLE>, <PRIZE>fl. 2</PRIZE></BIBL> <BIBL><AUTHOR>Sulzers</AUTHOR> <TITLE>litterarische Reisen</TITLE>, <PRIZE>8. kr. 30.</PRIZE></BIBL></ITEM>",
+    "number_of_fixes": 1,
+    "explanation": "The opening tag for 'TITLE' was incorrectly written as 'TITLE*' in the last 'BIBL' entry. It has been corrected to 'TITLE'."
+}

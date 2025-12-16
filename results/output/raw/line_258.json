@@ -1,0 +1,13 @@
+{
+    "text": "{\n\"fixed_xml\": \"<ITEM>9. Die Herren Pr√§numeranten auf Jobann Bernoullis Sammlung kurzer Reisebe. schreibungen, k√∂nnen bey Hrn. Jak. Bernoulli im Engelhof den 6ten Theil dieses Werks abholen lassen. F√ºr die √ºbrigen etwannigen Liebhaber sind auch noch einige Eremplare zu ein Dukaten der Jahrgang, in 4 B√§nden vorr√§thig. Ferner ist bey ihm zu haben: <BIBL><TITLE>Lamberts gelehrter Briefwechsel</TITLE>, <PRIZE>fl. 1. Th.</PRIZE></BIBL> Und ebendesselben <BIBL><TITLE>philosophische Abhandlungen</TITLE>, <PRIZE>fl 1. Th.</PRIZE> von <AUTHOR>Joh. Bernoulli</AUTHOR> herausgegeben, zu <PRIZE>fl. 2. der Theil.</PRIZE></BIBL> <BIBL><TITLE>Weiske Belehrung uber des HErrn Abendmahl</TITLE>, <PRIZE>kr. 24.</PRIZE></BIBL> <BIBL><TITLE>Berichte der Buchhandlung der Gelehrten in Dessau</TITLE>, <PRICE>fl. 1. kr. 36.</PRICE> das Quartal.</BIBL> - Ferner folgende Kupferstiche und Mustkalien: <BIBL><TITLE>Wilhelm Tell</TITLE>, von <AUTHOR>Chodowieckt</AUTHOR>, <PRIZE>fl. 1. kr. 20.</PRIZE></BIBL> <BIBL><TITLE>Christusk√∂pfe</TITLE>, roth oder schwarz, <PRIZE>fl. 1. kr. 48.</PRIZE></BIBL> <BIBL><TITLE>Madonna</TITLE>, <PRIZE>fl. 1. kr. 48.</PRIZE></BIBL> <BIBL><TITLE>Vestalinnen</TITLE>, <PRIZE>fl. 2. kr. 32.</PRIZE></BIBL> - <BIBL><TITLE>Bildnisse von Poung, Porick und Milton</TITLE>, jedes <PRIZE>kr. 24.</PRIZE></BIBL> <BIBL><TITLE>Landschaften von Kraus</TITLE>, ; Hefte, <PRICE>fl. 1. kr. 12.</PRICE> das Heft.</BIBL> - <BIBL><TITLE>Sturms geistliche Ges√§nge</TITLE>, mit Melodien zum Singen beym Clavier, von <AUTHOR>Weber</AUTHOR>, <PRIZE>fl. 1. kr. 20.</PRIZE></BIBL> <BIBL><TITLE>Rusts 24. Ver√§nderungen aufs Clavier, √ºber das Lied: Bl√ºhe liebes Veilchen</TITLE>, <PRIZE>fl. 1. kr. 12.</PRIZE></BIBL> - <BIBL><TITLE>Spaziers-Lieder und Ges√§nge am Clavier</TITLE>, <PRIZE>fl. 1. kr. 48.</PRIZE></BIBL> Er erbietet sich auch die andern Werke, die in der Buchhandlung der Gelehrten in Dessau herauskommen, zu verschaffen, und ist bey ihm das Verzeichni√ü davon gratis zu haben.</ITEM>\",\n\"number_of_fixes\": 1,\n\"explanation\": \"In the original XML, one of the tags was written as <PRIZE> instead of <PRICE>. This was corrected in the fixed XML.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 866,
+        "output_tokens": 858,
+        "total_tokens": 1724
+    },
+    "duration": 26.416141986846924,
+    "timestamp": "2025-11-02T10:08:41.710219"
+}

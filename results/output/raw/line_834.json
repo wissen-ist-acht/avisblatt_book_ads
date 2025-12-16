@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>In der Sam. Flickschen Buchhandl. an der Schiffl√§nde sind folgende sehr sch√∂ne und genaue Landkarten angekommen und zu haben: <BIBL><TITLE>Carte de l'ancien Royaume de Pologne. partag√©e entre la Russie, la Prusse et l'Autriche; contenant aussi le Royaume de Prusse</TITLE>, par <AUTHOR>E. Mentelle</AUTHOR>; <VOLUME>2 feuilles</VOLUME>, <PRIZE>1 fl. 20 kr.</PRIZE></BIBL> <BIBL><TITLE>Carte g√©n√©rale de la Pologne, avec ses diff√©rens D√©membremens par les Puissances partageantes</TITLE>; <PLACE>Paris</PLACE>, <PRIZE>1 fl.</PRIZE></BIBL> <BIBL><TITLE>Carte du Royaume de Prusse, de la Pologne et la Lithuanie, o√º l'on trouve une partie de la Russie, et o√º l'on peut Suivre exactement la marche des arin√©es Jrancaises</TITLE>, Dress√©e par <AUTHOR>H√©risson</AUTHOR>; <PLACE>Paris</PLACE>, <PRIZE>1 fl.</PRIZE></BIBL> <BIBL><TITLE>Th√©atre g√©ographique des Guerres du Continent, ou se trouvent en entier les Royaumes de Hollande, de Baviere, de Virtembeig, de Prusse, de Hongrie, de Boh√™me, l'empire d'Autriche etce</TITLE>; Dress√© par <AUTHOR>L. Denis</AUTHOR> et compos√© par <VOLUME>6 grandes feuilles</VOLUME>, <PLACE>Paris</PLACE>, <PRIZE>2 fl. 15 kr.</PRIZE></BIBL> <BIBL><TITLE>Carte politique et statistique de l'Empire d'Allemagne avec les derniers changements jusqu'au premier Juin 1806</TITLE>, <PRIZE>2 fl. 15 kr.</PRIZE></BIBL> <BIBL><TITLE>Carte d'Allemagne, indiquant la conf√©d√©ration du Rhin, ainsi que les nouvelles possessions des Princes qui la composent, d'apres le trait√© du 12. Juillet 1806, et comprenant le Royaume de Hollande et la Suisse</TITLE>, par <AUTHOR>E. Montelle</AUTHOR> et <AUTHOR>P. G. Chanlaire</AUTHOR>, et compos√©e par <VOLUME>9 grandes feuilles</VOLUME>, <PLACE>Paris</PLACE>, <PRIZE>6 fl. 40 kr.</PRIZE></BIBL></ITEM>\",\n  \"number_of_fixes\": 2,\n  \"explanation\": \"The XML was incorrect in two places. The <PRICE> tag was used instead of <PRIZE> tag. This tag was corrected in two places.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 729,
+        "output_tokens": 730,
+        "total_tokens": 1459
+    },
+    "duration": 19.05930519104004,
+    "timestamp": "2025-11-05T08:57:15.766755"
+}

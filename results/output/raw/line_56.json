@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>33. Herr Johannes Hagnauer, Aelter, Rothgerber zu Arau, recommendirt jedermanniglich seine neu <BIBL><TITLE>Chagrin-Fahrique</TITLE>, bestehend in sauber ged√ºpfelt- und noch niemals gesehenen gebl√ºmten Chagrin, in <FORMAT>4t√≤.</FORMAT>, in <FORMAT>8v√≤.</FORMAT> und <FORMAT>120.</FORMAT></BIBL>. Er verspricht jedermann mit sauberer Waare in billichem Preis aufzuwarten.</ITEM>\",\n  \"number_of_fixes\": 1,\n  \"explanation\": \"The XML was faulty because there was an extra closing </TITLE> tag. This was removed to fix the XML.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 197,
+        "output_tokens": 185,
+        "total_tokens": 382
+    },
+    "duration": 5.954272985458374,
+    "timestamp": "2025-10-30T17:44:03.376848"
+}

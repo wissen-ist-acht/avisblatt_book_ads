@@ -1,0 +1,13 @@
+{
+    "text": "{\n  \"fixed_xml\": \"<ITEM>No vit√§te n. Elastische Stein-Pergament-Tafeln, auf welche man mit gew√∂hnl. Griffel schreiben, rechnen und zeichnen kann, das St√ºck in Folio mit Griffel √† 3 Batzen, in Quarto 2 Btz. u. in Octavo 1 1/2 Btz. <BIBL><TITLE>Dergleichen Notizb√ºchlein</TITLE> das St. zu <PRIZE>4 6 u. 8 Btz.</PRIZE></BIBL> <BIBL><TITLE>Genaue Anleitung, taubstummen Kindern ohne k√ºnstliche Mimik Fertigkeit im Verstehen und Anwenden der Schriftsprache beyzubringen</TITLE>; von <AUTHOR>T. Scherr.</AUTHOR> <PRIZE>15 Btz.</PRIZE></BIBL> <BIBL><AUTHOR>Pfr. Walsers</AUTHOR> <TITLE>neue Appenzeller Chronik.</TITLE> <VOLUME>1r Bd</VOLUME> <YEAR>2te neu bearb. Aufl.</YEAR> <PRIZE>br. 24 Btz.</PRIZE></BIBL> <BIBL><TITLE>Kirchliche Nachrichten √ºber die evang. Gemeinden Toggenburgs,</TITLE> gesammelt und herausgeg. von <AUTHOR>J. F. Franz, evangel. Pfarrer.</AUTHOR> <PRIZE>br. 18 Btz.</PRIZE></BIBL> Auch sind wieder zu haben: <BIBL><TITLE>Die 3 M√ºllerst√∂chter unter den R√§ubern,</TITLE> <PRIZE>br. 2 Btz.</PRIZE></BIBL> In der Holdenecker'schen Leihbibliothek beym Kornhause.</ITEM>\",\n  \"number_of_fixes\": 0,\n  \"explanation\": \"The given XML is already well-formed. It has no missing or mismatched tags, and all attribute values are correctly quoted.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 494,
+        "output_tokens": 487,
+        "total_tokens": 981
+    },
+    "duration": 17.786363124847412,
+    "timestamp": "2025-11-05T14:49:08.582867"
+}

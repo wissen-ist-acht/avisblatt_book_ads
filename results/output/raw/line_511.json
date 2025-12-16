@@ -1,0 +1,13 @@
+{
+    "text": "{\n\"fixed_xml\": \"<ITEM>26. Bey Hrn. Wilhelm Haas, dem Sohne auf dem Leonhardsgraben, sind zu haben: <BIBL><TITLE>Oekonomie- oder Haushaltungs-Journal und Manual</TITLE>, in <FORMAT>4to.</FORMAT> gebunden √† <PRIZE>fl. 1. 36 kr.</PRIZE></BIBL> Das Journal einzeln √† <PRIZE>32 kr.</PRIZE> und das Manual einzeln √† <PRIZE>fl. 1. 4kr.</PRIZE> Ferners: <BIBL><TITLE>Frankfurter historischer Almanach f√ºr 1794</TITLE>, mit sehr sch√∂nen Kupfern, und sauber gebunden; √† <PRIZE>fl. 1. 36 kr.</PRIZE></BIBL> Zugleich sind von diesem gleichen <BIBL><TITLE>Almanach</TITLE> noch einige wenige Eremplare f√ºr <YEAR>1792</YEAR> √† <PRIZE>fl. 1. 20 kr.</PRIZE> und f√ºr <YEAR>1793</YEAR> √† <PRIZE>fl. 1. 36 kr.</PRIZE> zu haben.</ITEM>\",\n\"number_of_fixes\": 0,\n\"explanation\": \"The XML provided does not appear to have any syntax errors or missing tags, so no fixes were necessary.\"\n}",
+    "model": "gpt-4-0613",
+    "provider": "openai",
+    "finish_reason": "stop",
+    "usage": {
+        "input_tokens": 351,
+        "output_tokens": 336,
+        "total_tokens": 687
+    },
+    "duration": 19.130157709121704,
+    "timestamp": "2025-11-04T13:20:12.390318"
+}
